@@ -154,7 +154,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
 <page>https://www.streamaway.net[makelist2.param3]</page>
 <referer>https://www.streamaway.net/english-tv</referer>
 </regex>
-<thumbnail>https://yt3.ggpht.com/ytc/AAUvwnif-45skzpyEX8YzqhQTHH10vynmfr0HUNz0_st=s900-c-k-c0x00ffffff-no-rj</thumbnail>
+<thumbnail>https://sc.dish.com/shared/images/station-logos/MGTV.png</thumbnail>
 </item>
 
 
