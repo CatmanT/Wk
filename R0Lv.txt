@@ -125,15 +125,23 @@
 <thumbnail>https://i.ibb.co/j52TbkX/TS2.png</thumbnail>
 </item>
 
+
+
 <item>
 <title>[COLOR yellow][B]Telekom Sport 3[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://lb6.tvhd-online.com:8443/live/bqwuq2hSaU/7ejDMeEkQE/59.m3u8?token=HkZdBxZQQAIXAFQJVgMBUAIPA11bBgEFXQcPVQkHVlIHUgFQUQEAXFMUTxMWEhYAB1toDVxAWAEPHRsWS1VGaQwAF1xHCUAUF0IKXABEXlVKFEcNXEBYFgkCDVMOEhgUABxBAxdWA1RqUgZHDAUBR1xYQghUTkBbVm5dBlVRWlJHXhdWRxRAUUZGQQtHJQsIBVdEEBghA1ZUVBkgV11ZQwsNVgcRUQ1WRhYvfSZESEcEX0MWWRYHFgITDFcLEhgUBgtACBFKGxoPFDZiR0pGAB5CUgpLCw1aGgsbDgtFDBRJRlwVOkoHS0FEBlAIAxZHXBQHRhRAD1VAbloMVl5RVRENWggWGlgaBRRPEwgJCgwSWUU7SAsGFgITCFEKAQwUGA==|referer=https://filme24.club/</link>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/59.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/embed/hbo-1.html/</link>
 <thumbnail>https://i.ibb.co/YfqM6jz/TS3.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR yellow][B]Telekom Sport 4[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://lb6.tvhd-online.com:8443/live/bqwuq2hSaU/7ejDMeEkQE/60.m3u8?token=HkZdBxZQQAIXAFQJVgMBUAIPA11bBgEFXQcPVQkHVlIHUgFQUQEAXFMUTxMWEhYAB1toDVxAWAEPHRsWS1VGaQwAF1xHCUAUF0IKXABEXlVKFEcNXEBYFgkCDVMOEhgUABxBAxdWA1RqUgZHDAUBR1xYQghUTkBbVm5dBlVRWlJHXhdWRxRAUUZGQQtHJQsIBVdEEBghA1ZUVBkgV11ZQwsNVgcRUQ1WRhYvfSZESEcEX0MWWRYHFgITDFcLEhgUBgtACBFKGxoPFDZiR0pGAB5CUgpLCw1aGgsbDgtFDBRJRlwVOkoHS0FEBlAIAxZHXBQHRhRAD1VAbloMVl5RVRENWggWGlgaBRRPEwgJCgwSWUU7SAsGFgITCFEKAQwUGA==|referer=https://filme24.club/</link>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/60.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/embed/hbo-1.html/</link>
 <thumbnail>https://img.sport-tv-guide.live/images/tv-station-telekom-sport-4-887.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]HBO[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/40.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/embed/hbo-1.html/</link>
+<thumbnail>https://i.ibb.co/bX5zrfH/HBO.png</thumbnail>
 </item>
 
