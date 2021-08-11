@@ -64,68 +64,43 @@
 <fanart></fanart>
 </item>
 
+
 <item>
 <title>[COLOR yellow][B]Digi Sport 1[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://sportbarchik88.com$doregex[link]|referer=https://sportbarchik88.com/ds1ro.html</link> 
-<regex>
-<name>link</name>
-<expres><![CDATA[var videoLink = '(.+?)']]></expres>
-<page>https://sportbarchik88.com/ds1ro.html</page>
-</regex>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/7.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/sC3s7xv/Digi-Sport.png</thumbnail>
-<fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR yellow][B]Digi Sport 2[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://sportbarchik88.com$doregex[link]|referer=https://sportbarchik88.com/digisport2ro.html</link> 
-<regex>
-<name>link</name>
-<expres><![CDATA[var videoLink = '(.+?)']]></expres>
-<page>https://sportbarchik88.com/digisport2ro.html</page>
-</regex>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/8.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/pZgZbzy/DigiS2.png</thumbnail>
-<fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]Digi Sport 3[/B][/COLOR]</title>
-<link>$doregex[link]|referer=https://goool7.ws/474789f379650a2849c7f0dfb821a948-live.html</link> 
-<regex>
-<name>link</name>
-<expres><![CDATA[var videoLink = '(.+?)']]></expres>
-<page>https://goool7.ws/474789f379650a2849c7f0dfb821a948-live.html</page>
-</regex>
+<title>[COLOR yellow][B]Digi Sport 3[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/9.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/9N3snmn/DS3.png</thumbnail>
-<fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]Digi Sport 4[/B][/COLOR]</title>
-<link>$doregex[link]|referer=https://goool7.ws/474789f379650a2849c7f0dfb821a948-live.html</link> 
-<regex>
-<name>link</name>
-<expres><![CDATA[var videoLink = '(.+?)']]></expres>
-<page>https://goool7.ws/474789f379650a2849c7f0dfb821a948-live.html</page>
-</regex>
-<thumbnail>https://i.ibb.co/0rJzckC/Ds4.png</thumbnail>
-<fanart></fanart>
+<title>[COLOR yellow][B]Digi Sport 4[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/10.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/0rJzckC/Ds4.png</thumbnail>>
 </item>
 
-
 <item>
-<title>[COLOR yellow][B]Telekom Sport 1[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://lb6.tvhd-online.com:8443/live/bqwuq2hSaU/7ejDMeEkQE/57.m3u8?token=HkZdBxZQQAIXAFQJVgMBUAIPA11bBgEFXQcPVQkHVlIHUgFQUQEAXFMUTxMWEhYAB1toDVxAWAEPHRsWS1VGaQwAF1xHCUAUF0IKXABEXlVKFEcNXEBYFgkCDVMOEhgUABxBAxdWA1RqUgZHDAUBR1xYQghUTkBbVm5dBlVRWlJHXhdWRxRAUUZGQQtHJQsIBVdEEBghA1ZUVBkgV11ZQwsNVgcRUQ1WRhYvfSZESEcEX0MWWRYHFgITDFcLEhgUBgtACBFKGxoPFDZiR0pGAB5CUgpLCw1aGgsbDgtFDBRJRlwVOkoHS0FEBlAIAxZHXBQHRhRAD1VAbloMVl5RVRENWggWGlgaBRRPEwgJCgwSWUU7SAsGFgITCFEKAQwUGA==|referer=https://filme24.club/</link>
+title>[COLOR yellow][B]Telekom Sport 1[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/57.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/QH7Dhzv/TS1.png</thumbnail>
 </item>
 
+
 <item>
 <title>[COLOR yellow][B]Telekom Sport 2[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://lb6.tvhd-online.com:8443/live/bqwuq2hSaU/7ejDMeEkQE/58.m3u8?token=HkZdBxZQQAIXAFQJVgMBUAIPA11bBgEFXQcPVQkHVlIHUgFQUQEAXFMUTxMWEhYAB1toDVxAWAEPHRsWS1VGaQwAF1xHCUAUF0IKXABEXlVKFEcNXEBYFgkCDVMOEhgUABxBAxdWA1RqUgZHDAUBR1xYQghUTkBbVm5dBlVRWlJHXhdWRxRAUUZGQQtHJQsIBVdEEBghA1ZUVBkgV11ZQwsNVgcRUQ1WRhYvfSZESEcEX0MWWRYHFgITDFcLEhgUBgtACBFKGxoPFDZiR0pGAB5CUgpLCw1aGgsbDgtFDBRJRlwVOkoHS0FEBlAIAxZHXBQHRhRAD1VAbloMVl5RVRENWggWGlgaBRRPEwgJCgwSWUU7SAsGFgITCFEKAQwUGA==|referer=https://filme24.club/</link>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/58.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/j52TbkX/TS2.png</thumbnail>
 </item>
-
-
 
 <item>
 <title>[COLOR yellow][B]Telekom Sport 3[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
