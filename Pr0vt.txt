@@ -1,0 +1,35 @@
+<item>
+<title>[COLOR yellow][B]Pro TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://sportbarchik88.com$doregex[link]|referer=https://sportbarchik88.com/protv.html</link> 
+<regex>
+<name>link</name>
+<expres><![CDATA[var videoLink = '(.+?)']]></expres>
+<page>https://sportbarchik88.com/protv.html</page>
+</regex>
+<thumbnail>https://i.ibb.co/X74P6M2/ProTV.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]Pro Cinema[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://lb4.tvhd-online.com:8443/live/bqwuq2hSaU/7ejDMeEkQE/3.m3u8?token=HkZdBxZQQAIXAwIJBAJRVQcCBFwAV1dSDgZcVV5WVlIGVQRTBgAEWQEUTxMWEhYAB1toDVxAWAcUE0wQXUJrXwFGD0RUGk4aQV8OVEdcVElERl4AGlhABwgHCEEUElFOEQFHCARUPVxQQApSAEReCxNaW0gaDQxrXFRUAlZUFgxHVBdKR1ERSBcMQXIKCwcEFUIXJ1kADlEYclYOVUVaXwYFQQ8KVhEYeXogE0lEBgwSRFYQXUBYFgkGAVUaHBZVChFbEhdBQAIXYzATSUQBHRJTWRdRDQwWAhNUUE0IFhpHDUY5F10RTEdTAlwAFEZfRAYVSBoPA0xnUlYNVlVXQgwLWxVHAkAIFxpBXAoIDREJRGgUUQZADhoGDFoLEkk==|referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/XWbdMq7/Pro-Cinema.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]Pro 2[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://lb5.tvhd-online.com:8443/live/bqwuq2hSaU/7ejDMeEkQE/6.m3u8?token=HkZdBxZQQAIXAVJUAAIFVVMDA1cIVQYBCAlcUlpWV1VdUVdTA11UAAwUTxMWEhYAB1toDVxAWAIUE0wQXUJrXwFGD0RUGk4aQV8OVEdcVElERl4AGlhABgsHClAaHBZTHRBQFAtZDmdRUxVYBgNGXwhDWwgUQA1aZ1VcDlleUBRfRgVESRoLS0UUWRMmCQkGB0VDRHsDAFhdEXoMVV1BWAwHVBIMVwxLFXovckdKRgcPQkUFTAdADhoADlYNEhgUBgtACBFKGxoPFDZiR0pGAB5CUgpLCw1aGgsbDgtFDBRJRlwVOkoHS0FEBlAIAxZHXBQHRhRAD1VAbloMVl5RVRENWggWGlgaBRRPEwgJCgwSWUU7SAsGFgITC1YOBgYUGA==|referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/6BNCPTY/PRO2.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]Pro X[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://lb5.tvhd-online.com:8443/live/bqwuq2hSaU/7ejDMeEkQE/2.m3u8?token=HkZdBxZQQAIXA1ICXQBdAAVXBFcAUFBQXlcJAQ9SVgQBXVYAVFoBCQIUTxMWEhYAB1toDVxAWAYUE0wQXUJrXwFGD0RUGk4aQV8OVEdcVElERl4AGlhABgsBAVIaHBZTHRBQFAtZDmdRUxVYBgNGXwhDWwgUQA1aZ1VcDlleUBRfRgVESRoLS0UUWRMmCQkGB0VDRHsDAFhdEXoMVV1BWAwHVBIMVwxLFXovckdKRgcPQkUFTAdADhoADlYPEhgUBgtACBFKGxoPFDZiR0pGAB5CUgpLCw1aGgsbDgtFDBRJRlwVOkoHS0FEBlAIAxZHXBQHRhRAD1VAbloMVl5RVRENWggWGlgaBRRPEwgJCgwSWUU7SAsGFgITC1UKBAcUGA==|referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/9gCNsY6/ProX.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]Pro Gold[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://lb5.tvhd-online.com:8443/live/bqwuq2hSaU/7ejDMeEkQE/4.m3u8?token=HkZdBxZQQAIXU1FSUVRUAQMEAF1bAAEGCVNbAFxWDQ9TUlMAAwBUDwcUTxMWEhYAB1toDVxAWAAUE0wQXUJrXwFGD0RUGk4aQV8OVEdcVElERl4AGlhADQEFAUEUElFOEQFHCARUPVxQQApSAEReCxNaW0gaDQxrXFRUAlZUFgxHVBdKR1ERSBcMQXIKCwcEFUIXJ1kADlEYclYOVUVaXwYFQQ8KVhEYeXogE0lEBgwSRFYQXUBYFgkGAVsaHBZVChFbEhdBQAIXYzATSUQBHRJTWRdRDQwWAhNUUE0IFhpHDUY5F10RTEdTAlwAFEZfRAYVSBoPA0xnUlYNVlVXQgwLWxVHAkAIFxpBXAoIDREJRGgUUQZADhoDCVQNAxZL|referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/g4t7zYk/ProGold.png</thumbnail>
+</item>
