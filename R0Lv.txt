@@ -5,7 +5,7 @@
 
 
 <item>
-<title>[COLOR yellow][B]Pro TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<title>[COLOR yellow][B]Pro TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>  [tvhd-online.com]
 <link>https://sportbarchik88.com$doregex[link]|referer=https://sportbarchik88.com/protv.html</link> 
 <regex>
 <name>link</name>
