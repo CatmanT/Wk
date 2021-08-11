@@ -17,6 +17,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow][B]Pro TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/1.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/X74P6M2/ProTV.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow][B]Pro Cinema[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
 <link>https://lb4.tvhd-online.com:8443/live/bqwuq2hSaU/7ejDMeEkQE/3.m3u8?token=HkZdBxZQQAIXAwIJBAJRVQcCBFwAV1dSDgZcVV5WVlIGVQRTBgAEWQEUTxMWEhYAB1toDVxAWAcUE0wQXUJrXwFGD0RUGk4aQV8OVEdcVElERl4AGlhABwgHCEEUElFOEQFHCARUPVxQQApSAEReCxNaW0gaDQxrXFRUAlZUFgxHVBdKR1ERSBcMQXIKCwcEFUIXJ1kADlEYclYOVUVaXwYFQQ8KVhEYeXogE0lEBgwSRFYQXUBYFgkGAVUaHBZVChFbEhdBQAIXYzATSUQBHRJTWRdRDQwWAhNUUE0IFhpHDUY5F10RTEdTAlwAFEZfRAYVSBoPA0xnUlYNVlVXQgwLWxVHAkAIFxpBXAoIDREJRGgUUQZADhoGDFoLEkk==|referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/XWbdMq7/Pro-Cinema.png</thumbnail>
@@ -72,9 +78,33 @@
 </item>
 
 <item>
+<title>[COLOR yellow][B]Digi Sport 1[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://sportbarchik88.com$doregex[link]|referer=https://sportbarchik88.com/ds1ro.html</link> 
+<regex>
+<name>link</name>
+<expres><![CDATA[var videoLink = '(.+?)']]></expres>
+<page>https://sportbarchik88.com/ds1ro.html</page>
+</regex>
+<thumbnail>https://i.ibb.co/sC3s7xv/Digi-Sport.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR yellow][B]Digi Sport 2[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
 <link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/8.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/pZgZbzy/DigiS2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Digi Sport 2[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://sportbarchik88.com$doregex[link]|referer=https://sportbarchik88.com/digisport2ro.html</link> 
+<regex>
+<name>link</name>
+<expres><![CDATA[var videoLink = '(.+?)']]></expres>
+<page>https://sportbarchik88.com/digisport2ro.html</page>
+</regex>
+<thumbnail>https://i.ibb.co/pZgZbzy/DigiS2.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
@@ -84,9 +114,33 @@
 </item>
 
 <item>
+<title>[COLOR yellow][B]Digi Sport 3[/B][/COLOR]</title>
+<link>$doregex[link]|referer=https://goool7.ws/474789f379650a2849c7f0dfb821a948-live.html</link> 
+<regex>
+<name>link</name>
+<expres><![CDATA[var videoLink = '(.+?)']]></expres>
+<page>https://goool7.ws/474789f379650a2849c7f0dfb821a948-live.html</page>
+</regex>
+<thumbnail>https://i.ibb.co/9N3snmn/DS3.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR yellow][B]Digi Sport 4[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
 <link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/10.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/0rJzckC/Ds4.png</thumbnail>>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Digi Sport 4[/B][/COLOR]</title>
+<link>$doregex[link]|referer=https://goool7.ws/474789f379650a2849c7f0dfb821a948-live.html</link> 
+<regex>
+<name>link</name>
+<expres><![CDATA[var videoLink = '(.+?)']]></expres>
+<page>https://goool7.ws/474789f379650a2849c7f0dfb821a948-live.html</page>
+</regex>
+<thumbnail>https://i.ibb.co/0rJzckC/Ds4.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
