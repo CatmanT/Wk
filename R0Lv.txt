@@ -90,7 +90,7 @@
 </item>
 
 <item>
-title>[COLOR yellow][B]Telekom Sport 1[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<title>[COLOR yellow][B]Telekom Sport 1[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
 <link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/57.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/QH7Dhzv/TS1.png</thumbnail>
 </item>
