@@ -45,10 +45,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
    <link>$doregex[m3u]</link>
    <thumbnail></thumbnail>
 ]]></listrepeat>
-<expres><![CDATA[(?s)<h4 class="article-title".+?href="/emisiuni/(.+?)">(.+?)</a>]]></expres>
+<expres><![CDATA[(?s)<h2 class="h4 article-title".+?href="/emisiuni/(.+?)">(.+?)</a>]]></expres>
 <page>[em.param1]</page>
 <cookieJar></cookieJar>
 </regex>
+
 
 <regex>
 <name>m3u</name>
