@@ -77,14 +77,14 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]Kanal D[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<title>[COLOR yellow][B]ANtena 1[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
 <link>https://sportbarchik88.com$doregex[link]|referer=https://sportbarchik88.com/antena1.html</link> 
 <regex>
 <name>link</name>
 <expres><![CDATA[var videoLink = '(.+?)']]></expres>
 <page>https://sportbarchik88.com/antena1.html</page>
 </regex>
-<thumbnail>https://i.ibb.co/g6YW2X0/KanalD.png</thumbnail>
+<thumbnail>https://i.ibb.co/0CwSJCr/A1.png</thumbnail>
 <fanart></fanart>
 </item>
 
