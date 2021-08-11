@@ -1,9 +1,3 @@
-
-
-
-
-
-
 <item>
 <title>[COLOR yellow][B]Pro TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
 <link>https://sportbarchik88.com$doregex[link]|referer=https://sportbarchik88.com/protv.html</link> 
@@ -123,17 +117,17 @@
 <item>
 <title>[COLOR yellow][B]Telekom Sport 2[/B][/COLOR]</title>
 <link>https://lb6.tvhd-online.com:8443/live/bqwuq2hSaU/7ejDMeEkQE/58.m3u8?token=HkZdBxZQQAIXAFQJVgMBUAIPA11bBgEFXQcPVQkHVlIHUgFQUQEAXFMUTxMWEhYAB1toDVxAWAEPHRsWS1VGaQwAF1xHCUAUF0IKXABEXlVKFEcNXEBYFgkCDVMOEhgUABxBAxdWA1RqUgZHDAUBR1xYQghUTkBbVm5dBlVRWlJHXhdWRxRAUUZGQQtHJQsIBVdEEBghA1ZUVBkgV11ZQwsNVgcRUQ1WRhYvfSZESEcEX0MWWRYHFgITDFcLEhgUBgtACBFKGxoPFDZiR0pGAB5CUgpLCw1aGgsbDgtFDBRJRlwVOkoHS0FEBlAIAxZHXBQHRhRAD1VAbloMVl5RVRENWggWGlgaBRRPEwgJCgwSWUU7SAsGFgITCFEKAQwUGA==|referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/QH7Dhzv/TS2.png</thumbnail>
+<thumbnail>https://i.ibb.co/j52TbkX/TS2.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR yellow][B]Telekom Sport 3[/B][/COLOR]</title>
 <link>https://lb6.tvhd-online.com:8443/live/bqwuq2hSaU/7ejDMeEkQE/59.m3u8?token=HkZdBxZQQAIXAFQJVgMBUAIPA11bBgEFXQcPVQkHVlIHUgFQUQEAXFMUTxMWEhYAB1toDVxAWAEPHRsWS1VGaQwAF1xHCUAUF0IKXABEXlVKFEcNXEBYFgkCDVMOEhgUABxBAxdWA1RqUgZHDAUBR1xYQghUTkBbVm5dBlVRWlJHXhdWRxRAUUZGQQtHJQsIBVdEEBghA1ZUVBkgV11ZQwsNVgcRUQ1WRhYvfSZESEcEX0MWWRYHFgITDFcLEhgUBgtACBFKGxoPFDZiR0pGAB5CUgpLCw1aGgsbDgtFDBRJRlwVOkoHS0FEBlAIAxZHXBQHRhRAD1VAbloMVl5RVRENWggWGlgaBRRPEwgJCgwSWUU7SAsGFgITCFEKAQwUGA==|referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/QH7Dhzv/TS3.png</thumbnail>
+<thumbnail>https://i.ibb.co/YfqM6jz/TS3.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR yellow][B]Telekom Sport 4[/B][/COLOR]</title>
 <link>https://lb6.tvhd-online.com:8443/live/bqwuq2hSaU/7ejDMeEkQE/60.m3u8?token=HkZdBxZQQAIXAFQJVgMBUAIPA11bBgEFXQcPVQkHVlIHUgFQUQEAXFMUTxMWEhYAB1toDVxAWAEPHRsWS1VGaQwAF1xHCUAUF0IKXABEXlVKFEcNXEBYFgkCDVMOEhgUABxBAxdWA1RqUgZHDAUBR1xYQghUTkBbVm5dBlVRWlJHXhdWRxRAUUZGQQtHJQsIBVdEEBghA1ZUVBkgV11ZQwsNVgcRUQ1WRhYvfSZESEcEX0MWWRYHFgITDFcLEhgUBgtACBFKGxoPFDZiR0pGAB5CUgpLCw1aGgsbDgtFDBRJRlwVOkoHS0FEBlAIAxZHXBQHRhRAD1VAbloMVl5RVRENWggWGlgaBRRPEwgJCgwSWUU7SAsGFgITCFEKAQwUGA==|referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/QH7Dhzv/TS4.png</thumbnail>
+<thumbnail>https://i.ibb.co/q9QX48g/TS4.png</thumbnail>
 </item>
