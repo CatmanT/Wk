@@ -193,3 +193,15 @@
 <thumbnail>https://i.ibb.co/bX5zrfH/HBO.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR yellow][B]HBO 2[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/38.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/F8yMmJP/HBO2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]HBO 3[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/39.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/gzgwS4W/HBO3.png</thumbnail>
+</item>
+
