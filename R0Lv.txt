@@ -1,3 +1,9 @@
+
+
+
+
+
+
 <item>
 <title>[COLOR yellow][B]Pro TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
 <link>https://sportbarchik88.com$doregex[link]|referer=https://sportbarchik88.com/protv.html</link> 
@@ -92,4 +98,42 @@
 </regex>
 <thumbnail>https://i.ibb.co/9N3snmn/DS3.png</thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Digi Sport 4[/B][/COLOR]</title>
+<link>$doregex[link]|referer=https://goool7.ws/474789f379650a2849c7f0dfb821a948-live.html</link> 
+<regex>
+<name>link</name>
+<expres><![CDATA[var videoLink = '(.+?)']]></expres>
+<page>https://goool7.ws/474789f379650a2849c7f0dfb821a948-live.html</page>
+</regex>
+<thumbnail>https://i.ibb.co/0rJzckC/Ds4.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow][B]Telekom Sport 1[/B][/COLOR]</title>
+<link>https://lb6.tvhd-online.com:8443/live/bqwuq2hSaU/7ejDMeEkQE/57.m3u8?token=HkZdBxZQQAIXAFQJVgMBUAIPA11bBgEFXQcPVQkHVlIHUgFQUQEAXFMUTxMWEhYAB1toDVxAWAEPHRsWS1VGaQwAF1xHCUAUF0IKXABEXlVKFEcNXEBYFgkCDVMOEhgUABxBAxdWA1RqUgZHDAUBR1xYQghUTkBbVm5dBlVRWlJHXhdWRxRAUUZGQQtHJQsIBVdEEBghA1ZUVBkgV11ZQwsNVgcRUQ1WRhYvfSZESEcEX0MWWRYHFgITDFcLEhgUBgtACBFKGxoPFDZiR0pGAB5CUgpLCw1aGgsbDgtFDBRJRlwVOkoHS0FEBlAIAxZHXBQHRhRAD1VAbloMVl5RVRENWggWGlgaBRRPEwgJCgwSWUU7SAsGFgITCFEKAQwUGA==|referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/QH7Dhzv/TS1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Telekom Sport 2[/B][/COLOR]</title>
+<link>https://lb6.tvhd-online.com:8443/live/bqwuq2hSaU/7ejDMeEkQE/58.m3u8?token=HkZdBxZQQAIXAFQJVgMBUAIPA11bBgEFXQcPVQkHVlIHUgFQUQEAXFMUTxMWEhYAB1toDVxAWAEPHRsWS1VGaQwAF1xHCUAUF0IKXABEXlVKFEcNXEBYFgkCDVMOEhgUABxBAxdWA1RqUgZHDAUBR1xYQghUTkBbVm5dBlVRWlJHXhdWRxRAUUZGQQtHJQsIBVdEEBghA1ZUVBkgV11ZQwsNVgcRUQ1WRhYvfSZESEcEX0MWWRYHFgITDFcLEhgUBgtACBFKGxoPFDZiR0pGAB5CUgpLCw1aGgsbDgtFDBRJRlwVOkoHS0FEBlAIAxZHXBQHRhRAD1VAbloMVl5RVRENWggWGlgaBRRPEwgJCgwSWUU7SAsGFgITCFEKAQwUGA==|referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/QH7Dhzv/TS2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Telekom Sport 3[/B][/COLOR]</title>
+<link>https://lb6.tvhd-online.com:8443/live/bqwuq2hSaU/7ejDMeEkQE/59.m3u8?token=HkZdBxZQQAIXAFQJVgMBUAIPA11bBgEFXQcPVQkHVlIHUgFQUQEAXFMUTxMWEhYAB1toDVxAWAEPHRsWS1VGaQwAF1xHCUAUF0IKXABEXlVKFEcNXEBYFgkCDVMOEhgUABxBAxdWA1RqUgZHDAUBR1xYQghUTkBbVm5dBlVRWlJHXhdWRxRAUUZGQQtHJQsIBVdEEBghA1ZUVBkgV11ZQwsNVgcRUQ1WRhYvfSZESEcEX0MWWRYHFgITDFcLEhgUBgtACBFKGxoPFDZiR0pGAB5CUgpLCw1aGgsbDgtFDBRJRlwVOkoHS0FEBlAIAxZHXBQHRhRAD1VAbloMVl5RVRENWggWGlgaBRRPEwgJCgwSWUU7SAsGFgITCFEKAQwUGA==|referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/QH7Dhzv/TS3.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Telekom Sport 4[/B][/COLOR]</title>
+<link>https://lb6.tvhd-online.com:8443/live/bqwuq2hSaU/7ejDMeEkQE/60.m3u8?token=HkZdBxZQQAIXAFQJVgMBUAIPA11bBgEFXQcPVQkHVlIHUgFQUQEAXFMUTxMWEhYAB1toDVxAWAEPHRsWS1VGaQwAF1xHCUAUF0IKXABEXlVKFEcNXEBYFgkCDVMOEhgUABxBAxdWA1RqUgZHDAUBR1xYQghUTkBbVm5dBlVRWlJHXhdWRxRAUUZGQQtHJQsIBVdEEBghA1ZUVBkgV11ZQwsNVgcRUQ1WRhYvfSZESEcEX0MWWRYHFgITDFcLEhgUBgtACBFKGxoPFDZiR0pGAB5CUgpLCw1aGgsbDgtFDBRJRlwVOkoHS0FEBlAIAxZHXBQHRhRAD1VAbloMVl5RVRENWggWGlgaBRRPEwgJCgwSWUU7SAsGFgITCFEKAQwUGA==|referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/QH7Dhzv/TS4.png</thumbnail>
 </item>
