@@ -17,6 +17,17 @@
 </item>
 
 <item>
+<title>[COLOR yellow][B]Pro TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[link]|referer=https://goool7.ws/dc9786e53cdb1c46b6d9380dc26bd8c7-live.html</link> 
+<regex>
+<name>link</name>
+<expres><![CDATA[var videoLink = '(.+?)']]></expres>
+<page>https://goool7.ws/dc9786e53cdb1c46b6d9380dc26bd8c7-live.html</page>
+</regex>
+<thumbnail>https://i.ibb.co/X74P6M2/ProTV.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow][B]]Pro TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
 <link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/1.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/X74P6M2/ProTV.png</thumbnail>
