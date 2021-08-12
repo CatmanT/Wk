@@ -238,3 +238,55 @@
 
 
 
+
+
+
+<item>
+    <title>Mooz RO</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    import re
+    from resources.lib import cfscrape
+    token = ''
+    scraper = cfscrape.create_scraper()
+    page_data = scraper.get('https://filme24.club/embed/mooz-ro.html').text
+    r = re.findall('source: \'(.+?)\'', page_data)[0]
+    return r + '|Cookie=Authorization=' + token
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow][B]MOOZ RO Tvr[/B][/COLOR]</title>
+<link>$doregex[link]|referer=https://filme24.club/tv-live/?url=mooz-ro</link> 
+<regex>
+<name>link</name>
+<expres><![CDATA[source: '(.+?)']]></expres>
+<page>https://filme24.club/embed/mooz-ro.html</page>
+</regex>
+<thumbnail>https://i.ibb.co/g6ZC4R8/testing.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MOOZ RO  new-york-yankees-seattle-mariners</title>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<link>$doregex[m5]</link>
+<regex>
+<name>m5</name>
+<expres>source: '(.+?)'</expres>
+<page>https://filme24.club/embed/mooz-ro.html</page>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>application/json,text/javascript,*/*;q=0.01</accept>
+<x-req>XMLHttpRequest</x-req>
+<referer>https://filme24.club/tv-live/?url=mooz-ro</referer>
+</regex>
+</item>
