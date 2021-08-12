@@ -93,6 +93,13 @@
 
 
 <item>
+<title>[COLOR yellow][B]TVR International[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b1120000.m3u8</link>
+<thumbnail>https://i.ibb.co/3F2r9qn/tvri.png</thumbnail>
+</item>
+
+
+<item>
 <title>[COLOR yellow][B]Pro Cinema[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
 <link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/3.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/XWbdMq7/Pro-Cinema.png</thumbnail>
