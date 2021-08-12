@@ -45,6 +45,18 @@
 </item>
 
 <item>
+<title>[COLOR yellow][B]Prima TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/6RLf03K/PrimaTV.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Prima TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/6RLf03K/PrimaTV.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow][B]Kanal D[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
 <link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/42.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/g6YW2X0/KanalD.png</thumbnail>
@@ -215,23 +227,6 @@
 <thumbnail>https://img.sport-tv-guide.live/images/tv-station-telekom-sport-4-887.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR yellow][B]HBO[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/40.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/bX5zrfH/HBO.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B]HBO 2[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/38.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/F8yMmJP/HBO2.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B]HBO 3[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/39.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/gzgwS4W/HBO3.png</thumbnail>
-</item>
 
 
 <item>
@@ -244,12 +239,6 @@
 <title>[COLOR yellow][B]Favorit TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
 <link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/48.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/mFfy0Wt/Fav.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B]Favorit TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://filme24.club/tv-live/mooz/moozro.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/embed/mooz-ro.html</link>
-<thumbnail>https://i.ibb.co/3yWKDN4/Mooz-Ro.png</thumbnail>
 </item>
 
 
@@ -290,6 +279,24 @@
 </item>
 
 <item>
+<title>[COLOR yellow][B]HBO[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/40.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/bX5zrfH/HBO.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]HBO 2[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/38.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/F8yMmJP/HBO2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]HBO 3[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/39.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/gzgwS4W/HBO3.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow][B]AXN[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
 <link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/19.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/TB9TtJ6/axn-hd.png</thumbnail>
@@ -308,21 +315,46 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]Cartoon Network[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/20.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/FsdnLwf/CN.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR yellow][B]DIVA[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
 <link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/18.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/Qb6j8Yn/DivaU.png</thumbnail>
 </item>
 
 <item>
+<title>[COLOR yellow][B]TV 1000[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/17.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/pxYgK01/TV1000.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]AMC[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/16.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/dKNvr8t/AMC.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Cinemax 1[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/36.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/5GGkC4S/Cinemax.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Cinemax 2[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/37.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/g9dbZds/cinemax-2.png</thumbnail>
+</item>
+
+
+<item>
 <title>[COLOR yellow][B]Paprika TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
 <link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/72.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/N1f5SDF/TV-Paprika.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Cartoon Network[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/20.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/FsdnLwf/CN.png</thumbnail>
 </item>
 
 
