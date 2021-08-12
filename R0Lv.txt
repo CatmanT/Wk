@@ -256,7 +256,7 @@
 <item>
 <title>[COLOR yellow][B]Discovery ID[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
 <link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/65.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/0KWF7tr/ID-Investigation-Discovery.png</thumbnail>
+<thumbnail>https://i1.wp.com/logovtor.com/wp-content/uploads/2019/09/investigation-discovery-logo-vector.png?resize=100,100</thumbnail>
 </item>
 
 <item>
