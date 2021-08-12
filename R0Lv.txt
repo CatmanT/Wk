@@ -73,6 +73,12 @@
 <thumbnail>https://i.ibb.co/g6YW2X0/KanalD.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR yellow][B]Kanal D[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://sporting77.com/lba/NGJmMjEyOWZhNjBjMDEzYzc1NGMzYTQ0NTU4ZGI0MTc=/g9/kanald.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://sporting77.com/05396097d1129c03a6b67dae6d0db433-live.htm/</link>
+<thumbnail>https://i.ibb.co/g6YW2X0/KanalD.png</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR yellow][B]Pro Cinema[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
