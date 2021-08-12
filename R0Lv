@@ -217,6 +217,23 @@
 </item>
 
 <item>
+<title>[COLOR yellow][B]Digi Sport 2[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[link]|referer=https://goool7.ws/dc24daf340f5785041ea20628610618d-live.html</link> 
+<regex>
+<name>link</name>
+<expres><![CDATA[var videoLink = '(.+?)']]></expres>
+<page>https:goool7.ws/dc24daf340f5785041ea20628610618d-live.html</page>
+</regex>
+<thumbnail>https://i.ibb.co/pZgZbzy/DigiS2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Digi Sport 2[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://sporting77.com/lba/NWUzM2UwYmNiMjFjNDMwZTViMzQ1MDAwYWE1ZTNmMWI=/g7/digisport2ro.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://sporting77.com/dc24daf340f5785041ea20628610618d-live.html/</link>
+<thumbnail>https://i.ibb.co/pZgZbzy/DigiS2.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow][B]Digi Sport 3[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
 <link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/9.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/9N3snmn/DS3.png</thumbnail>
@@ -277,6 +294,23 @@
 <thumbnail>https://img.sport-tv-guide.live/images/tv-station-telekom-sport-4-887.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR yellow][B]Look Sport HD[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://stream1.1616.ro:1945/look/livestream/playlist.m3u8</link>
+<thumbnail>https://i1.wp.com/program-tv.net/images/looksport.png?resize=120,80</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Look Sport 2[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8</link>
+<thumbnail>https://i1.wp.com/program-tv.net/images/looksport2.png?resize=120,80</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Look Sport 3[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8</link>
+<thumbnail>https://i1.wp.com/program-tv.net/images/looksport3.png?resize=120,80</thumbnail>
+</item>
 
 
 <item>
