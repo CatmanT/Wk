@@ -231,7 +231,7 @@
 
 <item>
 <title>[COLOR yellow][B]Favorit TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://filme24.club/tv-live/mooz/moozro.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>https://filme24.club/tv-live/mooz/moozro.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/embed/mooz-ro.html</link>
 <thumbnail>https://i.ibb.co/3yWKDN4/Mooz-Ro.png</thumbnail>
 </item>
 
