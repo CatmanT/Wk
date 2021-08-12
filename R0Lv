@@ -134,6 +134,64 @@
 <thumbnail>https://i.ibb.co/g6YW2X0/KanalD.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR yellow][B]Antena 1[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://live7digi.antenaplay.ro/a1/a1_3000k.m3u8</link>
+<thumbnail>https://i.ibb.co/0CwSJCr/A1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Antena 1[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://sportbarchik88.com$doregex[link]|referer=https://sportbarchik88.com/antena1.html</link> 
+<regex>
+<name>link</name>
+<expres><![CDATA[var videoLink = '(.+?)']]></expres>
+<page>https://sportbarchik88.com/antena1.html</page>
+</regex>
+<thumbnail>https://i.ibb.co/0CwSJCr/A1.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Antena 1[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[link]|referer=https://goool7.ws/b6c12b68682f5cde4d444b3641564008-live.html</link> 
+<regex>
+<name>link</name>
+<expres><![CDATA[var videoLink = '(.+?)']]></expres>
+<page>https://goool7.ws/b6c12b68682f5cde4d444b3641564008-live.html</page>
+</regex>
+<thumbnail>https://i.ibb.co/0CwSJCr/A1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Antena 3[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://live7digi.antenaplay.ro/a3/a3_3000k.m3u8</link>
+<thumbnail>https://i.ibb.co/rcTJ3g4/A3.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Antena Stars[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://live7digi.antenaplay.ro/astars/astars_3000k.m3u8</link>
+<thumbnail>https://i.ibb.co/sCybGLM/img.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Antena Comedy[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/fXrhyzr/Comedy-Play.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Antena Monden[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8</link>
+<thumbnail>https://i1.wp.com/assets.antenaplay.ro/2019/02/08/ASCEI8MhBY2ItX0av7KS.png?resize=150,100</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Antena CookPlay[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/DKm5J2q/CookPlay.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR yellow][B]TVR International[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
@@ -172,20 +230,6 @@
 <link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/4.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/g4t7zYk/ProGold.png</thumbnail>
 </item>
-
-
-<item>
-<title>[COLOR yellow][B]Antena 1[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://sportbarchik88.com$doregex[link]|referer=https://sportbarchik88.com/antena1.html</link> 
-<regex>
-<name>link</name>
-<expres><![CDATA[var videoLink = '(.+?)']]></expres>
-<page>https://sportbarchik88.com/antena1.html</page>
-</regex>
-<thumbnail>https://i.ibb.co/0CwSJCr/A1.png</thumbnail>
-<fanart></fanart>
-</item>
-
 
 <item>
 <title>[COLOR yellow][B]Digi Sport 1[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
@@ -460,9 +504,21 @@
 </item>
 
 <item>
+<title>[COLOR yellow][B]FilmBox[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/71.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/qWhM0vf/FilmB.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow][B]Newflix TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
 <link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/49.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://tvhd-online.com/img/flixtv.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Cinemaraton[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/67.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://media.hotnews.ro/media_server1/image-2017-03-29-21687865-46-logo-cinemaraton.jpg</thumbnail>
 </item>
 
 <item>
@@ -494,6 +550,12 @@
 <title>[COLOR yellow][B]Paprika TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
 <link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/72.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/N1f5SDF/TV-Paprika.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Comedy Central[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/68.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/6wXy94j/Comedy-Central.png</thumbnail>
 </item>
 
 <item>
@@ -556,23 +618,11 @@
 
 
 
-<item>
-<title>[COLOR yellow][B]67[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/67.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/X74P6M2/ProTV.png</thumbnail>
-</item>
 
-<item>
-<title>[COLOR yellow][B]68[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/68.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/X74P6M2/ProTV.png</thumbnail>
-</item>
 
-<item>
-<title>[COLOR yellow][B]71[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/71.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/X74P6M2/ProTV.png</thumbnail>
-</item>
+
+
+
 
 <item>
 <title>[COLOR yellow][B]73[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
