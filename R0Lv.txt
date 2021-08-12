@@ -256,7 +256,37 @@
 <item>
 <title>[COLOR yellow][B]Discovery ID[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
 <link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/65.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i1.wp.com/logovtor.com/wp-content/uploads/2019/09/investigation-discovery-logo-vector.png?resize=100,100</thumbnail>
+<thumbnail>https://i.ibb.co/0KWF7tr/ID-Investigation-Discovery.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Discovery Channel[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/66.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/p0SyXp0/Discovery-channel.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Animal Planet[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/56.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/dcb9nPc/Animal-Planet.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Viasat Explore[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/45.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/PcnDdCY/ViaSatEx.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Viasat History[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/44.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/PcnDdCY/ViaSatEx.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Viasat Nature[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/70.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/zPz19Tn/ViaSatN.png</thumbnail>
 </item>
 
 <item>
@@ -266,15 +296,33 @@
 </item>
 
 <item>
+<title>[COLOR yellow][B]AXN Spin[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/29.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/HdP1Yx3/axn-spin.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Epic Drama[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/69.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/wrwS7vc/Epic-Drama.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow][B]Cartoon Network[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
 <link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/20.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/FsdnLwf/CN.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow][B]Cartoon Network[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<title>[COLOR yellow][B]DIVA[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
 <link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/18.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/FsdnLwf/CN.png</thumbnail>
+<thumbnail>https://i.ibb.co/Qb6j8Yn/DivaU.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Paprika TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/72.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/N1f5SDF/TV-Paprika.png</thumbnail>
 </item>
 
 
