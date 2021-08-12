@@ -30,11 +30,11 @@
 
 <item>
 <title>[COLOR yellow][B]Kanal D[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://sportbarchik88.com$doregex[link]|referer=https://sportbarchik88.com/kanald.htm</link> 
+<link>https://sportbarchik88.com$doregex[link]|referer=https://sportbarchik88.com/kanald.html</link> 
 <regex>
 <name>link</name>
 <expres><![CDATA[var videoLink = '(.+?)']]></expres>
-<page>https://sportbarchik88.com/kanald.htm</page>
+<page>https://sportbarchik88.com/kanald.html</page>
 </regex>
 <thumbnail>https://i.ibb.co/g6YW2X0/KanalD.png</thumbnail
 <fanart></fanart>
