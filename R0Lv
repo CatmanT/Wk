@@ -157,6 +157,12 @@
 </regex>
 </item>
 
+<item>
+<title>[COLOR yellow][B]Aleph News[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsbackup.stream_all/chunklist_b3098304.m3u8</link>
+<thumbnail>https://i1.wp.com/www.media-max.ro/wp-content/uploads/2019/06/Aleph-Business-Aleph-News-si-Aleph-Comedy-vor-fi-lansate-alaturi-de-Smart-TV-2.jpg</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR yellow][B]Prima TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
@@ -364,27 +370,83 @@
 
 <item>
 <title>[COLOR yellow][B]Pro 2[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/6.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/6BNCPTY/PRO2.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/pro-2.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=pro-2</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
 <title>[COLOR yellow][B]Pro X[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/2.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/9gCNsY6/ProX.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/pro-x.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=pro-x</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 
 <item>
 <title>[COLOR yellow][B]Pro Gold[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/4.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/g4t7zYk/ProGold.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/pro-gold.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=pro-gold</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
 <title>[COLOR yellow][B]Digi Sport 1[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/7.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/sC3s7xv/Digi-Sport.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/digisport-1.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=digisport-1</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
@@ -413,8 +475,22 @@
 
 <item>
 <title>[COLOR yellow][B]Digi Sport 2[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/8.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/pZgZbzy/DigiS2.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/digisport-2.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=digisport-2</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
@@ -448,8 +524,22 @@
 
 <item>
 <title>[COLOR yellow][B]Digi Sport 3[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/9.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/9N3snmn/DS3.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/digisport-3.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=digisport-3</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
@@ -466,8 +556,22 @@
 
 <item>
 <title>[COLOR yellow][B]Digi Sport 4[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/10.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/0rJzckC/Ds4.png</thumbnail>>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/digisport-4.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=digisport-4</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
@@ -484,27 +588,83 @@
 
 <item>
 <title>[COLOR yellow][B]Telekom Sport 1[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/57.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/QH7Dhzv/TS1.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/telekomsport-1.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=telekomsport-1</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 
 <item>
 <title>[COLOR yellow][B]Telekom Sport 2[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/58.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/j52TbkX/TS2.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/telekomsport-2.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=telekomsport-2</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
 <title>[COLOR yellow][B]Telekom Sport 3[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/59.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/YfqM6jz/TS3.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/telekomsport-3.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=telekomsport-3</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
 <title>[COLOR yellow][B]Telekom Sport 4[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/60.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://img.sport-tv-guide.live/images/tv-station-telekom-sport-4-887.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/telekomsport-4.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=telekomsport-4</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
@@ -527,234 +687,847 @@
 
 
 <item>
+<title>[COLOR yellow][B]EuroSport[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/Tc7yTY1/Euro-Sport.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/eurosport-1.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=eurosport-1</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR yellow][B]EuroSport 2[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/WGzCFqD/eurosport-2.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/eurosport-2.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=eurosport-2</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
+</item>
+
+
+
+
+<item>
 <title>[COLOR yellow][B]ETNO TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/47.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/g3Knc3H/Etno.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/etno-tv.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=etno-tv</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
 <title>[COLOR yellow][B]Favorit TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/48.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/mFfy0Wt/Fav.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/favorit-tv.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=favorit-tv</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
 <title>[COLOR yellow][B]Impact TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/41.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://www.incomod.info/wp-content/uploads/2018/11/tv-impact-manele-online-live-gratuit.jpg</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/impact-tv.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=impact-tv</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 
 <item>
 <title>[COLOR yellow][B]Discovery ID[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/65.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/0KWF7tr/ID-Investigation-Discovery.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/investigation-discovery.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=investigation-discovery</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
 <title>[COLOR yellow][B]Discovery Channel[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/66.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/p0SyXp0/Discovery-channel.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/discovery-channel.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=discovery-channel</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
 <title>[COLOR yellow][B]Animal Planet[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/56.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/dcb9nPc/Animal-Planet.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/animal-planet.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=animal-planet</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
 <title>[COLOR yellow][B]Viasat Explore[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/45.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/PcnDdCY/ViaSatEx.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/viasat-explorer.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=viasat-explorer</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
 <title>[COLOR yellow][B]Viasat History[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/44.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/PcnDdCY/ViaSatEx.png</thumbnail>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/ysVfxmy/ViaSatH.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/viasat-history.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=viasat-history</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
 <title>[COLOR yellow][B]Viasat Nature[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/70.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/zPz19Tn/ViaSatN.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/viasat-nature.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=viasat-nature</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
-<item>
-<title>[COLOR yellow][B]HBO[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/40.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/bX5zrfH/HBO.png</thumbnail>
-</item>
 
 <item>
-<title>[COLOR yellow][B]HBO 2[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/38.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/F8yMmJP/HBO2.png</thumbnail>
+<title>[COLOR yellow][B]Crime Investigation[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/LrR28QT/CI.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/crime-investigation.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=crime-investigation</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
-<item>
-<title>[COLOR yellow][B]HBO 3[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/39.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/gzgwS4W/HBO3.png</thumbnail>
-</item>
 
 <item>
-<title>[COLOR yellow][B]AXN[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/19.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/TB9TtJ6/axn-hd.png</thumbnail>
+<title>[COLOR yellow][B]History Channel[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/nmCDPgR/History.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/history-channel.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=history-channel</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
-<item>
-<title>[COLOR yellow][B]AXN Spin[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/29.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/HdP1Yx3/axn-spin.png</thumbnail>
-</item>
 
 <item>
-<title>[COLOR yellow][B]Epic Drama[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/69.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/wrwS7vc/Epic-Drama.png</thumbnail>
+<title>[COLOR yellow][B]TLC[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/wMP1KpJ/TLC.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/tlc.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=tlc</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
-<item>
-<title>[COLOR yellow][B]DIVA[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/18.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/Qb6j8Yn/DivaU.png</thumbnail>
-</item>
 
 <item>
-<title>[COLOR yellow][B]TV 1000[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/17.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/pxYgK01/TV1000.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B]AMC[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/16.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/dKNvr8t/AMC.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B]Cinemax 1[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/36.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/5GGkC4S/Cinemax.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B]Cinemax 2[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/37.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/g9dbZds/cinemax-2.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B]Filme Cafe[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/63.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/h7ch24M/film-cafe.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B]FilmBox[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/71.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/qWhM0vf/FilmB.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B]Newflix TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/49.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://tvhd-online.com/img/flixtv.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B]Cinemaraton[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/67.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://media.hotnews.ro/media_server1/image-2017-03-29-21687865-46-logo-cinemaraton.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B]Bollywood TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/64.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/myddxjz/Bollywood.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B]Filme Indiene[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/50.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://tvhd-online.com/img/india.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B]Filme Turcesti[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/51.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://tvhd-online.com/img/turcesti.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B]Hindi Lover[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/52.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail></thumbnail>
+<title>[COLOR yellow][B]Profit TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>https://stream1.1616.ro:1945/profit/livestream/chunklist.m3u8</link>
+<thumbnail>https://i.ibb.co/K0ZZcb9/ProfiTV.png</thumbnail>
 </item>
 
 
 <item>
 <title>[COLOR yellow][B]Paprika TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/72.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/N1f5SDF/TV-Paprika.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/tv-paprika.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=tv-paprika</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
+
+
+<item>
+<title>[COLOR yellow][B]HBO[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/bX5zrfH/HBO.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/hbo-1.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=hbo-1</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]HBO 2[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/F8yMmJP/HBO2.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/hbo-2.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=hbo-2</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]HBO 3[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/gzgwS4W/HBO3.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/hbo-3.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=hbo-3</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]AXN[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/TB9TtJ6/axn-hd.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/axn.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=axn</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]AXN Spin[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/HdP1Yx3/axn-spin.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/axn-spin.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=axn-spin</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Epic Drama[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/wrwS7vc/Epic-Drama.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/epic-drama.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=epic-drama</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]DIVA[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/Qb6j8Yn/DivaU.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/diva.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=diva</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]TV 1000[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/pxYgK01/TV1000.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/tv1000.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=tv1000</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]AMC[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/dKNvr8t/AMC.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/amc.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=amc</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Cinemax 1[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/5GGkC4S/Cinemax.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/cinemax-1.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=cinemax-1</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Cinemax 2[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/g9dbZds/cinemax-2.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/cinemax-2.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=cinemax-2</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Filme Cafe[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/h7ch24M/film-cafe.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/film-cafe.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=film-cafe</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]FilmBox Extra[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/qWhM0vf/FilmB.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/filmbox-extra.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=filmbox-extra</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Newflix TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://tvhd-online.com/img/flixtv.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/newflix-tv.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=newflix-tv</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Cinemaraton[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://media.hotnews.ro/media_server1/image-2017-03-29-21687865-46-logo-cinemaraton.jpg</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/cinemaraton.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=cinemaraton</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow][B]Bollywood TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/myddxjz/Bollywood.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/bollywood-tv.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=bollywood-tv</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Filme Indiene[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://tvhd-online.com/img/india.jpg</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/filme-indiene.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=filme-indiene</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Filme Turcesti[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://tvhd-online.com/img/turcesti.jpg</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/filme-turcesti.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=filme-turcesti</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR yellow][B]Travel Mix[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i1.wp.com/do-static-03.cdn.rcs-rds.ro/digionline/mobile-content/v11/images/droid/bt_lg_tv_channel_lifestyle_travelmixchannel.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/travel-mix.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=travel-mix</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
+</item>
+
 
 <item>
 <title>[COLOR yellow][B]Comedy Central[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/68.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/6wXy94j/Comedy-Central.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/comedy-central.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=comedy-central</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
-<title>[COLOR yellow][B]Cartoon Network[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/20.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<title>[COLOR yellow][B]Boomerang[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title><title>[COLOR yellow][B]Cartoon Network[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title><link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/FsdnLwf/CN.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/cartoon-network.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=cartoon-network</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
 <title>[COLOR yellow][B]MiniMax[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/21.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/6BxHzsH/M-max.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/minimax.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=minimax</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
 <title>[COLOR yellow][B]Boomerang[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/22.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/wzfH7Zx/Boom.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/boomerang.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=boomerang</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
 <title>[COLOR yellow][B]Disney Junior[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/31.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i.ibb.co/wggFVcZ/D-Jr.pngg</thumbnail>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/wggFVcZ/D-Jr.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/disney-junior.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=disney-junior</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
 <title>[COLOR yellow][B]Disney[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/32.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/9b8qN0B/D-Ch.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/disney-channel.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=disney-channel</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
 <title>[COLOR yellow][B]Nickelodeon[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/43.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/6XK3VKm/Nick.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/nickelodeon.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=nickelodeon</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
-<item>
-<title>[COLOR yellow][B]Bucuresti TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/61.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i1.wp.com/www.bucurestitv.net/wp-content/uploads/2016/02/sigla-bucuresti-tv.gif?resize=100,100</thumbnail>
-</item>
 
-<item>
-<title>[COLOR yellow][B]Travel Mix[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/62.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
-<thumbnail>https://i1.wp.com/do-static-03.cdn.rcs-rds.ro/digionline/mobile-content/v11/images/droid/bt_lg_tv_channel_lifestyle_travelmixchannel.png?resize=140,80</thumbnail>
-</item>
+
 
 
 
