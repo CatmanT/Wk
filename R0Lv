@@ -28,8 +28,28 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]Pro TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<title>[COLOR yellow][B]Pro TV[/B][/COLOR]   OLD [COLOR green][B][LIVE][/B][/COLOR]</title>
 <link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/1.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<thumbnail>https://i.ibb.co/X74P6M2/ProTV.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Pro TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/pro-tv.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=pro-tv</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 <thumbnail>https://i.ibb.co/X74P6M2/ProTV.png</thumbnail>
 </item>
 
