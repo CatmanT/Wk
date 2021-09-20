@@ -99,20 +99,62 @@
 
 <item>
 <title>[COLOR yellow][B]National TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/14.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/25LDWSz/hqdefault.jpg</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/national-tv.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=national-tv</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
 <title>[COLOR yellow][B]National 24+[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/27.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/25LDWSz/hqdefault.jpg</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/n24-plus.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=n24-plus</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
 <title>[COLOR yellow][B]Romania TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/15.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/dPqfWDs/rtv.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/romania-tv.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=romania-tv</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 
@@ -122,16 +164,25 @@
 <thumbnail>https://i.ibb.co/6RLf03K/PrimaTV.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR yellow][B]Prima TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8</link>
-<thumbnail>https://i.ibb.co/6RLf03K/PrimaTV.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR yellow][B]Kanal D[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/42.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/g6YW2X0/KanalD.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/kanal-d.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=kanal-d</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
@@ -165,8 +216,22 @@
 
 <item>
 <title>[COLOR yellow][B]Antena 1[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://live7digi.antenaplay.ro/a1/a1_3000k.m3u8</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/0CwSJCr/A1.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/antena-1</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=antena-1</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
