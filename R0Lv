@@ -221,7 +221,7 @@
 <regex>
 <name>getUrl</name>
 <expres>source:\s*'([^']+)</expres>
-<page>https://filme24.club/embed/antena-1</page>
+<page>https://filme24.club/embed/antena-1.html</page>
 <referer>https://filme24.club/</referer>
 <cookiejar>$doregex[getCookie]</cookiejar>
 </regex>
@@ -259,14 +259,42 @@
 
 <item>
 <title>[COLOR yellow][B]Antena 3[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://live7digi.antenaplay.ro/a3/a3_3000k.m3u8</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/rcTJ3g4/A3.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/antena-3.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=antena-3</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
 <title>[COLOR yellow][B]Antena Stars[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://live7digi.antenaplay.ro/astars/astars_3000k.m3u8</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/sCybGLM/img.jpg</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/antena-stars.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=antena-stars</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
@@ -295,15 +323,43 @@
 
 <item>
 <title>[COLOR yellow][B]ProTV International[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/5.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i1.wp.com/www.media-max.ro/wp-content/uploads/2020/04/PRO-TV-International-primul-post-privat-pentru-romanii-din-diaspora1.jpg?resize=100,100</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/pro-tv-international.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=pro-tv-international</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 
 <item>
 <title>[COLOR yellow][B]Pro Cinema[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://srv.tvhd-online.com:2083/live/8e4d71a14fa59242dd4ab5203302eba8/93765f29b8777b6852caad8f380a8d62/3.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://filme24.club/</link>
+<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
 <thumbnail>https://i.ibb.co/XWbdMq7/Pro-Cinema.png</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres>source:\s*'([^']+)</expres>
+<page>https://filme24.club/embed/pro-cinema.html</page>
+<referer>https://filme24.club/</referer>
+<cookiejar>$doregex[getCookie]</cookiejar>
+</regex>
+<regex>
+<name>getCookie</name>
+<expres></expres>
+<page>https://filme24.club/tv-live/?url=pro-cinema</page>
+<referer>https://filme24.club/</referer>
+<cookiejar></cookiejar>
+</regex>
 </item>
 
 <item>
