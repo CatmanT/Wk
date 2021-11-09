@@ -24,25 +24,6 @@
 </item>
 
 
-item>
-<title>[COLOR yellow][B]New Released Movies[/B][/COLOR]</title>
-<thumbnail></thumbnail>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>[makelist.param2]</link>
-<thumbnail>[makelist.param3]</thumbnail>
-]]></listrepeat>
-<expres>#(.+?)~(.+?)~(.+?)#</expres
-<page>
-#No Time To Die (2021)~https://aabklknczxczjskhdskmdsmkjlshlsjsnsjjsjdnshdsdsuaakllsisndjddhhk.iknoaushkmsnmnsjhdalsoiryoeljdzmszxjssdlskpoesjdskjdkmsmddslaal.workers.dev/0:/REVOLT/No.Time.To.Die.2021.720p.AMZN.WEB-DL.DDP5.1.H.264-NOTIMETOCRY.mkv~https://upload.wikimedia.org/wikipedia/en/f/fe/No_Time_to_Die_poster.jpg#
-
-</page>
-</regex>
-</item>
-
 
 <item>
 <title>[COLOR Blue][B]No Time To Die[/B][/COLOR] [2021]</title>
