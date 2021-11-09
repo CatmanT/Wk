@@ -32,7 +32,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
-<utube>[makelist.param2]</utube>
+<link>[makelist.param2]</link>
 <thumbnail>[makelist.param3]</thumbnail>
 ]]></listrepeat>
 <expres>#(.+?)~(.+?)~(.+?)#</expres
