@@ -32,7 +32,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
-<link>[makelist.param2]</link>
+<referer>[makelist.param2]</referer>
 <thumbnail>[makelist.param3]</thumbnail>
 ]]></listrepeat>
 <expres>#(.+?)~(.+?)~(.+?)#</expres
