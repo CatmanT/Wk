@@ -22,3 +22,23 @@
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNDgzMjliZDUtOTEwYS00YWE5LWFkY2YtMmIyYjdmNDkwYzNhXkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_FMjpg_UX1000_.jpg</thumbnail>
 <fanart>http://cdn.cnn.com/cnn/2020/images/08/23/cnn_after-truth_dated_hrz.jpg</fanart>
 </item>
+
+
+<item>
+<title>[COLOR yellow][B]New Released Movies[/B][/COLOR]</title>
+<thumbnail></thumbnail>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<utube>[makelist.param2]</utube>
+<thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>#(.+?)~(.+?)~(.+?)#</expres
+<page>
+#No Time TO Die (2021)~https://aabklknczxczjskhdskmdsmkjlshlsjsnsjjsjdnshdsdsuaakllsisndjddhhk.iknoaushkmsnmnsjhdalsoiryoeljdzmszxjssdlskpoesjdskjdkmsmddslaal.workers.dev/0:/REVOLT/No.Time.To.Die.2021.720p.AMZN.WEB-DL.DDP5.1.H.264-NOTIMETOCRY.mkv~https://upload.wikimedia.org/wikipedia/en/f/fe/No_Time_to_Die_poster.jpg#
+
+</page>
+</regex>
+</item>
