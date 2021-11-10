@@ -7,6 +7,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
+<title>[makelist.param1]</title>
 <link>[makelist.param2]</link>
 <thumbnail>[makelist.param3]</thumbnail>
 ]]></listrepeat>
@@ -44,14 +45,7 @@
 </regex>
 </item>
 
-<item>
-<title>multilink_test</title>
-<multilink>
-<link>http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8$$lsname=TRT</link>
-<link>http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8</link>
-<link>http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8</link>
-</multilink>
-</item>
+
 
 
 
