@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR yellow][B]Filme 2021[/B][/COLOR][COLOR red]  [Cat links][/COLOR]</title>
+<title>[COLOR yellow][B]2021[/B][/COLOR]</title>
 <thumbnail>https://i.pinimg.com/originals/de/f3/8c/def38ced92765bb5af54181b75edc4ca.jpg</thumbnail>
 <fanart>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-movies-1624472751.jpg</fanart>
 <link>$doregex[makelist]</link>
