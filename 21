@@ -66,5 +66,30 @@
 
 
 
+<item>
+<title>[COLOR yellow][B]2021[/B][/COLOR] KIDS </title>
+<thumbnail>https://i.pinimg.com/originals/de/f3/8c/def38ced92765bb5af54181b75edc4ca.jpg</thumbnail>
+<fanart>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-movies-1624472751.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<title>[makelist.param1]</title>
+<link>[makelist.param2]</link>
+<thumbnail>[makelist.param3]</thumbnail>
+<info>[makelist.param4]</info>
+]]></listrepeat>
+<expres>#(.+?)~(.+?)~(.+?)~(.+?)#</expres
+<page>
+ 
+
+#Luca (7.5/10)~https://www.golivebelize.com/movie/luca-720p.mp4v~https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Luca_%282021_film%29.png/220px-Luca_%282021_film%29.png~Set in a beautiful seaside town on the Italian Riviera, the original animated feature is a coming-of-age story about one young boy experiencing an unforgettable summer filled with gelato, pasta and endless scooter rides. Luca shares these adventures with his newfound best friend, but all the fun is threatened by a deeply held secret: he is a sea monster from another world just below the water's surface.#
+
+
+
+</page>
+</regex>
+</item>
 
 
