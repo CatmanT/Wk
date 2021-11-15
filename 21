@@ -90,4 +90,33 @@
 </item>
 
 
+<item>
+<title>[COLOR yellow][B]2021[/B][/COLOR] KIDS  TEST </title>
+<thumbnail>https://i.pinimg.com/originals/de/f3/8c/def38ced92765bb5af54181b75edc4ca.jpg</thumbnail>
+<fanart>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-movies-1624472751.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>[makelist.param2]</link>
+<thumbnail>[makelist.param3]</thumbnail>
+<info>[makelist.param4]</info>
+]]></listrepeat>
+<expres>#(.+?)~(.+?)~(.+?)~(.+?)#</expres
+<page>
+ 
+
+#Luca (7.5/10)~https://www.golivebelize.com/movie/luca-720p.mp4v~https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Luca_%282021_film%29.png/220px-Luca_%282021_film%29.png~Set in a beautiful seaside town on the Italian Riviera, the original animated feature is a coming-of-age story about one young boy experiencing an unforgettable summer filled with gelato, pasta and endless scooter rides. Luca shares these adventures with his newfound best friend, but all the fun is threatened by a deeply held secret: he is a sea monster from another world just below the water's surface.#
+#Peter Rabbit 2: The Runaway (6.2/10)~https://www.golivebelize.com/movie/peter-rabbit-2-the-runaway-720p.mp4~https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Peter_Rabbit_2_-_RT_poster.png/220px-Peter_Rabbit_2_-_RT_poster.png~Bea, Thomas and the rabbits have created a makeshift family, but despite his best efforts, Peter can't seem to shake his mischievous reputation. Venturing out of the garden, Peter finds himself in a world where his mischief is appreciated. However, when his family risks everything to come looking for him, Peter must figure out what kind of bunny he wants to be.#
+#Space Jam: A New Legacy (4.4/10)~https://www.golivebelize.com/movie/space-jam-a-new-legacy-720p.mp4~https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/SpaceJamANewLegacyOfficialPoster.jpg/220px-SpaceJamANewLegacyOfficialPoster.jpg~Superstar LeBron James and his young son, Dom, get trapped in digital space by a rogue AI. To get home safely, LeBron teams up with Bugs Bunny, Daffy Duck and the rest of the Looney Tunes gang for a high-stakes basketball game against the AI's digitized champions of the court -- a powered-up roster called the Goon Squad.#
+#The Boss Baby: Family Business (5.9/10)~https://www.golivebelize.com/movie/the-boss-baby-family-business-720p.mp4~https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/The_poster_for_The_Boss_Baby%2C_Family_Business%2C_with_new_date.jpg/220px-The_poster_for_The_Boss_Baby%2C_Family_Business%2C_with_new_date.jpg~Now adults, Tim Templeton is a stay-at-home dad for two adorable daughters, while his estranged brother, Ted, is a big-shot CEO. They come together in an unexpected way when they take a magical formula that transforms them into babies for 48 hours. Joining forces with Tim's secret-agent daughter, they must go under cover to prevent an evil genius from turning fellow toddlers into monstrous brats#
+#Raya and the Last Dragon (7.4/10)~http://162.12.215.254/Data/Movies/Animation/2021/Raya%20and%20the%20Last%20Dragon%202021%20720p%20Web-DL%20800MB/Raya%20and%20the%20Last%20Dragon%202021%20720p%20Web-DL%20800MB%20ESubs.mkv~https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png~Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. However, when sinister monsters known as the Druun threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, those same monsters have returned, and it's up to a lone warrior to track down the last dragon and stop the Druun for good.#
+
+
+</page>
+</regex>
+</item>
+
+
 
