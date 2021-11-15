@@ -28,6 +28,7 @@
 #Queenpins~http://lianechicoine.herokuapp.com/Queenpins%20%282021%29/Queenpins%20%282021%29%20WEBDL-1080p.mkv~https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Queenpins_poster.jpg/220px-Queenpins_poster.jpg~(6.2/10) A frustrated suburban housewife and her best friend hatch an illegal coupon-club scheme that scams millions from corporations and delivers deals to legions of fellow coupon clippers. Hot on their trail is an unlikely duo -- a hapless loss-prevention officer and a determined U.S. postal inspector -- both looking to end their criminal enterprise.#
 #Warning~http://103.222.20.150/ftpdata/Movies/Hollywood/2021/Warning%20%282021%29/Warning.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4~https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Warning_%28film%29.jpg/220px-Warning_%28film%29.jpg~(5.4/10) In the near future, a group of disparate individuals contemplates the meaning of life as deadly asteroids hurtle toward Earth.#
 #Free Guy~http://lianechicoine.herokuapp.com/Free%20Guy%20%282021%29/Free%20Guy%20%282021%29%20Remux-1080p.mkv~https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Free_Guy_2021_Poster.jpg/220px-Free_Guy_2021_Poster.jpg~(7.2/10) When a bank teller discovers he's actually a background player in an open-world video game, he decides to become the hero of his own story -- one that he can rewrite himself. In a world where there's no limits, he's determined to save the day his way before it's too late, and maybe find a little romance with the coder who conceived him.#
+#The Green Knight~http://dl.mahanmovie.com/2021/film/08/the%20green%20knight/The.Green.Knight.2021.1080p.WEB-DL.x265.RMT.mkv~https://upload.wikimedia.org/wikipedia/en/thumb/0/09/The_Green_Knight_poster.jpeg/220px-The_Green_Knight_poster.jpeg~(6.6/10) King Arthur's headstrong nephew embarks on a daring quest to confront the Green Knight, a mysterious giant who appears at Camelot. Risking his head, he sets off on an epic adventure to prove himself before his family and court.#
 #The Suicide Squad~http://dl.mahanmovie.com/2021/film/08/suicide%20squad/The.Suicide.Squad.2021.1080p.HMAX.WEB-DL.DD5.1.GalaxyRG.mahanmovir.mkv~https://upload.wikimedia.org/wikipedia/en/0/06/The_Suicide_Squad_%28film%29_poster.jpg~(7.3/10) The government sends the most dangerous supervillains in the world -- Bloodsport, Peacemaker, King Shark, Harley Quinn and others -- to the remote, enemy-infused island of Corto Maltese. Armed with high-tech weapons, they trek through the dangerous jungle on a search-and-destroy mission, with only Col. Rick Flag on the ground to make them behave.#
 #The Many Saints of Newark~http://dl.mahanmovie.com/2021/film/10/the%20saints%20of%20newark/The.Many.Saints.Of.Newark.2021.1080p.WEB-DL.AAC5.1.YTS.mahanmovie.mp4~https://upload.wikimedia.org/wikipedia/en/thumb/3/32/TheManySaintsOfNewarkPoster.jpg/220px-TheManySaintsOfNewarkPoster.jpg~(6.4/10) Young Anthony Soprano is growing up in one of the most tumultuous eras in Newark, N.J., history, becoming a man just as rival gangsters start to rise up and challenge the all-powerful DiMeo crime family. Caught up in the changing times is the uncle he idolizes, Dickie Moltisanti, whose influence over his nephew will help shape the impressionable teenager into the all-powerful mob boss, Tony Soprano.#
 #Bad Trip~http://lianechicoine.herokuapp.com/Bad%20Trip%20%282021%29/Bad%20Trip%20%282021%29%20WEBRip-1080p.mkv~https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Bad_Trip_poster.jpg/220px-Bad_Trip_poster.jpg~(6.6/10) Hidden cameras capture two best friends pulling hilarious and inventive pranks on an unsuspecting public during a wild road trip.#
@@ -94,6 +95,32 @@
 #Raya and the Last Dragon~http://162.12.215.254/Data/Movies/Animation/2021/Raya%20and%20the%20Last%20Dragon%202021%20720p%20Web-DL%20800MB/Raya%20and%20the%20Last%20Dragon%202021%20720p%20Web-DL%20800MB%20ESubs.mkv~https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png~(7.4/10) Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. However, when sinister monsters known as the Druun threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, those same monsters have returned, and it's up to a lone warrior to track down the last dragon and stop the Druun for good.#
 #Vivo~http://lianechicoine.herokuapp.com/Vivo%20%282021%29/Vivo%20%282021%29%20WEBDL-1080p.mkv~https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Vivo_poster.jpg/220px-Vivo_poster.jpg~(6.7/10) A music-loving kinkajou embarks on the journey of a lifetime to fulfill his destiny and deliver a love song for an old friend.#
 #The Mitchells vs. the Machines~http://dl.mahanmovie.com/2021/film/04/the%20mitchells%20vs%20machines/The.Mitchells.vs.The.Machines.2021.720p.WEB-DL.mkv~https://upload.wikimedia.org/wikipedia/en/thumb/4/41/MitchellsMachinesPoster.jpg/220px-MitchellsMachinesPoster.jpg~(7.7/10) Young Katie Mitchell embarks on a road trip with her proud parents, younger brother and beloved dog to start her first year at film school. But their plans to bond as a family soon get interrupted when the world's electronic devices come to life to stage an uprising. With help from two friendly robots, the Mitchells must now come together to save one another -- and the planet -- from the new technological revolution.#
+
+
+</page>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR yellow][B]2020[/B][/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/de/f3/8c/def38ced92765bb5af54181b75edc4ca.jpg</thumbnail>
+<fanart>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-movies-1624472751.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>[makelist.param2]</link>
+<thumbnail>[makelist.param3]</thumbnail>
+<info>[makelist.param4]</info>
+]]></listrepeat>
+<expres>#(.+?)~(.+?)~(.+?)~(.+?)#</expres
+<page>
+ 
+
+#Minamata~http://dl.mahanmovie.com/2021/film/06/MINAMATA/Minamata.2020.1080p.WEB-DL.YIFY.mahanmovie.mp4~https://upload.wikimedia.org/wikipedia/en/b/b3/Minamata_%28film%29_poster.jpg~(7.7/10) War photographer W. Eugene Smith travels back to Japan where he documents the devastating effect of mercury poisoning in coastal communities.#
+
 
 
 </page>
