@@ -43,7 +43,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <listrepeat><![CDATA[
    <title>[COLOR yellow][gen.param2][/COLOR]</title>
    <link>$doregex[m3u]</link>
-   <thumbnail></thumbnail>
+   <thumbnail>$doregex[img]</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[(?s)<h2 class="h4 article-title".+?href="/emisiuni/(.+?)">(.+?)</a>]]></expres>
 <page>[em.param1]</page>
