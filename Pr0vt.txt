@@ -1,12 +1,6 @@
 <item>
 <title>[COLOR yellow][B]Pro TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://sportbarchik88.com$doregex[link]|referer=https://sportbarchik88.com/protv.html</link> 
-<regex>
-<name>link</name>
-<expres><![CDATA[var videoLink = '(.+?)']]></expres>
-<page>https://sportbarchik88.com/protv.html</page>
-</regex>
-<thumbnail>https://i.ibb.co/X74P6M2/ProTV.png</thumbnail>
+<link>http://iptvprivata.com:25461//live/promo/promo/301.m3u8</link> 
 <fanart></fanart>
 </item>
  
