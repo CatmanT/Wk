@@ -1,19 +1,21 @@
 #EXTM3U
-#EXTINF:-1,VEVO '70S
-http://168.205.87.198:8555/live/1120/123456/221.ts
-#EXTINF:-1,VEVO '80S
-http://168.205.87.198:8555/live/1120/123456/222.ts
-#EXTINF:-1,VEVO '90S
-http://168.205.87.198:8555/live/1120/123456/223.ts
-#EXTINF:-1,VEVO 2K
-http://168.205.87.198:8555/live/1120/123456/224.ts
-#EXTINF:-1,VEVO COUNTRY
-http://168.205.87.198:8555/live/1120/123456/217.ts
-#EXTINF:-1,VEVO LATINO
-http://168.205.87.198:8555/live/1120/123456/220.ts
-#EXTINF:-1,VEVO POP
-http://168.205.87.198:8555/live/1120/123456/219.ts
-#EXTINF:-1,VEVO R B
-http://168.205.87.198:8555/live/1120/123456/218.ts
-#EXTINF:-1,VEVO REGGAETÓN TRAP
-http://168.205.87.198:8555/live/1120/123456/216.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",VEVO '70S
+http://168.205.87.198:8555/live/1057/123456/221.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",VEVO '80S
+http://168.205.87.198:8555/live/1057/123456/222.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",VEVO '90S
+http://168.205.87.198:8555/live/1057/123456/223.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",VEVO 2K
+http://168.205.87.198:8555/live/1057/123456/224.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",VEVO COUNTRY
+http://168.205.87.198:8555/live/1057/123456/217.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",VEVO LATINO
+http://168.205.87.198:8555/live/1057/123456/220.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",VEVO POP
+http://168.205.87.198:8555/live/1057/123456/219.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",VEVO R B
+http://168.205.87.198:8555/live/1057/123456/218.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",VEVO REGGAETN TRAP
+http://168.205.87.198:8555/live/1057/123456/216.ts
+#EXTINF:0 tvg-id="Woohoo.br" group-title="Channels",WOOHOO
+http://168.205.87.198:8555/live/1057/123456/141.ts
