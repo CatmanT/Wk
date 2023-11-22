@@ -1,19 +1,23 @@
 #EXTM3U
 #EXTINF:0,Discovery Science
 acestream://6ddb6731ee292cd43c88d70db13f545df294316b/
-#EXTINF:0,.
-acestream://e963ecc3991eefd335b2ed0d6590239378884405/
-#EXTINF:0,ABU DHABI SPORTS 1
-acestream://9cd77512b9ecaca4dd0c3603fe8380f9d84e58fd/
-#EXTINF:0,ACETOP-1
-acestream://2b0acad014567bbbe0664904af8c001754283eb1/
-#EXTINF:0,ACETOP-2
-acestream://5f569f3ecf8b4d2f2f4bc732dd7023568f76e4a9/
-#EXTINF:0,ACETOP-3
-acestream://3a7b82b6dbb4312562e06d88a3527c6f072eccc6/
-#EXTINF:0,ALL Sports
-acestream://e26a359efe269af158923a63d69884bfe12a33cc/
-#EXTINF:0,AMAZON PRIME VIDEO 1 HD [BE]
-acestream://5323ccadb659f7d3cb5fa2e5835c5af362e144d6/
-#EXTINF:0,AMAZON PRIME VIDEO 2 HD [BE]
-acestream://2926e34c63d83764f9c6671da53397d55041b4ea/
+#EXTINF:0,Discovery
+acestream://72971bc15afdfbc40ddcd23b2ee0959b37a19b82/
+#EXTINF:0,Discovery ID
+acestream://1beff34134d62d95ee9551468a80528bc60d6d6c/
+#EXTINF:0,Viasat History
+acestream://dbce9cf50a27b23c0de621d69bc0c910f6d9b3f1/
+#EXTINF:0,Viasat Explorer
+acestream://78070e8bbf9bc5bf8b152b30592b18abac739ff5/  
+#EXTINF:0,Viasat Nature
+acestream://daddf516b5fb7f40094a86df929c635ba5d12a1c/
+#EXTINF:0,Fishing and hunting
+acestream://0e77bf71f53fc8b0220e0def23fb1a1e9471ed56/
+#EXTINF:0,CBS Reality
+acestream://9370bee130d196aa42d11c238ca81a5c96252424/
+#EXTINF:0,Fine living  
+acestream://4142c1fb0cd6546cb9bb18019d86afffb056351c/
+#EXTINF:0,Animal planet
+acestream://9f066a7370d5c8233af7851641e1d14008197899/
+#EXTINF:0,Gigelsport 1
+acestream://3925c5d8dd2f168ababd42a58bb26d30a5de4897/
