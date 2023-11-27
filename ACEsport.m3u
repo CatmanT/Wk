@@ -12,3 +12,18 @@ plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_ci
 
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/MATCH_PLANETA.png" ,МАТЧ! Планета [RU]
 plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_c08139c8.acelive
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/xvfj7p1641241586.png" ,Матч! Страна ( 1 )
+plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_ae59d915.acelive
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/xvfj7p1641241586.png" ,Матч! Страна ( 2 )
+plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_1b6207a4.acelive
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/xvfj7p1641241586.png" ,Матч! Страна ( 3 ) [RU]
+plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_a67179ce.acelive
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xh0f1nXYUKJbbcFvfAEwRNT6mm5Nhyfq26rUneNfq-EYzpKTHm4fLvMI5O6mC1rwpQ&usqp=CAU" ,Матч! ТВ HD [RU]
+plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_a67179ce.acelive
+
+#EXTINF:-1 tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1802399/1802399-1557839800264-92de5352cd1a9.jpg" ,Матч! Премьер HD [RU]
+plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_a67179ce.acelive
