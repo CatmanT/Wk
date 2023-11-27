@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0CwSJCr/A1.png" ,Match! [RU]
-plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_ddb01ec7.acelive
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfSX5e36865f4HQWBFrVS_2tcaTectTL16xgN2kQI1_gsFx3IsSdmVnYNo1Mtv7S6leVs&usqp=CAU" ,Матч! Футбол 1 ( original ) [RU]
+plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_58e5b419.acelive
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0CwSJCr/A1.png" ,Match Planeta! [RU]
 plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_c08139c8.acelive
