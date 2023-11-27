@@ -27,3 +27,6 @@ plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_ci
 
 #EXTINF:-1 tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1802399/1802399-1557839800264-92de5352cd1a9.jpg" ,Матч! Премьер HD [RU]
 plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_a67179ce.acelive
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkNoIL__3Av6N7wyAXmzg1DnKGlOcjogjhq8OEhutj9I9zdZqcZRm5JUn_1GevloaXFrU&usqp=CAU" ,Футбол HD [RU]
+plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_de2e60c0.acelive
