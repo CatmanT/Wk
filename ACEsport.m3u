@@ -4,5 +4,11 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfSX5e36865f4HQWBFrVS_2tcaTectTL16xgN2kQI1_gsFx3IsSdmVnYNo1Mtv7S6leVs&usqp=CAU" ,Матч! Футбол 1 ( original ) [RU]
 plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_58e5b419.acelive
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0CwSJCr/A1.png" ,Match Planeta! [RU]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5f1bwjE_-OQ9Q-HAaTXIBtmDuvuw13UwgbKPuvS566xI26WyMM_U4oVNjP9Oy_xWqkmo&usqp=CAU" ,Матч! Футбол 2 ( original ) [RU]
+plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_942b2f03.acelive
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_jP6ONXG2447C5no6rRcAnxxVfIhBauqHUWN0oywIzjR9WVwE4VvfA0_RezdNSesClsM&usqp=CAU" ,Матч! Футбол 3 ( original ) [RU]
+plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_cfd870fc.acelive
+
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/MATCH_PLANETA.png" ,МАТЧ! Планета [RU]
 plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_c08139c8.acelive
