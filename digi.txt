@@ -1,23 +1,8 @@
+
 <item>
 <title>[COLOR yellow][B]Digi24 LIVE[/B][/COLOR]</title>
-<inputstream>$doregex[getURL]</inputstream>
+<link>https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8</link>
 <thumbnail>https://i.ibb.co/DrYzbcr/Digi24.png</thumbnail>
-<regex>
-<name>getURL</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-  import requests, urllib
-  headers = {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3',
-             'Referer': 'https://www.digi24.ro/'}
-  eurl = "https://balancer2.digi24.ro/streamer.php?&scope=digi24&key={0}&outputFormat=json&type=abr&quality=hq"
-  eurl = eurl.format(page_data)
-  r = requests.get(eurl, headers=headers).json()
-  strurl = r.get('file')
-  return '{0}|{1}'.format(strurl, urllib.urlencode(headers))
-]]></expres>
-<page>https://balancer2.digi24.ro/streamer/make_key.php</page>
-<referer>https://www.digi24.ro/</referer>
-</regex>
 </item>
 
 
