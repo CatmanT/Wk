@@ -1,32 +1,32 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfSX5e36865f4HQWBFrVS_2tcaTectTL16xgN2kQI1_gsFx3IsSdmVnYNo1Mtv7S6leVs&usqp=CAU" ,Матч! Футбол 1 ( original ) [RU]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfSX5e36865f4HQWBFrVS_2tcaTectTL16xgN2kQI1_gsFx3IsSdmVnYNo1Mtv7S6leVs&usqp=CAU" ,Match Futbol 1 ( original ) [RU]
 plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_58e5b419.acelive
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5f1bwjE_-OQ9Q-HAaTXIBtmDuvuw13UwgbKPuvS566xI26WyMM_U4oVNjP9Oy_xWqkmo&usqp=CAU" ,Матч! Футбол 2 ( original ) [RU]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5f1bwjE_-OQ9Q-HAaTXIBtmDuvuw13UwgbKPuvS566xI26WyMM_U4oVNjP9Oy_xWqkmo&usqp=CAU" ,Match Futbol 2 ( original ) [RU]
 plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_942b2f03.acelive
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_jP6ONXG2447C5no6rRcAnxxVfIhBauqHUWN0oywIzjR9WVwE4VvfA0_RezdNSesClsM&usqp=CAU" ,Матч! Футбол 3 ( original ) [RU]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_jP6ONXG2447C5no6rRcAnxxVfIhBauqHUWN0oywIzjR9WVwE4VvfA0_RezdNSesClsM&usqp=CAU" ,Match Futbol 3 ( original ) [RU]
 plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_cfd870fc.acelive
 
-#EXTINF:-1 tvg-logo="https://ewsat.com/img/MATCH_PLANETA.png" ,МАТЧ! Планета [RU]
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/MATCH_PLANETA.png" ,Match Planeta [RU]
 plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_c08139c8.acelive
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/xvfj7p1641241586.png" ,Матч! Страна ( 1 )
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/xvfj7p1641241586.png" ,Match Strana ( 1 )
 plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_ae59d915.acelive
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/xvfj7p1641241586.png" ,Матч! Страна ( 2 )
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/xvfj7p1641241586.png" ,Match Stranaа ( 2 )
 plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_1b6207a4.acelive
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/xvfj7p1641241586.png" ,Матч! Страна ( 3 ) [RU]
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/xvfj7p1641241586.png" ,Match Strana ( 3 ) [RU]
 plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_a67179ce.acelive
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xh0f1nXYUKJbbcFvfAEwRNT6mm5Nhyfq26rUneNfq-EYzpKTHm4fLvMI5O6mC1rwpQ&usqp=CAU" ,Матч! ТВ HD [RU]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xh0f1nXYUKJbbcFvfAEwRNT6mm5Nhyfq26rUneNfq-EYzpKTHm4fLvMI5O6mC1rwpQ&usqp=CAU" ,Match TVВ HD [RU]
 plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_a67179ce.acelive
 
-#EXTINF:-1 tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1802399/1802399-1557839800264-92de5352cd1a9.jpg" ,Матч! Премьер HD [RU]
+#EXTINF:-1 tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1802399/1802399-1557839800264-92de5352cd1a9.jpg" ,Match Premier HD [RU]
 plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_a67179ce.acelive
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkNoIL__3Av6N7wyAXmzg1DnKGlOcjogjhq8OEhutj9I9zdZqcZRm5JUn_1GevloaXFrU&usqp=CAU" ,Футбол HD [RU]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkNoIL__3Av6N7wyAXmzg1DnKGlOcjogjhq8OEhutj9I9zdZqcZRm5JUn_1GevloaXFrU&usqp=CAU" ,Futbol HD [RU]
 plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_de2e60c0.acelive
