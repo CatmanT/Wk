@@ -16,7 +16,7 @@ plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_ci
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/xvfj7p1641241586.png" ,Match Strana ( 1 )
 plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_ae59d915.acelive
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/xvfj7p1641241586.png" ,Match Stranaа ( 2 )
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/xvfj7p1641241586.png" ,Match Strana ( 2 )
 plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_1b6207a4.acelive
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/xvfj7p1641241586.png" ,Match Strana ( 3 ) [RU]
@@ -30,3 +30,13 @@ plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_ci
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkNoIL__3Av6N7wyAXmzg1DnKGlOcjogjhq8OEhutj9I9zdZqcZRm5JUn_1GevloaXFrU&usqp=CAU" ,Futbol HD [RU]
 plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_de2e60c0.acelive
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Cas7ISZUUAA1krw.png" ,Match Arena HD [RU]
+plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_f27a557c.acelive
+
+#EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/%D0%9C%D0%90%D0%A2%D0%A7!%20%D0%91%D0%9E%D0%95%D0%A6%20Russia.png" ,Match Box HD [RU]
+plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_b6c560c2.acelive
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/3b/%D0%9C%D0%B0%D1%82%D1%87%21_%D0%98%D0%B3%D1%80%D0%B0_%282016%2C_%D0%B2%D0%B5%D1%80%D1%82%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%2C_%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%29.png/revision/latest/scale-to-width-down/250?cb=20220106214714&path-prefix=ru" ,Match IGRA HD [RU]
+plugin://program.plexus/?mode=1&url=http://repo.pineshouston.org/ace/sport/as_cid_e4ce8edf.acelive
+
