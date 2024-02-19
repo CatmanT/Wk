@@ -1,0 +1,40 @@
+<item>
+<title>[COLOR yellow][B]2024[/B][/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/de/f3/8c/def38ced92765bb5af54181b75edc4ca.jpg</thumbnail>
+<fanart>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-movies-1624472751.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>[makelist.param2]</link>
+<thumbnail>[makelist.param3]</thumbnail>
+<info>[makelist.param4]</info>
+]]></listrepeat>
+<expres>#(.+?)~(.+?)~(.+?)~(.+?)#</expres
+<page>
+
+
+
+#Land of Bad~https://abra--7537ca20.api.nocturnal-narwhal.buzz/9e0b1716a04ea0e43765350ab4a9fc2038064947/Land%20Of%20Bad%20(2024)%20%5B1080p%5D%20%5BWEBRip%5D%20%5B5.1%5D%20%5BYTS.MX%5D%2FLand.Of.Bad.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4~vod/hls/8034cc94000fcc8ec3d823a61c180835/index.m3u8?user-id=e56d7f9823fca8467ebf810bd10908f2&download-id=0941b82921cf20b6c804209b1136fa73&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjEuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJlbW90ZUFkZHJlc3MiOiI3My4zMi4zMi4yMDEiLCJkb21haW4iOiJ5dHMubXgiLCJleHAiOjE3MDg3ODI2MjAsInNlc3Npb25JRCI6Ik5oaXJvVzhUTjRzZXJJRXJ1ODZ1WGotWk1ZYng4MnYyIiwicmF0ZSI6IjEwTSIsInJvbGUiOiJub2JvZHkifQ.3g2Hwl_ti3AWVS0MBKZBhElikkTdtLRu93u1ocsMGeo&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1~https://img.yts.mx/assets/images/movies/captain_miller_2024/medium-cover.jpg~When a Delta Force special ops mission goes terribly wrong, Air Force drone pilot Reaper has 48 hours to remedy what has devolved into a wild rescue operation. With no weapons and no communication other than the drone above, the ground mission suddenly becomes a full-scale battle when the team is discovered by the enemy.#
+
+#This Is Me... Now~https://abra--2d8fde14.api.nocturnal-narwhal.buzz/29452026db59fb985ac42c9219d066394e1ec04a/This%20Is%20Me...%20Now%20(2024)%20%5B1080p%5D%20%5BWEBRip%5D%20%5B5.1%5D%20%5BYTS.MX%5D%2FThis.Is.Me....Now.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4~vod/hls/782a07de77115e780d48c3052865568a/index.m3u8?user-id=67e810202a358af8f6e4028d5aef2e7b&download-id=e32560c0acf056e86483fb07c92e869b&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjEuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJlbW90ZUFkZHJlc3MiOiI3My4zMi4zMi4yMDEiLCJkb21haW4iOiJ5dHMubXgiLCJleHAiOjE3MDg3ODIxMzEsInNlc3Npb25JRCI6InQ3TTNxcWNoQ3JkbkJ3b0pTeE9lRy10ZGNaSlNYS29fIiwicmF0ZSI6IjEwTSIsInJvbGUiOiJub2JvZHkifQ.dGbbsWuouNLxgqL4KPtjbTvlFS_77SC7iDS8LtG47nk&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1~https://img.yts.mx/assets/images/movies/this_is_me_now_2024/medium-cover.jpg~An intimate, fantastical and narrative-driven reflection of Jennifer Lopez's journey of self-healing and self-love in an immersive world where music and visuals intertwine, revealing the challenges faced and the triumphs achieved.#
+
+
+<item>
+<title>[COLOR yellow][B]2023[/B][/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/de/f3/8c/def38ced92765bb5af54181b75edc4ca.jpg</thumbnail>
+<fanart>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-movies-1624472751.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>[makelist.param2]</link>
+<thumbnail>[makelist.param3]</thumbnail>
+<info>[makelist.param4]</info>
+]]></listrepeat>
+<expres>#(.+?)~(.+?)~(.+?)~(.+?)#</expres
+<page>
+
+#Captain Miller~https://abra--7537ca20.api.nocturnal-narwhal.buzz/8807e447a2754d152dce78e601c274f4b4fba13e/Captain%20Miller%20(2024)%20%5B720p%5D%20%5BWEBRip%5D%20%5BYTS.MX%5D%2FCaptain.Miller.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4~vod/hls/43c2112106d20b1d2b0bc0f95ad5a06d/index.m3u8?user-id=9f92a770e1b1ef81da28f3b192d05d51&download-id=4fdf74423015bcb0e663dab02894e857&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjEuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJlbW90ZUFkZHJlc3MiOiI3My4zMi4zMi4yMDEiLCJkb21haW4iOiJ5dHMubXgiLCJleHAiOjE3MDg5NTcwMzksInNlc3Npb25JRCI6ImhteUtYVnQ4dEx4S3pMa2pqY1lMVE9kYXRMRFZNUmd3IiwicmF0ZSI6IjEwTSIsInJvbGUiOiJub2JvZHkifQ.ZHqBvsGlhMkNZx0UzqyGN096pMof9BF_2s-ueYQ7cO4&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1~https://img.yts.mx/assets/images/movies/captain_miller_2024/medium-cover.jpg~In the 1930s, during the British Raj, Analeesan "Eesa", a former soldier of the British Indian Army called Captain Miller, is on a mission to protect the people from the British after witnessing an atrocity.#
