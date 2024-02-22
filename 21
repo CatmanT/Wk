@@ -1,4 +1,41 @@
 <item>
+<title>[COLOR yellow][B]2028[/B][/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/de/f3/8c/def38ced92765bb5af54181b75edc4ca.jpg</thumbnail>
+<fanart>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-movies-1624472751.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>[makelist.param2]</link>
+<thumbnail>[makelist.param3]</thumbnail>
+<info>[makelist.param4]</info>
+]]></listrepeat>
+<expres>#(.+?)*(.+?)*(.+?)*(.+?)#</expres
+<page>
+ 
+
+
+#The Iron Claw*https://abra--7537cb52.api.nocturnal-narwhal.buzz/ffc9d168a403937aaffb7fbad20e32ebbf074b2e/The%20Iron%20Claw%20(2023)%20%5B1080p%5D%20%5BWEBRip%5D%20%5B5.1%5D%20%5BYTS.MX%5D%2FThe.Iron.Claw.2023.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4~vod/hls/7626b08ce79214f59ee4b88b830481e0/index.m3u8?user-id=7259fcba3722f8a1e38d056b52d30ed5&download-id=995b796c80d44aafb6f8df28157ae682&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjEuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJlbW90ZUFkZHJlc3MiOiI3My4zMi4zMi4yMDEiLCJkb21haW4iOiJ5dHMubXgiLCJleHAiOjE3MDg3ODI1MDgsInNlc3Npb25JRCI6Im4wOFZBWUx2LVFTUzZZNG83Nkd1Wk9USG9KcUVmcm03IiwicmF0ZSI6IjEwTSIsInJvbGUiOiJub2JvZHkifQ.mYUT9g8Hx7QHQwHwECT_D2ahlkmgeYfgDlgCyrzFMRU&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1*https://img.yts.mx/assets/images/movies/the_iron_claw_2023/medium-cover.jpg*(7.7/10) Jean de Carrouges is a respected knight known for his bravery and skill on the battlefield. Jacques Le Gris is a squire whose intelligence and eloquence makes him one of the most admired nobles in court. When Le Gris viciously assaults Carrouges' wife, she steps forward to accuse her attacker, an act of bravery and defiance that puts her life in jeopardy. The ensuing trial by combat, a grueling duel to the death, places the fate of all three in God's hands.#
+
+
+
+</page>
+</regex>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
 <title>[COLOR yellow][B]2023[/B][/COLOR]</title>
 <thumbnail>https://i.pinimg.com/originals/de/f3/8c/def38ced92765bb5af54181b75edc4ca.jpg</thumbnail>
 <fanart>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-movies-1624472751.jpg</fanart>
