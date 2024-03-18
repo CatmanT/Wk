@@ -1,31 +1,31 @@
 <item>
 <title>[COLOR yellow][B]Pro TV[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://p3.stirilepe.net/protv/tracks-v1a1/mono.m3u8|Referer=https://emisiuni.live/</link> 
+<link>https://p4.stirilepe.net/protv/tracks-v1a1/mono.m3u8|Referer=https://emisiuni.live/</link> 
 <thumbnail>https://i.ibb.co/X74P6M2/ProTV.png</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
 <title>[COLOR yellow][B]Pro Cinema[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://p3.stirilepe.net/procinemasd/video.m3u8|Referer=https://emisiuni.live/</link>
+<link>https://p4.stirilepe.net/procinemasd/video.m3u8|Referer=https://emisiuni.live/</link>
 <thumbnail>https://i.ibb.co/XWbdMq7/Pro-Cinema.png</thumbnail>
 </item>
  
 <item>
 <title>[COLOR yellow][B]Acasa[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://p3.stirilepe.net/acasahd/tracks-v1a1/mono.m3u8|Referer=https://emisiuni.live/</link>
+<link>https://p4.stirilepe.net/acasahd/tracks-v1a1/mono.m3u8|Referer=https://emisiuni.live/</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Acas%C4%83_TV_%282016%29.svg/1280px-Logo_Acas%C4%83_TV_%282016%29.svg.png</thumbnail>
 </item>
  
 <item>
 <title>[COLOR yellow][B]Acasa Gold[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://play.stirilepe.net/acasagoldsd/tracks-v1a1/mono.m3u8|Referer=https://rds.live/</link>
+<link>https://p4.stirilepe.net/acasahd/video.m3u8|Referer=https://emisiuni.live/</link>
 <thumbnail>https://static.wikia.nocookie.net/logopedia/images/1/1b/Acas%C4%83_Gold_%282012-2014%29.png/revision/latest?cb=20170122111541</thumbnail>
 </item>
 
 <item>
 <title>[COLOR yellow][B]Pro Arena[/B][/COLOR]   [COLOR green][B][LIVE][/B][/COLOR]</title>
-<link>https://p3.stirilepe.net/proarenahd/tracks-v1a1/mono.m3u8|Referer=https://emisiuni.live/</link>
+<link>https://p4.stirilepe.net/proarenahd/tracks-v1a1/mono.m3u8|Referer=https://emisiuni.live/</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PRO_Arena_%25_282022%25_29.webp/550px-PRO_Arena_%25_282022%25_29.webp.png</thumbnail>
 </item>
 
