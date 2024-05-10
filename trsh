@@ -25,7 +25,7 @@ https://p5.stirilepe.net/national24sd/video.m3u8|Referer=https://emisiuni.live/
 https://p5.stirilepe.net/realitateaplussd/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="România TV" tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png"group-title="Stiri",Romania TV
 https://p5.stirilepe.net/romaniatvsd/video.m3u8|Referer=https://emisiuni.live/
-#EXTINF:-1 tvg-name="" tvg-id=""tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png"group-title="Stiri]",Euronews
+#EXTINF:-1 tvg-name="" tvg-id=""tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png"group-title="Stiri",Euronews
 https://p5.stirilepe.net/euronewsrosd/video.m3u8|Referer=https://emisiuni.live/
 
 #EXTINF:-1 tvg-name="TVR 1" tvg-id=""tvg-logo="https://i.postimg.cc/wTwVJ6Hn/TVR_1.png"group-title="Generaliste",TVR 1
