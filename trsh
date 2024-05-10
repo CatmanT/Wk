@@ -25,6 +25,9 @@ https://p5.stirilepe.net/national24sd/video.m3u8|Referer=https://emisiuni.live/
 https://p5.stirilepe.net/realitateaplussd/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="România TV" tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png"group-title="Stiri",Romania TV
 https://p5.stirilepe.net/romaniatvsd/video.m3u8|Referer=https://emisiuni.live/
+#EXTINF:-1 tvg-name="" tvg-id=""tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png"group-title="Stiri]",Euronews
+https://p5.stirilepe.net/euronewsrosd/video.m3u8|Referer=https://emisiuni.live/
+
 #EXTINF:-1 tvg-name="TVR 1" tvg-id=""tvg-logo="https://i.postimg.cc/wTwVJ6Hn/TVR_1.png"group-title="Generaliste",TVR 1
 https://p5.stirilepe.net/tvr1hd/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="TVR 2" tvg-id=""tvg-logo="https://i.postimg.cc/fTzCJ34x/TVR_2.png"group-title="Generaliste",TVR 2
@@ -169,6 +172,8 @@ https://p5.stirilepe.net/primasport1hd/video.m3u8|Referer=https://emisiuni.live/
 https://p5.stirilepe.net/primasport2sd/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="Prima Sport 3 HD" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",PRIMA SPORT 3
 https://p5.stirilepe.net/primasport3sd/video.m3u8|Referer=https://emisiuni.live/
+#EXTINF:-1 tvg-name="Sport Extra HD" tvg-id=""tvg-logo="https://i.postimg.cc/8zr1WzMC/Extreme-Sports-Channel.png"group-title="Sport",Sport Extra
+https://p5.stirilepe.net/sportextrahd/tracks-v1a1/mono.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="PRO Arena HD" tvg-logo="https://i.postimg.cc/52f2xhMw/Pro-ARENA.png" group-title="Sport",PRO ARENA HD
 https://p5.stirilepe.net/proarenahd/video.m3u8|Referer=https://emisiuni.live/
 
