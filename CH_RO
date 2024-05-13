@@ -1,54 +1,107 @@
-<item>
-    <title>[B][COLOR darkorange]Romania TV[/COLOR][/B]    LIVE</title>
-    <thumbnail>https://lh5.ggpht.com/O4t0Jfv8t_e1jn4BbJplSW1Xo6ezngTo-VprEhKmOVXqA7aXfkJ2Iz2u1MfQ1yqKh-4=w128</thumbnail>
-    <link>https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8|referer=https://www.romaniatv.net/</link>
-</item>
-
-
-<item>
-<title>[COLOR red][/COLOR][COLOR white]TV-Romania 2[/COLOR]</title>
-<link>$doregex[menu]</link>
-<regex>
-<name>menu</name>
-<listrepeat><![CDATA[
-<title>[menu.param2]</title>
-<link>$doregex[getUrl]|User-Agent=iPad&amp;Referer=https://filme24.club/</link>
-<thumbnail></thumbnail>  
+item>
+<title>[COLOR yellow][B]Canale RO LIVE[/B][/COLOR]</title>
+<thumbnail>https://i.ibb.co/5W8m1tC/Romania-Vo-D.png"</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/CatmanT/Wk/main/R0Lv</externallink>
 <fanart></fanart>
-]]></listrepeat>
-<expres>class="title" href="/tv-live/(.+?).html" title="(.+?) Online"</expres>
-<page>https://tvhd-online.com</page>
-</regex>
+</item>
 
-<regex>
-<name>getUrl</name>
-<expres>source:\s*'([^']+)</expres>
-<page>https://filme24.club/embed/[menu.param1].html</page>
-<referer>https://filme24.club/</referer>
-<cookiejar>$doregex[getCookie]</cookiejar>
-</regex>
-<regex>
-<name>getCookie</name>
-<expres></expres>
-<page>https://filme24.club/tv-live/?url=[menu.param1]</page>
-<referer>https://filme24.club/</referer>
-<cookiejar></cookiejar>
-</regex>
+<item>
+<title>[COLOR yellow][B]DIGI 24[/B][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/CatmanT/Wk/main/digi.txt</externallink>
+<thumbnail>https://i.ibb.co/DrYzbcr/Digi24.png</thumbnail>
+<fanart>https://i.ibb.co/q91CMV5/Digi24-Fan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]PRO TV[/B][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/XSKbHJMb</externallink>
+<thumbnail>https://i.ibb.co/X74P6M2/ProTV.png</thumbnail>
+<fanart>https://assets.fontsinuse.com/static/use-media-items/83/82054/full-843x474/5c52ef64/21122453_10155266470707935_2190762190628529380_o.jpeg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow][B]Kanal D[/B][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/1pZZ7SYY</externallink>
+<thumbnail>https://i.ibb.co/g6YW2X0/KanalD.png</thumbnail>
+<fanart>https://mediastiriv1.freenode.ro/image/201601/w800/media-145349403745548100.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Prima TV[/B][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/xBTF9wuT</externallink>
+<thumbnail>https://i.ibb.co/6RLf03K/PrimaTV.png</thumbnail>
+<fanart>https://cdn.aiidatapro.net/media/41/d7/87/t780x490/41d78724cbeef2ac81d4bc76a39836ea.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Antenele RO[/B][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/t7WfEBEc</externallink>
+<thumbnail>https://i.ibb.co/3mKtHVm/antenele.png</thumbnail>
+<fanart>https://fii-informat.ro/wp-content/uploads/2019/09/antenele-nu-se-mai-vad-nici-pe-upc.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]TVR Romania[/B][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/7GKFwvtL</externallink>
+<thumbnail>https://i.ibb.co/7bm3cPM/ro-tvr.png</thumbnail>
+<fanart>https://i.ibb.co/pdQk5Yg/TVR-flags.jpg</fanart>
 </item>
 
 
 
+<item>
+<title>[COLOR yellow][B]B1 TV[/B][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/wBW2GYVn</externallink>
+<thumbnail>https://i.ibb.co/b65Sc8r/B1.png</thumbnail>
+<fanart>https://www.sapteseri.ro/assets/images/places/2019/07/pid-1927/28279635_1738463279530968_8514250664474828195_n_-_Copie.jpg</fanart>
+</item>
 
 <item>
-<title>[COLOR yellow][B]Romania TV[/B][/COLOR]  [COLOR red][B]  [YT][/B][/COLOR]  [Latest]</title>
-<thumbnail>https://static.wikia.nocookie.net/logopedia/images/a/a3/Romania_TV.jpg/revision/latest/scale-to-width-down/340?cb=20180815123009g</thumbnail>
-<fanart>https://yt3.ggpht.com/AdfjNL6EbKEWuKX3baONxzI9aAoeYrfoDdLyCtg9ty8kMWIm275b0Qh6Totf51KfSbiTLuldcQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj</fanart>
+<title>[COLOR yellow][B]Romania TV[/B][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/9uxfWRpW</externallink>
+<thumbnail>https://lh5.ggpht.com/O4t0Jfv8t_e1jn4BbJplSW1Xo6ezngTo-VprEhKmOVXqA7aXfkJ2Iz2u1MfQ1yqKh-4=h300</thumbnail>
+<fanart>https://i.ibb.co/pbh9rTd/RomTV.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow][B]National TV[/B][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/F3ScFYt9</externallink>
+<thumbnail>https://i.ibb.co/TH42tDH/National-TV.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/D-CRlLkdmng/maxresdefault.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow][B]EURONEWS[/B][/COLOR]  RO</title>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/qHQ4n8br</externallink>
+<thumbnail>https://yt3.googleusercontent.com/I_0fh83ZgWvoORT0Jwim6iHj8iBDsBjcTpMDMzG-A210unzYPLSHq60edKeQXPUF54uHpCHdOo0=s900-c-k-c0x00ffffff-no-rj</thumbnail>
+<fanart>https://www.romaniajournal.ro/wp-content/uploads/2021/01/euronews.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow][B]Secretele Omenirii[/B][/COLOR]  [COLOR red][B]  [YT][/B][/COLOR]</title>
+<thumbnail>https://yt3.ggpht.com/ytc/AAUvwnjKvNNUySQXjJ_BLMtVy0E9PNvLZ3ZdMPxDtSqg=s48-c-k-c0x00ffffff-no-rj</thumbnail>
+<fanart></fanart>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
   <title>[COLOR cyan]([makelist.param2])[COLOR gold][makelist.param1][/COLOR]</title>
-  <info>Telejurnalul orei 20 [makelist.param2]</info>
+  <info>Secretele Omenirii [makelist.param2]</info>
   <utube>[makelist.param3]</utube>
   <thumbnail>https://i.ytimg.com/vi/[makelist.param3]/hqdefault.jpg</thumbnail>
   <fanart></fanart>
@@ -56,51 +109,7 @@
 <expres><![CDATA[#$pyFunction
 import re,urllib
 def GetLSProData(page_data,Cookie_Jar,m):
-  page_data=urllib.urlopen('https://www.youtube.com/playlist?list=UU5Bb0itu0pB46xykW32ck0g').read()
-  jdata=re.findall('"sectionListRenderer":{"contents"(?s)(.*?)id="container"',page_data)[0].replace('\u0026','&').replace('\\','')
-  YTid=re.findall('"playlistVideoRenderer":{"videoId":"([^"]+)',jdata)
-  title=re.findall('"playlistVideoRenderer":{"videoId":[\w\W]+?"accessibilityData":{"label":"(.+?)\sby',jdata)
-  duration=re.findall('"playlistVideoRenderer":{"videoId":[\w\W]+?},"simpleText":"([^"]+)',jdata)
-  return zip(title,duration,YTid)
-]]></expres>
-<page></page>
-</regex>
-</item>
-
-
-
-<item>
-<title>[COLOR yellow]Romania TV[/COLOR][COLOR red][B]  [YT][/B][/COLOR]  [COLOR green]¤¤¤  [/COLOR]Canal Oficial[COLOR green]  ¤¤¤[/COLOR]</title>
-<thumbnail>https://yt3.ggpht.com/ytc/AAUvwngXzPWGrk1MTL-zLVdfVK3oqP92CG1nkITOUoVJ=s88-c-k-c0x00ffffff-no-rj</thumbnail>
-<fanart>https://i.ytimg.com/vi/m01Ujdrh9o4/maxresdefault_live.jpg</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-  <title>[COLOR gold][makelist.param3][/COLOR]</title>
-  <link>$doregex[makelist2]</link>
-  <thumbnail>[makelist.param2]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-import re,urllib
-def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
-  list=urllib.urlopen('https://www.youtube.com/c/RomaniaTVOFICIAL/playlists').read().replace('\u0026','&')
-  return re.findall('{"gridPlaylistRenderer":{"playlistId":"([^"]+)[\w\W]+?{"thumbnails":.{"url":"([^\?]+)[\w\W]+?"title":{"runs":.{"text":"([^"]+)',list)
-]]></expres>
-<page></page>
-</regex>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-  <title>[COLOR cyan]([makelist2.param2])[COLOR gold][makelist2.param1][/COLOR]</title>
-  <info>[COLOR dodgerblue]Thời lượng [makelist2.param2][/COLOR]</info>
-  <utube>[makelist2.param3]</utube>
-  <thumbnail>https://i.ytimg.com/vi/[makelist2.param3]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-import re,urllib
-def GetLSProData(page_data, Cookie_Jar, m):
-  page_data=urllib.urlopen('https://www.youtube.com/playlist?list=[makelist.param1]').read()
+  page_data=urllib.urlopen('https://www.youtube.com/playlist?list=UUxIaLRynuL4dk8xb_zmgB5w').read()
   jdata=re.findall('"sectionListRenderer":{"contents"(?s)(.*?)id="container"',page_data)[0].replace('\u0026','&').replace('\\','')
   YTid=re.findall('"playlistVideoRenderer":{"videoId":"([^"]+)',jdata)
   title=re.findall('"playlistVideoRenderer":{"videoId":[\w\W]+?"accessibilityData":{"label":"(.+?)\sby',jdata)
@@ -113,60 +122,9 @@ def GetLSProData(page_data, Cookie_Jar, m):
 
 
 <item>
-<title>[COLOR yellow][B]ROMÂNIA LA RAPORT[/B][/COLOR] cu ANDREEA CREȚULESCU  [COLOR red][B]  [YT][/B][/COLOR]</title>
-<thumbnail>https://romanicablues.files.wordpress.com/2017/01/andreea-crec89bulescu1.png?w=668</thumbnail>
-<fanart>https://huff.ro/wp-content/uploads/2016/10/andreea-cretulescu-amenintata-1024x641.jpg</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-  <title>[COLOR cyan]([makelist.param2])[COLOR gold][makelist.param1][/COLOR]</title>
-  <info>Telejurnalul orei 20 [makelist.param2]</info>
-  <utube>[makelist.param3]</utube>
-  <thumbnail>https://i.ytimg.com/vi/[makelist.param3]/hqdefault.jpg</thumbnail>
-  <fanart></fanart>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-import re,urllib
-def GetLSProData(page_data,Cookie_Jar,m):
-  page_data=urllib.urlopen('https://www.youtube.com/playlist?list=PLLI9Y7fcwiyxkUZdxqSXvICYUkDo7IqHQ').read()
-  jdata=re.findall('"sectionListRenderer":{"contents"(?s)(.*?)id="container"',page_data)[0].replace('\u0026','&').replace('\\','')
-  YTid=re.findall('"playlistVideoRenderer":{"videoId":"([^"]+)',jdata)
-  title=re.findall('"playlistVideoRenderer":{"videoId":[\w\W]+?"accessibilityData":{"label":"(.+?)\sby',jdata)
-  duration=re.findall('"playlistVideoRenderer":{"videoId":[\w\W]+?},"simpleText":"([^"]+)',jdata)
-  return zip(title,duration,YTid)
-]]></expres>
-<page></page>
-</regex>
+<title>[COLOR yellow][B]RISE Project[/B][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/u3xNGM3w</externallink>
+<thumbnail>https://yt3.ggpht.com/ytc/AAUvwnjS4a9i02y7yBZDPctChzgNMf6w3sKnjMedfRQQ=s88-c-k-c0x00ffffff-no-rj</thumbnail>
 </item>
-
-
-<item>
-<title>[COLOR yellow][B]PUNCTUL CULMINANT[/B][/COLOR] cu VICTOR CIUTACU  [COLOR red][B]  [YT][/B][/COLOR]</title>
-<thumbnail>https://revistablogurilor.ro/wp-content/uploads/2013/03/victor-ciutacu-emil-hossu-a-fost-un-om-puternic-dincolo-de-statura-lui-ca-om-nu-s-a-compromis-niciodata-6942633.jpg</thumbnail>
-<fanart>https://mediastandard.ro/wp-content/uploads/2018/04/larevista.ro_.jpg</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-  <title>[COLOR cyan]([makelist.param2])[COLOR gold][makelist.param1][/COLOR]</title>
-  <info>Telejurnalul orei 20 [makelist.param2]</info>
-  <utube>[makelist.param3]</utube>
-  <thumbnail>https://i.ytimg.com/vi/[makelist.param3]/hqdefault.jpg</thumbnail>
-  <fanart></fanart>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-import re,urllib
-def GetLSProData(page_data,Cookie_Jar,m):
-  page_data=urllib.urlopen('https://www.youtube.com/playlist?list=PLLI9Y7fcwiyxkUZdxqSXvICYUkDo7IqHQ').read()
-  jdata=re.findall('"sectionListRenderer":{"contents"(?s)(.*?)id="container"',page_data)[0].replace('\u0026','&').replace('\\','')
-  YTid=re.findall('"playlistVideoRenderer":{"videoId":"([^"]+)',jdata)
-  title=re.findall('"playlistVideoRenderer":{"videoId":[\w\W]+?"accessibilityData":{"label":"(.+?)\sby',jdata)
-  duration=re.findall('"playlistVideoRenderer":{"videoId":[\w\W]+?},"simpleText":"([^"]+)',jdata)
-  return zip(title,duration,YTid)
-]]></expres>
-<page></page>
-</regex>
-</item>
-
 
