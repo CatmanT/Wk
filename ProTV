@@ -1,0 +1,386 @@
+<item>
+<title>[COLOR yellow][B]Canale PRO TV LIVE[/B][/COLOR]</title>
+<thumbnail>https://i.ibb.co/X74P6M2/ProTV.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/CatmanT/Wk/main/Pr0vt.txt</externallink>
+<fanart>https://assets.fontsinuse.com/static/use-media-items/83/82054/full-843x474/5c52ef64/21122453_10155266470707935_2190762190628529380_o.jpeg</fanart>
+</item>
+
+
+<item>
+    <title>[COLOR yellow]Stirile Pro TV[/COLOR][COLOR red][B]  [YT][/B][/COLOR]  [COLOR green]¤¤¤  [/COLOR]Oficial Channel[COLOR green]  ¤¤¤[/COLOR]</title>
+    <thumbnail>https://cloudia.cms.protvplus.ro/r165x165n/734dad86-e5b3-4ff1-8a46-695ca83326c4?default=b507a3ad-e712-494d-9667-5274d0c05bca</thumbnail>
+    <fanart>https://yt3.ggpht.com/QQ6swInZ9TiY6MwCyqhLSjqtgDZUwVbcCPxriugmWearSMyDG06nnuKHR5IQoxs5i9rMbHS1LQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj</fanart>
+    <link>$doregex[makelist]</link>
+    <regex>
+        <name>makelist</name>
+        <listrepeat><![CDATA[
+          <title>[COLOR gold][makelist.param3][/COLOR]</title>
+          <link>$doregex[makelist2]</link>
+          <thumbnail>[makelist.param2]</thumbnail>
+        ]]></listrepeat>
+        <expres><![CDATA[#$pyFunction
+import re
+import urllib.request
+
+def GetLSProData(page_data, Cookie_Jar, m):
+    list = urllib.request.urlopen('https://www.youtube.com/c/StirilePROTV/playlists').read().decode('utf-8').replace('\u0026', '&')
+    return re.findall('{"gridPlaylistRenderer":{"playlistId":"([^"]+)[\\w\\W]+?{"thumbnails":.{"url":"([^\\?]+)[\\w\\W]+?"title":{"runs":.{"text":"([^"]+)', list)
+]]></expres>
+        <page></page>
+    </regex>
+    <regex>
+        <name>makelist2</name>
+        <listrepeat><![CDATA[
+          <title>[COLOR cyan]([makelist2.param2]) [COLOR gold][makelist2.param1][/COLOR]</title>
+          <info>[COLOR dodgerblue]( [makelist2.param1] )[/COLOR]</info>
+          <utube>[makelist2.param3]</utube>
+          <thumbnail>https://i.ytimg.com/vi/[makelist2.param3]/hqdefault.jpg</thumbnail>
+        ]]></listrepeat>
+        <expres><![CDATA[#$pyFunction
+import re
+import urllib.request
+
+def GetLSProData(page_data, Cookie_Jar, m):
+    page_data = urllib.request.urlopen('https://www.youtube.com/playlist?list=[makelist.param1]').read().decode('utf-8')
+    jdata = re.findall('"sectionListRenderer":{"contents"(?s)(.*?)id="container"', page_data)[0].replace('\u0026', '&').replace('\\', '')
+    YTid = re.findall('"playlistVideoRenderer":{"videoId":"([^"]+)', jdata)
+    title = re.findall('"playlistVideoRenderer":{"videoId":[\\w\\W]+?"accessibilityData":{"label":"(.+?)\\sby', jdata)
+    duration = re.findall('"playlistVideoRenderer":{"videoId":[\\w\\W]+?},"simpleText":"([^"]+)', jdata)
+    return zip(title, duration, YTid)
+]]></expres>
+        <page></page>
+    </regex>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]PRO TV[/COLOR][COLOR red][B]  [YT][/B][/COLOR]  [COLOR green]¤¤¤  [/COLOR]Oficial Channel[COLOR green]  ¤¤¤[/COLOR]</title>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJz6GN9tq2ENgDKWmeuu5bpZUnpaCdERKzj874w=s100-c-k-c0xffffffff-no-rj-mo</thumbnail>
+<fanart>https://yt3.ggpht.com/hTG9_rf3tNvbQyr464uVaShaJ-EYoNpKucyBUtVdZUPZNzVLBI-HVBLSaf4WNnm8xNH98GJHzkg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param3][/COLOR]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,urllib
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  list=urllib.urlopen('https://www.youtube.com/channel/UCtjCTi5rLZDMBP4Mo5YY50Q/playlists').read().replace('\u0026','&')
+  return re.findall('{"gridPlaylistRenderer":{"playlistId":"([^"]+)[\w\W]+?{"thumbnails":.{"url":"([^\?]+)[\w\W]+?"title":{"runs":.{"text":"([^"]+)',list)
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[COLOR cyan]([makelist2.param2]) [COLOR gold][makelist2.param1][/COLOR]</title>
+  <info>[COLOR dodgerblue][makelist2.param1][/COLOR]</info>
+  <utube>[makelist2.param3]</utube>
+  <thumbnail>https://i.ytimg.com/vi/[makelist2.param3]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,urllib
+def GetLSProData(page_data, Cookie_Jar, m):
+  page_data=urllib.urlopen('https://www.youtube.com/playlist?list=[makelist.param1]').read()
+  jdata=re.findall('"sectionListRenderer":{"contents"(?s)(.*?)id="container"',page_data)[0].replace('\u0026','&').replace('\\','')
+  YTid=re.findall('"playlistVideoRenderer":{"videoId":"([^"]+)',jdata)
+  title=re.findall('"playlistVideoRenderer":{"videoId":[\w\W]+?"accessibilityData":{"label":"(.+?)\sby',jdata)
+  duration=re.findall('"playlistVideoRenderer":{"videoId":[\w\W]+?},"simpleText":"([^"]+)',jdata)
+  return zip(title,duration,YTid)
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR yellow]SPORT.RO[/COLOR][COLOR red][B]  [YT][/B][/COLOR]  [COLOR green]¤¤¤  [/COLOR]Oficial Channel[COLOR green]  ¤¤¤[/COLOR]</title>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJxLlflGd9qzDuLvC7yFTuaAbX9lFY2IAPq-Mts=s100-c-k-c0xffffffff-no-rj-mo</thumbnail>
+<fanart>https://yt3.ggpht.com/XR-Fej-nv_kYzGVfT_PxeAp4rRvAtHwhydnBG7oSjH0zGmzU3yQuTyCIsRG69Xm1BvpFLtN-FQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param3][/COLOR]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,urllib
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  list=urllib.urlopen('https://www.youtube.com/channel/UCfp0kNMzBXVYaAguKprFALQ/playlists').read().replace('\u0026','&')
+  return re.findall('{"gridPlaylistRenderer":{"playlistId":"([^"]+)[\w\W]+?{"thumbnails":.{"url":"([^\?]+)[\w\W]+?"title":{"runs":.{"text":"([^"]+)',list)
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[COLOR cyan]([makelist2.param2]) [COLOR gold][makelist2.param1][/COLOR]</title>
+  <info>[COLOR dodgerblue][makelist2.param1][/COLOR]</info>
+  <utube>[makelist2.param3]</utube>
+  <thumbnail>https://i.ytimg.com/vi/[makelist2.param3]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,urllib
+def GetLSProData(page_data, Cookie_Jar, m):
+  page_data=urllib.urlopen('https://www.youtube.com/playlist?list=[makelist.param1]').read()
+  jdata=re.findall('"sectionListRenderer":{"contents"(?s)(.*?)id="container"',page_data)[0].replace('\u0026','&').replace('\\','')
+  YTid=re.findall('"playlistVideoRenderer":{"videoId":"([^"]+)',jdata)
+  title=re.findall('"playlistVideoRenderer":{"videoId":[\w\W]+?"accessibilityData":{"label":"(.+?)\sby',jdata)
+  duration=re.findall('"playlistVideoRenderer":{"videoId":[\w\W]+?},"simpleText":"([^"]+)',jdata)
+  return zip(title,duration,YTid)
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR yellow]ROMANIA, TE IUBESC![/COLOR]  [COLOR red][B]  [YT][/B][/COLOR]  [Latest]</title>
+<thumbnail>https://cloudia.cms.protvplus.ro/r165x165n/dbcefe91-302a-4644-9f2e-7a70065a3b31?default=b507a3ad-e712-494d-9667-5274d0c05bca</thumbnail>
+<fanart>https://yt3.ggpht.com/A0aQY329toZTVmaDzMLfte2uuQuHA6rza4LridJgcNv2D6zW19HaYkybNopBmMRTx-P7-n9V9b0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR cyan]([makelist.param2])[COLOR gold][makelist.param1][/COLOR]</title>
+  <info>[COLOR dodgerblue][makelist.param1][/COLOR]</info>
+  <utube>[makelist.param3]</utube>
+  <thumbnail>https://i.ytimg.com/vi/[makelist.param3]/hqdefault.jpg</thumbnail>
+  <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,urllib
+def GetLSProData(page_data,Cookie_Jar,m):
+  page_data=urllib.urlopen('https://www.youtube.com/playlist?list=UU5zAAr-aeX6fYCVDlzjjiWQ').read()
+  jdata=re.findall('"sectionListRenderer":{"contents"(?s)(.*?)id="container"',page_data)[0].replace('\u0026','&').replace('\\','')
+  YTid=re.findall('"playlistVideoRenderer":{"videoId":"([^"]+)',jdata)
+  title=re.findall('"playlistVideoRenderer":{"videoId":[\w\W]+?"accessibilityData":{"label":"(.+?)\sby',jdata)
+  duration=re.findall('"playlistVideoRenderer":{"videoId":[\w\W]+?},"simpleText":"([^"]+)',jdata)
+  return zip(title,duration,YTid)
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR yellow]ROMANIA, TE IUBESC![/COLOR][COLOR red][B]  [YT][/B][/COLOR]  [COLOR green]¤¤¤  [/COLOR]Oficial Channel[COLOR green]  ¤¤¤[/COLOR]</title>
+<thumbnail>https://cloudia.cms.protvplus.ro/r165x165n/dbcefe91-302a-4644-9f2e-7a70065a3b31?default=b507a3ad-e712-494d-9667-5274d0c05bca</thumbnail>
+<fanart>https://yt3.ggpht.com/A0aQY329toZTVmaDzMLfte2uuQuHA6rza4LridJgcNv2D6zW19HaYkybNopBmMRTx-P7-n9V9b0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param3][/COLOR]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,urllib
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  list=urllib.urlopen('https://www.youtube.com/channel/UC5zAAr-aeX6fYCVDlzjjiWQ/playlists').read().replace('\u0026','&')
+  return re.findall('{"gridPlaylistRenderer":{"playlistId":"([^"]+)[\w\W]+?{"thumbnails":.{"url":"([^\?]+)[\w\W]+?"title":{"runs":.{"text":"([^"]+)',list)
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[COLOR cyan]([makelist2.param2]) [COLOR gold][makelist2.param1][/COLOR]</title>
+  <info>[COLOR dodgerblue][makelist2.param1][/COLOR]</info>
+  <utube>[makelist2.param3]</utube>
+  <thumbnail>https://i.ytimg.com/vi/[makelist2.param3]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,urllib
+def GetLSProData(page_data, Cookie_Jar, m):
+  page_data=urllib.urlopen('https://www.youtube.com/playlist?list=[makelist.param1]').read()
+  jdata=re.findall('"sectionListRenderer":{"contents"(?s)(.*?)id="container"',page_data)[0].replace('\u0026','&').replace('\\','')
+  YTid=re.findall('"playlistVideoRenderer":{"videoId":"([^"]+)',jdata)
+  title=re.findall('"playlistVideoRenderer":{"videoId":[\w\W]+?"accessibilityData":{"label":"(.+?)\sby',jdata)
+  duration=re.findall('"playlistVideoRenderer":{"videoId":[\w\W]+?},"simpleText":"([^"]+)',jdata)
+  return zip(title,duration,YTid)
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR yellow]Românii au talent[/COLOR][COLOR red][B]  [YT][/B][/COLOR]  [COLOR green]¤¤¤  [/COLOR]Oficial Channel[COLOR green]  ¤¤¤[/COLOR]</title>
+<thumbnail>https://cloudia.cms.protvplus.ro/r165x165n/0af5ae23-6e86-4324-b85d-b2fa191c4001?default=b507a3ad-e712-494d-9667-5274d0c05bca</thumbnail>
+<fanart>https://yt3.ggpht.com/FHaenMn9CztXxoFK3C8gTajQWs8_MMPYjqIY6Z_NiX9i1GEytUgEuecVraomIPquYo9kSHIw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param3][/COLOR]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,urllib
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  list=urllib.urlopen('https://www.youtube.com/channel/UC870eIJ80uX6yiTLRZhunNw/playlists').read().replace('\u0026','&')
+  return re.findall('{"gridPlaylistRenderer":{"playlistId":"([^"]+)[\w\W]+?{"thumbnails":.{"url":"([^\?]+)[\w\W]+?"title":{"runs":.{"text":"([^"]+)',list)
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[COLOR cyan]([makelist2.param2]) [COLOR gold][makelist2.param1][/COLOR]</title>
+  <info>[COLOR dodgerblue][makelist2.param1][/COLOR]</info>
+  <utube>[makelist2.param3]</utube>
+  <thumbnail>https://i.ytimg.com/vi/[makelist2.param3]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,urllib
+def GetLSProData(page_data, Cookie_Jar, m):
+  page_data=urllib.urlopen('https://www.youtube.com/playlist?list=[makelist.param1]').read()
+  jdata=re.findall('"sectionListRenderer":{"contents"(?s)(.*?)id="container"',page_data)[0].replace('\u0026','&').replace('\\','')
+  YTid=re.findall('"playlistVideoRenderer":{"videoId":"([^"]+)',jdata)
+  title=re.findall('"playlistVideoRenderer":{"videoId":[\w\W]+?"accessibilityData":{"label":"(.+?)\sby',jdata)
+  duration=re.findall('"playlistVideoRenderer":{"videoId":[\w\W]+?},"simpleText":"([^"]+)',jdata)
+  return zip(title,duration,YTid)
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR yellow]The Voice of Romania[/COLOR][COLOR red][B]  [YT][/B][/COLOR]  [COLOR green]¤¤¤  [/COLOR]Oficial Channel[COLOR green]  ¤¤¤[/COLOR]</title>
+<thumbnail>https://cloudia.cms.protvplus.ro/r165x165n/2b1eb5f6-9a7a-4e57-87cd-9cf66d4679cb?default=b507a3ad-e712-494d-9667-5274d0c05bca</thumbnail>
+<fanart>https://yt3.ggpht.com/_hN5oKIT9NBeydzgqfuGUgCG4cdku6MJ_XOvSGwUh75GIP0Tscq16plS49qsagVeThVPzXr4ew=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param3][/COLOR]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,urllib
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  list=urllib.urlopen('https://www.youtube.com/c/TheVoiceOfRomania/playlists').read().replace('\u0026','&')
+  return re.findall('{"gridPlaylistRenderer":{"playlistId":"([^"]+)[\w\W]+?{"thumbnails":.{"url":"([^\?]+)[\w\W]+?"title":{"runs":.{"text":"([^"]+)',list)
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[COLOR cyan]([makelist2.param2]) [COLOR gold][makelist2.param1][/COLOR]</title>
+  <info>[COLOR dodgerblue][makelist2.param1][/COLOR]</info>
+  <utube>[makelist2.param3]</utube>
+  <thumbnail>https://i.ytimg.com/vi/[makelist2.param3]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,urllib
+def GetLSProData(page_data, Cookie_Jar, m):
+  page_data=urllib.urlopen('https://www.youtube.com/playlist?list=[makelist.param1]').read()
+  jdata=re.findall('"sectionListRenderer":{"contents"(?s)(.*?)id="container"',page_data)[0].replace('\u0026','&').replace('\\','')
+  YTid=re.findall('"playlistVideoRenderer":{"videoId":"([^"]+)',jdata)
+  title=re.findall('"playlistVideoRenderer":{"videoId":[\w\W]+?"accessibilityData":{"label":"(.+?)\sby',jdata)
+  duration=re.findall('"playlistVideoRenderer":{"videoId":[\w\W]+?},"simpleText":"([^"]+)',jdata)
+  return zip(title,duration,YTid)
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR yellow]Ce spun romanii[/COLOR][COLOR red][B]  [YT][/B][/COLOR]  [COLOR green]¤¤¤  [/COLOR]Oficial Channel[COLOR green]  ¤¤¤[/COLOR]</title>
+<thumbnail>https://cloudia.cms.protvplus.ro/r165x165n/6bb21ffd-0e1b-469f-b619-ed6552d40547?default=b507a3ad-e712-494d-9667-5274d0c05bca</thumbnail>
+<fanart>https://yt3.ggpht.com/KrdL_sy6NwyWu4_geiA3ieZQvgbUBkNxopuHfPuDetveA9Lr3zwqHgwrge2vSuk9aN9w-mcv8Q=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param3][/COLOR]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,urllib
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  list=urllib.urlopen('https://www.youtube.com/c/Cespunromanii/playlists').read().replace('\u0026','&')
+  return re.findall('{"gridPlaylistRenderer":{"playlistId":"([^"]+)[\w\W]+?{"thumbnails":.{"url":"([^\?]+)[\w\W]+?"title":{"runs":.{"text":"([^"]+)',list)
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[COLOR cyan]([makelist2.param2]) [COLOR gold][makelist2.param1][/COLOR]</title>
+  <info>[COLOR dodgerblue][makelist2.param1][/COLOR]</info>
+  <utube>[makelist2.param3]</utube>
+  <thumbnail>https://i.ytimg.com/vi/[makelist2.param3]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,urllib
+def GetLSProData(page_data, Cookie_Jar, m):
+  page_data=urllib.urlopen('https://www.youtube.com/playlist?list=[makelist.param1]').read()
+  jdata=re.findall('"sectionListRenderer":{"contents"(?s)(.*?)id="container"',page_data)[0].replace('\u0026','&').replace('\\','')
+  YTid=re.findall('"playlistVideoRenderer":{"videoId":"([^"]+)',jdata)
+  title=re.findall('"playlistVideoRenderer":{"videoId":[\w\W]+?"accessibilityData":{"label":"(.+?)\sby',jdata)
+  duration=re.findall('"playlistVideoRenderer":{"videoId":[\w\W]+?},"simpleText":"([^"]+)',jdata)
+  return zip(title,duration,YTid)
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR yellow]Pe Bune ?![/COLOR][COLOR red][B]  [YT][/B][/COLOR]  [COLOR green]¤¤¤  [/COLOR]Oficial Channel[COLOR green]  ¤¤¤[/COLOR]</title>
+<thumbnail>https://cloudia.cms.protvplus.ro/r165x165n/68ab09ab-c9ab-47e1-ab94-cbaca1ca0a9f?default=b507a3ad-e712-494d-9667-5274d0c05bca</thumbnail>
+<fanart>https://yt3.ggpht.com/bHAeJ86Blz4k3Djp1oDhUE6omj-xh-NCR6l6ZKMBVQfeK2NRD-pe0TzMBw2jadwU7-VNyhmx3Q=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param3][/COLOR]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,urllib
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  list=urllib.urlopen('https://www.youtube.com/channel/UCkVDwgpZIpwvuIo7jE4QWXw/playlists').read().replace('\u0026','&')
+  return re.findall('{"gridPlaylistRenderer":{"playlistId":"([^"]+)[\w\W]+?{"thumbnails":.{"url":"([^\?]+)[\w\W]+?"title":{"runs":.{"text":"([^"]+)',list)
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[COLOR cyan]([makelist2.param2]) [COLOR gold][makelist2.param1][/COLOR]</title>
+  <info>[COLOR dodgerblue][makelist2.param1][/COLOR]</info>
+  <utube>[makelist2.param3]</utube>
+  <thumbnail>https://i.ytimg.com/vi/[makelist2.param3]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,urllib
+def GetLSProData(page_data, Cookie_Jar, m):
+  page_data=urllib.urlopen('https://www.youtube.com/playlist?list=[makelist.param1]').read()
+  jdata=re.findall('"sectionListRenderer":{"contents"(?s)(.*?)id="container"',page_data)[0].replace('\u0026','&').replace('\\','')
+  YTid=re.findall('"playlistVideoRenderer":{"videoId":"([^"]+)',jdata)
+  title=re.findall('"playlistVideoRenderer":{"videoId":[\w\W]+?"accessibilityData":{"label":"(.+?)\sby',jdata)
+  duration=re.findall('"playlistVideoRenderer":{"videoId":[\w\W]+?},"simpleText":"([^"]+)',jdata)
+  return zip(title,duration,YTid)
+]]></expres>
+<page></page>
+</regex>
+</item>
+
