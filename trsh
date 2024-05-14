@@ -118,7 +118,7 @@ https://p5.stirilepe.net/viasatexploresd/video.m3u8|Referer=https://emisiuni.liv
 https://p5.stirilepe.net/viasathistorysd/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="Viasat Nature HD" tvg-id=""tvg-logo="https://i.postimg.cc/d1RR0F4H/ViasatNature.png"group-title="Documentare",VIASAT NATURE
 https://p5.stirilepe.net/viasatnaturesd/video.m3u8|Referer=https://emisiuni.live/
-#EXTINF:-1 tvg-name="DaVinci Learning" tvg-id=""tvg-logo="https://i.postimg.cc/B62LCCFX/Da-Vinci.png"group-title="Documentare",Davinci Learning
+#EXTINF:-1 tvg-name="DaVinci Learning" tvg-id=""tvg-logo="https://i.postimg.cc/B62LCCFX/Da-Vinci.png"group-title="Documentare",DaVinci.Learning
 https://p5.stirilepe.net/davinci/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="E! Entertainment HD" tvg-id=""tvg-logo="https://i.postimg.cc/LsL8d88W/E.png"group-title="Documentare",E! Entertainment
 https://p5.stirilepe.net/entertainment/tracks-v1a1/mono.m3u8|Referer=https://emisiuni.live/
