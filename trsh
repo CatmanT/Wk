@@ -95,7 +95,7 @@ https://p5.stirilepe.net/digiworld/index.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="Discovery HD" tvg-id=""tvg-logo="https://i.postimg.cc/Bbq6BfsV/Discovery-Channel.png"group-title="Documentare",Discovery Channel
 https://p5.stirilepe.net/discoverysd/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="ID  Investigation Discovery  HD" tvg-id=""tvg-logo="https://i.postimg.cc/9M0gRrw8/Investigation_Discovery.png"group-title="Documentare",ID Investigation Discovery
-http://strange01.privacymonster.co:25461/Dordoi.Bogdan/ghj6758cfgy768fgnvVGJ/36790
+http://alexzv1.ddns.net:8008/ANA_ISAURA/gDq3Gb3KGQ/116126
 #EXTINF:-1 tvg-name="History HD" tvg-id=""tvg-logo="https://i.postimg.cc/wBqLzQ2C/History.png"group-title="Documentare",HISTORY
 https://p5.stirilepe.net/historychannelsd/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="National Geographic HD" tvg-id=""tvg-logo="https://i.postimg.cc/rsSHc7rM/National_Geografic.png"group-title="Documentare",National Geographic
@@ -155,13 +155,13 @@ https://p5.stirilepe.net/digisport3hd/index.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="DIGI Sport 4" tvg-logo="https://i.postimg.cc/mrHtbS88/Digi-Sport4.png" group-title="Sport",DIGI SPORT 4
 https://p5.stirilepe.net/digisport4hd/index.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="Orange Sport 1 HD" tvg-logo="https://i.postimg.cc/NjQ3GGDV/Orange-Sport-1.png" group-title="Sport",ORANGE SPORT 1
-http://alexzv1.ddns.net:8008/vlasceanu_marin/b8MYyPnmsZ/33805
+http://alexzv1.ddns.net:8008/ANA_ISAURA/gDq3Gb3KGQ/33805
 #EXTINF:-1 tvg-name="Orange Sport 2 HD" tvg-logo="https://i.postimg.cc/Hk3frGPL/Orange-Sport-2.png" group-title="Sport",ORANGE SPORT 2
-http://alexzv1.ddns.net:8008/vlasceanu_marin/b8MYyPnmsZ/34073
+http://alexzv1.ddns.net:8008/ANA_ISAURA/gDq3Gb3KGQ/34073
 #EXTINF:-1 tvg-name="Orange Sport 3 HD" tvg-logo="https://i.postimg.cc/0NQhmtL0/Orange-Sport-3.png" group-title="Sport",ORANGE SPORT 3
-http://alexzv1.ddns.net:8008/vlasceanu_marin/b8MYyPnmsZ/34074
+http://alexzv1.ddns.net:8008/ANA_ISAURA/gDq3Gb3KGQ/34074
 #EXTINF:-1 tvg-name="Orange Sport 4 HD" tvg-logo="https://i.postimg.cc/PqR9MWHs/Orange-Sport-4.png" group-title="Sport",ORANGE SPORT 4
-http://alexzv1.ddns.net:8008/vlasceanu_marin/b8MYyPnmsZ/34075
+http://alexzv1.ddns.net:8008/ANA_ISAURA/gDq3Gb3KGQ/34075
 #EXTINF:-1 tvg-name="Eurosport 1 HD " tvg-logo="https://i.postimg.cc/7hYHT1nv/Eurosport-1-HD.png" group-title="Sport",EUROSPORT 1
 https://p5.stirilepe.net/eurosportsd/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="Eurosport 2 HD" tvg-logo="https://i.postimg.cc/fLvWLqXj/Eurosport-2-HD.png" group-title="Sport",EUROSPORT 2
