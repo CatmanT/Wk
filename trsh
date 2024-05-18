@@ -95,7 +95,7 @@ https://p5.stirilepe.net/digiworld/index.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="Discovery HD" tvg-id=""tvg-logo="https://i.postimg.cc/Bbq6BfsV/Discovery-Channel.png"group-title="Documentare",Discovery Channel
 https://p5.stirilepe.net/discoverysd/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="ID  Investigation Discovery  HD" tvg-id=""tvg-logo="https://i.postimg.cc/9M0gRrw8/Investigation_Discovery.png"group-title="Documentare",ID Investigation Discovery
-http://alexzv1.ddns.net:8008/ANA_ISAURA/gDq3Gb3KGQ/116126
+http://lautarul.ro:8080/FBi0pg5jDV59/iUmshYNdxiBREvQ/31861
 #EXTINF:-1 tvg-name="History HD" tvg-id=""tvg-logo="https://i.postimg.cc/wBqLzQ2C/History.png"group-title="Documentare",HISTORY
 https://p5.stirilepe.net/historychannelsd/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="National Geographic HD" tvg-id=""tvg-logo="https://i.postimg.cc/rsSHc7rM/National_Geografic.png"group-title="Documentare",National Geographic
