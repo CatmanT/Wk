@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1,Матч! Арена HD [RU]
+acestream://a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
+#EXTINF:-1,Матч! Боец
+acestream://42f556bbf90466efa5a84141c5e3be9e5174c531
+#EXTINF:-1,Матч! Боец [RU]
+acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa
+#EXTINF:-1,Матч! Игра HD [RU]
+acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
+#EXTINF:-1,Матч! футбол 1 HD
+acestream://c5a9507c288ec1c7e723f8123b75e566ead562c3
+#EXTINF:-1,Матч! футбол 2 HD
+acestream://4fb7d7f128d371205a6bce4caf4a3d68664728cf
+#EXTINF:-1,Матч! футбол 3 HD
+acestream://b49b412148acd9b64a20eaa5e92b597a9ae9ff85
