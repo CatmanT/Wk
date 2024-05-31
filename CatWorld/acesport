@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1,Матч! Арена HD [RU]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Cas7ISZUUAA1krw.png" ,Match Arena HD [RU]
 acestream://a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
-#EXTINF:-1,Матч! Боец
+#EXTINF:-1 tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1802399/1802399-1557839800264-92de5352cd1a9.jpg" ,Match HD [RU] TO FIX
 acestream://42f556bbf90466efa5a84141c5e3be9e5174c531
-#EXTINF:-1,Матч! Боец [RU]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xh0f1nXYUKJbbcFvfAEwRNT6mm5Nhyfq26rUneNfq-EYzpKTHm4fLvMI5O6mC1rwpQ&usqp=CAU" ,Match TVВ HD [RU] TO FIX
 acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa
-#EXTINF:-1,Матч! Игра HD [RU]
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/3b/%D0%9C%D0%B0%D1%82%D1%87%21_%D0%98%D0%B3%D1%80%D0%B0_%282016%2C_%D0%B2%D0%B5%D1%80%D1%82%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%2C_%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%29.png/revision/latest/scale-to-width-down/250?cb=20220106214714&path-prefix=ru" ,Match IGRA HD [RU]
 acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
-#EXTINF:-1,Матч! футбол 1 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfSX5e36865f4HQWBFrVS_2tcaTectTL16xgN2kQI1_gsFx3IsSdmVnYNo1Mtv7S6leVs&usqp=CAU" ,Match Futbol 1 ( original ) [RU]
 acestream://c5a9507c288ec1c7e723f8123b75e566ead562c3
-#EXTINF:-1,Матч! футбол 2 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5f1bwjE_-OQ9Q-HAaTXIBtmDuvuw13UwgbKPuvS566xI26WyMM_U4oVNjP9Oy_xWqkmo&usqp=CAU" ,Match Futbol 2 ( original ) [RU]
 acestream://4fb7d7f128d371205a6bce4caf4a3d68664728cf
-#EXTINF:-1,Матч! футбол 3 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_jP6ONXG2447C5no6rRcAnxxVfIhBauqHUWN0oywIzjR9WVwE4VvfA0_RezdNSesClsM&usqp=CAU" ,Match Futbol 3 ( original ) [RU]
 acestream://b49b412148acd9b64a20eaa5e92b597a9ae9ff85
