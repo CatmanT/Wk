@@ -33,7 +33,7 @@ https://p5.stirilepe.net/tvr1hd/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="TVR 2" tvg-id=""tvg-logo="https://i.postimg.cc/fTzCJ34x/TVR_2.png"group-title="Generaliste",TVR 2
 https://p5.stirilepe.net/tvr2sd/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="TVR 3" tvg-id=""tvg-logo="https://i.postimg.cc/QdVqJRdC/TVR_3.png"group-title="Generaliste",TVR 3
-http://strange01.privacymonster.co:25461/Dordoi.Bogdan/ghj6758cfgy768fgnvVGJ/16065
+https://p5.stirilepe.net/tvr3sd/video.m3u|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="Acasă" tvg-id=""tvg-logo="https://i.postimg.cc/YC2GtFpb/Acasa.png"group-title="Generaliste",ACASA
 https://p5.stirilepe.net/acasahd/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="Happy Channel" tvg-id=""tvg-logo="https://i.postimg.cc/xTBQ0VhV/Happy-Channel.png"group-title="Generaliste",HAPPY CHANNEL
