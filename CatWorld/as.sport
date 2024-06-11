@@ -40,16 +40,28 @@ acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1,BeIN Sports 3 [BE]
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
+#EXTINF:-1,DAZN F1 HD
+acestream://d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1,DAZN1
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1,DAZN2
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1,DAZN3
 acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1,DUBAI SPORTS 3
 acestream://0addcc896d5c6749ff262674f1d5c9b5f9e7be4b
 #EXTINF:-1,Dubai Racing 2
-acestream://af5929dbd355fe312be5d10c1428799ac735e519
+acestream://fb718f9b885ff8898b757bfa968b6d77c91ccdfe
+#EXTINF:-1,Dubai Racing 3
+acestream://d6723d0ed7f9fa3f363b96ab53f00714a226e479
+#EXTINF:-1,Dubai Sports 2
+acestream://ebfb7c61b14f06ecafb80ba4cc170b0f47665b17
 #EXTINF:-1,Dubai Sports 3
 acestream://34a717795ab68429e61a2c4ef8b59ddcb458e4b1
-#EXTINF:-1,ELGOLES900
-acestream://24c70cd08120f7d75d5c253d8d5265af8559929a
+#EXTINF:-1,ELGOLES901
+acestream://504e0d21b1d60e459849ca2c08837589d49f70dc
+#EXTINF:-1,ELGOLES902
+acestream://3ffd418422a57348ef4ed12fa777a3604d3798b8
 #EXTINF:-1,ESPN
 acestream://5c46a29112c047eacb0d63655543ee6e89376df5
 #EXTINF:-1,ESPN 2 [BE]
@@ -70,6 +82,8 @@ acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 acestream://286c15cca653697190ca60f1f966e8b6cb9a8a7a
 #EXTINF:-1,ESPN2 [US]
 acestream://664eb5fe460b96941aed633959a845b185cd8394
+#EXTINF:-1,Eleven Sports 1 [BE]
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1,Eleven Sports 2 [BE]
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1,Eleven Sports 3 [BE]
@@ -110,8 +124,6 @@ acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1,MUTV
 acestream://6134733d2308d848870723598ee01f62b6f5fb1b
-#EXTINF:-1,M_V_F
-acestream://d92e5d8bf3042fc8f039a7c7e336bc538cfaf190
 #EXTINF:-1,Motors TV HD
 acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98
 #EXTINF:-1,Multipremier DEPORTES ACESTREAM
@@ -119,13 +131,15 @@ acestream://134a33c13d51e146ab00c3f2fd0180d1ee9f7573
 #EXTINF:-1,NBA TV [US]
 acestream://e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1,OPEN TV (GREECE) - ARENAVISION
-acestream://f386d4b5758082387d29d149d3f658bb5d498183
+acestream://59df9074716d2787ab893106a39cf68bc9590ec2
 #EXTINF:-1,Premier Sports 1 [UK]
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1,Premier Sports 2 [UK]
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1,Red Bull TV
 acestream://f84c515f96b1f94ec7ca63aec4a77ac8e0da5bbf
+#EXTINF:-1,SRTr3
+acestream://b5273d41e31794e6f3f031db64399d291a4263c3
 #EXTINF:-1,Setanta Live 1 [RU]
 acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 #EXTINF:-1,Setanta Live 2 [RU]
@@ -162,6 +176,10 @@ acestream://d2374e2375a4275738e0dbed2f47d0114ad1cb64
 acestream://dec96c86080c26ddf667ea90adfb513a40007a0b
 #EXTINF:-1,Viasat Sport
 acestream://bb4f1f0fa9645277e1f55d71ffda34d5582a7a85
+#EXTINF:-1,Ziggo Sport Golf [BE]
+acestream://035e34b791335962ca817f42fd14300382af3797
+#EXTINF:-1,Ziggo Sport Racing [BE]
+acestream://77800bb07c1d69135024ee2379c97472eb12dd45
 #EXTINF:-1,Ziggo Sport Select [BE]
 acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 #EXTINF:-1,Ziggo Sport Voetbal [BE]
@@ -170,8 +188,8 @@ acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
 acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 #EXTINF:-1,Авто плюс
 acestream://d28a6c124a1309522850cd4038b406c7f3451403
-#EXTINF:-1,Бокс ТВ
-acestream://76939b18da619ab1ec15674fde3cbbcc9d2cd9c0
+#EXTINF:-1,Астрахань.Ru Sport
+acestream://e9625730643fa4496d2498757e43c7106d8abdfe
 #EXTINF:-1,Бокс ТВ [RU]
 acestream://1acaf203502983cd2993c6835bf0cbde8d016c3d
 #EXTINF:-1,КХЛ HD [RU]
