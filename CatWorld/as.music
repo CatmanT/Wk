@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,1HD
-acestream://fa5bcd917ca222abe74f218b416f792119225004
 #EXTINF:-1,1HD [RU]
 acestream://29dc5b990bbcf66b7466a7a7a13df3bf7e29c30a
 #EXTINF:-1,30A Music
@@ -43,9 +41,11 @@ acestream://a5149234466b95643eec346ffbd24bc71c64e3d6
 #EXTINF:-1,Ocko Expres
 acestream://9b3814266b03aa2a274f7024e18941843be369f3
 #EXTINF:-1,Ocko Star
-acestream://ff9ba549ed2f4189ecf96fe20b7d2cb47dad8e8f
+acestream://4c7bdc33de3b13144f5197dfd00b91e32a0443ed
 #EXTINF:-1,RU.TV [RU]
 acestream://2302f4b9327232b91a434658c24a506c88bc55f0
+#EXTINF:-1,Radio Piter Pan TV
+acestream://7291603fa088b595290436813e80e0aa034fc12d
 #EXTINF:-1,Retro Plus HD (720p)
 acestream://2e7d584701004b92fc49206cf6dfd0601b5182b7
 #EXTINF:-1,SONG TV HD Armenia
@@ -78,6 +78,8 @@ acestream://e72eb5bd621666fdcb1cf7689ce9a1f66fe20c22
 acestream://8bd91eed63db4daa4540cc657cb48e6bda7d1fad
 #EXTINF:-1,МУЗ [RU]
 acestream://38cf205218182050f0df6c7d8321e5e651286e91
+#EXTINF:-1,Матур ТВ HD
+acestream://e069ff636653c3291a8edc2fabdb7770296ad267
 #EXTINF:-1,Муз
 acestream://89577d7221df687493469671eff054c72ba1772d
 #EXTINF:-1,Муз ТВ
