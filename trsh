@@ -1,112 +1,112 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="PRO TV" tvg-id=""tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV
-https://p8.stirilepe.net/protv/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/protv/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
-https://p8.stirilepe.net/prima/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/prima/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
-https://p8.stirilepe.net/kanald/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/knd/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="KANAL D2" tvg-logo="https://i.postimg.cc/7YPWGnz5/kanal-d2.png" group-title="Generaliste",KANAL D2
-https://p8.stirilepe.net/kanald2hd/video.m3u8|Referer=https://emisiuni.live/
+https://stream2.kanald.ro/iphone/knd-live_low/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24
-https://p8.stirilepe.net/digi24/index.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/d24/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="B 1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Stiri",B1 TV
-https://p8.stirilepe.net/b1/video.m3u8|Referer=https://emisiuni.live/
+https://playertv.biz/tv2/b1.php|referer=https://playertv.biz/p.php?channel=b1//?kodi
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1
-https://p8.stirilepe.net/antena1/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/eantena1/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Generaliste",ANTENA STARS
-https://p8.stirilepe.net/antenastarssd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/antena-stars/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Antena 3 CNN HD" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN
-https://p8.stirilepe.net/antena3hd/video.m3u8|Referer=https://emisiuni.live/
+https://playertv.biz/tv2/antena3hd.php|referer=https://playertv.biz/p.php?channel=antena3hd//?kodi
 #EXTINF:-1 tvg-name="NATIONAL TV" tvg-id=""tvg-logo="https://i.postimg.cc/sxSkxvtF/National_TV.png"group-title="Stiri",NATIONAL TV
-https://p8.stirilepe.net/nationaltvsd/video.m3u8|Referer=https://emisiuni.live/
+https://playertv.biz/p.php?channel=nationaltvsd|referer=https://playertv.biz/p.php?channel=nationaltvsd//?kodi
 #EXTINF:-1 tvg-name="NATIONAL 24 PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/sfhdwN1n/National_24_Plus.png"group-title="Stiri",NATIONAL 24 PLUS
 https://p8.stirilepe.net/national24sd/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS
-https://p8.stirilepe.net/realitateaplussd/video.m3u8|Referer=https://emisiuni.live/
+https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8|user-agent=Mozilla/5.0&referer=https://hd.tvcanale.live/
 #EXTINF:-1 tvg-name="România TV" tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png"group-title="Stiri",Romania TV
 https://p8.stirilepe.net/romaniatvsd/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="" tvg-id=""tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png"group-title="Stiri",Euronews
 https://p8.stirilepe.net/euronewsrosd/video.m3u8|Referer=https://emisiuni.live/
 
 #EXTINF:-1 tvg-name="TVR 1" tvg-id=""tvg-logo="https://i.postimg.cc/wTwVJ6Hn/TVR_1.png"group-title="Generaliste",TVR 1
-https://p8.stirilepe.net/tvr1hd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/8/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="TVR 2" tvg-id=""tvg-logo="https://i.postimg.cc/fTzCJ34x/TVR_2.png"group-title="Generaliste",TVR 2
-https://p8.stirilepe.net/tvr2sd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/9/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="TVR 3" tvg-id=""tvg-logo="https://i.postimg.cc/QdVqJRdC/TVR_3.png"group-title="Generaliste",TVR 3
-https://p8.stirilepe.net/tvr3sd/video.m3u8|Referer=https://emisiuni.live/
+https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Acasă" tvg-id=""tvg-logo="https://i.postimg.cc/YC2GtFpb/Acasa.png"group-title="Generaliste",ACASA
-https://p8.stirilepe.net/acasahd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/pro2/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Happy Channel" tvg-id=""tvg-logo="https://i.postimg.cc/xTBQ0VhV/Happy-Channel.png"group-title="Generaliste",HAPPY CHANNEL
-https://p8.stirilepe.net/happychannelsd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/happy-channel/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 
 #EXTINF:-1 tvg-name="HBO" tvg-id=""tvg-logo="https://i.postimg.cc/hjZwp9qR/HBO_HD.png"group-title="Movies",HBO
-https://p8.stirilepe.net/hbohd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/14/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="HBO 2" tvg-id=""tvg-logo="https://i.postimg.cc/FzqMs0PV/HBO_2.png"group-title="Movies",HBO 2
-https://p8.stirilepe.net/hbo2sd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/15/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="HBO 3" tvg-id=""tvg-logo="https://i.postimg.cc/L8fp50FY/HBO_3.png"group-title="Movies",HBO 3
-https://p8.stirilepe.net/hbo3sd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/16/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="AXN HD" tvg-id=""tvg-logo="https://i.postimg.cc/43qVPdFF/AXN-HD.png"group-title="Movies",AXN
-https://p8.stirilepe.net/axnsd/index.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/26/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="AXN Spin " tvg-id=""tvg-logo="https://i.postimg.cc/VNdXXM4C/AXN-Spin.png"group-title="Movies",AXN SPIN
-https://p8.stirilepe.net/axnspin/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/29/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/<
 #EXTINF:-1 tvg-name="AXN White" tvg-id=""tvg-logo="https://i.postimg.cc/d3KdMfF2/AXN-White.png"group-title="Movies",AXN WHITE
-https://p8.stirilepe.net/axnwhite/video.m3u8|Referer=https://emisiuni.live/
+https://playertv.biz/tv2/axnwhite.php|referer=https://playertv.biz/p.php?channel=axnwhite//?kodi
 #EXTINF:-1 tvg-name="AXN Black" tvg-id=""tvg-logo="https://i.postimg.cc/vBn9NsJ8/AXN-Black.png"group-title="Movies",AXN BLACK
-https://p8.stirilepe.net/axnblack/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/27/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/<
 #EXTINF:-1 tvg-name="Cinemax HD" tvg-id=""tvg-logo="https://i.postimg.cc/nhwDVrZc/CineMax.png"group-title="Movies",Cinemax 1
-https://p8.stirilepe.net/cinemaxhd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/84/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Cinemax2 HD " tvg-id=""tvg-logo="https://i.postimg.cc/y8NRz9Mb/Cinemax-2-HD.png"group-title="Movies",CINEMAX 2
-https://p8.stirilepe.net/cinemax2sd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/85/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Cinemaraton" tvg-logo="https://i.postimg.cc/Vvmy2fwK/Cinemaraton.png" group-title="Movies",CINEMARATON
 https://p8.stirilepe.net/cinemaratonsd/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="Diva" tvg-id=""tvg-logo="https://i.postimg.cc/T29hY1JM/Diva.png"group-title="Movies",DIVA
-https://p8.stirilepe.net/diva/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/6/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Epic DRAMA" tvg-id=""tvg-logo="https://i.postimg.cc/d1FtJc7V/Epic-Drama.png"group-title="Movies",Epic DRAMA
-https://p8.stirilepe.net/epicdramasd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/43/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="AMC HD " tvg-id=""tvg-logo="https://i.postimg.cc/8Cffg387/AMC.png"group-title="Movies",AMC
 https://p8.stirilepe.net/amcsd/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="Filmnow HD" tvg-id=""tvg-logo="https://i.postimg.cc/5tBb7KPd/Film-Now.png"group-title="Movies",FILM NOW
-https://p8.stirilepe.net/filmnow/index.m3u8|https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/sf1/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Film Cafe HD" tvg-id=""tvg-logo="https://i.postimg.cc/C1JYYBTc/Film-cafe.png"group-title="Movies",FILMCAFE
-https://p8.stirilepe.net/filmcafesd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/41/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="PRO Cinema HD" tvg-id=""tvg-logo="https://i.postimg.cc/GpVgDbPb/Pro-Cinema.png"group-title="Movies",PRO CINEMA
-https://p8.stirilepe.net/procinemasd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/96/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Warner TV HD" tvg-id=""tvg-logo="https://i.postimg.cc/L628LSc4/Warner.png"group-title="Movies",WARNER TV
 https://p8.stirilepe.net/warner/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="TV1000" tvg-id=""tvg-logo="https://i.postimg.cc/L5RTk5JF/TV1000.png"group-title="Movies",TV 1000
-https://p8.stirilepe.net/tv1000/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/39/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Acasă Gold HD" tvg-id=""tvg-logo="https://i.postimg.cc/hjNsXMBv/Acas-A-Gold.png"group-title="Movies",ACASA GOLD
-https://p8.stirilepe.net/acasagold/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/99/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Bollywood TV HD" tvg-id=""tvg-logo="https://i.postimg.cc/8khMdTdt/Bollywood-TV.png"group-title="Movies",BOLLYWOOD TV
-https://p8.stirilepe.net/bollywoodtv/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/99/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Comedy Central" tvg-id=""tvg-logo="https://i.postimg.cc/MGCfRLvC/Comedy-Central.png"group-title="Movies",COMEDY CENTRAL
-https://p8.stirilepe.net/comedycentralsd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/42/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 
 #EXTINF:-1 tvg-name="BBC Earth HD" tvg-id=""tvg-logo="https://i.postimg.cc/J4538RGG/BBC-Earth.png"group-title="Documentare",BBC EARTH
-https://p8.stirilepe.net/bbcearthsd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/32/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="CBS Reality" tvg-id=""tvg-logo="https://i.postimg.cc/vTqQ7104/CBS-Reality.png"group-title="Documentare",CBS REALITY
-https://p8.stirilepe.net/cbsreality/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/52/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="DIGI Animal World" tvg-id=""tvg-logo="https://i.postimg.cc/rm2zztHc/Digi-animal-world.png"group-title="Documentare",DIGI ANIMAL WORLD
-https://p8.stirilepe.net/digianimalworld/index.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/36/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="DIGI Life HD" tvg-id=""tvg-logo="https://i.postimg.cc/5N4YwL22/Digi-Life.png"group-title="Documentare",DIGI LIFE
-https://p8.stirilepe.net/digilife/index.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/30/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/<
 #EXTINF:-1 tvg-name="DIGI World HD" tvg-id=""tvg-logo="https://i.postimg.cc/8kBfJtDY/Digi-World.png"group-title="Documentare",DIGI WORLD
 https://p8.stirilepe.net/digiworld/index.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="Discovery HD" tvg-id=""tvg-logo="https://i.postimg.cc/Bbq6BfsV/Discovery-Channel.png"group-title="Documentare",Discovery Channel
-https://p8.stirilepe.net/discoverysd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/45/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="ID  Investigation Discovery  HD" tvg-id=""tvg-logo="https://i.postimg.cc/9M0gRrw8/Investigation_Discovery.png"group-title="Documentare",ID Investigation Discovery
-http://luctvspain.xyz:8080/live/6SB4CCkzYZQMVCD48n5wYAieOHkoV9/IEKteQKwPEuqq9K8fRhuynG9CIyXWb/25861.ts
+https://webudit.onlinehdhls.ru/lb/digi-id/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="History HD" tvg-id=""tvg-logo="https://i.postimg.cc/wBqLzQ2C/History.png"group-title="Documentare",HISTORY
 https://p8.stirilepe.net/historychannelsd/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="National Geographic HD" tvg-id=""tvg-logo="https://i.postimg.cc/rsSHc7rM/National_Geografic.png"group-title="Documentare",National Geographic
 https://p8.stirilepe.net/natgeo/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="National Geographic Wild HD " tvg-id=""tvg-logo="https://i.postimg.cc/28dpfLQh/Nat_Geo_Wild.png"group-title="Documentare",National Geographic Wild
-https://p8.stirilepe.net/natgeowildsd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/53/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="TLC HD" tvg-id=""tvg-logo="https://i.postimg.cc/7ZLKQ5mx/TLC.png"group-title="Documentare",TLC
-https://p8.stirilepe.net/tlcsd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/11/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://i.postimg.cc/wMSrdgvW/HGTV.png" group-title="Documentare",HGTV
-https://p8.stirilepe.net/hgtv/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/57/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="TV Paprika HD" tvg-logo="https://i.postimg.cc/Px1y8YrM/TV_Paprika.png" group-title="Documentare",TV PAPRIKA
 https://p8.stirilepe.net/tvpaprika/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="Travel Channel HD" tvg-id=""tvg-logo="https://i.postimg.cc/3xbtM3c2/Travel_Channel.png"group-title="Documentare",TRAVEL CHANNEL
@@ -116,9 +116,9 @@ https://p8.stirilepe.net/travelmixsd/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="Viasat Explore HD" tvg-id=""tvg-logo="https://i.postimg.cc/PqwzBYZk/ViasatExplore.png"group-title="Documentare",VIASAT EXPLORE
 https://p8.stirilepe.net/viasatexploresd/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="Viasat History HD" tvg-id=""tvg-logo="https://i.postimg.cc/j5YQK2Qn/ViasatHistory.png"group-title="Documentare",VIASAT HISTORY
-https://p8.stirilepe.net/viasathistorysd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/35/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Viasat Nature HD" tvg-id=""tvg-logo="https://i.postimg.cc/d1RR0F4H/ViasatNature.png"group-title="Documentare",VIASAT NATURE
-https://p8.stirilepe.net/viasatnaturesd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/22/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/<
 #EXTINF:-1 tvg-name="DaVinci Learning" tvg-id=""tvg-logo="https://i.postimg.cc/B62LCCFX/Da-Vinci.png"group-title="Documentare",DaVinci Learning
 https://p8.stirilepe.net/davinci/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="E! Entertainment HD" tvg-id=""tvg-logo="https://i.postimg.cc/LsL8d88W/E.png"group-title="Documentare",E! Entertainment
@@ -139,7 +139,7 @@ https://p8.stirilepe.net/musicchannelro/index.m3u8|Referer=https://emisiuni.live
 #EXTINF:-1 tvg-name="UTV HD" tvg-logo="https://i.postimg.cc/VsRBQYS5/UTV.png" group-title="Music",UTV
 https://p8.stirilepe.net/utv/index.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="ZU TV HD" tvg-logo="https://i.postimg.cc/zv0nnjmT/ZU-TV.png" group-title="Music",ZU TV
-https://p8.stirilepe.net/zutvsd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/zu-tv/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Etno TV" tvg-logo="https://i.postimg.cc/cLVL5n0Y/Etno.png" group-title="Music",ETNO TV
 https://p8.stirilepe.net/etnotvsd/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="Taraf TV" tvg-logo="https://i.postimg.cc/pXRGzGj5/Taraf-TV.png" group-title="Music",TARAF TV
@@ -148,40 +148,40 @@ https://p8.stirilepe.net/taraftvsd/video.m3u8|Referer=https://emisiuni.live/
 https://p8.stirilepe.net/favorittvsd/video.m3u8|Referer=https://emisiuni.live/
 
 #EXTINF:-1 tvg-name="DIGI Sport 1 HD" tvg-logo="https://i.postimg.cc/PrSLKJCz/Digi-Sport1.png" group-title="Sport",DIGI SPORT 1
-https://p8.stirilepe.net/digisport1hd/index.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/premium401/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="DIGI Sport 2 HD" tvg-logo="https://i.postimg.cc/P5NC7HZG/Digi-Sport2.png" group-title="Sport",DIGI SPORT 2
-https://p8.stirilepe.net/digisport2hd/index.m3u8|Referer=https://emisiuni.live/
+ttps://playertv.biz/tv2/digisport2hd.php|referer=https://playertv.biz/p.php?channel=digisport2hd/?kodi
 #EXTINF:-1 tvg-name="DIGI Sport 3 HD" tvg-logo="https://i.postimg.cc/wjP18rc1/Digi-Sport3.png" group-title="Sport",DIGI SPORT 3
-https://p8.stirilepe.net/digisport3hd/index.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/premium402/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="DIGI Sport 4" tvg-logo="https://i.postimg.cc/mrHtbS88/Digi-Sport4.png" group-title="Sport",DIGI SPORT 4
-https://p8.stirilepe.net/digisport4hd/index.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/premium403/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Orange Sport 1 HD" tvg-logo="https://i.postimg.cc/NjQ3GGDV/Orange-Sport-1.png" group-title="Sport",ORANGE SPORT 1
-http://luctvspain.xyz:8080/live/6SB4CCkzYZQMVCD48n5wYAieOHkoV9/IEKteQKwPEuqq9K8fRhuynG9CIyXWb/22386.ts
+https://webudit.onlinehdhls.ru/lb/premium439/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Orange Sport 2 HD" tvg-logo="https://i.postimg.cc/Hk3frGPL/Orange-Sport-2.png" group-title="Sport",ORANGE SPORT 2
-http://luctvspain.xyz:8080/live/6SB4CCkzYZQMVCD48n5wYAieOHkoV9/IEKteQKwPEuqq9K8fRhuynG9CIyXWb/22387.ts
+https://webudit.onlinehdhls.ru/lb/premium440/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Orange Sport 3 HD" tvg-logo="https://i.postimg.cc/0NQhmtL0/Orange-Sport-3.png" group-title="Sport",ORANGE SPORT 3
-http://luctvspain.xyz:8080/live/6SB4CCkzYZQMVCD48n5wYAieOHkoV9/IEKteQKwPEuqq9K8fRhuynG9CIyXWb/22388.ts
+https://webudit.onlinehdhls.ru/lb/premium440/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Orange Sport 4 HD" tvg-logo="https://i.postimg.cc/PqR9MWHs/Orange-Sport-4.png" group-title="Sport",ORANGE SPORT 4
-http://luctvspain.xyz:8080/live/6SB4CCkzYZQMVCD48n5wYAieOHkoV9/IEKteQKwPEuqq9K8fRhuynG9CIyXWb/22389.ts
+https://webudit.onlinehdhls.ru/lb/premium442/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Eurosport 1 HD " tvg-logo="https://i.postimg.cc/7hYHT1nv/Eurosport-1-HD.png" group-title="Sport",EUROSPORT 1
-https://p8.stirilepe.net/eurosportsd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/37/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Eurosport 2 HD" tvg-logo="https://i.postimg.cc/fLvWLqXj/Eurosport-2-HD.png" group-title="Sport",EUROSPORT 2
-https://p8.stirilepe.net/eurosport2sd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/37/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Prima Sport 1 HD" tvg-logo="https://i.postimg.cc/gj97CGrg/Prima-Sport-1.png" group-title="Sport",PRIMA SPORT 1
-https://p8.stirilepe.net/primasport1hd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/premium583/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Prima Sport 2 HD" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",PRIMA SPORT 2
-https://p8.stirilepe.net/primasport2sd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/premium584/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Prima Sport 3 HD" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",PRIMA SPORT 3
-https://p8.stirilepe.net/primasport3sd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/premium586/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Sport Extra" tvg-id=""tvg-logo="https://i.postimg.cc/8zr1WzMC/Extreme-Sports-Channel.png"group-title="Sport",Sport Extra
 https://p8.stirilepe.net/sportextrahd/tracks-v1a1/mono.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="PRO Arena HD" tvg-logo="https://i.postimg.cc/52f2xhMw/Pro-ARENA.png" group-title="Sport",PRO ARENA HD
-https://p8.stirilepe.net/proarenahd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/prox/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-id=""tvg-logo="https://i.postimg.cc/7Y9zcXWz/Cartoon-Network.png"group-title="Kids",CARTOON NETWORK
-https://p8.stirilepe.net/cartoonnetworksd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/20/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Disney Channel" tvg-id=""tvg-logo="https://i.postimg.cc/c4C1xmJw/Disney-Channel.png"group-title="Kids",DISNEY CHANNEL
-https://p8.stirilepe.net/disneychannelsd/video.m3u8|Referer=https://emisiuni.live/
+https://webudit.onlinehdhls.ru/lb/49/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Disney Junior" tvg-id=""tvg-logo="https://i.postimg.cc/R05vTxLL/Disney-Junior.png"group-title="Kids",DISNEY JUNIOR
 https://p8.stirilepe.net/disneyjunior/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="Duck TV HD" tvg-id=""tvg-logo="https://i.postimg.cc/RVpFKYYg/Duck-TV.png"group-title="Kids",DUCK TV
