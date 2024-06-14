@@ -120,28 +120,28 @@ https://webudit.onlinehdhls.ru/lb/35/index.m3u8|User-Agent=Mozilla/5.0+(Windows+
 #EXTINF:-1 tvg-name="Viasat Nature HD" tvg-id=""tvg-logo="https://i.postimg.cc/d1RR0F4H/ViasatNature.png"group-title="Documentare",VIASAT NATURE
 https://webudit.onlinehdhls.ru/lb/22/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/<
 #EXTINF:-1 tvg-name="DaVinci Learning" tvg-id=""tvg-logo="https://i.postimg.cc/B62LCCFX/Da-Vinci.png"group-title="Documentare",DaVinci Learning
-https://p8.stirilepe.net/davinci/video.m3u8|Referer=https://emisiuni.live/
+http://748968797864763528.otjb0606.xyz:80/play/vi32048/YcxrxVdChJn/763528.ts
 #EXTINF:-1 tvg-name="E! Entertainment HD" tvg-id=""tvg-logo="https://i.postimg.cc/LsL8d88W/E.png"group-title="Documentare",E! Entertainment
 http://romania4k.ddns.net:8008/marilena@vasile/rXHCUwKwkh/33876
 
 #EXTINF:-1 tvg-name="Mooz Dance HD" tvg-logo="https://i.postimg.cc/wMzd42Dr/Mooz-Dance.png" group-title="Music",Mooz Dance
-https://p8.stirilepe.net/mooz/tracks-v1a1/mono.m3u8|Referer=https://emisiuni.live/
+http://748968797864756705.otjb0606.xyz:80/play/vi32048/YcxrxVdChJn/756705.ts
 #EXTINF:-1 tvg-name="KISS TV" tvg-logo="https://i.postimg.cc/R0MDmPSz/Kiss-TV.png" group-title="Music",KISS TV
 https://p8.stirilepe.net/kisstv/tracks-v1a1/mono.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="H!T Music Channel" tvg-logo="https://i.postimg.cc/bw0BKXjT/Hit-Music-Channel.png" group-title="Music",HIT MUSIC CHANNEL
-https://p8.stirilepe.net/hitmusic/index.m3u8|Referer=https://emisiuni.live/
+http://748968797864815800.otjb0606.xyz:80/play/vi32048/YcxrxVdChJn/815800.ts
 #EXTINF:-1 tvg-name="MAGIC TV HD" tvg-logo="https://i.postimg.cc/D0bC6Hg1/Magic-TV.png" group-title="Music",MAGIC TV
-https://p8.stirilepe.net/magictv/video.m3u8|Referer=https://emisiuni.live/
+http://748968797864848418.otjb0606.xyz:80/play/vi32048/YcxrxVdChJn/848418.ts
 #EXTINF:-1 tvg-name="MTV Europe" tvg-logo="https://i.postimg.cc/G3WrR1Zw/MTV-Europe.png" group-title="Music",MTV EUROPE
 https://p8.stirilepe.net/mtveuropesd/tracks-v1a1/mono.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="Music Channel" tvg-logo="https://i.postimg.cc/cHKyqDhL/Music-Channel.png" group-title="Music",MUSIC CHANNEL
 https://p8.stirilepe.net/musicchannelro/index.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="UTV HD" tvg-logo="https://i.postimg.cc/VsRBQYS5/UTV.png" group-title="Music",UTV
-https://p8.stirilepe.net/utv/index.m3u8|Referer=https://emisiuni.live/
+http://748968797864841948.otjb0606.xyz:80/play/vi32048/YcxrxVdChJn/841948.ts
 #EXTINF:-1 tvg-name="ZU TV HD" tvg-logo="https://i.postimg.cc/zv0nnjmT/ZU-TV.png" group-title="Music",ZU TV
 https://webudit.onlinehdhls.ru/lb/zu-tv/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="Etno TV" tvg-logo="https://i.postimg.cc/cLVL5n0Y/Etno.png" group-title="Music",ETNO TV
-https://p8.stirilepe.net/etnotvsd/video.m3u8|Referer=https://emisiuni.live/
+http://romania4k.ddns.net:8008/marilena@vasile/rXHCUwKwkh/33914
 #EXTINF:-1 tvg-name="Taraf TV" tvg-logo="https://i.postimg.cc/pXRGzGj5/Taraf-TV.png" group-title="Music",TARAF TV
 https://p8.stirilepe.net/taraftvsd/video.m3u8|Referer=https://emisiuni.live/
 #EXTINF:-1 tvg-name="Favorit" tvg-logo="https://i.postimg.cc/KvWGRMKV/Favorit-TV.png" group-title="Music",FAVORIT TV
