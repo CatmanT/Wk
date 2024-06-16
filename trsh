@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X74P6M2/ProTV.png",Pro Tv
-https://p8.stirilepe.net/protv/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni
+https://p8.stirilepe.net/protv/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X74P6M2/ProTV.png",Pro Tv extra
 https://p8.stirilepe.net/protv/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3726.png",Kanal D
