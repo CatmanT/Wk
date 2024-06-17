@@ -6,12 +6,15 @@ http://48101418945841950.otjb0606.xyz:80/play/fe1121900/TyykrkNqcA9/841950.ts
 #EXTINF:-1 tvg-name="PRO TV" tvg-id=""tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV extra
 https://webudit.onlinehdhls.ru/lb/protv/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
-#EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
 https://p8.stirilepe.net/prima/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
 https://p8.stirilepe.net/kanald/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
+#EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D (site)
+https://stream1.kanald.ro/iphone/knd-live.m3u8
 #EXTINF:-1 tvg-name="KANAL D2" tvg-logo="https://i.postimg.cc/7YPWGnz5/kanal-d2.png" group-title="Generaliste",KANAL D2
 https://p8.stirilepe.net/kanald2hd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
+#EXTINF:-1 tvg-name="KANAL D2" tvg-logo="https://i.postimg.cc/7YPWGnz5/kanal-d2.png" group-title="Generaliste",KANAL D2 (site)
+https://stream2.kanald.ro/iphone/knd-live.m3u8
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24
 https://p8.stirilepe.net/digi24/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24 (site)
@@ -32,6 +35,8 @@ https://p8.stirilepe.net/nationaltvsd/video.m3u8|User-Agent=Mozilla/5.0+(Windows
 https://p8.stirilepe.net/national24sd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS
 https://p8.stirilepe.net/realitateaplussd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
+#EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS (site)
+https://stream.realitatea.net/realitatea/plus_hd/playlist.m3u8|Referer=https://www.realitatea.net/
 #EXTINF:-1 tvg-name="România TV" tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png"group-title="Stiri",Romania TV
 https://p8.stirilepe.net/romaniatvsd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
 #EXTINF:-1 tvg-name="" tvg-id=""tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png"group-title="Stiri",Euronews
