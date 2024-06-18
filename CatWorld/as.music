@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,1HD
+acestream://fa5bcd917ca222abe74f218b416f792119225004
 #EXTINF:-1,1HD [RU]
 acestream://29dc5b990bbcf66b7466a7a7a13df3bf7e29c30a
 #EXTINF:-1,30A Music
@@ -30,6 +32,8 @@ acestream://755483260c00e095f825286bc8b3562966814022
 acestream://cbc5dd9f7fab667cb4e3cb30aeedeaf67e3ec625
 #EXTINF:-1,Kronehit TV
 acestream://866312d82bbf38941980dc69929e98481f55238e
+#EXTINF:-1,MTV 80s
+acestream://19c4c06fa791900f0574024b812883363ddeeac1
 #EXTINF:-1,MTV Live HD [RU]
 acestream://5a08cc63a0aef61f2f659efae6f7b9c2b584c0b2
 #EXTINF:-1,Marutam Music
@@ -41,13 +45,9 @@ acestream://a5149234466b95643eec346ffbd24bc71c64e3d6
 #EXTINF:-1,Ocko Expres
 acestream://9b3814266b03aa2a274f7024e18941843be369f3
 #EXTINF:-1,Ocko Star
-acestream://4c7bdc33de3b13144f5197dfd00b91e32a0443ed
+acestream://cab6bae7c058146b8fbd35e9f5aea9907e82da10
 #EXTINF:-1,RU.TV [RU]
 acestream://2302f4b9327232b91a434658c24a506c88bc55f0
-#EXTINF:-1,Radio Piter Pan TV
-acestream://7291603fa088b595290436813e80e0aa034fc12d
-#EXTINF:-1,Retro Plus HD (720p)
-acestream://2e7d584701004b92fc49206cf6dfd0601b5182b7
 #EXTINF:-1,SONG TV HD Armenia
 acestream://6a651f2a79746d412a763164101babe91a59c503
 #EXTINF:-1,SONG TV HD Russia
@@ -62,8 +62,6 @@ acestream://51902261465750d2bd4ee6bd5f44649b8bd5aa15
 acestream://891ffff2670945d0fe90e7db624333bed89543af
 #EXTINF:-1,iConcerts [RU]
 acestream://f0757d4131090cf4b0652e9a427c350c651e597a
-#EXTINF:-1,m1
-acestream://baa8b6dbb7a7144cff314d4b6ac11d69a894bb31
 #EXTINF:-1,myMixTape
 acestream://e485522a61f5bd3214aec9cc34f20e9157896bb3
 #EXTINF:-1,Óčko
@@ -84,8 +82,6 @@ acestream://e069ff636653c3291a8edc2fabdb7770296ad267
 acestream://89577d7221df687493469671eff054c72ba1772d
 #EXTINF:-1,Муз ТВ
 acestream://6bfa3f0a312440d6d3efbd14d4cf02f66791df1b
-#EXTINF:-1,Музыка Первого
-acestream://c131db9e38b78b334da880ed828d8cfd021ec05d
 #EXTINF:-1,Музыка Первого [RU]
 acestream://4f2d81ed73736cf3adc44c8a6a24cda47fc1eef0
 #EXTINF:-1,Музыка первого
