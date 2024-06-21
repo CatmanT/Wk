@@ -168,15 +168,15 @@ http://748968797864785283.otjb0606.xyz:80/play/vi32048/YcxrxVdChJn/785283.ts
 http://748968797864864586.otjb0606.xyz:80/play/vi32048/YcxrxVdChJn/864586.ts
 #EXTINF:-1 tvg-name="Orange Sport 4 HD" tvg-logo="https://i.postimg.cc/PqR9MWHs/Orange-Sport-4.png" group-title="Sport",ORANGE SPORT 4
 http://748968797864848428.otjb0606.xyz:80/play/vi32048/YcxrxVdChJn/848428.ts
-#EXTINF:-1 tvg-name="Eurosport 1 HD " tvg-logo="https://i.postimg.cc/7hYHT1nv/Eurosport-1-HD.png" group-title="Sport",EUROSPORT 1
+#EXTINF:-1 tvg-name="EuroSport 1 " tvg-logo="https://i.postimg.cc/7hYHT1nv/Eurosport-1-HD.png" group-title="Sport",EuroSport 1
 https://p8.stirilepe.net/eurosportsd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
-#EXTINF:-1 tvg-name="Eurosport 2 HD" tvg-logo="https://i.postimg.cc/fLvWLqXj/Eurosport-2-HD.png" group-title="Sport",EUROSPORT 2
+#EXTINF:-1 tvg-name="EuroSport 2" tvg-logo="https://i.postimg.cc/fLvWLqXj/Eurosport-2-HD.png" group-title="Sport",EuroSport 2
 https://p8.stirilepe.net/eurosport2sd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
-#EXTINF:-1 tvg-name="Prima Sport 1 HD" tvg-logo="https://i.postimg.cc/gj97CGrg/Prima-Sport-1.png" group-title="Sport",PRIMA SPORT 1
+#EXTINF:-1 tvg-name="Prima Sport 1" tvg-logo="https://i.postimg.cc/gj97CGrg/Prima-Sport-1.png" group-title="Sport",Prima Sport 1
 https://p8.stirilepe.net/primasport1hd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
-#EXTINF:-1 tvg-name="Prima Sport 2 HD" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",PRIMA SPORT 2
+#EXTINF:-1 tvg-name="Prima Sport 2" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",Prima Sport 2
 https://p8.stirilepe.net/primasport2sd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
-#EXTINF:-1 tvg-name="Prima Sport 3 HD" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",PRIMA SPORT 3
+#EXTINF:-1 tvg-name="Prima Sport 3" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",Prima Sport 3
 https://p8.stirilepe.net/primasport3sd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
 #EXTINF:-1 tvg-name="Sport Extra HD" tvg-id=""tvg-logo="https://i.postimg.cc/8zr1WzMC/Extreme-Sports-Channel.png"group-title="Sport",Sport Extra
 https://p8.stirilepe.net/sportextrahd/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
