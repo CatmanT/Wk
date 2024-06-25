@@ -1,0 +1,47 @@
+<builds>
+
+<build>
+<name>Diggz Xenon PLUS AIO DEBRID ONLY</name>
+<version>21</version>
+<url>https://github.com/Belly12345/Xplus2/raw/master/Xenon_Plus_Omega_v21_512_2am.zip?download=</url>
+<icon>https://diggz1.me/Images/xplus.png</icon>
+<fanart>https://diggz1.me/Images/xplus.png</fanart>
+<description>Diggz Xenon Plus AIO. All Diggz Builds in one. Updated 5/12/24</description>
+</build>   
+
+<build>
+<name>Diggz Xenon FREE</name>
+<version>3.0</version>
+<url>https://github.com/Belly12345/Xfree/raw/main/Xenon_Free_3.0_412_7pm.zip?download=</url>
+<icon>https://diggz1.me/Images/xenonfree.png</icon>
+<fanart>https://diggz1.me/Images/xenonfree.png</fanart>
+<description>Diggz Xenon FREE. Updated 4/12/24</description>
+</build> 
+
+<build>
+<name>Diggz Burst AIO FREE Torrent Streamer -VPN Recommended!!-</name>
+<version>2.0</version>
+<url>https://archive.org/download/diggz-burst-v-2-624-10pm/Diggz_Burst_v2_624_10pm.zip</url>
+<icon>https://diggz1.me/Images/xenonburst2.jpg</icon>
+<fanart>https://diggz1.me/Images/xenonburst2.jpg</fanart>
+<description>Diggz Burst AIO Builds. Updated 6/24/24</description>
+</build>   
+
+<build>
+<name>dMo -Simply Artic</name>
+<version>1.2</version>
+<url>https://archive.org/download/dMo-Simply.Artic.v.1.2/dMo-Simply.Artic.v.1.2.zip</url>
+<icon>https://diggz1.me/Images/Simply.Artic.small.jpg</icon>
+<fanart>https://diggz1.me/Images/Simply.Artic.jpg</fanart>
+<description>Simply Artic - Debrid only. 8-June-2024</description>
+</build>
+  
+<build>
+<name>cg - MEC</name>
+<version>5.8</version>
+<url>https://archive.org/download/cg.MEC.v5.8a/cg.MEC.v5.8a.zip</url>
+<icon>https://diggz1.me/Images/MEC.Small.png</icon>
+<fanart>https://diggz1.me/Images/MEC.jpg</fanart>
+<description>MEC - Debrid and Free. 15-June-2024</description>
+</build>
+</builds>
