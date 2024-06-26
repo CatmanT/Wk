@@ -1,47 +1,147 @@
+
 <builds>
 
-<build>
-<name>Diggz Xenon PLUS AIO DEBRID ONLY</name>
-<version>21</version>
-<url>https://github.com/Belly12345/Xplus2/raw/master/Xenon_Plus_Omega_v21_512_2am.zip?download=</url>
-<icon>https://diggz1.me/Images/xplus.png</icon>
-<fanart>https://diggz1.me/Images/xplus.png</fanart>
-<description>Diggz Xenon Plus AIO. All Diggz Builds in one. Updated 5/12/24</description>
-</build>   
+  <build>
+	<name> [COLOR crimson]****   Dabs Kodi 20 builds  ****[/COLOR]</name>
+	<version>*</version>
+	<url>http://dabutcher.org/19/chameleon19.zip</url>
+	<icon>http://dabutcher.org/19/icon.png</icon>
+	<fanart>http://dabutcher.org/19/fan.jpg</fanart>
+	<description>Kodi 20 builds, not many updates will be done to these builds</description>
+	<preview></preview>
+        <tweak></tweak>
+        <extra></extra>
+	</build>
+  <build>
+	<name>Chameleon Build for Kodi 19,20</name>
+	<version>2.2</version>
+	<url>http://dabutcher.org/19/chameleon19.zip</url>
+	<icon>http://dabutcher.org/19/icon.png</icon>
+	<fanart>http://dabutcher.org/19/fan.jpg</fanart>
+	<description>Build for *KODI 19, 20*  Super Customizable and NOT bloated with addons. I do include all the popular repos and 100+ backgrounds</description>
+	<preview></preview>
+        <tweak></tweak>
+        <extra></extra>
+       
+  </build>
+	  <build>
+	<name>Dabs Shield Build  ( ANDROID ) Kodi 19 and 20 </name>
+	<version>1.3</version>
+	<url>http://dabutcher.org/19/dabshield.zip</url>
+	<icon>http://dabutcher.org/19/dsfan.png</icon>
+	<fanart>http://dabutcher.org/19/Nvidia-SHIELD-TV-box.jpg</fanart>
+	<description>Dabs Shield Build is based on the Fentastic skin. It has many netflix style widgets and works best with FEN. The build also has a working EPG ( TV GUIDE ) with LIVE TV via Mad Titan Addon. This build is for HIGH END DEVICES WITH GOOD INTERNET connection. Give it 1 to 2 mins to load widgets and epg. **THIS IS A TEST BUILD**
+	  May Need To Reboot Kodi again to get LIVE TV to populate</description>
+	<preview></preview>
+        <tweak></tweak>
+        <extra></extra>
+       
+  </build>
+	  <build>
+	<name>Dabs Shield Build Lite - No PVR -  ( ANDROID ) Kodi 19 and 20 </name>
+	<version>1.0</version>
+	<url>http://dabutcher.org/19/dsb_lite.zip</url>
+	<icon>http://dabutcher.org/19/dsfan.png</icon>
+	<fanart>http://dabutcher.org/19/Nvidia-SHIELD-TV-box.jpg</fanart>
+	<description>Dabs Shield Build is based on the Fentastic skin. It has many netflix style widgets and works best with FEN. No pre-configured PVR  This build is for HIGH END DEVICES WITH GOOD INTERNET connection. Give it 2 to 3 mins to load widgets.
+	 </description>
+	<preview></preview>
+        <tweak></tweak>
+        <extra></extra>
+       
+    </build>
+	    <build>
+	<name>[COLOR firebrick]****   Dabs Kodi 21 Builds   ****[/COLOR]</name>
+	<version>*</version>
+	<url>http://dabutcher.org/19/dsb_lite.zip</url>
+	<icon>http://dabutcher.org/19/dsfan.png</icon>
+	<fanart>http://dabutcher.org/19/Nvidia-SHIELD-TV-box.jpg</fanart>
+	<description>Dabs Shield Build is based on the Fentastic skin. It has many netflix style widgets and works best with FEN. No pre-configured PVR  This build is for HIGH END DEVICES WITH GOOD INTERNET connection. Give it 2 to 3 mins to load widgets.
+	 </description>
+	<preview></preview>
+        <tweak></tweak>
+        <extra></extra>
+	</build>
 
-<build>
-<name>Diggz Xenon FREE</name>
-<version>3.0</version>
-<url>https://github.com/Belly12345/Xfree/raw/main/Xenon_Free_3.0_412_7pm.zip?download=</url>
-<icon>https://diggz1.me/Images/xenonfree.png</icon>
-<fanart>https://diggz1.me/Images/xenonfree.png</fanart>
-<description>Diggz Xenon FREE. Updated 4/12/24</description>
-</build> 
+	<build>
+	<name>Chameleon Build for Kodi 21</name>
+	<version>1.1</version>
+	<url>http://dabutcher.org/19/chameleon21.zip</url>
+	<icon>http://dabutcher.org/19/icon.png</icon>
+	<fanart>http://dabutcher.org/19/fan.jpg</fanart>
+	<description>Build for *KODI 21* Super Customizable and NOT bloated with addons. I do include all the popular repos and 100+ backgrounds</description>
+	<preview></preview>
+        <tweak></tweak>
+        <extra></extra>
+       
+  </build>
+	
+		  <build>
+	<name>Dabs Shield Build Lite - No PVR -  ( ANDROID ) Kodi 21 </name>
+	<version>1.1</version>
+	<url>http://dabutcher.org/19/dsb21.zip</url>
+	<icon>http://dabutcher.org/19/dsfan.png</icon>
+	<fanart>http://dabutcher.org/19/Nvidia-SHIELD-TV-box.jpg</fanart>
+	<description>Dabs Shield Build for *KODI 21* is based on the Fentastic skin. It has many netflix style widgets and works best with FEN. This build is for HIGH END DEVICES WITH GOOD INTERNET connection. Give it 1 to 2 mins to load widgets.
+	  </description>
+	<preview></preview>
+        <tweak></tweak>
+        <extra></extra>
+       
+  </build>
 
-<build>
-<name>Diggz Burst AIO FREE Torrent Streamer -VPN Recommended!!-</name>
-<version>2.0</version>
-<url>https://archive.org/download/diggz-burst-v-2-624-10pm/Diggz_Burst_v2_624_10pm.zip</url>
-<icon>https://diggz1.me/Images/xenonburst2.jpg</icon>
-<fanart>https://diggz1.me/Images/xenonburst2.jpg</fanart>
-<description>Diggz Burst AIO Builds. Updated 6/24/24</description>
-</build>   
+  <build>
+	<name>[COLOR yellow]****    KodiApps Build    ****[/COLOR]</name>
+	<version>*</version>
+	<url>https://4k-screensaver.com/builds/otto-lite.zip</url>
+	<icon>https://4k-screensaver.com/builds/otto-lite.jpg</icon>
+	<fanart>https://4k-screensaver.com/builds/lite-icon.png</fanart>
+	<description>Otto Lite - Bloat free, fast and ultra reliable, MADE by KODIAPPS </description>
+	<preview></preview>
+        <tweak></tweak>
+        <extra></extra>
+       
+  </build>
+  <build>
+	<name>Otto Lite  Kodi 20 </name>
+	<version>1.3</version>
+	<url>https://4k-screensaver.com/builds/otto-lite.zip</url>
+	<icon>https://4k-screensaver.com/builds/otto-lite.jpg</icon>
+	<fanart>https://4k-screensaver.com/builds/lite-icon.png</fanart>
+	<description>Otto Lite - Bloat free, fast and ultra reliable, MADE by KODIAPPS </description>
+	<preview></preview>
+        <tweak></tweak>
+        <extra></extra>
+       
+  </build>
+	<build>
+	<name>[COLOR violet]****    bRADley's Builds    ****[/COLOR]</name>
+	<version>*</version>
+	<url>http://dabutcher.org/19/brad/BRAD_NOX.zip</url>
+	<icon>http://dabutcher.org/19/brad/icon.jpg</icon>
+	<fanart>http://dabutcher.org/19/brad/fan.jpg</fanart>
+	<description>On TEST MADE by Bradley</description>
+	<preview></preview>
+        <tweak></tweak>
+        <extra></extra>
+       
+  </build>
+	    <build>
+	<name>bRAD NOX 1.0</name>
+	<version>1.1</version>
+	<url>http://dabutcher.org/19/brad/BRAD_NOX.zip</url>
+	<icon>http://dabutcher.org/19/brad/icon.jpg</icon>
+	<fanart>http://dabutcher.org/19/brad/fan.jpg</fanart>
+	<description>On TEST MADE by Bradley</description>
+	<preview></preview>
+        <tweak></tweak>
+        <extra></extra>
+       
+  </build>
+	
 
-<build>
-<name>dMo -Simply Artic</name>
-<version>1.2</version>
-<url>https://archive.org/download/dMo-Simply.Artic.v.1.2/dMo-Simply.Artic.v.1.2.zip</url>
-<icon>https://diggz1.me/Images/Simply.Artic.small.jpg</icon>
-<fanart>https://diggz1.me/Images/Simply.Artic.jpg</fanart>
-<description>Simply Artic - Debrid only. 8-June-2024</description>
-</build>
+	
+
+
   
-<build>
-<name>cg - MEC</name>
-<version>5.8</version>
-<url>https://archive.org/download/cg.MEC.v5.8a/cg.MEC.v5.8a.zip</url>
-<icon>https://diggz1.me/Images/MEC.Small.png</icon>
-<fanart>https://diggz1.me/Images/MEC.jpg</fanart>
-<description>MEC - Debrid and Free. 15-June-2024</description>
-</build>
 </builds>
