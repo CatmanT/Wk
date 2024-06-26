@@ -1,5 +1,5 @@
 name="21 Cat Artic Reloaded"
-version="1.5.9"
+version="1.0"
 url="https://archive.org/download/cpina/Cat21.2.zip"
 minor="http://"
 gui="http://"
