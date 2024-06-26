@@ -1,6 +1,6 @@
 name="21 Cat Artic Reloaded"
 version="1.0"
-url="https://archive.org/download/cpina/Cat21.2.zip"
+url="https://archive.org/download/cpina/Cat21.1.zip"
 minor="http://"
 gui="http://"
 kodi="21"
