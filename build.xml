@@ -1,7 +1,7 @@
 vname="Cat21.1"
 version="1.0"
 url="https://archive.org/download/cpina/Cat21.1.zip"
-minor=""
+minor="http://"
 gui="url.to.guisettings"
 kodi="21"
 theme="url.to.themes"
