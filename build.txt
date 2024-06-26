@@ -1,5 +1,5 @@
-name="Cat 21 Artic Reloaded"
-version="1.2"
+name="21 Cat Artic Reloaded"
+version="1.5.9"
 url="https://archive.org/download/cpina/Cat21.2.zip"
 minor="http://"
 gui="http://"
@@ -12,19 +12,3 @@ adult="no"
 info="https://t.me/kodiromania"
 description="skin Aeon(mod)
  Good for win, android,linux"
-
-
-name="Cat 18 Zephyr Reloaded"
-version="1.0"
-url="https://archive.org/download/al8ina-bq19/BQ%2019%20Reloaded.zip"
-minor="http://"
-gui="http://"
-kodi="18.9"
-theme="https://archive.org/download/al8ina/Multumiri.jpg"
-icon="https://archive.org/download/al8ina/albina%2050%2050%20transparent.png"
-fanart="https://archive.org/download/al8ina/splash.jpg"
-preview=""
-adult="no"
-info="https://t.me/kodiromania"
-description="skin Arctic:Zephyr(mod)
- Good for tv box, android tv"
