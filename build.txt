@@ -15,6 +15,23 @@ description="skin Aeon(mod)
  and preconfig addon Elem,ES,IT,FR,DE"
 
 
+name="BQ 19"
+version="1.5.8"
+url="https://archive.org/download/al8ina-bq19/BQ%2019.zip"
+minor="http://"
+gui="http://"
+kodi="19.5"
+theme="https://archive.org/download/al8ina/Multumiri.jpg"
+icon="https://archive.org/download/al8ina/albina%2050%2050%20transparent.png"
+fanart="https://archive.org/download/al8ina/splash.jpg"
+preview=""
+adult="no"
+info="https://t.me/kodiromania"
+description="skin Aeon(mod)
+ Good for win, android,linux
+ and preconfig addon Elem,ES,IT,FR,DE"
+
+
 name="BQ 19 Al8inA Reloaded"
 version="1.8"
 url="https://archive.org/download/al8ina-bq19/BQ%2019%20Al8inA%20Reloaded.zip"
