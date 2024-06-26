@@ -10,7 +10,7 @@ fanart="https://"
 preview=""
 adult="no"
 info="https://t.me/kodiromania"
-description="skin Aeon(mod)
+description="skin Artic Reloaded
  Good for win, android,linux
  and preconfig addon Elem,ES,IT,FR,DE"
 
