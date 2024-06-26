@@ -1,21 +1,13 @@
-
-<builds>
-
-  <build>
-	<name> [COLOR crimson]****   KODI 21 CAT  ****[/COLOR]</name>
-	<version>*</version>
-	<url>https://archive.org/download/cpina/Cat21.1.zip</url>
-	<icon>http://dabutcher.org/19/icon.png</icon>
-	<fanart>http://dabutcher.org/19/fan.jpg</fanart>
-	<description>Kodi 21 with Ro LIVE and guide</description>
-	<preview></preview>
-        <tweak></tweak>
-        <extra></extra>
-	</build>
-
-
-	
-
-
-  
-</builds>
+vname="Cat21.1"
+version="1.0"
+url="url.to.build"
+minor="https://archive.org/download/cpina/Cat21.1.zip"
+gui="url.to.guisettings"
+kodi="21"
+theme="url.to.themes"
+icon="http://"
+fanart="http://"
+preview="https://www.youtube.com/watch?v=djV11Xbc914"
+adult="no"
+info="url.to.info"
+description="A short description of the build."
