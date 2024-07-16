@@ -171,14 +171,6 @@ https://p8.stirilepe.net/digisport2hd/index.m3u8|User-Agent=Mozilla/5.0+(Windows
 https://p8.stirilepe.net/digisport3hd/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
 #EXTINF:-1 tvg-name="DIGI Sport 4" tvg-logo="https://i.postimg.cc/mrHtbS88/Digi-Sport4.png" group-title="Sport",DIGI Sport 
 https://p8.stirilepe.net/digisport4hd/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
-#EXTINF:-1 tvg-name="Orange Sport 1 HD" tvg-logo="https://i.postimg.cc/NjQ3GGDV/Orange-Sport-1.png" group-title="Sport",ORANGE SPORT 1
-http://748968797864850128.otjb0606.xyz:80/play/vi32048/YcxrxVdChJn/850128.ts
-#EXTINF:-1 tvg-name="Orange Sport 2 HD" tvg-logo="https://i.postimg.cc/Hk3frGPL/Orange-Sport-2.png" group-title="Sport",ORANGE SPORT 2
-http://748968797864785283.otjb0606.xyz:80/play/vi32048/YcxrxVdChJn/785283.ts
-#EXTINF:-1 tvg-name="Orange Sport 3 HD" tvg-logo="https://i.postimg.cc/0NQhmtL0/Orange-Sport-3.png" group-title="Sport",ORANGE SPORT 3
-http://748968797864864586.otjb0606.xyz:80/play/vi32048/YcxrxVdChJn/864586.ts
-#EXTINF:-1 tvg-name="Orange Sport 4 HD" tvg-logo="https://i.postimg.cc/PqR9MWHs/Orange-Sport-4.png" group-title="Sport",ORANGE SPORT 4
-http://748968797864848428.otjb0606.xyz:80/play/vi32048/YcxrxVdChJn/848428.ts
 #EXTINF:-1 tvg-name="EuroSport 1 " tvg-logo="https://i.postimg.cc/7hYHT1nv/Eurosport-1-HD.png" group-title="Sport",EuroSport 1
 https://p8.stirilepe.net/eurosportsd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
 #EXTINF:-1 tvg-name="EuroSport 2" tvg-logo="https://i.postimg.cc/fLvWLqXj/Eurosport-2-HD.png" group-title="Sport",EuroSport 2
