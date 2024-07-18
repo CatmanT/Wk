@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,ACETOP-1
-acestream://2b0acad014567bbbe0664904af8c001754283eb1
-#EXTINF:-1,ACETOP-2
-acestream://5f569f3ecf8b4d2f2f4bc732dd7023568f76e4a9
 #EXTINF:-1,ALL Sports
 acestream://8338de9ab9006bde2dd3939dbd5b0a320ce86a76
 #EXTINF:-1,AMAZON PRIME VIDEO 1 HD [BE]
@@ -56,8 +52,6 @@ acestream://0addcc896d5c6749ff262674f1d5c9b5f9e7be4b
 acestream://ebfb7c61b14f06ecafb80ba4cc170b0f47665b17
 #EXTINF:-1,Dubai Sports 3
 acestream://34a717795ab68429e61a2c4ef8b59ddcb458e4b1
-#EXTINF:-1,ELGOLES900
-acestream://cdb4c27fa5ce93c6ff897d016d782b049cbc5ea5
 #EXTINF:-1,ELGOLES902
 acestream://7736abf99dc732922a63ea5680216d8432ff96fb
 #EXTINF:-1,ELGOLES903
@@ -136,10 +130,6 @@ acestream://59df9074716d2787ab893106a39cf68bc9590ec2
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1,Premier Sports 2 [UK]
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1,Red Bull TV
-acestream://f84c515f96b1f94ec7ca63aec4a77ac8e0da5bbf
-#EXTINF:-1,SRTr3
-acestream://c6aaa9d77777d996d474dfde34550d71d38b2dae
 #EXTINF:-1,Setanta Live 1 [RU]
 acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 #EXTINF:-1,Setanta Live 2 [RU]
@@ -184,8 +174,6 @@ acestream://77800bb07c1d69135024ee2379c97472eb12dd45
 acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 #EXTINF:-1,Ziggo Sport Voetbal [BE]
 acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
-#EXTINF:-1,pimpletv.ru
-acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 #EXTINF:-1,Авто плюс
 acestream://d28a6c124a1309522850cd4038b406c7f3451403
 #EXTINF:-1,Бокс ТВ
@@ -201,7 +189,7 @@ acestream://106c8656fca0ca91a696110467788d202d7111af
 #EXTINF:-1,Матч!
 acestream://bec12db1b663d9229999cd11e2b58d778da50c07
 #EXTINF:-1,Матч! Планета
-acestream://7dda94eec7a777d992e871c80d23488fda079b1c
+acestream://fb71918c258536a0bea0239a63afa1f1a132a6e0
 #EXTINF:-1,Матч! Премьер HD [RU]
 acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
 #EXTINF:-1,Матч! Страна [RU]
