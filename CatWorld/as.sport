@@ -36,8 +36,6 @@ acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1,BeIN Sports 3 [BE]
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
-#EXTINF:-1,DAZN F1 HD
-acestream://d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1,DAZN1
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1,DAZN2
@@ -52,12 +50,6 @@ acestream://0addcc896d5c6749ff262674f1d5c9b5f9e7be4b
 acestream://ebfb7c61b14f06ecafb80ba4cc170b0f47665b17
 #EXTINF:-1,Dubai Sports 3
 acestream://34a717795ab68429e61a2c4ef8b59ddcb458e4b1
-#EXTINF:-1,ELGOLES902
-acestream://7736abf99dc732922a63ea5680216d8432ff96fb
-#EXTINF:-1,ELGOLES903
-acestream://61a173ab1009d7d0ae8d89869ba11db7b932f102
-#EXTINF:-1,ELGOLES904
-acestream://1b51a85122a77027a149197e9372aa6032d52571
 #EXTINF:-1,ESPN
 acestream://5c46a29112c047eacb0d63655543ee6e89376df5
 #EXTINF:-1,ESPN 2 [BE]
@@ -122,6 +114,8 @@ acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 acestream://6134733d2308d848870723598ee01f62b6f5fb1b
 #EXTINF:-1,Motors TV HD
 acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98
+#EXTINF:-1,Multipremier DEPORTES ACESTREAM
+acestream://134a33c13d51e146ab00c3f2fd0180d1ee9f7573
 #EXTINF:-1,NBA TV [US]
 acestream://e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1,OPEN TV (GREECE) - ARENAVISION
@@ -130,6 +124,8 @@ acestream://59df9074716d2787ab893106a39cf68bc9590ec2
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1,Premier Sports 2 [UK]
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
+#EXTINF:-1,Red Bull TV
+acestream://f84c515f96b1f94ec7ca63aec4a77ac8e0da5bbf
 #EXTINF:-1,Setanta Live 1 [RU]
 acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 #EXTINF:-1,Setanta Live 2 [RU]
@@ -151,7 +147,7 @@ acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
 #EXTINF:-1,SuperTennis HD
 acestream://b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1,TENNIS CHANNEL HD (ArenaVision)
-acestream://bb6b0a33ad2e7952b132bff0fd96310cbfee19b7
+acestream://e6a3867a30c045bb67eb7de083f14974cac8cf32
 #EXTINF:-1,TNT
 acestream://ab3de37265065bd172437606606d7829fc7bab8d
 #EXTINF:-1,TV TORUŃ
@@ -174,6 +170,8 @@ acestream://77800bb07c1d69135024ee2379c97472eb12dd45
 acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 #EXTINF:-1,Ziggo Sport Voetbal [BE]
 acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
+#EXTINF:-1,pimpletv.ru
+acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 #EXTINF:-1,Авто плюс
 acestream://d28a6c124a1309522850cd4038b406c7f3451403
 #EXTINF:-1,Бокс ТВ
@@ -187,7 +185,7 @@ acestream://aa6c193b9de1e6b6277e3075299fdeea925e2dc0
 #EXTINF:-1,МАТЧ! Планета [RU]
 acestream://106c8656fca0ca91a696110467788d202d7111af
 #EXTINF:-1,Матч!
-acestream://bec12db1b663d9229999cd11e2b58d778da50c07
+acestream://97d5f2a9232a1ccbf8f81c270a0050ca601618fd
 #EXTINF:-1,Матч! Планета
 acestream://fb71918c258536a0bea0239a63afa1f1a132a6e0
 #EXTINF:-1,Матч! Премьер HD [RU]
