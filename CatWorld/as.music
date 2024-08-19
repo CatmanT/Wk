@@ -18,6 +18,8 @@ acestream://32c2ea9b766da382ee892dae57871b3dd1e8641b
 acestream://eb3add8d104fa237e14343f3236a932595023c9a
 #EXTINF:-1,C Music TV [RU]
 acestream://635159bee85b23dd079e505fe5842b34eb124203
+#EXTINF:-1,Dijlah Tarab
+acestream://739fd3884d898f77f54ed777434118d35c100f1a
 #EXTINF:-1,Europa Plus TV [RU]
 acestream://755483260c00e095f825286bc8b3562966814022
 #EXTINF:-1,KroneHIT
@@ -37,11 +39,9 @@ acestream://a5149234466b95643eec346ffbd24bc71c64e3d6
 #EXTINF:-1,Ocko Expres
 acestream://9b3814266b03aa2a274f7024e18941843be369f3
 #EXTINF:-1,Ocko Star
-acestream://4c7bdc33de3b13144f5197dfd00b91e32a0443ed
+acestream://cab6bae7c058146b8fbd35e9f5aea9907e82da10
 #EXTINF:-1,RU.TV [RU]
 acestream://2302f4b9327232b91a434658c24a506c88bc55f0
-#EXTINF:-1,Radio Piter Pan TV
-acestream://7291603fa088b595290436813e80e0aa034fc12d
 #EXTINF:-1,SONG TV HD Armenia
 acestream://6a651f2a79746d412a763164101babe91a59c503
 #EXTINF:-1,SONG TV HD Russia
@@ -51,7 +51,7 @@ acestream://8a6469770344c136f36fa29fe8e330f4dfbb79ba
 #EXTINF:-1,VIVA HD [RU]
 acestream://aaf3060a96b04f621643e031eb61137722981595
 #EXTINF:-1,Wanasah
-acestream://51902261465750d2bd4ee6bd5f44649b8bd5aa15
+acestream://fff007044a52f4ad325f999fa095536ea672d622
 #EXTINF:-1,Xite
 acestream://891ffff2670945d0fe90e7db624333bed89543af
 #EXTINF:-1,iConcerts [RU]
@@ -68,8 +68,6 @@ acestream://0f777acf2def9b2c0ae254041796fbae5ba60501
 acestream://e72eb5bd621666fdcb1cf7689ce9a1f66fe20c22
 #EXTINF:-1,МУЗ [RU]
 acestream://38cf205218182050f0df6c7d8321e5e651286e91
-#EXTINF:-1,Матур ТВ HD
-acestream://e069ff636653c3291a8edc2fabdb7770296ad267
 #EXTINF:-1,Музыка Первого [RU]
 acestream://4f2d81ed73736cf3adc44c8a6a24cda47fc1eef0
 #EXTINF:-1,Музыка первого
