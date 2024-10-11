@@ -9,7 +9,9 @@ acestream://5a17ef4db805e651cd4afa46c79272e2514b7198
 #EXTINF:-1,Afrobeats
 acestream://d43827a07e1006e4b4a4a82f0474e98bc93b89b5
 #EXTINF:-1,Animal Planet HD
-acestream://f2aefa9eb9c00709f4209621d707c18290b65d4d
+acestream://47d205ef9a3c4dc5d0f4558976b157e3ef21600a
+#EXTINF:-1,Arabica Music
+acestream://c073375ee168c933f1f7a23c187d8c0846fe49d5
 #EXTINF:-1,Bridge HD [RU]
 acestream://32c2ea9b766da382ee892dae57871b3dd1e8641b
 #EXTINF:-1,Bridge TV
@@ -22,8 +24,6 @@ acestream://eb3add8d104fa237e14343f3236a932595023c9a
 acestream://635159bee85b23dd079e505fe5842b34eb124203
 #EXTINF:-1,Dijlah Tarab
 acestream://739fd3884d898f77f54ed777434118d35c100f1a
-#EXTINF:-1,Europa Plus TV
-acestream://0ee6d32a964e89beeb53888119d69d7967405e26
 #EXTINF:-1,Europa Plus TV [RU]
 acestream://755483260c00e095f825286bc8b3562966814022
 #EXTINF:-1,KroneHIT
@@ -36,8 +36,6 @@ acestream://19c4c06fa791900f0574024b812883363ddeeac1
 acestream://5a08cc63a0aef61f2f659efae6f7b9c2b584c0b2
 #EXTINF:-1,Marutam Music
 acestream://2120873b147646690845aa0736fe119410f0225b
-#EXTINF:-1,Mezzo
-acestream://5c8cfdc56f8aa8c7611d453cdcb4e2ad43b4757f
 #EXTINF:-1,Mezzo Live HD
 acestream://6f4b46b81c267d14bcdaac825aa909ce2a121279
 #EXTINF:-1,MusicBox RU [RU]
@@ -52,8 +50,6 @@ acestream://4c7bdc33de3b13144f5197dfd00b91e32a0443ed
 acestream://a74ccead9280bcec8fba366ca458381215959e71
 #EXTINF:-1,RU.TV [RU]
 acestream://2302f4b9327232b91a434658c24a506c88bc55f0
-#EXTINF:-1,Radio Piter Pan TV
-acestream://7291603fa088b595290436813e80e0aa034fc12d
 #EXTINF:-1,SONG TV HD Armenia
 acestream://6a651f2a79746d412a763164101babe91a59c503
 #EXTINF:-1,SONG TV HD Russia
@@ -65,7 +61,7 @@ acestream://8a6469770344c136f36fa29fe8e330f4dfbb79ba
 #EXTINF:-1,VIVA HD [RU]
 acestream://aaf3060a96b04f621643e031eb61137722981595
 #EXTINF:-1,Wanasah
-acestream://fff007044a52f4ad325f999fa095536ea672d622
+acestream://51902261465750d2bd4ee6bd5f44649b8bd5aa15
 #EXTINF:-1,Xite
 acestream://891ffff2670945d0fe90e7db624333bed89543af
 #EXTINF:-1,iConcerts [RU]
@@ -90,8 +86,6 @@ acestream://38cf205218182050f0df6c7d8321e5e651286e91
 acestream://e069ff636653c3291a8edc2fabdb7770296ad267
 #EXTINF:-1,Муз ТВ
 acestream://8d937c4b872fa0104806495afe2be230b1e67d49
-#EXTINF:-1,Музыка Первого
-acestream://9e3834b883a2782631820d1b23e825c44d53a493
 #EXTINF:-1,Музыка Первого [RU]
 acestream://4f2d81ed73736cf3adc44c8a6a24cda47fc1eef0
 #EXTINF:-1,Музыка первого
