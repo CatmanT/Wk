@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV
-https://p13.magicplaces.eu/protv/video.m3u8?token=75e6ca841d4193c484e61b65cf9a51d25aa09198-0d9a3eed06417ff164b55708beeacc8b-1732120476-1732109676
+https://p13.magicplaces.eu/protv/video.m3u8?token=75e6ca841d4193c484e61b65cf9a51d25aa09198-0d9a3eed06417ff164b55708beeacc8b-1732120476-1732109676&remote=no_check_ip
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV *
 https://canale.webhd.ru/lb/protv/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV HEVC
 http://terminatorul.ro:8080/live/AN2211024/cERQiZCs4ZG6B2qG3Mm607BnpEi80x/13181.ts
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
-https://p11.vasile22.com/prima/video.m3u8?token=exp=1732066478~hmac=5e551a7b2186da500076c94ec400a54ead5c31efbdf48c9f8f716e13f0a51f90
+https://p11.magicplaces.eu/prima/video.m3u8?token=69f8396bf3b10591ba9300a144c171afdc979038-e955ce41fee7d3ba4b2bccafcee7e96d-1732121140-1732110340&remote=no_check_ip
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
 https://p13.vasile22.com/kanald/video.m3u8?token=exp=1732066304~hmac=3bbc3ad43534beb1fb6b7b44add18f29fcb1aa7590d9b57db4c59b6700fa1841
 #EXTINF:-1 tvg-name="KANAL D2" tvg-logo="https://i.postimg.cc/7YPWGnz5/kanal-d2.png" group-title="Generaliste",KANAL D2
