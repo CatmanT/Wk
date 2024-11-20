@@ -8,23 +8,23 @@ http://terminatorul.ro:8080/live/AN2211024/cERQiZCs4ZG6B2qG3Mm607BnpEi80x/13181.
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
 https://p11.magicplaces.eu/prima/video.m3u8?token=69f8396bf3b10591ba9300a144c171afdc979038-e955ce41fee7d3ba4b2bccafcee7e96d-1732121140-1732110340&remote=no_check_ip
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
-https://p13.vasile22.com/kanald/video.m3u8?token=exp=1732066304~hmac=3bbc3ad43534beb1fb6b7b44add18f29fcb1aa7590d9b57db4c59b6700fa1841
+https://p11.magicplaces.eu/kanald/video.m3u8?token=06947043ac71f7efec7b83f06d0f405a1291206b-7625433cc3b54e430af813f00f0c3787-1732121382-1732110582&remote=no_check_ip
 #EXTINF:-1 tvg-name="KANAL D2" tvg-logo="https://i.postimg.cc/7YPWGnz5/kanal-d2.png" group-title="Generaliste",KANAL D2
-https://p11.vasile22.com/kanald2hd/video.m3u8?token=44ee8983703a731b4b3a19eb1dca843ead22d343-a5956c15dc016b38b9b872c09c0fcc1d-1732073801-1732063001
+https://p11.magicplaces.eu/kanald2hd/video.m3u8?token=57180c5f4f6f05365e23abda4ff2ec20d0fa1551-51ec7b4ed29236d7245fc5fd2ad2e7af-1732121435-1732110635&remote=no_check_ip
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24
-https://p11.vasile22.com/digi24/index.m3u8?token=3f9770cbe623fffd8d9d0cdc21973a22484d5ebc-b525641f4e5ff1c537913cc033a53cdd-1732073548-1732062748
+https://p11.magicplaces.eu/digi24/index.m3u8?token=6fceccfa7fc19a711b4cface4de5722b14dd5e2a-6107152c7e8184ab534b9795ea8b0b11-1732121490-1732110690&remote=no_check_ip
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24 ()
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1 tvg-name="B1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Stiri",B1 TV
-https://p11.vasile22.com/b1/video.m3u8?token=84ee0e38d8ce65a50392a2b55805372c9436cae6-ab49767802af2536e99e0bb4a1195a0a-1732073589-1732062789
+https://p11.magicplaces.eu/b1/video.m3u8?token=0c7b4b9566beb6f777ee2e7fe11fb68c0648d6a5-074c4c818bfddd0acdc3c42b9b085582-1732121536-1732110736&remote=no_check_ip
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1
-https://p9.magicplaces.eu/antena1/index.m3u8?token=exp=1732066262~hmac=af1f8ba22e561ef5295a801522bf500b41ecbbc81c4248c76c7a311b1dafc74b
+https://p9.magicplaces.eu/antena1/video.m3u8?token=42178643eb0c9d4dd69d65538603f6e3dcc39f95-70f99f7bd192fc1983cad05697212751-1732121594-1732110794&remote=no_check_ip
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1 ()
 http://magentalive.eu:8080/ovidiuMDqwe12e12/OWhbntPxPt7NAwpZwi9WEbOIfoiZK8/765
 #EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Generaliste",ANTENA STARS
-https://p11.vasile22.com/antenastarssd/video.m3u8?token=2c31bb942c34098f3f45746013aa93ea99a695a2-0d76c47c3f4f1a10c4dae0d368520f55-1732073880-1732063080
+https://p11.magicplaces.eu/antenastarssd/video.m3u8?token=1b914c4f6c228c82c1454fcabfac4bb299c997df-34a3429c47b0212c208d53ab0732115d-1732121679-1732110879&remote=no_check_ip
 #EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN
-https://p11.vasile22.com/antena3hd/video.m3u8?token=f6dc274c7a9860f26ebda4c502803bf1b1492bca-c63911632546be44fec77a6ffb6721d7-1732073684-1732062884
+https://p11.magicplaces.eu/antena3hd/video.m3u8?token=692faa94591407d79f92b8566d09731a6adda962-8f143795e39887909737ddf8c40369ed-1732121635-1732110835&remote=no_check_ip
 #EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN ()
 http://lautarul.ro:8080/AN227564/h3edS7u1SMuWVLggisEM1ifSXpvL1o/8973
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS
