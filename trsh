@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV
-plugin://plugin.video.rdslive/?action=play&;link=https%3A%2F%2Femisiuni.live%2Fpro-tv-hd-1%2F
+plugin://plugin.video.rdslive/?action=play&amp;link=https%3A%2F%2Femisiuni.live%2Fpro-tv-hd-1%2F
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV *
 https://canale.webhd.ru/lb/protv/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV HEVC
