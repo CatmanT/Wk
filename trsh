@@ -8,9 +8,9 @@ http://terminatorul.ro:8080/live/AN2211024/cERQiZCs4ZG6B2qG3Mm607BnpEi80x/13181.
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2prima*tv*hd%2F
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
-https://p11.magicplaces.eu/kanald/video.m3u8?token=06947043ac71f7efec7b83f06d0f405a1291206b-7625433cc3b54e430af813f00f0c3787-1732121382-1732110582&remote=no_check_ip
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2kanald%2F
 #EXTINF:-1 tvg-name="KANAL D2" tvg-logo="https://i.postimg.cc/7YPWGnz5/kanal-d2.png" group-title="Generaliste",KANAL D2
-https://p11.magicplaces.eu/kanald2hd/video.m3u8?token=57180c5f4f6f05365e23abda4ff2ec20d0fa1551-51ec7b4ed29236d7245fc5fd2ad2e7af-1732121435-1732110635&remote=no_check_ip
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2kanald2%2F
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24
 https://p11.magicplaces.eu/digi24/index.m3u8?token=6fceccfa7fc19a711b4cface4de5722b14dd5e2a-6107152c7e8184ab534b9795ea8b0b11-1732121490-1732110690&remote=no_check_ip
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24 ()
