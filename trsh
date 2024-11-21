@@ -16,7 +16,7 @@ https://p11.magicplaces.eu/digi24/index.m3u8?token=6fceccfa7fc19a711b4cface4de57
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24 ()
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1 tvg-name="B1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Stiri",B1 TV
-https://p11.magicplaces.eu/b1/video.m3u8?token=0c7b4b9566beb6f777ee2e7fe11fb68c0648d6a5-074c4c818bfddd0acdc3c42b9b085582-1732121536-1732110736&remote=no_check_ip
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2b1%2F
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fantena-2%2F
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1 ()
