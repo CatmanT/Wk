@@ -6,17 +6,17 @@ https://canale.webhd.ru/lb/protv/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+1
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV HEVC
 http://terminatorul.ro:8080/live/AN2211024/cERQiZCs4ZG6B2qG3Mm607BnpEi80x/13181.ts
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2prima*tv*hd%2F
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fprima*tv*hd%2F
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2kanald%2F
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fkanald%2F
 #EXTINF:-1 tvg-name="KANAL D2" tvg-logo="https://i.postimg.cc/7YPWGnz5/kanal-d2.png" group-title="Generaliste",KANAL D2
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2kanald2%2F
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fkanald2%2F
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24
 https://p11.magicplaces.eu/digi24/index.m3u8?token=6fceccfa7fc19a711b4cface4de5722b14dd5e2a-6107152c7e8184ab534b9795ea8b0b11-1732121490-1732110690&remote=no_check_ip
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24 ()
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1 tvg-name="B1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Stiri",B1 TV
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2b1%2F
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fb1%2F
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fantena-2%2F
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1 ()
