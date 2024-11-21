@@ -103,9 +103,7 @@ plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fbb
 
 
 #EXTINF:-1 tvg-name="CBS Reality" tvg-id=""tvg-logo="https://i.postimg.cc/vTqQ7104/CBS-Reality.png"group-title="Documentare",CBS Reality
-https://p11.magicplaces.eu/cbsreality/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
-
-
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fcbs-realityy%2F
 #EXTINF:-1 tvg-name="DIGI Animal World" tvg-id=""tvg-logo="https://i.postimg.cc/rm2zztHc/Digi-animal-world.png"group-title="Documentare",DIGI ANIMAL WORLD
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fdigi-animal-world%2F
 #EXTINF:-1 tvg-name="DIGI Life HD" tvg-id=""tvg-logo="https://i.postimg.cc/5N4YwL22/Digi-Life.png"group-title="Documentare",DIGI LIFE
@@ -193,27 +191,23 @@ plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fsp
 #EXTINF:-1 tvg-name="PRO Arena" tvg-logo="https://i.postimg.cc/52f2xhMw/Pro-ARENA.png" group-title="Sport",PRO Arena
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fpro-arena-hd-2%2F
 
-
-
-
-
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-id=""tvg-logo="https://i.postimg.cc/7Y9zcXWz/Cartoon-Network.png"group-title="Kids",CARTOON NETWORK
-https://p11.magicplaces.eu/cartoonnetworksd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fcartoon-network%2F
 #EXTINF:-1 tvg-name="Disney Channel" tvg-id=""tvg-logo="https://i.postimg.cc/c4C1xmJw/Disney-Channel.png"group-title="Kids",DISNEY CHANNEL
-https://p11.magicplaces.eu/disneychannelsd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fdisney-channel%2F
 #EXTINF:-1 tvg-name="Disney Junior" tvg-id=""tvg-logo="https://i.postimg.cc/R05vTxLL/Disney-Junior.png"group-title="Kids",DISNEY JUNIOR
-https://p11.magicplaces.eu/disneyjunior/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fdisney-junior%2F
 #EXTINF:-1 tvg-name="Duck TV HD" tvg-id=""tvg-logo="https://i.postimg.cc/RVpFKYYg/Duck-TV.png"group-title="Kids",DUCK TV
-https://p11.magicplaces.eu/ducktvsd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fduck-tv%2F
 #EXTINF:-1 tvg-name="TeenNick" tvg-id=""tvg-logo="https://i.postimg.cc/9FhqDkyn/TeenNick.png"group-title="Kids",TEENNICK
-https://p11.magicplaces.eu/teennicksd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fteennick%2F
 #EXTINF:-1 tvg-name="JimJam" tvg-id=""tvg-logo="https://i.postimg.cc/4xR0Lfjy/JimJam.png"group-title="Kids",JIMJAM
-https://p11.magicplaces.eu/jimjamsd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fjim-jam%2F
 #EXTINF:-1 tvg-name="Minimax" tvg-id=""tvg-logo="https://i.postimg.cc/xd1V5jbH/Minimax.png"group-title="Kids",MINIMAX
-https://p11.magicplaces.eu/minimax/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fminimax%2F
 #EXTINF:-1 tvg-name="Nick Jr" tvg-id=""tvg-logo="https://i.postimg.cc/pTBJ6P2Y/Nick-Jr.png"group-title="Kids",NICK JR
-https://p11.magicplaces.eu/nickjrsd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fnick-jr%2F
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id=""tvg-logo="https://i.postimg.cc/1tVT78Rg/Nickelodeon.png"group-title="Kids",NICKELODEON
-https://p11.magicplaces.eu/nickelodeonsd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fnickelodeon%2F
 #EXTINF:-1 tvg-name="Nicktoons" tvg-id=""tvg-logo="https://i.postimg.cc/kM8zxRhz/Nicktoons.png"group-title="Kids",NICKTOONS
-https://p11.magicplaces.eu/nicktoonssd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fnick-toons%2F
