@@ -30,13 +30,17 @@ http://lautarul.ro:8080/AN227564/h3edS7u1SMuWVLggisEM1ifSXpvL1o/8973
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Frealitateaplussd%2F
 #EXTINF:-1 tvg-name="România TV" tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png"group-title="Stiri",Romania TV
-https://p11.magicplaces.eu/romaniatvsd/video.m3u8?token=3d3bd6e275a7a9264b641651efcb4b5a48a9538d-ee44687bbcacb1e33e0e59934085818b-1732123680-1732112880&remote=no_check_ip
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fromaniatvsd%2F
 #EXTINF:-1 tvg-name="Euronews" tvg-id=""tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png"group-title="Stiri",Euronews RO
-https://p11.magicplaces.eu/euronewsrosd/video.m3u8?token=1f9147941493bf96d75b012925ccc61ffcbea01f-600797f3e3a72cc7a7885cedadb54512-1732123714-1732112914&remote=no_check_ip
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Feuronewsrosd%2F
 #EXTINF:-1 tvg-name="RT HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"group-title="Stiri",RT HD
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-name="TVR 1" tvg-id=""tvg-logo="https://i.postimg.cc/wTwVJ6Hn/TVR_1.png"group-title="Generaliste",TVR 1
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Ftvr-1-hd%2F
+
+
+
+
 #EXTINF:-1 tvg-name="TVR 2" tvg-id=""tvg-logo="https://i.postimg.cc/fTzCJ34x/TVR_2.png"group-title="Generaliste",TVR 2
 https://p11.magicplaces.eu/tvr2sd/video.m3u8?token=f0514aebd80b369b75f8e6d970bed920e441e0d5-ebd9d60058c957eeba696436427581ff-1732123787-1732112987&remote=no_check_ip
 #EXTINF:-1 tvg-name="TVR 3" tvg-id=""tvg-logo="https://i.postimg.cc/QdVqJRdC/TVR_3.png"group-title="Generaliste",TVR 3
