@@ -17,6 +17,8 @@ plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fdi
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1 tvg-name="B1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Stiri",B1 TV
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fb1tv%2F
+#EXTINF:-1 tvg-name="B1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Stiri",B1 TV ()
+https://live3.cdn.dejacast.com/b1tv/b1tv.m3u8?from=1732156239&to=1732177839&session=WvaC6MbvqPMjkKGV&source=cms&token=KKUVoKk-XWx-K9fMQ9FnVJmrY84=
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fantena-2%2F
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1 ()
