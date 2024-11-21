@@ -39,20 +39,19 @@ https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunkl
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Ftvr-1-hd%2F
 #EXTINF:-1 tvg-name="TVR 2" tvg-id=""tvg-logo="https://i.postimg.cc/fTzCJ34x/TVR_2.png"group-title="Generaliste",TVR 2
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Ftvr-2-hd%2F
-
 #EXTINF:-1 tvg-name="TVR 3" tvg-id=""tvg-logo="https://i.postimg.cc/QdVqJRdC/TVR_3.png"group-title="Generaliste",TVR 3
-https://p11.magicplaces.eu/tvr3sd/video.m3u8?token=23d1cb45fd53950bbdc86fcbcf61af5fbe2af0a2-600183f1c929701eff1afe8a5da4b7c3-1732123821-1732113021&remote=no_check_ip
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Ftvr-3%2F
 #EXTINF:-1 tvg-name="Acasa HD" tvg-id=""tvg-logo="https://i.postimg.cc/YC2GtFpb/Acasa.png"group-title="Generaliste",Acasa
-https://p11.magicplaces.eu/acasahd/video.m3u8?token=c1e5a772acad5c83bbe3e37bc1595be796c349e2-d9425b5edd94990c1d515a44398f9f0f-1732123849-1732113049&remote=no_check_ip
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Facasa-tv-hd%2F
 #EXTINF:-1 tvg-name="NATIONAL TV" tvg-id=""tvg-logo="https://i.postimg.cc/sxSkxvtF/National_TV.png"group-title="Generaliste",NATIONAL TV
-https://p11.magicplaces.eu/nationaltvsd/video.m3u8?token=7063fc0f84d28d3ef59e59c567774af2086d4f80-390c6cb01241bbad1881237803060943-1732123888-1732113088&remote=no_check_ip
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fnational-tv%2F
 #EXTINF:-1 tvg-name="NATIONAL 24 PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/sfhdwN1n/National_24_Plus.png"group-title="Generaliste",NATIONAL 24 PLUS
-https://p11.magicplaces.eu/national24sd/video.m3u8?token=89d490e0628390f1c784e851d9362be3883f0afe-f68bdec79768d7a4da6d61ce61de27b0-1732123920-1732113120&remote=no_check_ip
-
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fnational-plus-24%2F
 #EXTINF:-1 tvg-name="Happy Channel" tvg-id=""tvg-logo="https://i.postimg.cc/xTBQ0VhV/Happy-Channel.png"group-title="Movies",Happy Channel
-https://p9.magicplaces.eu/happychannelsd/video.m3u8?token=684357ae735c7df1e9aa5799f332a97b5d9b5157-d47d13cd97401d771f4f3696f75b4a02-1732124076-1732113276&remote=no_check_ip
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fhappy-channel%2F
 #EXTINF:-1 tvg-name="HBO" tvg-id=""tvg-logo="https://i.postimg.cc/hjZwp9qR/HBO_HD.png"group-title="Movies",HBO
-https://p11.magicplaces.eu/hbohd/video.m3u8?token=0366db47c191ab3cf4c4972f6e9cd584aac17570-17119829176f1e4846154a53a1ad3279-1732124112-1732113312&remote=no_check_ip
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fhbo-hd%2F
+
 #EXTINF:-1 tvg-name="HBO 2" tvg-id=""tvg-logo="https://i.postimg.cc/FzqMs0PV/HBO_2.png"group-title="Movies",HBO 2
 https://p11.magicplaces.eu/hbo2sd/video.m3u8?token=e349080396b49345bffc262f80ef5156aa2809c6-d9767fdfe18073a7cc0ab12b9706c1ad-1732124148-1732113348&remote=no_check_ip
 #EXTINF:-1 tvg-name="HBO 3" tvg-id=""tvg-logo="https://i.postimg.cc/L8fp50FY/HBO_3.png"group-title="Movies",HBO 3
