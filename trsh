@@ -98,33 +98,28 @@ plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2FAC
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2FBollywood-TV%2F
 #EXTINF:-1 tvg-name="Comedy Central" tvg-id=""tvg-logo="https://i.postimg.cc/MGCfRLvC/Comedy-Central.png"group-title="Movies",Comedy Central
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2FComedy-Central%2F
-
 #EXTINF:-1 tvg-name="BBC Earth" tvg-id=""tvg-logo="https://i.postimg.cc/J4538RGG/BBC-Earth.png"group-title="Documentare",BBC Earth
-https://p11.magicplaces.eu/bbcearthsd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fbbc-earth%2F
+
+
 #EXTINF:-1 tvg-name="CBS Reality" tvg-id=""tvg-logo="https://i.postimg.cc/vTqQ7104/CBS-Reality.png"group-title="Documentare",CBS Reality
 https://p11.magicplaces.eu/cbsreality/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
+
+
 #EXTINF:-1 tvg-name="DIGI Animal World" tvg-id=""tvg-logo="https://i.postimg.cc/rm2zztHc/Digi-animal-world.png"group-title="Documentare",DIGI ANIMAL WORLD
-https://p11.magicplaces.eu/digianimalworld/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fdigi-animal-world%2F
 #EXTINF:-1 tvg-name="DIGI Life HD" tvg-id=""tvg-logo="https://i.postimg.cc/5N4YwL22/Digi-Life.png"group-title="Documentare",DIGI LIFE
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fdigi-life%2F
-
-
-
 #EXTINF:-1 tvg-name="DIGI World HD" tvg-id=""tvg-logo="https://i.postimg.cc/8kBfJtDY/Digi-World.png"group-title="Documentare",DIGI WORLD
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fdigi-world%2F
-
-
-
 #EXTINF:-1 tvg-name="Discovery HD" tvg-id=""tvg-logo="https://i.postimg.cc/Bbq6BfsV/Discovery-Channel.png"group-title="Documentare",Discovery Channel
-https://p11.magicplaces.eu/discoverysd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fdiscovery-channel%2F
 #EXTINF:-1 tvg-name="ID  Investigation Discovery  HD" tvg-id=""tvg-logo="https://i.postimg.cc/9M0gRrw8/Investigation_Discovery.png"group-title="Documentare",ID Investigation Discovery
 http://ionutfv2.webhop.me:8008/Cristian_cojocaru/dRBk7zkUH2/33880
 #EXTINF:-1 tvg-name="History Channel" tvg-id=""tvg-logo="https://i.postimg.cc/wBqLzQ2C/History.png"group-title="Documentare",History
-https://p11.magicplaces.eu/historychannelsd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fhistory%2F
 #EXTINF:-1 tvg-name="National Geographic" tvg-id=""tvg-logo="https://i.postimg.cc/rsSHc7rM/National_Geografic.png"group-title="Documentare",National Geographic
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fnational-geographic%2F
-
-
 #EXTINF:-1 tvg-name="National Geographic Wild" tvg-id=""tvg-logo="https://i.postimg.cc/28dpfLQh/Nat_Geo_Wild.png"group-title="Documentare",Nat Geo Wild
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fnational-geographic-wild%2F
 #EXTINF:-1 tvg-name="TLC HD" tvg-id=""tvg-logo="https://i.postimg.cc/7ZLKQ5mx/TLC.png"group-title="Documentare",TLC
