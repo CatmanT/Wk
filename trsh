@@ -31,6 +31,8 @@ plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fan
 http://lautarul.ro:8080/AN227564/h3edS7u1SMuWVLggisEM1ifSXpvL1o/8973
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Frealitatea-tv-hd%2F
+#EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS ()
+https://stream.realitatea.net/realitatea/plus_md/playlist.m3u8
 #EXTINF:-1 tvg-name="România TV" tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png"group-title="Stiri",Romania TV
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fromaniatvsd%2F
 #EXTINF:-1 tvg-name="Euronews" tvg-id=""tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png"group-title="Stiri",Euronews RO
