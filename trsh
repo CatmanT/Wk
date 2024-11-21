@@ -111,7 +111,10 @@ plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fdi
 
 
 #EXTINF:-1 tvg-name="DIGI World HD" tvg-id=""tvg-logo="https://i.postimg.cc/8kBfJtDY/Digi-World.png"group-title="Documentare",DIGI WORLD
-https://p11.magicplaces.eu/digiworld/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fdigi-world%2F
+
+
+
 #EXTINF:-1 tvg-name="Discovery HD" tvg-id=""tvg-logo="https://i.postimg.cc/Bbq6BfsV/Discovery-Channel.png"group-title="Documentare",Discovery Channel
 https://p11.magicplaces.eu/discoverysd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
 #EXTINF:-1 tvg-name="ID  Investigation Discovery  HD" tvg-id=""tvg-logo="https://i.postimg.cc/9M0gRrw8/Investigation_Discovery.png"group-title="Documentare",ID Investigation Discovery
@@ -123,35 +126,29 @@ plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fna
 
 
 #EXTINF:-1 tvg-name="National Geographic Wild" tvg-id=""tvg-logo="https://i.postimg.cc/28dpfLQh/Nat_Geo_Wild.png"group-title="Documentare",Nat Geo Wild
-https://p11.magicplaces.eu/natgeowildsd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
-
-
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fnational-geographic-wild%2F
 #EXTINF:-1 tvg-name="TLC HD" tvg-id=""tvg-logo="https://i.postimg.cc/7ZLKQ5mx/TLC.png"group-title="Documentare",TLC
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Ftlc%2F
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://i.postimg.cc/wMSrdgvW/HGTV.png" group-title="Documentare",HGTV
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fhgtv%2F
-
-
 #EXTINF:-1 tvg-name="TV Paprika HD" tvg-logo="https://i.postimg.cc/Px1y8YrM/TV_Paprika.png" group-title="Documentare",TV PAPRIKA
-https://p11.magicplaces.eu/tvpaprika/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Ftv-paprika%2F
 #EXTINF:-1 tvg-name="Travel Channel HD" tvg-id=""tvg-logo="https://i.postimg.cc/3xbtM3c2/Travel_Channel.png"group-title="Documentare",TRAVEL CHANNEL
-https://p11.magicplaces.eu/travelchannelsd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Ftravel-channel%2F
 #EXTINF:-1 tvg-name="" tvg-id=""tvg-logo="https://i.postimg.cc/Y03xd7FG/Travel-Mix.png"group-title="Documentare",TRAVEL MIX
-https://p11.magicplaces.eu/travelmixsd/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
-
-
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Ftravel-mix%2F
 #EXTINF:-1 tvg-name="Viasat Explore HD" tvg-id=""tvg-logo="https://i.postimg.cc/PqwzBYZk/ViasatExplore.png"group-title="Documentare",VIASAT EXPLORE
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fviasat-explore%2F
 #EXTINF:-1 tvg-name="Viasat History HD" tvg-id=""tvg-logo="https://i.postimg.cc/j5YQK2Qn/ViasatHistory.png"group-title="Documentare",VIASAT HISTORY
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fviasat-history%2F
 #EXTINF:-1 tvg-name="Viasat Nature HD" tvg-id=""tvg-logo="https://i.postimg.cc/d1RR0F4H/ViasatNature.png"group-title="Documentare",VIASAT NATURE
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fviasat-nature%2F
-
-
-
-
 #EXTINF:-1 tvg-name="Da Vinci" tvg-id=""tvg-logo="https://i.postimg.cc/B62LCCFX/Da-Vinci.png"group-title="Documentare",Da Vinci Learning
-https://p11.magicplaces.eu/davinci/video.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fdavinci%2F
+
+
+
+
 #EXTINF:-1 tvg-name="E! Entertainment HD" tvg-id=""tvg-logo="https://i.postimg.cc/LsL8d88W/E.png"group-title="Documentare",E! Entertainment
 https://p11.magicplaces.eu/entertainment/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+rv:75.0)+Gecko/20100101+Firefox/75.0&Referer=https://emisiuni.live&Host=p8.stirilepe.net&Accept=*/*&Accept-Language=en-US,en;q=0.5&Accept-Encoding=gzip,+deflate,+br,+zstd&Origin=https://emisiuni.live&Connection=keep-alive&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site&Sec-GPC=1
 
