@@ -91,9 +91,9 @@ plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fwa
 #EXTINF:-1 tvg-name="TV1000" tvg-id=""tvg-logo="https://i.postimg.cc/L5RTk5JF/TV1000.png"group-title="Movies",TV 1000
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Ftv-1000%2F
 #EXTINF:-1 tvg-name="Acasă Gold HD" tvg-id=""tvg-logo="https://i.postimg.cc/hjNsXMBv/Acas-A-Gold.png"group-title="Movies",ACASA GOLD
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2FComedy-Central%2F
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2FACASA-GOLD%2F
 #EXTINF:-1 tvg-name="Bollywood Clasic" tvg-id=""tvg-logo="https://i.postimg.cc/8khMdTdt/Bollywood-TV.png"group-title="Movies",Bollywood Clasic
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2FACASA GOLD%2F
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2FBollywood-TV%2F
 #EXTINF:-1 tvg-name="Comedy Central" tvg-id=""tvg-logo="https://i.postimg.cc/MGCfRLvC/Comedy-Central.png"group-title="Movies",Comedy Central
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2FComedy-Central%2F
 
