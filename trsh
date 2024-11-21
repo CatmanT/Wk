@@ -74,7 +74,7 @@ plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fci
 #EXTINF:-1 tvg-name="Cinemax2 HD " tvg-id=""tvg-logo="https://i.postimg.cc/y8NRz9Mb/Cinemax-2-HD.png"group-title="Movies",CINEMAX 2
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fcinemax-2%2F
 #EXTINF:-1 tvg-name="Cinemaraton" tvg-logo="https://i.postimg.cc/Vvmy2fwK/Cinemaraton.png" group-title="Movies",Cinemaraton
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fcinemaraton-hdk%2F
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fcinemaraton-hd%2F
 #EXTINF:-1 tvg-name="Diva" tvg-id=""tvg-logo="https://i.postimg.cc/T29hY1JM/Diva.png"group-title="Movies",Diva
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fdiva%2F
 #EXTINF:-1 tvg-name="Epic Drama" tvg-id=""tvg-logo="https://i.postimg.cc/d1FtJc7V/Epic-Drama.png"group-title="Movies",Epic Drama
