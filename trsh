@@ -18,11 +18,11 @@ https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1 tvg-name="B1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Stiri",B1 TV
 https://p11.magicplaces.eu/b1/video.m3u8?token=0c7b4b9566beb6f777ee2e7fe11fb68c0648d6a5-074c4c818bfddd0acdc3c42b9b085582-1732121536-1732110736&remote=no_check_ip
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1
-https://p9.magicplaces.eu/antena1/video.m3u8?token=42178643eb0c9d4dd69d65538603f6e3dcc39f95-70f99f7bd192fc1983cad05697212751-1732121594-1732110794&remote=no_check_ip
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fantena-2%2F
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1 ()
 http://magentalive.eu:8080/ovidiuMDqwe12e12/OWhbntPxPt7NAwpZwi9WEbOIfoiZK8/765
 #EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Generaliste",ANTENA STARS
-https://p11.magicplaces.eu/antenastarssd/video.m3u8?token=1b914c4f6c228c82c1454fcabfac4bb299c997df-34a3429c47b0212c208d53ab0732115d-1732121679-1732110879&remote=no_check_ip
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fantena-stars%2F
 #EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fantena-3-hd%2F
 #EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN ()
