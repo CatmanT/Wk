@@ -78,7 +78,7 @@ plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fdi
 #EXTINF:-1 tvg-name="Epic Drama" tvg-id=""tvg-logo="https://i.postimg.cc/d1FtJc7V/Epic-Drama.png"group-title="Movies",Epic Drama
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fepicdrama%2F
 #EXTINF:-1 tvg-name="AMC HD " tvg-id=""tvg-logo="https://i.postimg.cc/8Cffg387/AMC.png"group-title="Movies",AMC HD
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Famc-hd%2F
+plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Famc%2F
 #EXTINF:-1 tvg-name="Film Now" tvg-id=""tvg-logo="https://i.postimg.cc/5tBb7KPd/Film-Now.png"group-title="Movies",Film Now
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Ffilm-nowd%2F
 
