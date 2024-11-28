@@ -12,13 +12,13 @@ plugin://plugin.video.rdslive/?action=play&post_id=1376
 #EXTINF:-1 tvg-name="KANAL D2" tvg-logo="https://i.postimg.cc/7YPWGnz5/kanal-d2.png" group-title="Generaliste",KANAL D2
 plugin://plugin.video.rdslive/?action=play&post_id=1321
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fdigi24-hd%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1422
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24 ()
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1 tvg-name="B1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Stiri",B1 TV
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fb1tv%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1420
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1
-plugin://plugin.video.rdslive/?action=play&amp;post_id=1359
+plugin://plugin.video.rdslive/?action=play&post_id=1359
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1 ()
 http://magentalive.eu:8080/ovidiuMDqwe12e12/OWhbntPxPt7NAwpZwi9WEbOIfoiZK8/765
 #EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Generaliste",ANTENA STARS
@@ -36,7 +36,7 @@ plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fro
 #EXTINF:-1 tvg-name="Euronews" tvg-id=""tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png"group-title="Stiri",Euronews RO
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Feuronews-romania%2F
 #EXTINF:-1 tvg-name="CNN" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png"group-title="Stiri",CNN
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fcnn%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1410
 #EXTINF:-1 tvg-name="RT HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"group-title="Stiri",RT HD
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-name="TVR 1" tvg-id=""tvg-logo="https://i.postimg.cc/wTwVJ6Hn/TVR_1.png"group-title="Generaliste",TVR 1
