@@ -22,7 +22,7 @@ plugin://plugin.video.rdslive/?action=play&post_id=1359
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1 ()
 http://magentalive.eu:8080/ovidiuMDqwe12e12/OWhbntPxPt7NAwpZwi9WEbOIfoiZK8/765
 #EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Generaliste",ANTENA STARS
-plugin://plugin.video.rdslive/?action=play&post_id=1358
+plugin://plugin.video.rdslive/?action=play&post_id=1385
 #EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN
 plugin://plugin.video.rdslive/?action=play&post_id=1425
 #EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN ()
