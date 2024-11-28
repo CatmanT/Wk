@@ -24,11 +24,11 @@ http://magentalive.eu:8080/ovidiuMDqwe12e12/OWhbntPxPt7NAwpZwi9WEbOIfoiZK8/765
 #EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Generaliste",ANTENA STARS
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fantena-stars%2F
 #EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fantena-3-hd%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1425
 #EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN ()
 http://lautarul.ro:8080/AN227564/h3edS7u1SMuWVLggisEM1ifSXpvL1o/8973
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Frealitatea-tv-hd%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1424
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS ()
 https://stream.realitatea.net/realitatea/plus_md/playlist.m3u8
 #EXTINF:-1 tvg-name="România TV" tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png"group-title="Stiri",Romania TV
