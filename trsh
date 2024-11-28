@@ -122,7 +122,7 @@ plugin://plugin.video.rdslive/?action=play&post_id=1317
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://i.postimg.cc/wMSrdgvW/HGTV.png" group-title="Documentare",HGTV
 plugin://plugin.video.rdslive/?action=play&post_id=1763
 #EXTINF:-1 tvg-name="TV Paprika HD" tvg-logo="https://i.postimg.cc/Px1y8YrM/TV_Paprika.png" group-title="Documentare",TV PAPRIKA
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Ftv-paprika%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1753
 #EXTINF:-1 tvg-name="Travel Channel HD" tvg-id=""tvg-logo="https://i.postimg.cc/3xbtM3c2/Travel_Channel.png"group-title="Documentare",TRAVEL CHANNEL
 plugin://plugin.video.rdslive/?action=play&post_id=1548
 #EXTINF:-1 tvg-name="" tvg-id=""tvg-logo="https://i.postimg.cc/Y03xd7FG/Travel-Mix.png"group-title="Documentare",TRAVEL MIX
@@ -139,29 +139,29 @@ plugin://plugin.video.rdslive/?action=play&post_id=1754
 plugin://plugin.video.rdslive/?action=play&post_id=1554
 
 #EXTINF:-1 tvg-name="KISS TV" tvg-logo="https://i.postimg.cc/R0MDmPSz/Kiss-TV.png" group-title="Music",KISS TV
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fkiss-tv%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1481
 #EXTINF:-1 tvg-name="H!T Music Channel" tvg-logo="https://i.postimg.cc/bw0BKXjT/Hit-Music-Channel.png" group-title="Music",HIT MUSIC CHANNEL
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fhit-music-channel-2%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1506
 #EXTINF:-1 tvg-name="MAGIC TV HD" tvg-logo="https://i.postimg.cc/D0bC6Hg1/Magic-TV.png" group-title="Music",MAGIC TV
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fmagic-tv%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1517
 #EXTINF:-1 tvg-name="MTV Europe" tvg-logo="https://i.postimg.cc/G3WrR1Zw/MTV-Europe.png" group-title="Music",MTV EUROPE
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fmtv%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1323
 #EXTINF:-1 tvg-name="MTV 00s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Music",MTV 00s
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fmtv-80s%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1322
 #EXTINF:-1 tvg-name="Music Channel" tvg-logo="https://i.postimg.cc/cHKyqDhL/Music-Channel.png" group-title="Music",MUSIC CHANNEL
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fmusic-channel%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1563
 #EXTINF:-1 tvg-name="UTV HD" tvg-logo="https://i.postimg.cc/VsRBQYS5/UTV.png" group-title="Music",UTV
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fu-tv%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1501
 #EXTINF:-1 tvg-name="ZU TV HD" tvg-logo="https://i.postimg.cc/zv0nnjmT/ZU-TV.png" group-title="Music",ZU TV
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fzu-tv%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1500
 #EXTINF:-1 tvg-name="Etno TV" tvg-logo="https://i.postimg.cc/cLVL5n0Y/Etno.png" group-title="Music",ETNO TV
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fetnotv-hd%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1503
 #EXTINF:-1 tvg-name="Taraf TV" tvg-logo="https://i.postimg.cc/pXRGzGj5/Taraf-TV.png" group-title="Music",TARAF TV
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Ftaraf-tv%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1504
 #EXTINF:-1 tvg-name="Favorit" tvg-logo="https://i.postimg.cc/KvWGRMKV/Favorit-TV.png" group-title="Music",FAVORIT TV
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Ftv-favorit%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1505
 #EXTINF:-1 tvg-name="Mezzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="Music",Mezzo
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fmezzoo%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1757
 
 #EXTINF:-1 tvg-name="DIGI Sport 1" tvg-logo="https://i.postimg.cc/PrSLKJCz/Digi-Sport1.png" group-title="Sport",DIGI Sport 1
 plugin://plugin.video.rdslive/?action=play&post_id=1398
@@ -189,22 +189,22 @@ plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fsp
 plugin://plugin.video.rdslive/?action=play&post_id=1386
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-id=""tvg-logo="https://i.postimg.cc/7Y9zcXWz/Cartoon-Network.png"group-title="Kids",CARTOON NETWORK
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fcartoon-network%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1476
 #EXTINF:-1 tvg-name="Disney Channel" tvg-id=""tvg-logo="https://i.postimg.cc/c4C1xmJw/Disney-Channel.png"group-title="Kids",DISNEY CHANNEL
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fdisney-channel%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1469
 #EXTINF:-1 tvg-name="Disney Junior" tvg-id=""tvg-logo="https://i.postimg.cc/R05vTxLL/Disney-Junior.png"group-title="Kids",DISNEY JUNIOR
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fdisney-junior%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1467
 #EXTINF:-1 tvg-name="Duck TV HD" tvg-id=""tvg-logo="https://i.postimg.cc/RVpFKYYg/Duck-TV.png"group-title="Kids",DUCK TV
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fduck-tv%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1477
 #EXTINF:-1 tvg-name="TeenNick" tvg-id=""tvg-logo="https://i.postimg.cc/9FhqDkyn/TeenNick.png"group-title="Kids",TEENNICK
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fteennick%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1480
 #EXTINF:-1 tvg-name="JimJam" tvg-id=""tvg-logo="https://i.postimg.cc/4xR0Lfjy/JimJam.png"group-title="Kids",JIMJAM
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fjim-jam%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1475
 #EXTINF:-1 tvg-name="Minimax" tvg-id=""tvg-logo="https://i.postimg.cc/xd1V5jbH/Minimax.png"group-title="Kids",MINIMAX
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fminimax%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1478
 #EXTINF:-1 tvg-name="Nick Jr" tvg-id=""tvg-logo="https://i.postimg.cc/pTBJ6P2Y/Nick-Jr.png"group-title="Kids",NICK JR
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fnick-jr%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1474
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id=""tvg-logo="https://i.postimg.cc/1tVT78Rg/Nickelodeon.png"group-title="Kids",NICKELODEON
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fnickelodeon%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1479
 #EXTINF:-1 tvg-name="Nicktoons" tvg-id=""tvg-logo="https://i.postimg.cc/kM8zxRhz/Nicktoons.png"group-title="Kids",NICKTOONS
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fnick-toons%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1473
