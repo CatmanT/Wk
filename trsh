@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fpro-tv-hd-1%2F
+plugin://plugin.video.rdslive/?action=play&amp;post_id=1357
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV *
 https://canale.webhd.ru/lb/protv/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://tvcanale.live/&verifypeer=false&Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV HEVC
 http://terminatorul.ro:8080/live/AN2211024/cERQiZCs4ZG6B2qG3Mm607BnpEi80x/13181.ts
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fprima-tv-hd%2F
+PlayMedia("plugin://plugin.video.rdslive/?action=play&amp;post_id=1361
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fkanal-d-hd-c1%2F
+plugin://plugin.video.rdslive/?action=play&amp;post_id=1376
 #EXTINF:-1 tvg-name="KANAL D2" tvg-logo="https://i.postimg.cc/7YPWGnz5/kanal-d2.png" group-title="Generaliste",KANAL D2
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fkanald2%2F
+plugin://plugin.video.rdslive/?action=play&amp;post_id=1321
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fdigi24-hd%2F
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24 ()
@@ -18,7 +18,7 @@ https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1 tvg-name="B1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Stiri",B1 TV
 plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fb1tv%2F
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fantena-2%2F
+plugin://plugin.video.rdslive/?action=play&amp;post_id=1359
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1 ()
 http://magentalive.eu:8080/ovidiuMDqwe12e12/OWhbntPxPt7NAwpZwi9WEbOIfoiZK8/765
 #EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Generaliste",ANTENA STARS
