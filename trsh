@@ -209,7 +209,6 @@ plugin://plugin.video.rdslive/?action=play&post_id=1479
 
 
 
-#EXTM3U
 #EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="US: A&E" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/biogra.png" group-title="USA ENT",US: A&E
 http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707408
 #EXTINF:-1 tvg-id="US: A&E WEST" tvg-name="US: A&E (West)" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/biogra.png" group-title="USA ENT",US: A&E (West)
@@ -504,80 +503,6 @@ http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707556
 http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707557
 #EXTINF:-1 tvg-id="wgn9chicago.us" tvg-name="US: WGN CHICAGO" tvg-logo="https://i.ibb.co/z7mrVVq/wgn9.png" group-title="USA ENT",US: WGN CHICAGO
 http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/709674
-#EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="US: A&E" tvg-logo="https://static.epg.best/pa/AandELatinAmerica.pa.png" group-title="USA SD (slower internet)",US: A&E
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707559
-#EXTINF:-1 tvg-id="ABCWABC.us" tvg-name="US: ABC" tvg-logo="https://i.ibb.co/CmGkxXr/abc.png" group-title="USA SD (slower internet)",US: ABC
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707560
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="US: ABC NEWS LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/ABC_News_Live_logo.svg/241px-ABC_News_Live_logo.svg.png" group-title="USA SD (slower internet)",US: ABC NEWS LIVE
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707561
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="US: ANIMAL PLANET" tvg-logo="https://static.epg.best/mx/AnimalPlanet.mx.png" group-title="USA SD (slower internet)",US: ANIMAL PLANET
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707564
-#EXTINF:-1 tvg-id="aspiretv.us" tvg-name="US: Aspire" tvg-logo="https://static.epg.best/us/AspireTV.us.png" group-title="USA SD (slower internet)",US: Aspire
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707565
-#EXTINF:-1 tvg-id="US: AWE" tvg-name="US: AWE" tvg-logo="https://static.epg.best/us/AWealthofEntertainment.us.png" group-title="USA SD (slower internet)",US: AWE
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707566
-#EXTINF:-1 tvg-id="BabyTV.us" tvg-name="US: BabyTV" tvg-logo="https://clipground.com/images/baby-tv-logo-png-11.png" group-title="USA SD (slower internet)",US: BabyTV
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707567
-#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="US: BBC AMERICA" tvg-logo="https://zapdot.com/images/bbc-america.png" group-title="USA SD (slower internet)",US: BBC AMERICA
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707568
-#EXTINF:-1 tvg-id="bet.us" tvg-name="US: BET" tvg-logo="https://images.vectorhq.com/images/previews/4d0/bet-logo-psd-450606.png" group-title="USA SD (slower internet)",US: BET
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707569
-#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="US: BIG TEN NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="USA SD (slower internet)",US: BIG TEN NETWORK
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707570
-#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="US: Bloomberg" tvg-logo="https://www.logolynx.com/images/logolynx/e0/e096db05661ba2674f11ea79fee149e9.png" group-title="USA SD (slower internet)",US: Bloomberg
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707571
-#EXTINF:-1 tvg-id="boomerang.us" tvg-name="US: BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="USA SD (slower internet)",US: BOOMERANG
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707572
-#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US: CBS SPORTS NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png" group-title="USA SD (slower internet)",US: CBS SPORTS NETWORK
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707573
-#EXTINF:-1 tvg-id="cmt.us" tvg-name="US: CMT" tvg-logo="https://tgo-tv.co/images/tvthumbs/cmt-live-stream.png" group-title="USA SD (slower internet)",US: CMT
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707574
-#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="US: DESTINATION AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Destination_America_logo_2017.png" group-title="USA SD (slower internet)",US: DESTINATION AMERICA
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707575
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="US: DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/30nTC1p/discovery.png" group-title="USA SD (slower internet)",US: DISCOVERY CHANNEL
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707576
-#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="US: Discovery Life" tvg-logo="https://i.ibb.co/VLGX2Ks/discovery-life.png" group-title="USA SD (slower internet)",US: Discovery Life
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707577
-#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="US: DISCOVERY SCIENCE" tvg-logo="https://vignette4.wikia.nocookie.net/logosfake/images/a/a2/Discovery_Science_2017.png/revision/latest?cb=20170108231354" group-title="USA SD (slower internet)",US: DISCOVERY SCIENCE
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/845635
-#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="US: DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="USA SD (slower internet)",US: DISNEY CHANNEL
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707578
-#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="US: DISNEY JR" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/b2/b7/22/b2b72295281d514754baa8452788c800.png" group-title="USA SD (slower internet)",US: DISNEY JR
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707579
-#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="US: DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="USA SD (slower internet)",US: DISNEY XD
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707580
-#EXTINF:-1 tvg-id="espn.us" tvg-name="US: ESPN" tvg-logo="http://logos-download.com/wp-content/uploads/2016/05/ESPN_logo_wordmark.png" group-title="USA SD (slower internet)",US: ESPN
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707581
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="US: ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="USA SD (slower internet)",US: ESPN 2
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707582
-#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="US: ESPN Deportes" tvg-logo="https://i.ibb.co/z2b84DX/espn-deportes.png" group-title="USA SD (slower internet)",US: ESPN Deportes
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707583
-#EXTINF:-1 tvg-id="espnnews.us" tvg-name="US: ESPNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Espnnews.png" group-title="USA SD (slower internet)",US: ESPNEWS
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707584
-#EXTINF:-1 tvg-id="espnu.us" tvg-name="US: ESPNU" tvg-logo="https://espnpressroom.com/us/files/2009/12/espnu.png" group-title="USA SD (slower internet)",US: ESPNU
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707585
-#EXTINF:-1 tvg-id="fetv.us" tvg-name="US: FETV" tvg-logo="https://streamingtvguides.com/img/d/FETV.png" group-title="USA SD (slower internet)",US: FETV
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707586
-#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="US: FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="USA SD (slower internet)",US: FOOD NETWORK
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707587
-#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="US: FOX" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="USA SD (slower internet)",US: FOX
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707588
-#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="US: FOX BUSINESS" tvg-logo="http://thetalkinggeek.com/wp-content/uploads/2012/03/logo4.png" group-title="USA SD (slower internet)",US: FOX BUSINESS
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707589
-#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="US: Fox Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/220px-FOX_Deportes_logo.png" group-title="USA SD (slower internet)",US: Fox Deportes
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707590
-#EXTINF:-1 tvg-id="foxnews.us" tvg-name="US: FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" group-title="USA SD (slower internet)",US: FOX NEWS
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707591
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US: FOX SPORTS 1" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="USA SD (slower internet)",US: FOX SPORTS 1
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707592
-#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US: FOX SPORTS 2" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2021/07/FS2.png" group-title="USA SD (slower internet)",US: FOX SPORTS 2
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707593
-#EXTINF:-1 tvg-id="US: FOX WEATHER" tvg-name="US: Fox Weather" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="USA SD (slower internet)",US: Fox Weather
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707594
-#EXTINF:-1 tvg-id="freeform.us" tvg-name="US: FREEFORM" tvg-logo="https://www.vhv.rs/dpng/d/553-5538230_freeform-freeform-logo-png-transparent-png.png" group-title="USA SD (slower internet)",US: FREEFORM
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707595
-#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="US: USA NETWORK" tvg-logo="https://i.ibb.co/0YWwd2B/usa.png" group-title="USA SD (slower internet)",US: USA NETWORK
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707673
 #EXTINF:-1 tvg-id="babyfirst.us" tvg-name="US: BABY FIRST" tvg-logo="https://i.ibb.co/Rjr6NK1/BABY-FIRST.png" group-title="USA KIDS",US: BABY FIRST
 http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707682
 #EXTINF:-1 tvg-id="boomerang.us" tvg-name="US: BOOMERANG" tvg-logo="https://www.logolynx.com/images/logolynx/cb/cb647cf1e1fc1bc0d0165c36b7ec227d.png" group-title="USA KIDS",US: BOOMERANG
