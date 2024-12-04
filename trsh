@@ -209,6 +209,7 @@ plugin://plugin.video.rdslive/?action=play&post_id=1479
 
 
 
+#EXTM3U
 #EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="US: A&E" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/biogra.png" group-title="USA ENT",US: A&E
 http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707408
 #EXTINF:-1 tvg-id="US: A&E WEST" tvg-name="US: A&E (West)" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/biogra.png" group-title="USA ENT",US: A&E (West)
@@ -575,146 +576,8 @@ http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707593
 http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707594
 #EXTINF:-1 tvg-id="freeform.us" tvg-name="US: FREEFORM" tvg-logo="https://www.vhv.rs/dpng/d/553-5538230_freeform-freeform-logo-png-transparent-png.png" group-title="USA SD (slower internet)",US: FREEFORM
 http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707595
-#EXTINF:-1 tvg-id="FX.us" tvg-name="US: FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/731px-FX-logo.svg.png" group-title="USA SD (slower internet)",US: FX
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707596
-#EXTINF:-1 tvg-id="FXMovies.us" tvg-name="US: FXM" tvg-logo="http://1.bp.blogspot.com/-gxKZ3ipuc5A/UXx5mJaIhBI/AAAAAAAAAKs/vt9ipkpNgiY/s1600/1+FXM-Logo.png" group-title="USA SD (slower internet)",US: FXM
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707597
-#EXTINF:-1 tvg-id="FXX.us" tvg-name="US: FXX" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/10/fxx-logo.jpg" group-title="USA SD (slower internet)",US: FXX
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707598
-#EXTINF:-1 tvg-id="FYIChannel.us" tvg-name="US: FYI" tvg-logo="https://static.epg.best/us/FYI.us.png" group-title="USA SD (slower internet)",US: FYI
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707599
-#EXTINF:-1 tvg-id="galavision.us" tvg-name="US: Galavision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA SD (slower internet)",US: Galavision
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707600
-#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="US: GAME SHOW NETWORK" tvg-logo="https://www.pinclipart.com/picdir/middle/570-5704293_game-show-network-logo-png-clipart-png-download.png" group-title="USA SD (slower internet)",US: GAME SHOW NETWORK
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707601
-#EXTINF:-1 tvg-id="gettv.us" tvg-name="US: GetTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/GetTV-logo.png/200px-GetTV-logo.png" group-title="USA SD (slower internet)",US: GetTV
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707602
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US: GOLF CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png" group-title="USA SD (slower internet)",US: GOLF CHANNEL
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707603
-#EXTINF:-1 tvg-id="gacfamily.us" tvg-name="US: Great American Country" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Great_American_Country_channel_logo.svg/250px-Great_American_Country_channel_logo.svg.png" group-title="USA SD (slower internet)",US: Great American Country
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707604
-#EXTINF:-1 tvg-id="hallmark.us" tvg-name="US: HALLMARK" tvg-logo="https://i.ibb.co/F621kdw/hallmark-channel-us.png" group-title="USA SD (slower internet)",US: HALLMARK
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707605
-#EXTINF:-1 tvg-id="hallmarkfamily.us" tvg-name="US: Hallmark Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Hallmark_Family_2024.webp/320px-Hallmark_Family_2024.webp.png" group-title="USA SD (slower internet)",US: Hallmark Family
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707606
-#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="US: HALLMARK MOVIES & MYSTERIES" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/Hallmark-Movies-Mysteries.png" group-title="USA SD (slower internet)",US: HALLMARK MOVIES & MYSTERIES
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707607
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="US: HBO" tvg-logo="https://www.pinclipart.com/picdir/big/217-2170584_hbo-logo-png-clipart-transparent-hbo-logo-png.png" group-title="USA SD (slower internet)",US: HBO
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707608
-#EXTINF:-1 tvg-id="hgtv.uk" tvg-name="US: HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="USA SD (slower internet)",US: HGTV
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707609
-#EXTINF:-1 tvg-id="History.us" tvg-name="US: HISTORY" tvg-logo="https://images.squarespace-cdn.com/content/v1/510996b1e4b048227a7c7ea2/1428695594814-8D0U6Q2ZD2F14IVG6D47/historylogo.png" group-title="USA SD (slower internet)",US: HISTORY
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707610
-#EXTINF:-1 tvg-id="hln.us" tvg-name="US: HLN" tvg-logo="http://assets.stickpng.com/images/5848270acef1014c0b5e49df.png" group-title="USA SD (slower internet)",US: HLN
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707611
-#EXTINF:-1 tvg-id="US: HSN" tvg-name="US: HSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1038px-HSN_logo.svg.png" group-title="USA SD (slower internet)",US: HSN
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707612
-#EXTINF:-1 tvg-id="insp.us" tvg-name="US: INSP" tvg-logo="https://i.ibb.co/jGkLDvD/insp-us.png" group-title="USA SD (slower internet)",US: INSP
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707613
-#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="US: INVESTIGATION DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/200px-InvestigationDiscoveryLogo2020.svg.png" group-title="USA SD (slower internet)",US: INVESTIGATION DISCOVERY
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707614
-#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="US: LIFETIME" tvg-logo="https://i.ibb.co/BsHQcqY/lifetime-us.png" group-title="USA SD (slower internet)",US: LIFETIME
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707615
-#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="US: LMN" tvg-logo="https://orig00.deviantart.net/0afa/f/2016/041/6/6/lifetime_movie_network_new_logo_by_dledeviant-d9r85ry.png" group-title="USA SD (slower internet)",US: LMN
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707616
-#EXTINF:-1 tvg-id="magnolianetwork.us" tvg-name="US: MAGNOLIA NETWORK" tvg-logo="https://ipmark.com/wp-content/uploads/2020/04/Magnolia6-logo-green.png" group-title="USA SD (slower internet)",US: MAGNOLIA NETWORK
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707618
-#EXTINF:-1 tvg-id="mavtv.us" tvg-name="US: MAVTV" tvg-logo="https://assets.lucasoil.com/logos/mavtv_motorsports_network_dark.png" group-title="USA SD (slower internet)",US: MAVTV
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707619
-#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="US: MLB NETWORK SD" tvg-logo="https://i.ibb.co/8zbcwSh/mlb-network.png" group-title="USA SD (slower internet)",US: MLB NETWORK SD
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/845636
-#EXTINF:-1 tvg-id="motortrend.us" tvg-name="US: MOTORTREND" tvg-logo="http://www.hangklip.com/clients/client_list/_images/logos/logo_motor_trend_magazine_768_256.png" group-title="USA SD (slower internet)",US: MOTORTREND
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707621
-#EXTINF:-1 tvg-id="mtv.us" tvg-name="US: MTV" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/MTV-Emblem.png" group-title="USA SD (slower internet)",US: MTV
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707622
-#EXTINF:-1 tvg-id="mtv2.us" tvg-name="US: MTV 2" tvg-logo="http://www.jeffgreenleaf.com/wp-content/uploads/MTV2.png" group-title="USA SD (slower internet)",US: MTV 2
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707623
-#EXTINF:-1 tvg-id="mtvclassic.us" tvg-name="US: MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1200px-MTV_Classic_2017_logo.svg.png" group-title="USA SD (slower internet)",US: MTV Classic
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707624
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="US: NATIONAL GEOGRAPHIC" tvg-logo="http://pluspng.com/img-png/logo-national-geographic-png-logo-natgeo-png-1000.png" group-title="USA SD (slower internet)",US: NATIONAL GEOGRAPHIC
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707625
-#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="US: NATIONAL GEOGRAPHIC WILD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="USA SD (slower internet)",US: NATIONAL GEOGRAPHIC WILD
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707626
-#EXTINF:-1 tvg-id="nbatv.us" tvg-name="US: NBA TV" tvg-logo="https://www.pikpng.com/pngl/m/193-1935797_nba-tv-logo-png-download-nba-tv-logo.png" group-title="USA SD (slower internet)",US: NBA TV
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707627
-#EXTINF:-1 tvg-id="newsnation.us" tvg-name="US: News Nation" tvg-logo="https://i.postimg.cc/25Pt6GRb/News-Nation.png" group-title="USA SD (slower internet)",US: News Nation
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707628
-#EXTINF:-1 tvg-id="newsmax.us" tvg-name="US: NewsMax" tvg-logo="https://logodix.com/logo/2063457.png" group-title="USA SD (slower internet)",US: NewsMax
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707629
-#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="US: NFL NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="USA SD (slower internet)",US: NFL NETWORK
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707630
-#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="US: NHL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/NHL_Network_(logo).png/120px-NHL_Network_(logo).png" group-title="USA SD (slower internet)",US: NHL Network
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707631
-#EXTINF:-1 tvg-id="nickjr.us" tvg-name="US: Nick JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/186px-Nick_Jr._logo_2009.svg.png" group-title="USA SD (slower internet)",US: Nick JR
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707632
-#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="US: NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="USA SD (slower internet)",US: NICKELODEON
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707633
-#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="US: NICKTOONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="USA SD (slower internet)",US: NICKTOONS
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707634
-#EXTINF:-1 tvg-id="OANPlus.us" tvg-name="US: OAN" tvg-logo="https://image.roku.com/developer_channels/prod/e05544ebbf9d0911e33072fd56b9724900b8e7e84fb53d21d6155a7850f359c0.png" group-title="USA SD (slower internet)",US: OAN
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707635
-#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-name="US: OPRAH WINFREY NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Oprah_Winfrey_Network.png" group-title="USA SD (slower internet)",US: OPRAH WINFREY NETWORK
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707636
-#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="US: PARAMOUNT NETWORK" tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/4/4e/Paramount_Network_2008.png/revision/latest?cb=20140825233920" group-title="USA SD (slower internet)",US: PARAMOUNT NETWORK
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707644
-#EXTINF:-1 tvg-id="pbs13wnet.us" tvg-name="US: PBS" tvg-logo="http://onlytimewilltell.xyz:2086/images/1a7f62ae6a0e97a6c65dd535bd88cbef.png" group-title="USA SD (slower internet)",US: PBS
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707645
-#EXTINF:-1 tvg-id="poptv.us" tvg-name="US: POP" tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/9c/POP_TV_LOGO_2017.png" group-title="USA SD (slower internet)",US: POP
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707646
-#EXTINF:-1 tvg-id="qvc.us" tvg-name="US: QVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png" group-title="USA SD (slower internet)",US: QVC
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707647
-#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="US: SEC NETWORK" tvg-logo="https://seeklogo.com/images/S/sec-network-espn-logo-DA05858423-seeklogo.com.png" group-title="USA SD (slower internet)",US: SEC NETWORK
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707650
-#EXTINF:-1 tvg-id="sony.us" tvg-name="US: Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="USA SD (slower internet)",US: Sony Movies
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707651
-#EXTINF:-1 tvg-id="stadium.us" tvg-name="US: Stadium 1" tvg-logo="http://matthewalton.com/wp-content/uploads/2019/07/stadium-logo-final.png" group-title="USA SD (slower internet)",US: Stadium 1
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707652
-#EXTINF:-1 tvg-id="starz.us" tvg-name="US: STARZ" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA SD (slower internet)",US: STARZ
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707655
-#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="US: SUNDANCE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Sundance_Channel_HD_Logo.png" group-title="USA SD (slower internet)",US: SUNDANCE TV
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707656
-#EXTINF:-1 tvg-id="syfy.us" tvg-name="US: SYFY" tvg-logo="https://i.ibb.co/QccY2pW/syfy.png" group-title="USA SD (slower internet)",US: SYFY
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707657
-#EXTINF:-1 tvg-id="tbs.us" tvg-name="US: TBS" tvg-logo="http://logonoid.com/images/tbs-logo.png" group-title="USA SD (slower internet)",US: TBS
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707658
-#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="US: TENNIS CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="USA SD (slower internet)",US: TENNIS CHANNEL
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707659
-#EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="US: THE WEATHER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA SD (slower internet)",US: THE WEATHER CHANNEL
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707661
-#EXTINF:-1 tvg-id="tlc.us" tvg-name="US: TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="USA SD (slower internet)",US: TLC
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707662
-#EXTINF:-1 tvg-id="tnt.us" tvg-name="US: TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="USA SD (slower internet)",US: TNT
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707663
-#EXTINF:-1 tvg-id="travel.us" tvg-name="US: TRAVEL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Travel_Channel_logo.png" group-title="USA SD (slower internet)",US: TRAVEL CHANNEL
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707664
-#EXTINF:-1 tvg-id="trutv.us" tvg-name="US: TRU TV" tvg-logo="https://i.ibb.co/87xZpqT/trutv.png" group-title="USA SD (slower internet)",US: TRU TV
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707665
-#EXTINF:-1 tvg-id="TUDN.us" tvg-name="US: TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1024px-TUDN_Logo.svg.png" group-title="USA SD (slower internet)",US: TUDN
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707666
-#EXTINF:-1 tvg-id="TCM.us" tvg-name="US: TURNER CLASSIC MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1200px-TCM_logo.svg.png" group-title="USA SD (slower internet)",US: TURNER CLASSIC MOVIES
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707667
-#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="US: TV LAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1280px-TV_Land_2015_logo.svg.png" group-title="USA SD (slower internet)",US: TV LAND
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707668
-#EXTINF:-1 tvg-id="tvone.us" tvg-name="US: TV One" tvg-logo="https://2.bp.blogspot.com/-8uYxdlVvpd4/T9lqRz0Us7I/AAAAAAAAAcM/NXcsS2CnEP0/s1600/TvOne_logo_(2010).png" group-title="USA SD (slower internet)",US: TV One
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707669
-#EXTINF:-1 tvg-id="unimas68wfut.us" tvg-name="US: Unimas" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="USA SD (slower internet)",US: Unimas
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707670
-#EXTINF:-1 tvg-id="univision.us" tvg-name="US: UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="USA SD (slower internet)",US: UNIVISION
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707671
-#EXTINF:-1 tvg-id="uptv.us" tvg-name="US: UP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/UPTV_Tiffany_RGB.svg/1200px-UPTV_Tiffany_RGB.svg.png" group-title="USA SD (slower internet)",US: UP TV
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707672
 #EXTINF:-1 tvg-id="usanetwork.us" tvg-name="US: USA NETWORK" tvg-logo="https://i.ibb.co/0YWwd2B/usa.png" group-title="USA SD (slower internet)",US: USA NETWORK
 http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707673
-#EXTINF:-1 tvg-id="vh1.us" tvg-name="US: VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_VH1_IT.png" group-title="USA SD (slower internet)",US: VH1
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707674
-#EXTINF:-1 tvg-id="vice.us" tvg-name="US: Vice" tvg-logo="https://www.martechalliance.com/hs-fs/hubfs/vice-logo.png?width=1187&name=vice-logo.png" group-title="USA SD (slower internet)",US: Vice
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707675
-#EXTINF:-1 tvg-id="wetv.us" tvg-name="US: WE TV" tvg-logo="http://images3.wikia.nocookie.net/__cb20100505211615/logopedia/images/thumb/3/3a/WE_TV_logo.svg/542px-WE_TV_logo.svg.png" group-title="USA SD (slower internet)",US: WE TV
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707676
-#EXTINF:-1 tvg-id="wwe.us" tvg-name="US: WWE NETWORK" tvg-logo="https://cdn.wallpapersafari.com/80/2/pEOBu1.png" group-title="USA SD (slower internet)",US: WWE NETWORK
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707677
-#EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="US: YES NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1280px-YES_Network_logo.svg.png" group-title="USA SD (slower internet)",US: YES NETWORK
-http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707678
 #EXTINF:-1 tvg-id="babyfirst.us" tvg-name="US: BABY FIRST" tvg-logo="https://i.ibb.co/Rjr6NK1/BABY-FIRST.png" group-title="USA KIDS",US: BABY FIRST
 http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707682
 #EXTINF:-1 tvg-id="boomerang.us" tvg-name="US: BOOMERANG" tvg-logo="https://www.logolynx.com/images/logolynx/cb/cb647cf1e1fc1bc0d0165c36b7ec227d.png" group-title="USA KIDS",US: BOOMERANG
@@ -1037,5 +900,3 @@ http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/845638
 http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/845639
 #EXTINF:-1 tvg-id="altitudesport.us" tvg-name="US: ALTITUDE SPORTS" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/08/altitude-sports-logo.jpg" group-title="USA SPORTS",US: ALTITUDE SPORTS
 http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707805
-#EXTINF:-1 tvg-name="Nicktoons" tvg-id=""tvg-logo="https://i.postimg.cc/kM8zxRhz/Nicktoons.png"group-title="Kids",NICKTOONS
-plugin://plugin.video.rdslive/?action=play&post_id=1473
