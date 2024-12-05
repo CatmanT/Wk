@@ -209,7 +209,7 @@ plugin://plugin.video.rdslive/?action=play&post_id=1479
 
 
 
-#EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="US: A&E" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/biogra.png" group-title="USA ENT",US: A&E
+#EXTINF:-1 tvg-name="US: A&E" tvg-id="AandENetwork.us" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/biogra.png" group-title="USA ENT",US: A&E
 http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707408
 #EXTINF:-1 tvg-id="US: A&E WEST" tvg-name="US: A&E (West)" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/biogra.png" group-title="USA ENT",US: A&E (West)
 http://monstertv.site:8080/ktthornton1965@gmail.com/wrBzkx5FRzd7/707409
