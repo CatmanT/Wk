@@ -208,4 +208,195 @@ plugin://plugin.video.rdslive/?action=play&post_id=1474
 plugin://plugin.video.rdslive/?action=play&post_id=1479
 
 
-
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/ABCNEWS.png" group-title="US | UNITED STATES",US | ABC NEWS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=4218&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/CBSHD.png" group-title="US | UNITED STATES",US| CBS NEWS HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=154800&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/FOXHD.png" group-title="US | UNITED STATES",USA | FOX HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=154177&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/FOXNEWSHD.png" group-title="US | UNITED STATES",USA | FOX NEWS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=12397&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/CNNHD.png" group-title="US | UNITED STATES",USA | CNN 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=36663&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/CNNHD.png" group-title="US | UNITED STATES",USA | CNN INTERNATIONAL 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=154164&extension=ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="US | UNITED STATES",USA | NBC NEWS NOW
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=189846&extension=ts
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="US | UNITED STATES",USA | NBC NEWS NOW
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=158566&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | UNITED STATES",USA | HLN 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183884&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/CNBC.png" group-title="US | UNITED STATES",USA | CNBC 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=36664&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/CNBC.png" group-title="US | UNITED STATES",USA | CNBC WORLD 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=154359&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | UNITED STATES",USA | MSNBC 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=184106&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/FOXBUSINESSNETWORK.png" group-title="US | UNITED STATES",USA | FOX BUSINESS NETWORK 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=36643&extension=ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG.png" group-title="US | UNITED STATES",USA | BLOOMBERG TV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=189741&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png" group-title="US | UNITED STATES",USA | NEWSMAX TV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=4330&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | UNITED STATES",USA | CHEDDAR
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183319&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | UNITED STATES",USA | BBC AMERICA 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=191812&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | UNITED STATES",USA | BBC WORLD NEWS 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183657&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | UNITED STATES",USA | C-SPAN 1 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183669&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="US | UNITED STATES",USA | TV AUDIO C-SPAN 1
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=158146&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/NEWS&FACTUAL/ALJAZEERA.png" group-title="US | UNITED STATES",USA | AL JAZEERA 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=154607&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | UNITED STATES",USA | NEWSNET
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=184100&extension=ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png" group-title="US | UNITED STATES",USA | BLAZE LIVE
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=189740&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | UNITED STATES",USA | REELZ 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183084&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | UNITED STATES",USA | BOUNCE TV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=154660&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BVrMQch.png" group-title="US | UNITED STATES",USA | FOOD 52
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=189553&extension=ts
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="US | UNITED STATES",US | SO YUMMY!
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=158431&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | UNITED STATES",USA | START TV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183782&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | UNITED STATES",USA | MAV TV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183732&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | UNITED STATES",USA | WEATHER CHANNEL 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183068&extension=ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5bdce04659ee03633e758130/colorLogoPNG.png" group-title="US | UNITED STATES",USA | WEATHERNATION
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=189976&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | UNITED STATES",USA | CBSN
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183315&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/CBN.png" group-title="US | UNITED STATES",USA | CBN 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183679&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/CBN.png" group-title="US | UNITED STATES",USA | CBN NEWS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183313&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="US | UNITED STATES",USA | CBS DENVER
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183972&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="US | UNITED STATES",USA | CBSN LIVE EVENT
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183973&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | UNITED STATES",USA | INSPIRATION TV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183342&extension=ts
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjgzNzU2MTNf/MAVTVSelect_1060x1060.png" group-title="US | UNITED STATES",USA | MAV TV SELECT
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=158614&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/BLOOMBERG.png" group-title="US | UNITED STATES",USA | BLOOMBERG NEWS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=154657&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | UNITED STATES",USA | NEW ORLEANS TV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183353&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/HBO1.png" group-title="US | CINEMA",USA | HBO 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183717&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/HBO1.png" group-title="US | CINEMA",USA | HBO 2 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183714&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/HBO1.png" group-title="US | CINEMA",USA | HBO EAST
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183171&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/HBO1.png" group-title="US | CINEMA",USA | HBO WEST
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=372157&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/HBO1.png" group-title="US | CINEMA",USA | HBO ZONE
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183173&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/HBO1.png" group-title="US | CINEMA",USA | HBO FAMILY
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183174&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/HBO1.png" group-title="US | CINEMA",USA | HBO COMEDY
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183715&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/HBOCOMEDY.png" group-title="US | CINEMA",USA | HBO LATINO
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=154415&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/HBO1.png" group-title="US | CINEMA",USA | HBO SIGNATURE
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183718&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | STARZ EDGE
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183903&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | STARZ ENCORE
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=154293&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | STARZ ACTION
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183783&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | STARZ IN BLACK 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183788&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | STARZ CINEMA
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183115&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | STARZ CLASSIC
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183153&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | STARZ ENCORE FAMILY
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183152&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | STARZ ENCORE SUSPENSE
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183787&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | STARZ ENCORE WESTERNS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183263&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | STARZ WEST
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183789&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | STARZ  KIDS AND FAMILY
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183151&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | CINEMAX
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183147&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | 5 STARMAX
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=191878&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/CINEMAXACTIONMAX.png" group-title="US | CINEMA",USA |  CINEMAX ACTIONMAX
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=154425&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/CINEMAXFHD.png" group-title="US | CINEMA",USA | CINEMAX EAST
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=154423&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/CINEMAXMOREMAX.png" group-title="US | CINEMA",USA | MOREMAX
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=36667&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA |  MOVIEMAX
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183148&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | THRILLERMAX
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183799&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | CINEMAX WEST
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183150&extension=ts
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjg4NDg5NDNf/Hallmark-More_760x760.png" group-title="US | CINEMA",USA | HALLMARK CHANNEL
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=184193&extension=ts
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjg4NDg5NDNf/Hallmark-More_760x760.png" group-title="US | CINEMA",USA | HALLMARK DRAMA
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183177&extension=ts
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjg4NDg5NDNf/Hallmark-More_760x760.png" group-title="US | CINEMA",USA | HALLMARK MOVIES&MYSTERIES
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=184194&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | TCM 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183793&extension=ts
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjc2NjQxMDdf/AMCNetworks_v2_365x365.png" group-title="US | CINEMA",USA | AMC +
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=158736&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | FXM 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=154169&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/FXX.png" group-title="US | CINEMA",USA | FXX 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=36621&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/FX.png" group-title="US | CINEMA",USA | FX EAST
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=154171&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | SHOWTIME
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=191790&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | SHOWTIME 2
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183161&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | SHOWTIME EXTREME
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183165&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | SHOWTIME FAMILY ZONE
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183168&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | SHOWTIME SHOWCASE
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183268&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | SHOWTIME WOMAN
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183864&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | SHOWTIME NEXT
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183164&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | SHOWTIME WEST
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183111&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | SONY MOVIE CHANNEL
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183824&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | EPIX
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183704&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | EPIX 2
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183703&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | EPIX DRIVE IN
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=155052&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | EPIX HITS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183877&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | SYFY
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183791&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/SYFYHD.png" group-title="US | CINEMA",USA | SYFY EAST
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=154192&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | TNT
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183906&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/TNTHD.png" group-title="US | CINEMA",USA | TNT EAST
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=154198&extension=ts
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RetroCrush_576x576.png?raw=true" group-title="US | CINEMA",USA | RETROCRUSH TV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183939&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | FX 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183857&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | LIFETIME MOVIE
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183858&extension=ts
