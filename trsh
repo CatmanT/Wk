@@ -400,3 +400,15 @@ http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183939&ext
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183857&extension=ts
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | CINEMA",USA | LIFETIME MOVIE
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183858&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/TENNISCHANNELFHD.png" group-title="US | SPORT",USA | TENNIS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=156090&extension=ts
+#EXTINF:-1 tvg-logo="http://logo.sltv.site/logo/USA/espn_us_corp.png" group-title="US | SPORT",USA | ESPN 1
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=198306&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | SPORT",USA | ESPN 2
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=198307&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/ESPN2HD.png" group-title="US | SPORT",USA | ESPN DEPORTES
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183692&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | SPORT",USA | BEIN SPORTS 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=183658&extension=ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="US | SPORT",USA | beIN SPORTS XTRA
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:A9:1E:F4&stream=189730&extension=ts
