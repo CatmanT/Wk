@@ -30,7 +30,7 @@ http://carcaletator.ro:8080/AndreiStavre/RBu1uVdi3EEPLd9jpeyXdwBpXnsg4g/8973
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS
 plugin://plugin.video.rdslive/?action=play&post_id=1424
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS ()
-plugin://plugin.video.youtube/play/?video_id=k4TIdLe9dH0
+plugin://plugin.video.youtube/play/?video_id=fEAjdBxmTWA
 #EXTINF:-1 tvg-name="România TV" tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png"group-title="Stiri",Romania TV
 plugin://plugin.video.rdslive/?action=play&post_id=1423
 #EXTINF:-1 tvg-name="Euronews" tvg-id=""tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png"group-title="Stiri",Euronews RO
