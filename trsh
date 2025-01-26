@@ -64,11 +64,11 @@ plugin://plugin.video.rdslive/?action=play&post_id=1452
 #EXTINF:-1 tvg-name="AXN HD" tvg-id=""tvg-logo="https://i.postimg.cc/43qVPdFF/AXN-HD.png"group-title="Movies",AXN-HD
 plugin://plugin.video.rdslive/?action=play&post_id=1560
 #EXTINF:-1 tvg-name="AXN Spin " tvg-id=""tvg-logo="https://i.postimg.cc/VNdXXM4C/AXN-Spin.png"group-title="Movies",AXN SPIN
-plugin://plugin.video.rdslive/?action=play&post_id=1769
+plugin://plugin.video.rdslive/?action=play&post_id=1809
 #EXTINF:-1 tvg-name="AXN White" tvg-id=""tvg-logo="https://i.postimg.cc/d3KdMfF2/AXN-White.png"group-title="Movies",AXN WHITE
-plugin://plugin.video.rdslive/?action=play&post_id=1756
+plugin://plugin.video.rdslive/?action=play&post_id=1811
 #EXTINF:-1 tvg-name="AXN Black" tvg-id=""tvg-logo="https://i.postimg.cc/vBn9NsJ8/AXN-Black.png"group-title="Movies",AXN BLACK
-plugin://plugin.video.rdslive/?action=play&post_id=1764
+plugin://plugin.video.rdslive/?action=play&post_id=1807
 #EXTINF:-1 tvg-name="Cinemax HD" tvg-id=""tvg-logo="https://i.postimg.cc/nhwDVrZc/CineMax.png"group-title="Movies",Cinemax 1
 plugin://plugin.video.rdslive/?action=play&post_id=1451
 #EXTINF:-1 tvg-name="Cinemax2 HD " tvg-id=""tvg-logo="https://i.postimg.cc/y8NRz9Mb/Cinemax-2-HD.png"group-title="Movies",CINEMAX 2
