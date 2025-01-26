@@ -100,7 +100,7 @@ plugin://plugin.video.rdslive/?action=play&post_id=1447
 #EXTINF:-1 tvg-name="BBC Earth" tvg-id=""tvg-logo="https://i.postimg.cc/J4538RGG/BBC-Earth.png"group-title="Documentare",BBC Earth
 plugin://plugin.video.rdslive/?action=play&post_id=1558
 #EXTINF:-1 tvg-name="CBS Reality" tvg-id=""tvg-logo="https://i.postimg.cc/vTqQ7104/CBS-Reality.png"group-title="Documentare",CBS Reality
-plugin://plugin.video.rdslive/?action=play&post_id=1760
+plugin://plugin.video.rdslive/?action=play&post_id=1761
 #EXTINF:-1 tvg-name="DIGI Animal World" tvg-id=""tvg-logo="https://i.postimg.cc/rm2zztHc/Digi-animal-world.png"group-title="Documentare",DIGI ANIMAL WORLD
 plugin://plugin.video.rdslive/?action=play&post_id=1547
 #EXTINF:-1 tvg-name="DIGI Life HD" tvg-id=""tvg-logo="https://i.postimg.cc/5N4YwL22/Digi-Life.png"group-title="Documentare",DIGI LIFE
