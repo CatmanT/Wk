@@ -134,7 +134,7 @@ plugin://plugin.video.rdslive/?action=play&post_id=1550
 #EXTINF:-1 tvg-name="Viasat Nature HD" tvg-id=""tvg-logo="https://i.postimg.cc/d1RR0F4H/ViasatNature.png"group-title="Documentare",VIASAT NATURE
 plugin://plugin.video.rdslive/?action=play&post_id=1546
 #EXTINF:-1 tvg-name="Da Vinci" tvg-id=""tvg-logo="https://i.postimg.cc/B62LCCFX/Da-Vinci.png"group-title="Documentare",Da Vinci Learning
-plugin://plugin.video.rdslive/?action=play&post_id=1754
+plugin://plugin.video.rdslive/?action=play&post_id=1763
 #EXTINF:-1 tvg-name="E! Entertainment HD" tvg-id=""tvg-logo="https://i.postimg.cc/LsL8d88W/E.png"group-title="Documentare",E! Entertainment
 plugin://plugin.video.rdslive/?action=play&post_id=1554
 
