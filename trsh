@@ -161,10 +161,10 @@ plugin://plugin.video.rdslive/?action=play&post_id=1504
 #EXTINF:-1 tvg-name="Favorit" tvg-logo="https://i.postimg.cc/KvWGRMKV/Favorit-TV.png" group-title="Music",FAVORIT TV
 plugin://plugin.video.rdslive/?action=play&post_id=1505
 #EXTINF:-1 tvg-name="Mezzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="Music",Mezzo
-plugin://plugin.video.rdslive/?action=play&post_id=1757
+plugin://plugin.video.rdslive/?action=play&post_id=1819
 
 #EXTINF:-1 tvg-name="DIGI Sport 1" tvg-logo="https://i.postimg.cc/PrSLKJCz/Digi-Sport1.png" group-title="Sport",DIGI Sport 1
-plugin://plugin.video.rdslive/?action=play&post_id=1398
+plugin://plugin.video.rdslive/?action=play&post_id=1795
 #EXTINF:-1 tvg-name="DIGI Sport 2" tvg-logo="https://i.postimg.cc/P5NC7HZG/Digi-Sport2.png" group-title="Sport",DIGI Sport 2
 plugin://plugin.video.rdslive/?action=play&post_id=1409
 #EXTINF:-1 tvg-name="DIGI Sport 3" tvg-logo="https://i.postimg.cc/wjP18rc1/Digi-Sport3.png" group-title="Sport",DIGI Sport 3
@@ -176,7 +176,7 @@ plugin://plugin.video.rdslive/?action=play&post_id=1399
 #EXTINF:-1 tvg-name="EuroSport 2" tvg-logo="https://i.postimg.cc/fLvWLqXj/Eurosport-2-HD.png" group-title="Sport",EuroSport 2
 plugin://plugin.video.rdslive/?action=play&post_id=1340
 #EXTINF:-1 tvg-name="TVR Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/TVR_Sport.svg/revision/latest/smart/width/371/height/332?cb=20230421162631" group-title="Sport",TVR Sport
-plugin://plugin.video.rdslive/?action=play&post_id=1823
+plugin://plugin.video.rdslive/?action=play&post_id=1778
 #EXTINF:-1 tvg-name="Prima Sport 1" tvg-logo="https://i.postimg.cc/gj97CGrg/Prima-Sport-1.png" group-title="Sport",Prima Sport 1
 plugin://plugin.video.rdslive/?action=play&post_id=1406
 #EXTINF:-1 tvg-name="Prima Sport 2" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",Prima Sport 2
@@ -184,7 +184,7 @@ plugin://plugin.video.rdslive/?action=play&post_id=1405
 #EXTINF:-1 tvg-name="Prima Sport 3" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",Prima Sport 3
 plugin://plugin.video.rdslive/?action=play&post_id=1401
 #EXTINF:-1 tvg-name="Sport Extra HD" tvg-id=""tvg-logo="https://i.postimg.cc/8zr1WzMC/Extreme-Sports-Channel.png"group-title="Sport",Sport Extra
-plugin://plugin.video.rdslive/?action=play&link=https%3A%2F%2Femisiuni.live%2Fsportextra-hd%2F
+plugin://plugin.video.rdslive/?action=play&post_id=1400
 #EXTINF:-1 tvg-name="PRO Arena" tvg-logo="https://i.postimg.cc/52f2xhMw/Pro-ARENA.png" group-title="Sport",PRO Arena
 plugin://plugin.video.rdslive/?action=play&post_id=1386
 
