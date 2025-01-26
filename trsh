@@ -120,7 +120,7 @@ plugin://plugin.video.rdslive/?action=play&post_id=1549
 #EXTINF:-1 tvg-name="TLC HD" tvg-id=""tvg-logo="https://i.postimg.cc/7ZLKQ5mx/TLC.png"group-title="Documentare",TLC
 plugin://plugin.video.rdslive/?action=play&post_id=1317
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://i.postimg.cc/wMSrdgvW/HGTV.png" group-title="Documentare",HGTV
-plugin://plugin.video.rdslive/?action=play&post_id=1763
+plugin://plugin.video.rdslive/?action=play&post_id=1759
 #EXTINF:-1 tvg-name="TV Paprika HD" tvg-logo="https://i.postimg.cc/Px1y8YrM/TV_Paprika.png" group-title="Documentare",TV PAPRIKA
 plugin://plugin.video.rdslive/?action=play&post_id=1753
 #EXTINF:-1 tvg-name="Travel Channel HD" tvg-id=""tvg-logo="https://i.postimg.cc/3xbtM3c2/Travel_Channel.png"group-title="Documentare",TRAVEL CHANNEL
