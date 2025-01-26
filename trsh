@@ -89,7 +89,7 @@ plugin://plugin.video.rdslive/?action=play&post_id=1306
 #EXTINF:-1 tvg-name="PRO Cinema HD" tvg-id=""tvg-logo="https://i.postimg.cc/GpVgDbPb/Pro-Cinema.png"group-title="Movies",PRO CINEMA
 plugin://plugin.video.rdslive/?action=play&post_id=1335
 #EXTINF:-1 tvg-name="Warner TV" tvg-id=""tvg-logo="https://i.postimg.cc/L628LSc4/Warner.png"group-title="Movies",Warner TV
-plugin://plugin.video.rdslive/?action=play&post_id=1748
+plugin://plugin.video.rdslive/?action=play&post_id=1320
 #EXTINF:-1 tvg-name="TV1000" tvg-id=""tvg-logo="https://i.postimg.cc/L5RTk5JF/TV1000.png"group-title="Movies",TV 1000
 plugin://plugin.video.rdslive/?action=play&post_id=1765
 #EXTINF:-1 tvg-name="Bollywood Clasic" tvg-id=""tvg-logo="https://i.postimg.cc/8khMdTdt/Bollywood-TV.png"group-title="Movies",Bollywood Clasic
