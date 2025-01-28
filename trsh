@@ -61,6 +61,10 @@ plugin://plugin.video.rdslive/?action=play&post_id=1454
 plugin://plugin.video.rdslive/?action=play&post_id=1453
 #EXTINF:-1 tvg-name="HBO 3" tvg-id=""tvg-logo="https://i.postimg.cc/L8fp50FY/HBO_3.png"group-title="Movies",HBO 3
 plugin://plugin.video.rdslive/?action=play&post_id=1452
+#EXTINF:-1 tvg-name="SkyShowtime 1" tvg-id=""tvg-logo="https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/SkyShowtime-canal.png"group-title="Movies",SkyShowtime 1
+plugin://plugin.video.rdslive/?action=play&post_id=1792
+#EXTINF:-1 tvg-name="SkyShowtime 2" tvg-id=""tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/3V4783l8A38UGPGn8yqsJ3/dd900001efcfa5c5250667f13879428e/skyshowtime-2.png"group-title="Movies",SkyShowtime 2
+plugin://plugin.video.rdslive/?action=play&post_id=1839
 #EXTINF:-1 tvg-name="AXN HD" tvg-id=""tvg-logo="https://i.postimg.cc/43qVPdFF/AXN-HD.png"group-title="Movies",AXN-HD
 plugin://plugin.video.rdslive/?action=play&post_id=1560
 #EXTINF:-1 tvg-name="AXN Spin " tvg-id=""tvg-logo="https://i.postimg.cc/VNdXXM4C/AXN-Spin.png"group-title="Movies",AXN SPIN
@@ -83,7 +87,6 @@ plugin://plugin.video.rdslive/?action=play&post_id=1448
 plugin://plugin.video.rdslive/?action=play&post_id=1301
 #EXTINF:-1 tvg-name="Film Now" tvg-id=""tvg-logo="https://i.postimg.cc/5tBb7KPd/Film-Now.png"group-title="Movies",Film Now
 plugin://plugin.video.rdslive/?action=play&post_id=1449
-
 #EXTINF:-1 tvg-name="FILMCAFE" tvg-id=""tvg-logo="https://i.postimg.cc/C1JYYBTc/Film-cafe.png"group-title="Movies",Film Cafe
 plugin://plugin.video.rdslive/?action=play&post_id=1306
 #EXTINF:-1 tvg-name="PRO Cinema HD" tvg-id=""tvg-logo="https://i.postimg.cc/GpVgDbPb/Pro-Cinema.png"group-title="Movies",PRO CINEMA
