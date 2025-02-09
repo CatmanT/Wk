@@ -209,12 +209,22 @@ plugin://plugin.video.rdslive/?action=play&post_id=1474
 plugin://plugin.video.rdslive/?action=play&post_id=1479
 
 
-#EXTINF:-1 tvg-id="Fox News" tvg-name="FOX NEWS CHANNEL" tvg-logo="http://fanc.tmsimg.com/assets/s60179_ll_h3_ab.png" group-title="US: ENTERTAINMENT FHD",FOX NEWS CHANNEL
+#EXTINF:-1 tvg-id="Fox News" tvg-name="FOX NEWS CHANNEL" tvg-logo="http://fanc.tmsimg.com/assets/s60179_ll_h3_ab.png" group-title="US: News",FOX NEWS CHANNEL
 http://orbytdrm.xyz:8080/live/punk_b/cHfqAKFmLFt8/57622.ts
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="http://fanc.tmsimg.com/assets/s58646_ll_h3_ac.png" group-title="US: ENTERTAINMENT FHD",CNN
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="http://fanc.tmsimg.com/assets/s58646_ll_h3_ac.png" group-title="US: News",CNN
 http://orbytdrm.xyz:8080/live/punk_b/cHfqAKFmLFt8/57295.ts
-#EXTINF:-1 tvg-id="CNN International North America" tvg-name="CNN INTERNATIONAL" tvg-logo="http://fanc.tmsimg.com/assets/s10146_ll_h3_ab.png" group-title="US: ENTERTAINMENT FHD",CNN INTERNATIONAL
+#EXTINF:-1 tvg-id="CNN International North America" tvg-name="CNN INTERNATIONAL" tvg-logo="http://fanc.tmsimg.com/assets/s10146_ll_h3_ab.png" group-title="US: News",CNN INTERNATIONAL
 http://orbytdrm.xyz:8080/live/punk_b/cHfqAKFmLFt8/57296.ts
+#EXTINF:-1 tvg-id="" tvg-name="US-HD: NEWSMAX" tvg-logo="" group-title="US: News",US-HD: NEWSMAX
+http://orbytdrm.xyz:8080/live/punk_b/cHfqAKFmLFt8/120872.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBS NEWS" tvg-logo="https://assets.fancybits.co/channels/247channels/cbsn-logo.png" group-title="US: News",CBS NEWS
+http://orbytdrm.xyz:8080/live/punk_b/cHfqAKFmLFt8/57286.ts
+#EXTINF:-1 tvg-id="CNBC USA" tvg-name="CNBC" tvg-logo="http://fanc.tmsimg.com/assets/s58780_ll_h3_aa.png" group-title="US: News",CNBC
+http://orbytdrm.xyz:8080/live/punk_b/cHfqAKFmLFt8/57294.ts
+#EXTINF:-1 tvg-id="Fox Business" tvg-name="FOX BUSINESS" tvg-logo="http://fanc.tmsimg.com/assets/s58718_ll_h3_ac.png" group-title="US: News",FOX BUSINESS
+http://orbytdrm.xyz:8080/live/punk_b/cHfqAKFmLFt8/57318.ts
+
+
 #EXTINF:-1 tvg-id="HBO 2 - Eastern Feed" tvg-name="US: HBO 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-2-us.png?raw=true" group-title="US: MOVIE CHANNELS",US: HBO 2
 http://orbytdrm.xyz:8080/live/punk_b/cHfqAKFmLFt8/59976.ts
 #EXTINF:-1 tvg-id="HBO Comedy - East" tvg-name="US: HBO COMEDY" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-comedy-us.png?raw=true" group-title="US: MOVIE CHANNELS",US: HBO COMEDY
