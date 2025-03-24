@@ -18,7 +18,7 @@ plugin://plugin.video.rdslive/?action=play&post_id=1420
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1
 plugin://plugin.video.rdslive/?action=play&post_id=1359
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1 ()
-http://megaott.live:8080/QGQzxAc2gWyq/6wZ9AE7Hgjx9/126297
+http://ionutfv2.webhop.me:8008/Cristian_cojocaru/dRBk7zkUH2/33763
 #EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Generaliste",ANTENA STARS
 plugin://plugin.video.rdslive/?action=play&post_id=1385
 #EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN
@@ -111,7 +111,7 @@ plugin://plugin.video.rdslive/?action=play&post_id=1552
 #EXTINF:-1 tvg-name="Discovery HD" tvg-id=""tvg-logo="https://i.postimg.cc/Bbq6BfsV/Discovery-Channel.png"group-title="Documentare",Discovery Channel
 plugin://plugin.video.rdslive/?action=play&post_id=1553
 #EXTINF:-1 tvg-name="ID  Investigation Discovery  HD" tvg-id=""tvg-logo="https://i.postimg.cc/9M0gRrw8/Investigation_Discovery.png"group-title="Documentare",ID Investigation Discovery
-http://megaott.live:8080/QGQzxAc2gWyq/6wZ9AE7Hgjx9/126439
+http://ionutfv2.webhop.me:8008/Cristian_cojocaru/dRBk7zkUH2/33880
 #EXTINF:-1 tvg-name="History Channel" tvg-id=""tvg-logo="https://i.postimg.cc/wBqLzQ2C/History.png"group-title="Documentare",History
 plugin://plugin.video.rdslive/?action=play&post_id=1557
 #EXTINF:-1 tvg-name="National Geographic" tvg-id=""tvg-logo="https://i.postimg.cc/rsSHc7rM/National_Geografic.png"group-title="Documentare",National Geographic
