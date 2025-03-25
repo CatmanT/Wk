@@ -118,7 +118,7 @@ plugin://plugin.video.rdslive/?action=play&post_id=1552
 plugin://plugin.video.rdslive/?action=play&post_id=1553
 #EXTINF:-1 tvg-name="ID  Investigation Discovery  HD" tvg-id=""tvg-logo="https://i.postimg.cc/9M0gRrw8/Investigation_Discovery.png"group-title="Documentare",ID Investigation Discovery
 plugin://plugin.video.rdslive/?action=play&post_id=1897
-#EXTINF:-1 tvg-name="Crime Investigation" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Crime_investigation_network.svg/1024px-Crime_investigation_network.svg.png"group-title="Documentare",Crime Investigation
+#EXTINF:-1 tvg-name="Crime + Investigation" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Crime_investigation_network.svg/1024px-Crime_investigation_network.svg.png"group-title="Documentare",Crime + Investigation
 plugin://plugin.video.rdslive/?action=play&post_id=1899
 #EXTINF:-1 tvg-name="History Channel" tvg-id=""tvg-logo="https://i.postimg.cc/wBqLzQ2C/History.png"group-title="Documentare",History
 plugin://plugin.video.rdslive/?action=play&post_id=1557
