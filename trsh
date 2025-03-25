@@ -5,8 +5,6 @@ plugin://plugin.video.rdslive/?action=play&post_id=1357
 http://ionutfv2.webhop.me:8008/Cristian_cojocaru/dRBk7zkUH2/260601
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
 plugin://plugin.video.rdslive/?action=play&post_id=1361
-#EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV ()
-http://ionutfv2.webhop.me:8008/Cristian_cojocaru/dRBk7zkUH2/107943
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
 plugin://plugin.video.rdslive/?action=play&post_id=1376
 #EXTINF:-1 tvg-name="KANAL D2" tvg-logo="https://i.postimg.cc/7YPWGnz5/kanal-d2.png" group-title="Generaliste",KANAL D2
