@@ -111,7 +111,9 @@ plugin://plugin.video.rdslive/?action=play&post_id=1552
 #EXTINF:-1 tvg-name="Discovery HD" tvg-id=""tvg-logo="https://i.postimg.cc/Bbq6BfsV/Discovery-Channel.png"group-title="Documentare",Discovery Channel
 plugin://plugin.video.rdslive/?action=play&post_id=1553
 #EXTINF:-1 tvg-name="ID  Investigation Discovery  HD" tvg-id=""tvg-logo="https://i.postimg.cc/9M0gRrw8/Investigation_Discovery.png"group-title="Documentare",ID Investigation Discovery
-http://ionutfv2.webhop.me:8008/Cristian_cojocaru/dRBk7zkUH2/33880
+plugin://plugin.video.rdslive/?action=play&post_id=1897
+#EXTINF:-1 tvg-name="Crime Investigation" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Crime_investigation_network.svg/1024px-Crime_investigation_network.svg.png"group-title="Documentare",Crime Investigation
+plugin://plugin.video.rdslive/?action=play&post_id=1899
 #EXTINF:-1 tvg-name="History Channel" tvg-id=""tvg-logo="https://i.postimg.cc/wBqLzQ2C/History.png"group-title="Documentare",History
 plugin://plugin.video.rdslive/?action=play&post_id=1557
 #EXTINF:-1 tvg-name="National Geographic" tvg-id=""tvg-logo="https://i.postimg.cc/rsSHc7rM/National_Geografic.png"group-title="Documentare",National Geographic
