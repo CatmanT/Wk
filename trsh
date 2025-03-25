@@ -63,7 +63,7 @@ plugin://plugin.video.rdslive/?action=play&post_id=1452
 plugin://plugin.video.rdslive/?action=play&post_id=1835
 #EXTINF:-1 tvg-name="Filmbox" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Filmbox_pl.png/1200px-Filmbox_pl.png"group-title="Movies",Filmbox
 plugin://plugin.video.rdslive/?action=play&post_id=1828
-#EXTINF:-1 tvg-name="Filmbox Premium" tvg-id=""tvg-logo="https://banner2.cleanpng.com/20180703/xq/kisspng-filmbox-premium-hd-television-channel-filmbox-live-5b3be7135b1576.3528107515306524353731.jpg"group-title="Movies",Filmbox Premium
+#EXTINF:-1 tvg-name="Filmbox Premium" tvg-id=""tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FilmBoxPremium-logo.png"group-title="Movies",Filmbox Premium
 plugin://plugin.video.rdslive/?action=play&post_id=1824
 #EXTINF:-1 tvg-name="SkyShowtime 1" tvg-id=""tvg-logo="https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/SkyShowtime-canal.png"group-title="Movies",SkyShowtime 1
 plugin://plugin.video.rdslive/?action=play&post_id=1792
