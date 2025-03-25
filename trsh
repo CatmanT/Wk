@@ -59,6 +59,12 @@ plugin://plugin.video.rdslive/?action=play&post_id=1454
 plugin://plugin.video.rdslive/?action=play&post_id=1453
 #EXTINF:-1 tvg-name="HBO 3" tvg-id=""tvg-logo="https://i.postimg.cc/L8fp50FY/HBO_3.png"group-title="Movies",HBO 3
 plugin://plugin.video.rdslive/?action=play&post_id=1452
+#EXTINF:-1 tvg-name="BBC First" tvg-id=""tvg-logo="https://www.msnews.ro/wp-content/uploads/2022/11/BBC_First_Logo-2.png"group-title="Movies",BBC First
+plugin://plugin.video.rdslive/?action=play&post_id=1835
+#EXTINF:-1 tvg-name="Filmbox" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Filmbox_pl.png/1200px-Filmbox_pl.png"group-title="Movies",Filmbox
+plugin://plugin.video.rdslive/?action=play&post_id=1828
+#EXTINF:-1 tvg-name="Filmbox Premium" tvg-id=""tvg-logo="https://banner2.cleanpng.com/20180703/xq/kisspng-filmbox-premium-hd-television-channel-filmbox-live-5b3be7135b1576.3528107515306524353731.jpg"group-title="Movies",Filmbox Premium
+plugin://plugin.video.rdslive/?action=play&post_id=1824
 #EXTINF:-1 tvg-name="SkyShowtime 1" tvg-id=""tvg-logo="https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/SkyShowtime-canal.png"group-title="Movies",SkyShowtime 1
 plugin://plugin.video.rdslive/?action=play&post_id=1792
 #EXTINF:-1 tvg-name="SkyShowtime 2" tvg-id=""tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/3V4783l8A38UGPGn8yqsJ3/dd900001efcfa5c5250667f13879428e/skyshowtime-2.png"group-title="Movies",SkyShowtime 2
