@@ -36,8 +36,8 @@ except ImportError:
     from resolveurl.plugins.lib import jsunpack 
 from resources.modules import control
 
-listaplugin="https://pastebin.com/raw/WNxumE8h"
-listayt="https://pastebin.com/raw/Ppu52MY6"
+listaplugin="https://raw.githubusercontent.com/CatmanT/Wk/main/CatWorld/ListRest"
+listayt="https://raw.githubusercontent.com/CatmanT/Wk/main/CatWorld/Listeyt"
 
 ## Fotos
 
