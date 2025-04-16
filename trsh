@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV
 plugin://plugin.video.rdslive/?action=play&post_id=1357
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV HEVC
-http://ionutfv2.webhop.me:8008/Cristian_cojocaru/dRBk7zkUH2/260601
+http://provider-us.com:8080/a58R3Hw7kffkkj/kr5qGPUkdkd/54849
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
 plugin://plugin.video.rdslive/?action=play&post_id=1361
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
@@ -18,13 +18,13 @@ plugin://plugin.video.rdslive/?action=play&post_id=1420
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1
 plugin://plugin.video.rdslive/?action=play&post_id=1359
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1 ()
-http://ionutfv2.webhop.me:8008/Cristian_cojocaru/dRBk7zkUH2/33763
+http://provider-us.com:8080/a58R3Hw7kffkkj/kr5qGPUkdkd/41115
 #EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Generaliste",ANTENA STARS
 plugin://plugin.video.rdslive/?action=play&post_id=1385
 #EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN
 plugin://plugin.video.rdslive/?action=play&post_id=1425
 #EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN ()
-http://ionutfv2.webhop.me:8008/Cristian_cojocaru/dRBk7zkUH2/33766
+http://provider-us.com:8080/a58R3Hw7kffkkj/kr5qGPUkdkd/2698
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS
 plugin://plugin.video.rdslive/?action=play&post_id=1424
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS ()
@@ -117,9 +117,9 @@ plugin://plugin.video.rdslive/?action=play&post_id=1552
 #EXTINF:-1 tvg-name="Discovery HD" tvg-id=""tvg-logo="https://i.postimg.cc/Bbq6BfsV/Discovery-Channel.png"group-title="Documentare",Discovery Channel
 plugin://plugin.video.rdslive/?action=play&post_id=1553
 #EXTINF:-1 tvg-name="ID  Investigation Discovery  HD" tvg-id=""tvg-logo="https://i.postimg.cc/9M0gRrw8/Investigation_Discovery.png"group-title="Documentare",ID Investigation Discovery
-plugin://plugin.video.rdslive/?action=play&post_id=1897
+http://provider-us.com:8080/a58R3Hw7kffkkj/kr5qGPUkdkd/37430
 #EXTINF:-1 tvg-name="Crime + Investigation" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Crime_investigation_network.svg/1024px-Crime_investigation_network.svg.png"group-title="Documentare",Crime + Investigation
-plugin://plugin.video.rdslive/?action=play&post_id=1899
+http://provider-us.com:8080/a58R3Hw7kffkkj/kr5qGPUkdkd/49975
 #EXTINF:-1 tvg-name="History Channel" tvg-id=""tvg-logo="https://i.postimg.cc/wBqLzQ2C/History.png"group-title="Documentare",History
 plugin://plugin.video.rdslive/?action=play&post_id=1557
 #EXTINF:-1 tvg-name="National Geographic" tvg-id=""tvg-logo="https://i.postimg.cc/rsSHc7rM/National_Geografic.png"group-title="Documentare",National Geographic
