@@ -1,14 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV
 plugin://plugin.video.rdslive/?action=play&post_id=1357
-#EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV 4k
-http://update.miicrosoft.es:80/TsMgKOrCtbL2ehXnI2l2TK5eKDtPkH/ogxBCmk5U72Brcbz2ldnVpvyPI32Ol/13181
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
 plugin://plugin.video.rdslive/?action=play&post_id=1361
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
 plugin://plugin.video.rdslive/?action=play&post_id=1376
-#EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D 4k
-http://update.miicrosoft.es:80/TsMgKOrCtbL2ehXnI2l2TK5eKDtPkH/ogxBCmk5U72Brcbz2ldnVpvyPI32Ol/8975
 #EXTINF:-1 tvg-name="KANAL D2" tvg-logo="https://i.postimg.cc/7YPWGnz5/kanal-d2.png" group-title="Generaliste",KANAL D2
 plugin://plugin.video.rdslive/?action=play&post_id=1321
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24
@@ -19,14 +15,10 @@ https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 plugin://plugin.video.rdslive/?action=play&post_id=1420
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1
 plugin://plugin.video.rdslive/?action=play&post_id=1359
-#EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1 4K
-http://update.miicrosoft.es:80/TsMgKOrCtbL2ehXnI2l2TK5eKDtPkH/ogxBCmk5U72Brcbz2ldnVpvyPI32Ol/13180
 #EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Generaliste",ANTENA STARS
 plugin://plugin.video.rdslive/?action=play&post_id=1385
 #EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN
 plugin://plugin.video.rdslive/?action=play&post_id=1425
-#EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN 4K
-http://update.miicrosoft.es:80/TsMgKOrCtbL2ehXnI2l2TK5eKDtPkH/ogxBCmk5U72Brcbz2ldnVpvyPI32Ol/31848
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS
 plugin://plugin.video.rdslive/?action=play&post_id=1424
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS ()
@@ -174,20 +166,12 @@ plugin://plugin.video.rdslive/?action=play&post_id=1819
 
 #EXTINF:-1 tvg-name="DIGI Sport 1" tvg-logo="https://i.postimg.cc/PrSLKJCz/Digi-Sport1.png" group-title="Sport",DIGI Sport 1
 plugin://plugin.video.rdslive/?action=play&post_id=1795
-#EXTINF:-1 tvg-name="DIGI Sport 1" tvg-logo="https://i.postimg.cc/PrSLKJCz/Digi-Sport1.png" group-title="Sport",DIGI Sport 1 FHD
-http://update.miicrosoft.es:80/TsMgKOrCtbL2ehXnI2l2TK5eKDtPkH/ogxBCmk5U72Brcbz2ldnVpvyPI32Ol/82429
 #EXTINF:-1 tvg-name="DIGI Sport 2" tvg-logo="https://i.postimg.cc/P5NC7HZG/Digi-Sport2.png" group-title="Sport",DIGI Sport 2
 plugin://plugin.video.rdslive/?action=play&post_id=1409
-#EXTINF:-1 tvg-name="DIGI Sport 2" tvg-logo="https://i.postimg.cc/P5NC7HZG/Digi-Sport2.png" group-title="Sport",DIGI Sport 2 FHD
-http://update.miicrosoft.es:80/TsMgKOrCtbL2ehXnI2l2TK5eKDtPkH/ogxBCmk5U72Brcbz2ldnVpvyPI32Ol/82430
 #EXTINF:-1 tvg-name="DIGI Sport 3" tvg-logo="https://i.postimg.cc/wjP18rc1/Digi-Sport3.png" group-title="Sport",DIGI Sport 3
 plugin://plugin.video.rdslive/?action=play&post_id=1408
-#EXTINF:-1 tvg-name="DIGI Sport 3" tvg-logo="https://i.postimg.cc/wjP18rc1/Digi-Sport3.png" group-title="Sport",DIGI Sport 3 FHD
-http://update.miicrosoft.es:80/TsMgKOrCtbL2ehXnI2l2TK5eKDtPkH/ogxBCmk5U72Brcbz2ldnVpvyPI32Ol/82431
 #EXTINF:-1 tvg-name="DIGI Sport 4" tvg-logo="https://i.postimg.cc/mrHtbS88/Digi-Sport4.png" group-title="Sport",DIGI Sport 4
 plugin://plugin.video.rdslive/?action=play&post_id=1407
-#EXTINF:-1 tvg-name="DIGI Sport 4" tvg-logo="https://i.postimg.cc/mrHtbS88/Digi-Sport4.png" group-title="Sport",DIGI Sport 4 FHD
-http://update.miicrosoft.es:80/TsMgKOrCtbL2ehXnI2l2TK5eKDtPkH/ogxBCmk5U72Brcbz2ldnVpvyPI32Ol/82432
 #EXTINF:-1 tvg-name="EuroSport 1 " tvg-logo="https://i.postimg.cc/7hYHT1nv/Eurosport-1-HD.png" group-title="Sport",EuroSport 1
 plugin://plugin.video.rdslive/?action=play&post_id=1399
 #EXTINF:-1 tvg-name="EuroSport 2" tvg-logo="https://i.postimg.cc/fLvWLqXj/Eurosport-2-HD.png" group-title="Sport",EuroSport 2
