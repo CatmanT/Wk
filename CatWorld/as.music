@@ -8,6 +8,8 @@ acestream://c259ea0ed19869921364923ada94abf5f9c5a244
 acestream://ce37ed2d59ff0a2fe44f5e41c5edc1eb10b206d8
 #EXTINF:-1,Afrobeats
 acestream://d43827a07e1006e4b4a4a82f0474e98bc93b89b5
+#EXTINF:-1,Arabica Music
+acestream://c073375ee168c933f1f7a23c187d8c0846fe49d5
 #EXTINF:-1,Bridge HD [RU]
 acestream://32c2ea9b766da382ee892dae57871b3dd1e8641b
 #EXTINF:-1,Bridge TV Русский Хит
@@ -56,8 +58,6 @@ acestream://d0cb1c2addc8a7ccc025f67307be75f1872bf536
 acestream://aaf3060a96b04f621643e031eb61137722981595
 #EXTINF:-1,iConcerts [RU]
 acestream://f0757d4131090cf4b0652e9a427c350c651e597a
-#EXTINF:-1,myMixTape
-acestream://e485522a61f5bd3214aec9cc34f20e9157896bb3
 #EXTINF:-1,Óčko
 acestream://20a46e1e34a6b72cf0c3ba0c758b83ecb0891073
 #EXTINF:-1,Жара
