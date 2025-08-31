@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV
-http://update.miicrosoft.es:80/40736507649AlexAB_spart/zSBp8Y074UdVOoFD8I5p4wODpe9bmN/8968
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0&checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
 http://update.miicrosoft.es:80/40736507649AlexAB_spart/zSBp8Y074UdVOoFD8I5p4wODpe9bmN/24842
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
@@ -14,9 +14,9 @@ https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1 tvg-name="B1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Stiri",B1 TV
 http://update.miicrosoft.es:80/40736507649AlexAB_spart/zSBp8Y074UdVOoFD8I5p4wODpe9bmN/9066
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1
-http://update.miicrosoft.es:80/ciopreaga_catalin/ciopreagasada_spart/8970
+https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 #EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Generaliste",ANTENA STARS
-http://update.miicrosoft.es:80/40736507649AlexAB_spart/zSBp8Y074UdVOoFD8I5p4wODpe9bmN/8972
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN
 http://update.miicrosoft.es:80/40736507649AlexAB_spart/zSBp8Y074UdVOoFD8I5p4wODpe9bmN/8973
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS
