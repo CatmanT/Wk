@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV
-https://ivanturbinca.com/hls-proxy.php?src=https://p9.magicplaces.eu/protvhd/tracks-v1a1/mono.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1357&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
-https://ivanturbinca.com/hls-proxy.php?src=https://p11.magicplaces.eu/prima/tracks-v1a1/mono.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1361&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
-https://ivanturbinca.com/hls-proxy.php?src=https://p11.magicplaces.eu/kanald/tracks-v1a1/mono.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1376&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="KANAL D2" tvg-logo="https://i.postimg.cc/7YPWGnz5/kanal-d2.png" group-title="Generaliste",KANAL D2
-https://ivanturbinca.com/hls-proxy.php?src=https://p11.magicplaces.eu/kanald2hd/tracks-v1a1/mono.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1321&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24
-http://update.miicrosoft.es:80/40736507649AlexAB_spart/zSBp8Y074UdVOoFD8I5p4wODpe9bmN/10872
+plugin://plugin.video.rdslive/?action=play&post_id=1422&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24 ()
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1 tvg-name="B1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Stiri",B1 TV
-http://update.miicrosoft.es:80/40736507649AlexAB_spart/zSBp8Y074UdVOoFD8I5p4wODpe9bmN/9066
+plugin://plugin.video.rdslive/?action=play&post_id=1420&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1
-https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1359&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Generaliste",ANTENA STARS
-https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1385&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN
-http://update.miicrosoft.es:80/40736507649AlexAB_spart/zSBp8Y074UdVOoFD8I5p4wODpe9bmN/8973
+plugin://plugin.video.rdslive/?action=play&post_id=1425&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS
 plugin://plugin.video.rdslive/?action=play&post_id=1424&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS ()
