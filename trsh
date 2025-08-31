@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0&checkedby:iptvcat.com
+https://ivanturbinca.com/hls-proxy.php?src=https://p9.magicplaces.eu/protvhd/tracks-v1a1/mono.m3u8&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
 http://update.miicrosoft.es:80/40736507649AlexAB_spart/zSBp8Y074UdVOoFD8I5p4wODpe9bmN/24842
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
