@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV
-https://ivanturbinca.com/hls-proxy.php?src=https://p9.magicplaces.eu/protvhd/tracks-v1a1/mono.m3u8
+https://p9.magicplaces.eu/protvhd/video.m3u8?token=eaa366752e52cd97c642dad87dabf8013b8da032-9f42419ba4e57f996ab757e8b4932b34-1756749404-1756749104&remote=no_check_ip
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV (SD)
 https://ivanturbinca.com/hls-proxy.php?src=https://p13.magicplaces.eu/38.backup.protv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
