@@ -18,7 +18,7 @@ https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1 tvg-name="B1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Stiri",B1 TV
 plugin://plugin.video.rdslive/?action=play&post_id=1420&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="B1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Stiri",B1 TV ()
-https://chios.cdn.dejacast.com/live/b1tv/b1tv.m3u8?from=1756752485&to=1756774085&session=BX1w2W1C8E9OkgEr&source=cms&token=46YIZVJiqtPKeXypN2nHnUYVFd4=
+https://chios.cdn.dejacast.com/live/b1tv/b1tv.m3u8?from=1756799949&to=1756821549&session=fl5jwPwkcCDBAz7i&source=cms&token=l8Znm3DPTSqxfCXzjeCxgSUyGTA=
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1
 plugin://plugin.video.rdslive/?action=play&post_id=1359&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Generaliste",ANTENA STARS
