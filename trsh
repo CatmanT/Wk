@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV
-https://rotvonline.com/bviot1c1q5/index.m3u8?token=1ea1775f53db3042ca37c5ae860e116a1a4f7382-f959a98eefe5c7f7fd51fda11bff8a2a-1756823538-1756812738
+https://www.tvonline123.com/rds-live/1357.m3u8
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
-https://rotvonline.com/onm5lyr9u7/index.m3u8?token=104ee0010fd77e8e1d0869b4e3b982c76c216bd7-9ad632e8738f0ab1a99a7ab72ef574e1-1756825967-1756815167
+https://www.tvonline123.com/rds-live/1361.m3u8
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV()
 https://chios.cdn.dejacast.com/live/prima/prima.m3u8?from=1756799666&to=1756835666&session=c3x56SEHJUK2zGul&source=cms&token=OfRWRZP_Oiax9IAULZ0vdfTPxNQ=
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
@@ -10,7 +10,7 @@ https://rotvonline.com/x55et/index.m3u8?token=1514d8188421dcf36224421712686d67e8
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D ()
 https://stream1.kanald.ro/iphone/knd-live_mid/index.m3u8
 #EXTINF:-1 tvg-name="KANAL D2" tvg-logo="https://i.postimg.cc/7YPWGnz5/kanal-d2.png" group-title="Generaliste",KANAL D2
-https://rotvonline.com/1jqhr9f/index.m3u8?token=f9184e67d1ba8d2d30dc599e7a6983392b630549-ee35098d78abe82a49b96357fdb8ce68-1756825492-1756814692
+https://www.tvonline123.com/rds-live/1321.m3u8
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24
 https://www.tvonline123.com/rds-live/1422.m3u8
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24 ()
@@ -24,13 +24,13 @@ https://rotvonline.com/6ovmo5b7p0/index.m3u8?token=a0639519554dc9655a16f70b0df8d
 #EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Generaliste",ANTENA STARS
 plugin://plugin.video.rdslive/?action=play&post_id=1385&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN
-plugin://plugin.video.rdslive/?action=play&post_id=1425&post_url=https%3A%2F%2Frds.live
+https://www.tvonline123.com/rds-live/1425.m3u8
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS
-plugin://plugin.video.rdslive/?action=play&post_id=1424&post_url=https%3A%2F%2Frds.live
+https://www.tvonline123.com/rds-live/1424.m3u8
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS ()
 plugin://plugin.video.youtube/play/?video_id=Y4Q8-C4TnBc
 #EXTINF:-1 tvg-name="România TV" tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png"group-title="Stiri",Romania TV
-plugin://plugin.video.rdslive/?action=play&post_id=1423&post_url=https%3A%2F%2Frds.live
+https://www.tvonline123.com/rds-live/1424.m3u8
 #EXTINF:-1 tvg-name="Euronews" tvg-id=""tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png"group-title="Stiri",Euronews RO
 plugin://plugin.video.rdslive/?action=play&post_id=1421&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="CNN" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png"group-title="Stiri",CNN
