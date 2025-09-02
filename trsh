@@ -20,9 +20,9 @@ https://www.tvonline123.com/rds-live/1420.m3u8
 #EXTINF:-1 tvg-name="B1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Stiri",B1 TV ()
 https://chios.cdn.dejacast.com/live/b1tv/b1tv.m3u8?from=1756799949&to=1756821549&session=fl5jwPwkcCDBAz7i&source=cms&token=l8Znm3DPTSqxfCXzjeCxgSUyGTA=
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1
-https://rotvonline.com/6ovmo5b7p0/index.m3u8?token=a0639519554dc9655a16f70b0df8d18ad4700a76-334c23dad37fb89366660f25eec6b1f6-1756825345-1756814545
+https://www.tvonline123.com/rds-live/1359.m3u8
 #EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Generaliste",ANTENA STARS
-plugin://plugin.video.rdslive/?action=play&post_id=1385&post_url=https%3A%2F%2Frds.live
+https://www.tvonline123.com/rds-live/1358.m3u8
 #EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN
 https://www.tvonline123.com/rds-live/1425.m3u8
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS
@@ -32,7 +32,7 @@ plugin://plugin.video.youtube/play/?video_id=Y4Q8-C4TnBc
 #EXTINF:-1 tvg-name="România TV" tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png"group-title="Stiri",Romania TV
 https://www.tvonline123.com/rds-live/1424.m3u8
 #EXTINF:-1 tvg-name="Euronews" tvg-id=""tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png"group-title="Stiri",Euronews RO
-plugin://plugin.video.rdslive/?action=play&post_id=1421&post_url=https%3A%2F%2Frds.live
+https://www.tvonline123.com/rds-live/1421.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png"group-title="Stiri",CNN
 plugin://plugin.video.rdslive/?action=play&post_id=1410&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="RT HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"group-title="Stiri",RT HD
