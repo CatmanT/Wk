@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV
-plugin://plugin.video.rdslive/?action=play&post_id=1357&post_url=https%3A%2F%2Frds.live
+https://rotvonline.com/bviot1c1q5/index.m3u8?token=fb43d6a0701bf6eb4c7c44f00a4ed52c63abbcdb-9cf6c4976bca0053b2faff1d48a2660e-1756825264-1756814464
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
-plugin://plugin.video.rdslive/?action=play&post_id=1361&post_url=https%3A%2F%2Frds.live
+https://rotvonline.com/onm5lyr9u7/index.m3u8?token=835244a540c48a17a945003e0628f7535b53b801-5d38016e7e130cef171650246139915e-1756825420-1756814620
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV()
 https://chios.cdn.dejacast.com/live/prima/prima.m3u8?from=1756799666&to=1756835666&session=c3x56SEHJUK2zGul&source=cms&token=OfRWRZP_Oiax9IAULZ0vdfTPxNQ=
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
-plugin://plugin.video.rdslive/?action=play&post_id=1376&post_url=https%3A%2F%2Frds.live
+https://rotvonline.com/x55et/index.m3u8?token=1514d8188421dcf36224421712686d67e83205ca-ffdbcd14f40311269f34bb15c3e42683-1756825468-1756814668
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D ()
 https://stream1.kanald.ro/iphone/knd-live_mid/index.m3u8
 #EXTINF:-1 tvg-name="KANAL D2" tvg-logo="https://i.postimg.cc/7YPWGnz5/kanal-d2.png" group-title="Generaliste",KANAL D2
-plugin://plugin.video.rdslive/?action=play&post_id=1321&post_url=https%3A%2F%2Frds.live
+https://rotvonline.com/1jqhr9f/index.m3u8?token=f9184e67d1ba8d2d30dc599e7a6983392b630549-ee35098d78abe82a49b96357fdb8ce68-1756825492-1756814692
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24
-plugin://plugin.video.rdslive/?action=play&post_id=1422&post_url=https%3A%2F%2Frds.live
+https://www.tvonline123.com/rds-live/1422.m3u8
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24 ()
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1 tvg-name="B1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Stiri",B1 TV
@@ -20,7 +20,7 @@ plugin://plugin.video.rdslive/?action=play&post_id=1420&post_url=https%3A%2F%2Fr
 #EXTINF:-1 tvg-name="B1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Stiri",B1 TV ()
 https://chios.cdn.dejacast.com/live/b1tv/b1tv.m3u8?from=1756799949&to=1756821549&session=fl5jwPwkcCDBAz7i&source=cms&token=l8Znm3DPTSqxfCXzjeCxgSUyGTA=
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1
-plugin://plugin.video.rdslive/?action=play&post_id=1359&post_url=https%3A%2F%2Frds.live
+https://rotvonline.com/6ovmo5b7p0/index.m3u8?token=a0639519554dc9655a16f70b0df8d18ad4700a76-334c23dad37fb89366660f25eec6b1f6-1756825345-1756814545
 #EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Generaliste",ANTENA STARS
 plugin://plugin.video.rdslive/?action=play&post_id=1385&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN
