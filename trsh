@@ -3,8 +3,6 @@
 https://www.tvonline123.com/rds-live/1357.m3u8
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
 https://www.tvonline123.com/rds-live/1361.m3u8
-#EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV ()
-https://chios.cdn.dejacast.com/live/prima/prima.m3u8?from=1756799666&to=1756835666&session=c3x56SEHJUK2zGul&source=cms&token=OfRWRZP_Oiax9IAULZ0vdfTPxNQ=
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
 https://www.tvonline123.com/rds-live/1376.m3u8
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D ()
