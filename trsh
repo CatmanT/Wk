@@ -1,218 +1,214 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV
-https://www.tvonline123.com/rds-live/1357.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1357&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
-https://www.tvonline123.com/rds-live/1361.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1361&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
-https://www.tvonline123.com/rds-live/1376.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1376&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D ()
 https://stream2.kanald.ro/iphone/knd-live_mid/index.m3u8
 #EXTINF:-1 tvg-name="KANAL D2" tvg-logo="https://i.postimg.cc/7YPWGnz5/kanal-d2.png" group-title="Generaliste",KANAL D2
-https://www.tvonline123.com/rds-live/1321.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1321&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24
-https://www.tvonline123.com/rds-live/1422.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1422&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24 ()
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1 tvg-name="B1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Stiri",B1 TV
-https://www.tvonline123.com/rds-live/1420.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1420&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1
-https://www.tvonline123.com/rds-live/1359.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1359&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Generaliste",ANTENA STARS
-https://www.tvonline123.com/rds-live/1385.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1385&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN
-https://www.tvonline123.com/rds-live/1425.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1425&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS
-https://www.tvonline123.com/rds-live/1424.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1424&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS ()
 plugin://plugin.video.youtube/play/?video_id=Y4Q8-C4TnBc
 #EXTINF:-1 tvg-name="România TV" tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png"group-title="Stiri",Romania TV
-https://www.tvonline123.com/rds-live/1423.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1423&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Euronews" tvg-id=""tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png"group-title="Stiri",Euronews RO
-https://www.tvonline123.com/rds-live/1421.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1421&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="CNN" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png"group-title="Stiri",CNN
-https://www.tvonline123.com/rds-live/1410.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1410&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="RT HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"group-title="Stiri",RT HD
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-name="TVR 1" tvg-id=""tvg-logo="https://i.postimg.cc/wTwVJ6Hn/TVR_1.png"group-title="Generaliste",TVR 1
-https://www.tvonline123.com/rds-live/1377.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1377&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="TVR 2" tvg-id=""tvg-logo="https://i.postimg.cc/fTzCJ34x/TVR_2.png"group-title="Generaliste",TVR 2
-https://www.tvonline123.com/rds-live/1379.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1379&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="TVR 3" tvg-id=""tvg-logo="https://i.postimg.cc/QdVqJRdC/TVR_3.png"group-title="Generaliste",TVR 3
-https://www.tvonline123.com/rds-live/1339.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1339&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Acasa HD" tvg-id=""tvg-logo="https://i.postimg.cc/YC2GtFpb/Acasa.png"group-title="Generaliste",Acasa
-https://www.tvonline123.com/rds-live/1384.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1384&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="NATIONAL TV" tvg-id=""tvg-logo="https://i.postimg.cc/sxSkxvtF/National_TV.png"group-title="Generaliste",NATIONAL TV
-https://www.tvonline123.com/rds-live/1382.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1382&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="NATIONAL 24 PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/sfhdwN1n/National_24_Plus.png"group-title="Generaliste",NATIONAL 24 PLUS
-https://www.tvonline123.com/rds-live/1336.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1336&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Acasă Gold HD" tvg-id=""tvg-logo="https://i.postimg.cc/hjNsXMBv/Acas-A-Gold.png"group-title="Generaliste",ACASA GOLD
-https://www.tvonline123.com/rds-live/1383.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1383&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Happy Channel" tvg-id=""tvg-logo="https://i.postimg.cc/xTBQ0VhV/Happy-Channel.png"group-title="Movies",Happy Channel
-https://www.tvonline123.com/rds-live/1381.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1381&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="HBO" tvg-id=""tvg-logo="https://i.postimg.cc/hjZwp9qR/HBO_HD.png"group-title="Movies",HBO
-https://www.tvonline123.com/rds-live/1454.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1454&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="HBO 2" tvg-id=""tvg-logo="https://i.postimg.cc/FzqMs0PV/HBO_2.png"group-title="Movies",HBO 2
-https://www.tvonline123.com/rds-live/1453.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1453&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="HBO 3" tvg-id=""tvg-logo="https://i.postimg.cc/L8fp50FY/HBO_3.png"group-title="Movies",HBO 3
-https://www.tvonline123.com/rds-live/1452.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1452&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="BBC First" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/BBC_First_2022.svg/1200px-BBC_First_2022.svg.png"group-title="Movies",BBC First
-https://www.tvonline123.com/rds-live/1835.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1835&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Filmbox" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Filmbox_pl.png/1200px-Filmbox_pl.png"group-title="Movies",Filmbox
-https://www.tvonline123.com/rds-live/1828.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1828&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Filmbox Premium" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/FilmBox_Premium_log.png"group-title="Movies",Filmbox Premium
-https://www.tvonline123.com/rds-live/1824.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1824&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="SkyShowtime 1" tvg-id=""tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/182ec50c-9466-4ade-9671-b8385566d537/deznebk-a1a9710b-31a0-4363-9e72-69bade01b90b.png/v1/fill/w_1192,h_670/skyshowtime_2022_color_concept_by_waynemarcelo2009_deznebk-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMTgyZWM1MGMtOTQ2Ni00YWRlLTk2NzEtYjgzODU1NjZkNTM3XC9kZXpuZWJrLWExYTk3MTBiLTMxYTAtNDM2My05ZTcyLTY5YmFkZTAxYjkwYi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.RpkdH9c8Lf4tloXcWIqqa4xG34VkVKSRWk4hpcmGCaw"group-title="Movies",SkyShowtime 1
-https://www.tvonline123.com/rds-live/1792.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1792&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="SkyShowtime 2" tvg-id=""tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/3V4783l8A38UGPGn8yqsJ3/dd900001efcfa5c5250667f13879428e/skyshowtime-2.png"group-title="Movies",SkyShowtime 2
-https://www.tvonline123.com/rds-live/1839.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1839&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="AXN HD" tvg-id=""tvg-logo="https://i.postimg.cc/43qVPdFF/AXN-HD.png"group-title="Movies",AXN-HD
-https://www.tvonline123.com/rds-live/1560.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1560&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="AXN Spin " tvg-id=""tvg-logo="https://i.postimg.cc/VNdXXM4C/AXN-Spin.png"group-title="Movies",AXN SPIN
-https://www.tvonline123.com/rds-live/1809.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1809&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="AXN White" tvg-id=""tvg-logo="https://i.postimg.cc/d3KdMfF2/AXN-White.png"group-title="Movies",AXN WHITE
-https://www.tvonline123.com/rds-live/1811.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1811&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="AXN Black" tvg-id=""tvg-logo="https://i.postimg.cc/vBn9NsJ8/AXN-Black.png"group-title="Movies",AXN BLACK
-https://www.tvonline123.com/rds-live/1807.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1807&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Cinemax HD" tvg-id=""tvg-logo="https://i.postimg.cc/nhwDVrZc/CineMax.png"group-title="Movies",Cinemax 1
-https://www.tvonline123.com/rds-live/1451.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1451&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Cinemax2 HD " tvg-id=""tvg-logo="https://i.postimg.cc/y8NRz9Mb/Cinemax-2-HD.png"group-title="Movies",CINEMAX 2
-https://www.tvonline123.com/rds-live/1450.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1450&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Cinemaraton" tvg-logo="https://i.postimg.cc/Vvmy2fwK/Cinemaraton.png" group-title="Movies",Cinemaraton
-https://www.tvonline123.com/rds-live/1333.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1333&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Diva" tvg-id=""tvg-logo="https://i.postimg.cc/T29hY1JM/Diva.png"group-title="Movies",Diva
-https://www.tvonline123.com/rds-live/1334.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1334&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Epic Drama" tvg-id=""tvg-logo="https://i.postimg.cc/d1FtJc7V/Epic-Drama.png"group-title="Movies",Epic Drama
-https://www.tvonline123.com/rds-live/1448.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1448&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="AMC HD " tvg-id=""tvg-logo="https://i.postimg.cc/8Cffg387/AMC.png"group-title="Movies",AMC HD
-https://www.tvonline123.com/rds-live/1301.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1301&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Film Now" tvg-id=""tvg-logo="https://i.postimg.cc/5tBb7KPd/Film-Now.png"group-title="Movies",Film Now
-https://www.tvonline123.com/rds-live/1449.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1449&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="FILMCAFE" tvg-id=""tvg-logo="https://i.postimg.cc/C1JYYBTc/Film-cafe.png"group-title="Movies",Film Cafe
-https://www.tvonline123.com/rds-live/1306.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1306&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="PRO Cinema HD" tvg-id=""tvg-logo="https://i.postimg.cc/GpVgDbPb/Pro-Cinema.png"group-title="Movies",PRO CINEMA
-https://www.tvonline123.com/rds-live/1335.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1335&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Warner TV" tvg-id=""tvg-logo="https://i.postimg.cc/L628LSc4/Warner.png"group-title="Movies",Warner TV
-https://www.tvonline123.com/rds-live/1320.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1320&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="TV1000" tvg-id=""tvg-logo="https://i.postimg.cc/L5RTk5JF/TV1000.png"group-title="Movies",TV 1000
-https://www.tvonline123.com/rds-live/1817.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1817&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Bollywood Clasic" tvg-id=""tvg-logo="https://i.postimg.cc/8khMdTdt/Bollywood-TV.png"group-title="Movies",Bollywood Clasic
-https://www.tvonline123.com/rds-live/1332.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1332&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Comedy Central" tvg-id=""tvg-logo="https://i.postimg.cc/MGCfRLvC/Comedy-Central.png"group-title="Movies",Comedy Central
-https://www.tvonline123.com/rds-live/1447.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1447&post_url=https%3A%2F%2Frds.live
 
 #EXTINF:-1 tvg-name="BBC Earth" tvg-id=""tvg-logo="https://i.postimg.cc/J4538RGG/BBC-Earth.png"group-title="Documentare",BBC Earth
-https://www.tvonline123.com/rds-live/1558.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1558&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="CBS Reality" tvg-id=""tvg-logo="https://i.postimg.cc/vTqQ7104/CBS-Reality.png"group-title="Documentare",CBS Reality
-https://www.tvonline123.com/rds-live/1761.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1761&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="DIGI Animal World" tvg-id=""tvg-logo="https://i.postimg.cc/rm2zztHc/Digi-animal-world.png"group-title="Documentare",DIGI ANIMAL WORLD
-https://www.tvonline123.com/rds-live/1547.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1547&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="DIGI Life HD" tvg-id=""tvg-logo="https://i.postimg.cc/5N4YwL22/Digi-Life.png"group-title="Documentare",DIGI LIFE
-https://www.tvonline123.com/rds-live/1544.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1544&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="DIGI World HD" tvg-id=""tvg-logo="https://i.postimg.cc/8kBfJtDY/Digi-World.png"group-title="Documentare",DIGI WORLD
-https://www.tvonline123.com/rds-live/1552.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1552&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Discovery HD" tvg-id=""tvg-logo="https://i.postimg.cc/Bbq6BfsV/Discovery-Channel.png"group-title="Documentare",Discovery Channel
-https://www.tvonline123.com/rds-live/1553.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1553&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="ID  Investigation Discovery  HD" tvg-id=""tvg-logo="https://i.postimg.cc/9M0gRrw8/Investigation_Discovery.png"group-title="Documentare",ID Investigation Discovery
 http://update.miicrosoft.es:80/TsMgKOrCtbL2ehXnI2l2TK5eKDtPkH/ogxBCmk5U72Brcbz2ldnVpvyPI32Ol/31861
 #EXTINF:-1 tvg-name="History Channel" tvg-id=""tvg-logo="https://i.postimg.cc/wBqLzQ2C/History.png"group-title="Documentare",History
-https://www.tvonline123.com/rds-live/1557.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1557&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="National Geographic" tvg-id=""tvg-logo="https://i.postimg.cc/rsSHc7rM/National_Geografic.png"group-title="Documentare",National Geographic
-https://www.tvonline123.com/rds-live/1545.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1545&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="National Geographic Wild" tvg-id=""tvg-logo="https://i.postimg.cc/28dpfLQh/Nat_Geo_Wild.png"group-title="Documentare",Nat Geo Wild
-https://www.tvonline123.com/rds-live/1549.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1549&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="TLC HD" tvg-id=""tvg-logo="https://i.postimg.cc/7ZLKQ5mx/TLC.png"group-title="Documentare",TLC
-https://www.tvonline123.com/rds-live/1317.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1317&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://i.postimg.cc/wMSrdgvW/HGTV.png" group-title="Documentare",HGTV
-https://www.tvonline123.com/rds-live/1759.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1759&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="TV Paprika HD" tvg-logo="https://i.postimg.cc/Px1y8YrM/TV_Paprika.png" group-title="Documentare",TV PAPRIKA
-https://www.tvonline123.com/rds-live/1765.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1765&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Travel Channel HD" tvg-id=""tvg-logo="https://i.postimg.cc/3xbtM3c2/Travel_Channel.png"group-title="Documentare",TRAVEL CHANNEL
-https://www.tvonline123.com/rds-live/1548.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1548&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="" tvg-id=""tvg-logo="https://i.postimg.cc/Y03xd7FG/Travel-Mix.png"group-title="Documentare",TRAVEL MIX
-https://www.tvonline123.com/rds-live/1555.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1555&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Viasat Explore HD" tvg-id=""tvg-logo="https://i.postimg.cc/PqwzBYZk/ViasatExplore.png"group-title="Documentare",VIASAT EXPLORE
-https://www.tvonline123.com/rds-live/1319.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1319&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Viasat History HD" tvg-id=""tvg-logo="https://i.postimg.cc/j5YQK2Qn/ViasatHistory.png"group-title="Documentare",VIASAT HISTORY
-https://www.tvonline123.com/rds-live/1550.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1550&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Viasat Nature HD" tvg-id=""tvg-logo="https://i.postimg.cc/d1RR0F4H/ViasatNature.png"group-title="Documentare",VIASAT NATURE
-https://www.tvonline123.com/rds-live/1546.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1546&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Da Vinci" tvg-id=""tvg-logo="https://i.postimg.cc/B62LCCFX/Da-Vinci.png"group-title="Documentare",Da Vinci Learning
-https://www.tvonline123.com/rds-live/1763.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1763&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="E! Entertainment HD" tvg-id=""tvg-logo="https://i.postimg.cc/LsL8d88W/E.png"group-title="Documentare",E! Entertainment
-https://www.tvonline123.com/rds-live/1554.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1554&post_url=https%3A%2F%2Frds.live
 
 #EXTINF:-1 tvg-name="KISS TV" tvg-logo="https://i.postimg.cc/R0MDmPSz/Kiss-TV.png" group-title="Music",KISS TV
-https://www.tvonline123.com/rds-live/1481.m3u8
-#EXTINF:-1 tvg-name="KISS TV" tvg-logo="https://i.postimg.cc/R0MDmPSz/Kiss-TV.png" group-title="Music",KISS TV()
-https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1481&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="H!T Music Channel" tvg-logo="https://i.postimg.cc/bw0BKXjT/Hit-Music-Channel.png" group-title="Music",HIT MUSIC CHANNEL
-https://www.tvonline123.com/rds-live/1506.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1506&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="MAGIC TV HD" tvg-logo="https://i.postimg.cc/D0bC6Hg1/Magic-TV.png" group-title="Music",MAGIC TV
-https://www.tvonline123.com/rds-live/1517.m3u8
-#EXTINF:-1 tvg-name="MAGIC TV HD" tvg-logo="https://i.postimg.cc/D0bC6Hg1/Magic-TV.png" group-title="Music",MAGIC TV()
-https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1517&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="MTV Europe" tvg-logo="https://i.postimg.cc/G3WrR1Zw/MTV-Europe.png" group-title="Music",MTV EUROPE
-https://www.tvonline123.com/rds-live/1323.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1323&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="MTV 00s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Music",MTV 00s
-https://www.tvonline123.com/rds-live/1322.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1322&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Music Channel" tvg-logo="https://i.postimg.cc/cHKyqDhL/Music-Channel.png" group-title="Music",MUSIC CHANNEL
-https://www.tvonline123.com/rds-live/1563.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1563&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="UTV HD" tvg-logo="https://i.postimg.cc/VsRBQYS5/UTV.png" group-title="Music",UTV
-https://www.tvonline123.com/rds-live/1501.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1501&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="ZU TV HD" tvg-logo="https://i.postimg.cc/zv0nnjmT/ZU-TV.png" group-title="Music",ZU TV
-https://www.tvonline123.com/rds-live/1500.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1500&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Etno TV" tvg-logo="https://i.postimg.cc/cLVL5n0Y/Etno.png" group-title="Music",ETNO TV
-https://www.tvonline123.com/rds-live/1503.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1503&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Taraf TV" tvg-logo="https://i.postimg.cc/pXRGzGj5/Taraf-TV.png" group-title="Music",TARAF TV
-https://www.tvonline123.com/rds-live/1504.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1504&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Favorit" tvg-logo="https://i.postimg.cc/KvWGRMKV/Favorit-TV.png" group-title="Music",FAVORIT TV
-https://www.tvonline123.com/rds-live/1505.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1505&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Mezzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="Music",Mezzo
-https://www.tvonline123.com/rds-live/1819.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1819&post_url=https%3A%2F%2Frds.live
 
 #EXTINF:-1 tvg-name="DIGI Sport 1" tvg-logo="https://i.postimg.cc/PrSLKJCz/Digi-Sport1.png" group-title="Sport",DIGI Sport 1
-https://www.tvonline123.com/rds-live/1795.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1795&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="DIGI Sport 2" tvg-logo="https://i.postimg.cc/P5NC7HZG/Digi-Sport2.png" group-title="Sport",DIGI Sport 2
-https://www.tvonline123.com/rds-live/1409.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1409&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="DIGI Sport 3" tvg-logo="https://i.postimg.cc/wjP18rc1/Digi-Sport3.png" group-title="Sport",DIGI Sport 3
-https://www.tvonline123.com/rds-live/1408.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1408&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="DIGI Sport 4" tvg-logo="https://i.postimg.cc/mrHtbS88/Digi-Sport4.png" group-title="Sport",DIGI Sport 4
-https://www.tvonline123.com/rds-live/1407.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1407&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="EuroSport 1 " tvg-logo="https://i.postimg.cc/7hYHT1nv/Eurosport-1-HD.png" group-title="Sport",EuroSport 1
-https://www.tvonline123.com/rds-live/1399.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1399&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="EuroSport 2" tvg-logo="https://i.postimg.cc/fLvWLqXj/Eurosport-2-HD.png" group-title="Sport",EuroSport 2
-https://www.tvonline123.com/rds-live/1340.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1340&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="TVR Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/TVR_Sport.svg/revision/latest/smart/width/371/height/332?cb=20230421162631" group-title="Sport",TVR Sport
-https://www.tvonline123.com/rds-live/1778.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1778&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Prima Sport 1" tvg-logo="https://i.postimg.cc/gj97CGrg/Prima-Sport-1.png" group-title="Sport",Prima Sport 1
-https://www.tvonline123.com/rds-live/1406.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1406&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Prima Sport 2" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",Prima Sport 2
-https://www.tvonline123.com/rds-live/1405.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1405&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Prima Sport 3" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",Prima Sport 3
-https://www.tvonline123.com/rds-live/1401.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1401&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Sport Extra HD" tvg-id=""tvg-logo="https://i.postimg.cc/8zr1WzMC/Extreme-Sports-Channel.png"group-title="Sport",Sport Extra
-https://www.tvonline123.com/rds-live/1400.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1400&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="PRO Arena" tvg-logo="https://i.postimg.cc/52f2xhMw/Pro-ARENA.png" group-title="Sport",PRO Arena
-https://www.tvonline123.com/rds-live/1386.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1386&post_url=https%3A%2F%2Frds.live
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-id=""tvg-logo="https://i.postimg.cc/7Y9zcXWz/Cartoon-Network.png"group-title="Kids",CARTOON NETWORK
-https://www.tvonline123.com/rds-live/1476.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1476&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Disney Channel" tvg-id=""tvg-logo="https://i.postimg.cc/c4C1xmJw/Disney-Channel.png"group-title="Kids",DISNEY CHANNEL
-https://www.tvonline123.com/rds-live/1469.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1469&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Disney Junior" tvg-id=""tvg-logo="https://i.postimg.cc/R05vTxLL/Disney-Junior.png"group-title="Kids",DISNEY JUNIOR
-https://www.tvonline123.com/rds-live/1467.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1467&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Duck TV HD" tvg-id=""tvg-logo="https://i.postimg.cc/RVpFKYYg/Duck-TV.png"group-title="Kids",DUCK TV
-https://www.tvonline123.com/rds-live/1477.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1477&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="TeenNick" tvg-id=""tvg-logo="https://i.postimg.cc/9FhqDkyn/TeenNick.png"group-title="Kids",TEENNICK
-https://www.tvonline123.com/rds-live/1480.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1480&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="JimJam" tvg-id=""tvg-logo="https://i.postimg.cc/4xR0Lfjy/JimJam.png"group-title="Kids",JIMJAM
-https://www.tvonline123.com/rds-live/1475.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1475&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Minimax" tvg-id=""tvg-logo="https://i.postimg.cc/xd1V5jbH/Minimax.png"group-title="Kids",MINIMAX
-https://www.tvonline123.com/rds-live/1478.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1478&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Nick Jr" tvg-id=""tvg-logo="https://i.postimg.cc/pTBJ6P2Y/Nick-Jr.png"group-title="Kids",NICK JR
-https://www.tvonline123.com/rds-live/1474.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1474&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id=""tvg-logo="https://i.postimg.cc/1tVT78Rg/Nickelodeon.png"group-title="Kids",NICKELODEON
-https://www.tvonline123.com/rds-live/1479.m3u8
+plugin://plugin.video.rdslive/?action=play&post_id=1479&post_url=https%3A%2F%2Frds.live
 
 
 
