@@ -4,6 +4,8 @@
 acestream://0c7e3105120babb354d5569ba2e13225c3123f0d
 #EXTINF:-1,ACETOP-1
 acestream://2b0acad014567bbbe0664904af8c001754283eb1
+#EXTINF:-1,ACETOP-2
+acestream://5f569f3ecf8b4d2f2f4bc732dd7023568f76e4a9
 #EXTINF:-1,AMAZON PRIME VIDEO 6 HD [BE]
 acestream://26e31f091414fb036917a255b4adaf12b2f3da5b
 #EXTINF:-1,BT Sport / ESPN [UK]
@@ -34,6 +36,8 @@ acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 acestream://0addcc896d5c6749ff262674f1d5c9b5f9e7be4b
 #EXTINF:-1,Dubai Sports 2
 acestream://ebfb7c61b14f06ecafb80ba4cc170b0f47665b17
+#EXTINF:-1,Dubai Sports 3
+acestream://34a717795ab68429e61a2c4ef8b59ddcb458e4b1
 #EXTINF:-1,Dubai Sports 3 HD [ae]
 acestream://c6b6a37b9296f52fc6716566289d52d3de76e1d3
 #EXTINF:-1,ESPN 2 [BE]
@@ -58,8 +62,6 @@ acestream://0f32c0131a2d9444996410801f4e18b04384db98
 acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1,Eleven Sports 6 [BE]
 acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1,Euro1_Deportes
-acestream://32ae78f7f26e931fef9af6b0c36a1379935ed800
 #EXTINF:-1,Eurosport 1 HD
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1,Eurosport 1 HD [RU]
@@ -89,7 +91,7 @@ acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1,M. Liga de Campeones
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1,Moldova 1
-acestream://b7564306ba2b941455909b0a61e20e8cff0e88ab
+acestream://349849130d22a53370266b3f25863519d447c264
 #EXTINF:-1,Moldova 2
 acestream://b58ff31850d94a1bd52b276322420a7461e715e7
 #EXTINF:-1,Moldova1
@@ -124,8 +126,6 @@ acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
 #EXTINF:-1,Sports Grid
 acestream://06bdd969238a390a9e0006bd83e4722ced36086b
-#EXTINF:-1,SuperTennis HD
-acestream://b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1,TV TORUŃ
 acestream://7eaf3876d5f4e221ee9dd59b84b152c50ff32d84
 #EXTINF:-1,Telewizja Toruń
@@ -144,8 +144,12 @@ acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
 acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
 #EXTINF:-1,beIN SPORTS XTRA
 acestream://e8e459656f964f601ad4bcda8b81a43ba41c68f9
+#EXTINF:-1,pimpletv.ru
+acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 #EXTINF:-1,sport
 acestream://b58a1d4431d4845e41b8e589d8899f6cde89076e
+#EXTINF:-1,Беларусь 5 HD
+acestream://8d0f7da111f0f02c0df0b2dd193fcebaef9ccf59
 #EXTINF:-1,Бокс ТВ [RU]
 acestream://1acaf203502983cd2993c6835bf0cbde8d016c3d
 #EXTINF:-1,КХЛ HD [RU]
