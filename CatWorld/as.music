@@ -58,6 +58,8 @@ acestream://d0cb1c2addc8a7ccc025f67307be75f1872bf536
 acestream://aaf3060a96b04f621643e031eb61137722981595
 #EXTINF:-1,iConcerts [RU]
 acestream://f0757d4131090cf4b0652e9a427c350c651e597a
+#EXTINF:-1,myMixTape
+acestream://e485522a61f5bd3214aec9cc34f20e9157896bb3
 #EXTINF:-1,Óčko
 acestream://20a46e1e34a6b72cf0c3ba0c758b83ecb0891073
 #EXTINF:-1,Жара
@@ -66,6 +68,8 @@ acestream://8bcf5f98c0325336293c0adbe721a4b7b7dbb5c3
 acestream://0f777acf2def9b2c0ae254041796fbae5ba60501
 #EXTINF:-1,Ля-минор [RU]
 acestream://e72eb5bd621666fdcb1cf7689ce9a1f66fe20c22
+#EXTINF:-1,М2
+acestream://19b4200a272fdf8a0dcbed5759fe3a96f60c90bd
 #EXTINF:-1,МУЗ [RU]
 acestream://38cf205218182050f0df6c7d8321e5e651286e91
 #EXTINF:-1,Матур ТВ HD
