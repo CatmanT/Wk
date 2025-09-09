@@ -225,8 +225,6 @@ http://195.66.210.10:80/Gilbertosantos/mDKFtjLYRM/56195
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="USA Fox News SD" tvg-logo="http://181.233.124.64:80/images/6238892403d97166fc48fd625aad5634.png" group-title="USA News",USA Fox News SD
 http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/648545.ts
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News [Rumble]" tvg-logo="http://181.233.124.64:80/images/6238892403d97166fc48fd625aad5634.png" group-title="USA News",Fox News [Rumble]
-https://rumble.com/live-hls-dvr/6wg892/playlist.m3u8?
-#EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News [Rumble]" tvg-logo="http://181.233.124.64:80/images/6238892403d97166fc48fd625aad5634.png" group-title="USA News",Fox News2 [Rumble]
 https://rumble.com/live-hls-dvr/6wgzwk/playlist.m3u8?
 #EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="USA Fox Business UHD" tvg-logo="http://23.227.147.172:80/images/912a0234221989a96eb2691da73bdf88.png" group-title="USA News",USA Fox Business UHD
 http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/176949.ts
@@ -234,6 +232,8 @@ http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/176949.ts
 http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/208973.ts
 #EXTINF:-1 tvg-id="cnninternational.us" tvg-name="USA CNN INTERNATIONAL*" tvg-logo="http://181.233.124.64:80/images/0ea6add692992b8a5316407be14423f6.png" group-title="USA News",USA CNN INTERNATIONAL*
 http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/175988.ts
+#EXTINF:-1 tvg-id="newsmax.us" tvg-name="USA NewsMAXL*" tvg-logo="https://1a-1791.com/video/z8/1/u/n/b/1unba.baa.1-NewsmaxTV-qu1fdv.jpeg" group-title="USA News",USA NewsMAX [Rumble]
+https://rumble.com/live-hls-dvr/5xwnen/playlist.m3u8?
 #EXTINF:-1 tvg-id="cnbc.us" tvg-name="USA CNBC UHD" tvg-logo="http://23.227.147.172:80/images/c7808644eda4e181fbae1ba268d14bb3.png" group-title="USA News",USA CNBC UHD
 http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/943540.ts
 #EXTINF:-1 tvg-id="newsmax.us" tvg-name="USA NEWSMAX" tvg-logo="http://181.233.124.64:80/images/07309c932cd708f5edae8736b6b9e35d.png" group-title="USA News",USA NEWSMAX
