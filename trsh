@@ -182,7 +182,7 @@ plugin://plugin.video.rdslive/?action=play&post_id=1407&post_url=https%3A%2F%2Fr
 plugin://plugin.video.rdslive/?action=play&post_id=1399&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="EuroSport 2" tvg-logo="https://i.postimg.cc/fLvWLqXj/Eurosport-2-HD.png" group-title="Sport",EuroSport 2
 plugin://plugin.video.rdslive/?action=play&post_id=1340&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="TVR Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/TVR_Sport.svg/revision/latest/smart/width/371/height/332?cb=20230421162631" group-title="Sport",TVR Sport
+#EXTINF:-1 tvg-name="TVR Sport HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/TVR_Sport.svg/revision/latest/smart/width/371/height/332?cb=20230421162631" group-title="Sport",TVR Sport HD
 plugin://plugin.video.rdslive/?action=play&post_id=1778&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Prima Sport 1" tvg-logo="https://i.postimg.cc/gj97CGrg/Prima-Sport-1.png" group-title="Sport",Prima Sport 1
 plugin://plugin.video.rdslive/?action=play&post_id=1406&post_url=https%3A%2F%2Frds.live
