@@ -116,7 +116,7 @@ plugin://plugin.video.rdslive/?action=play&post_id=1552&post_url=https%3A%2F%2Fr
 #EXTINF:-1 tvg-name="Discovery HD" tvg-id=""tvg-logo="https://i.postimg.cc/Bbq6BfsV/Discovery-Channel.png"group-title="Documentare",Discovery Channel
 plugin://plugin.video.rdslive/?action=play&post_id=1553&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="ID  Investigation Discovery  HD" tvg-id=""tvg-logo="https://i.postimg.cc/9M0gRrw8/Investigation_Discovery.png"group-title="Documentare",ID Investigation Discovery
-http://update.miicrosoft.es:80/TsMgKOrCtbL2ehXnI2l2TK5eKDtPkH/ogxBCmk5U72Brcbz2ldnVpvyPI32Ol/31861
+http://vocotv.live:80/Straight11/7062948274/691148
 #EXTINF:-1 tvg-name="History Channel" tvg-id=""tvg-logo="https://i.postimg.cc/wBqLzQ2C/History.png"group-title="Documentare",History
 plugin://plugin.video.rdslive/?action=play&post_id=1557&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="National Geographic" tvg-id=""tvg-logo="https://i.postimg.cc/rsSHc7rM/National_Geografic.png"group-title="Documentare",National Geographic
