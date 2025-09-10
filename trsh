@@ -193,7 +193,7 @@ plugin://plugin.video.rdslive/?action=play&post_id=1406&post_url=https%3A%2F%2Fr
 plugin://plugin.video.rdslive/?action=play&post_id=1405&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Prima Sport 3" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",Prima Sport 3
 plugin://plugin.video.rdslive/?action=play&post_id=1401&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Sport Extra HD" tvg-id=""tvg-logo="https://i.postimg.cc/8zr1WzMC/Extreme-Sports-Channel.png"group-title="Sport",Sport Extra
+#EXTINF:-1 tvg-name="Sport Extra HD" tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/9/9d/Sport_Extra_%28Wordmark%29.png"group-title="Sport",Sport Extra
 plugin://plugin.video.rdslive/?action=play&post_id=1400&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="PRO Arena" tvg-logo="https://i.postimg.cc/52f2xhMw/Pro-ARENA.png" group-title="Sport",PRO Arena
 plugin://plugin.video.rdslive/?action=play&post_id=1386&post_url=https%3A%2F%2Frds.live
