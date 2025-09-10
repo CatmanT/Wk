@@ -31,7 +31,7 @@ plugin://plugin.video.rdslive/?action=play&post_id=1423&post_url=https%3A%2F%2Fr
 plugin://plugin.video.rdslive/?action=play&post_id=1421&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="CNN" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png"group-title="Stiri",CNN
 plugin://plugin.video.rdslive/?action=play&post_id=1410&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="BBC News" tvg-id=""tvg-logo="http://pic.qw1234.org/logos/tn_BBC%20News.png"group-title="Stiri",BBC News
+#EXTINF:-1 tvg-name="BBC News" tvg-id=""tvg-logo="https://i.postimg.cc/mr34Nv1c/BBC-News-logo-PNG-1.png"group-title="Stiri",BBC News
 plugin://plugin.video.rdslive/?action=play&post_id=1337&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="RT HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"group-title="Stiri",RT HD
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
