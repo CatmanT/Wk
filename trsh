@@ -99,7 +99,8 @@ plugin://plugin.video.rdslive/?action=play&post_id=1817&post_url=https%3A%2F%2Fr
 plugin://plugin.video.rdslive/?action=play&post_id=1332&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Comedy Central" tvg-id=""tvg-logo="https://i.postimg.cc/MGCfRLvC/Comedy-Central.png"group-title="Movies",Comedy Central
 plugin://plugin.video.rdslive/?action=play&post_id=1447&post_url=https%3A%2F%2Frds.live
-
+#EXTINF:-1 tvg-name="Prima Comedy" tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Prima_Comedy_alt.png/revision/latest?cb=20230428120531"group-title="Movies",Prima Comedy
+plugin://plugin.video.rdslive/?action=play&post_id=1314&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="BBC Earth" tvg-id=""tvg-logo="https://i.postimg.cc/J4538RGG/BBC-Earth.png"group-title="Documentare",BBC Earth
 plugin://plugin.video.rdslive/?action=play&post_id=1558&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="CBS Reality" tvg-id=""tvg-logo="https://i.postimg.cc/vTqQ7104/CBS-Reality.png"group-title="Documentare",CBS Reality
