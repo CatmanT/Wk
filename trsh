@@ -280,12 +280,7 @@ http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15967.ts
 
 #EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="US | BIG TEN NETWORK" tvg-logo="https://www.lyngsat.com//logo/tv/bb/big-ten-network-us.png" group-title="US - Sports",US | BIG TEN NETWORK
 http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23355.ts
-#EXTINF:-1 tvg-id="boomerang.us" tvg-name="US | BOOMERANG US" tvg-logo="https://tlgrm.re/images/boomerang-us.png" group-title="US - Kids",US | BOOMERANG US
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23354.ts
-#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="US | BOUNCE TV" tvg-logo="https://tlgrm.re/images/bounce-us.png" group-title="US - Kids",US | BOUNCE TV
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23353.ts
-#EXTINF:-1 tvg-id="BuzzrTV.us" tvg-name="US | BUZZER" tvg-logo="https://tlgrm.re/images/buzzr-us.png" group-title="US - Entertainment",US | BUZZER
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23352.ts
+
 #EXTINF:-1 tvg-id="beINSports.us" tvg-name="US | Bein Sports" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/beinsports.default.png" group-title="US - Sports",US | Bein Sports
 http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15922.ts
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="US | Bloomberg" tvg-logo="https://tlgrm.re/images/bloomberg-television-us.png" group-title="US - News",US | Bloomberg
