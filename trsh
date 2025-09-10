@@ -146,7 +146,7 @@ plugin://plugin.video.rdslive/?action=play&post_id=1554&post_url=https%3A%2F%2Fr
 
 #EXTINF:-1 tvg-name="KISS TV" tvg-logo="https://i.postimg.cc/R0MDmPSz/Kiss-TV.png" group-title="Music",KISS TV
 plugin://plugin.video.rdslive/?action=play&post_id=1481&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="KISS TV" tvg-logo="https://i.postimg.cc/R0MDmPSz/Kiss-TV.png" group-title="Music",KISS TV()
+#EXTINF:-1 tvg-name="KISS TV" tvg-logo="https://i.postimg.cc/R0MDmPSz/Kiss-TV.png" group-title="Music",KISS TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-name="H!T Music Channel" tvg-logo="https://i.postimg.cc/bw0BKXjT/Hit-Music-Channel.png" group-title="Music",HIT MUSIC CHANNEL
 plugin://plugin.video.rdslive/?action=play&post_id=1506&post_url=https%3A%2F%2Frds.live
