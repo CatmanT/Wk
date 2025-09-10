@@ -173,27 +173,27 @@ plugin://plugin.video.rdslive/?action=play&post_id=1505&post_url=https%3A%2F%2Fr
 #EXTINF:-1 tvg-name="Mezzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="[COLORmagenta]Music[/COLOR]",Mezzo
 plugin://plugin.video.rdslive/?action=play&post_id=1819&post_url=https%3A%2F%2Frds.live
 
-#EXTINF:-1 tvg-name="DIGI [COLORlime]Sport[/COLOR] 1" tvg-logo="https://i.postimg.cc/PrSLKJCz/Digi-[COLORlime]Sport[/COLOR]1.png" group-title="[COLORlime]Sport[/COLOR]",DIGI [COLORlime]Sport[/COLOR] 1
+#EXTINF:-1 tvg-name="DIGI Sport 1" tvg-logo="https://i.postimg.cc/PrSLKJCz/Digi-[COLORlime]Sport[/COLOR]1.png" group-title="[COLORlime]Sport[/COLOR]",DIGI [COLORlime]Sport[/COLOR] 1
 plugin://plugin.video.rdslive/?action=play&post_id=1795&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="DIGI [COLORlime]Sport[/COLOR] 2" tvg-logo="https://i.postimg.cc/P5NC7HZG/Digi-[COLORlime]Sport[/COLOR]2.png" group-title="[COLORlime]Sport[/COLOR]",DIGI [COLORlime]Sport[/COLOR] 2
+#EXTINF:-1 tvg-name="DIGI Sport 2" tvg-logo="https://i.postimg.cc/P5NC7HZG/Digi-[COLORlime]Sport[/COLOR]2.png" group-title="[COLORlime]Sport[/COLOR]",DIGI [COLORlime]Sport[/COLOR] 2
 plugin://plugin.video.rdslive/?action=play&post_id=1409&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="DIGI [COLORlime]Sport[/COLOR] 3" tvg-logo="https://i.postimg.cc/wjP18rc1/Digi-[COLORlime]Sport[/COLOR]3.png" group-title="[COLORlime]Sport[/COLOR]",DIGI [COLORlime]Sport[/COLOR] 3
+#EXTINF:-1 tvg-name="DIGI Sport 3" tvg-logo="https://i.postimg.cc/wjP18rc1/Digi-[COLORlime]Sport[/COLOR]3.png" group-title="[COLORlime]Sport[/COLOR]",DIGI [COLORlime]Sport[/COLOR] 3
 plugin://plugin.video.rdslive/?action=play&post_id=1408&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="DIGI [COLORlime]Sport[/COLOR] 4" tvg-logo="https://i.postimg.cc/mrHtbS88/Digi-[COLORlime]Sport[/COLOR]4.png" group-title="[COLORlime]Sport[/COLOR]",DIGI [COLORlime]Sport[/COLOR] 4
+#EXTINF:-1 tvg-name="DIGI Sport 4" tvg-logo="https://i.postimg.cc/mrHtbS88/Digi-[COLORlime]Sport[/COLOR]4.png" group-title="[COLORlime]Sport[/COLOR]",DIGI [COLORlime]Sport[/COLOR] 4
 plugin://plugin.video.rdslive/?action=play&post_id=1407&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Euro[COLORlime]Sport[/COLOR] 1 " tvg-logo="https://i.postimg.cc/7hYHT1nv/Euro[COLORlime]Sport[/COLOR]-1-HD.png" group-title="[COLORlime]Sport[/COLOR]",Euro[COLORlime]Sport[/COLOR] 1
+#EXTINF:-1 tvg-name="EuroSport 1 " tvg-logo="https://i.postimg.cc/7hYHT1nv/Euro[COLORlime]Sport[/COLOR]-1-HD.png" group-title="[COLORlime]Sport[/COLOR]",Euro[COLORlime]Sport[/COLOR] 1
 plugin://plugin.video.rdslive/?action=play&post_id=1399&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Euro[COLORlime]Sport[/COLOR] 2" tvg-logo="https://i.postimg.cc/fLvWLqXj/Euro[COLORlime]Sport[/COLOR]-2-HD.png" group-title="[COLORlime]Sport[/COLOR]",Euro[COLORlime]Sport[/COLOR] 2
+#EXTINF:-1 tvg-name="EuroSport 2" tvg-logo="https://i.postimg.cc/fLvWLqXj/Euro[COLORlime]Sport[/COLOR]-2-HD.png" group-title="[COLORlime]Sport[/COLOR]",Euro[COLORlime]Sport[/COLOR] 2
 plugin://plugin.video.rdslive/?action=play&post_id=1340&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="TVR [COLORlime]Sport[/COLOR] HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TVR-[COLORlime]Sport[/COLOR]_landscape.png" group-title="[COLORlime]Sport[/COLOR]",TVR [COLORlime]Sport[/COLOR] HD
+#EXTINF:-1 tvg-name="TVR Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TVR-[COLORlime]Sport[/COLOR]_landscape.png" group-title="[COLORlime]Sport[/COLOR]",TVR [COLORlime]Sport[/COLOR] HD
 plugin://plugin.video.rdslive/?action=play&post_id=1778&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Prima [COLORlime]Sport[/COLOR] 1" tvg-logo="https://i.postimg.cc/gj97CGrg/Prima-[COLORlime]Sport[/COLOR]-1.png" group-title="[COLORlime]Sport[/COLOR]",Prima [COLORlime]Sport[/COLOR] 1
+#EXTINF:-1 tvg-name="Prima Sport 1" tvg-logo="https://i.postimg.cc/gj97CGrg/Prima-[COLORlime]Sport[/COLOR]-1.png" group-title="[COLORlime]Sport[/COLOR]",Prima [COLORlime]Sport[/COLOR] 1
 plugin://plugin.video.rdslive/?action=play&post_id=1406&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Prima [COLORlime]Sport[/COLOR] 2" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-[COLORlime]Sport[/COLOR]-2.png" group-title="[COLORlime]Sport[/COLOR]",Prima [COLORlime]Sport[/COLOR] 2
+#EXTINF:-1 tvg-name="Prima Sport 2" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-[COLORlime]Sport[/COLOR]-2.png" group-title="[COLORlime]Sport[/COLOR]",Prima [COLORlime]Sport[/COLOR] 2
 plugin://plugin.video.rdslive/?action=play&post_id=1405&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Prima [COLORlime]Sport[/COLOR] 3" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-[COLORlime]Sport[/COLOR]-2.png" group-title="[COLORlime]Sport[/COLOR]",Prima [COLORlime]Sport[/COLOR] 3
+#EXTINF:-1 tvg-name="Prima Sport 3" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-[COLORlime]Sport[/COLOR]-2.png" group-title="[COLORlime]Sport[/COLOR]",Prima [COLORlime]Sport[/COLOR] 3
 plugin://plugin.video.rdslive/?action=play&post_id=1401&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="[COLORlime]Sport[/COLOR] Extra HD" tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/9/9d/[COLORlime]Sport[/COLOR]_Extra_%28Wordmark%29.png"group-title="[COLORlime]Sport[/COLOR]",[COLORlime]Sport[/COLOR] Extra
+#EXTINF:-1 tvg-name="Sport Extra HD" tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/9/9d/[COLORlime]Sport[/COLOR]_Extra_%28Wordmark%29.png"group-title="[COLORlime]Sport[/COLOR]",[COLORlime]Sport[/COLOR] Extra
 plugin://plugin.video.rdslive/?action=play&post_id=1400&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="PRO Arena" tvg-logo="https://i.postimg.cc/52f2xhMw/Pro-ARENA.png" group-title="[COLORlime]Sport[/COLOR]",PRO Arena
 plugin://plugin.video.rdslive/?action=play&post_id=1386&post_url=https%3A%2F%2Frds.live
