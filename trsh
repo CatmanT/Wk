@@ -148,7 +148,7 @@ plugin://plugin.video.rdslive/?action=play&post_id=1554&post_url=https%3A%2F%2Fr
 plugin://plugin.video.rdslive/?action=play&post_id=1481&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="KISS TV" tvg-logo="https://i.postimg.cc/R0MDmPSz/Kiss-TV.png" group-title="[COLORmagenta]Music[/COLOR]",KISS TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
-#EXTINF:-1 tvg-name="H!T [COLORmagenta]Music[/COLOR] Channel" tvg-logo="https://i.postimg.cc/bw0BKXjT/Hit-[COLORmagenta]Music[/COLOR]-Channel.png" group-title="[COLORmagenta]Music[/COLOR]",HIT [COLORmagenta]Music[/COLOR] CHANNEL
+#EXTINF:-1 tvg-name="H!T Music Channel" tvg-logo="https://i.postimg.cc/bw0BKXjT/Hit-Music-Channel.png" group-title="[COLORmagenta]Music[/COLOR]",HIT Music CHANNEL
 plugin://plugin.video.rdslive/?action=play&post_id=1506&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="MAGIC TV HD" tvg-logo="https://i.postimg.cc/D0bC6Hg1/Magic-TV.png" group-title="[COLORmagenta]Music[/COLOR]",MAGIC TV
 plugin://plugin.video.rdslive/?action=play&post_id=1517&post_url=https%3A%2F%2Frds.live
@@ -158,7 +158,7 @@ https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 plugin://plugin.video.rdslive/?action=play&post_id=1323&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="MTV 00s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="[COLORmagenta]Music[/COLOR]",MTV 00s
 plugin://plugin.video.rdslive/?action=play&post_id=1322&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="[COLORmagenta]Music[/COLOR] Channel" tvg-logo="https://i.postimg.cc/cHKyqDhL/[COLORmagenta]Music[/COLOR]-Channel.png" group-title="[COLORmagenta]Music[/COLOR]",[COLORmagenta]Music[/COLOR] CHANNEL
+#EXTINF:-1 tvg-name="Music Channel" tvg-logo="https://i.postimg.cc/cHKyqDhL/Music-Channel.png" group-title="[COLORmagenta]Music[/COLOR]",Music CHANNEL
 plugin://plugin.video.rdslive/?action=play&post_id=1563&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="UTV HD" tvg-logo="https://i.postimg.cc/VsRBQYS5/UTV.png" group-title="[COLORmagenta]Music[/COLOR]",UTV
 plugin://plugin.video.rdslive/?action=play&post_id=1501&post_url=https%3A%2F%2Frds.live
