@@ -5,6 +5,8 @@ plugin://plugin.video.rdslive/?action=play&post_id=1357&post_url=https%3A%2F%2Fr
 https://rotv.vercel.app/api/1357.m3u8
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
 plugin://plugin.video.rdslive/?action=play&post_id=1361&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
+https://rotv.vercel.app/api/1361.m3u8
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
 plugin://plugin.video.rdslive/?action=play&post_id=1376&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="KANAL D2" tvg-logo="https://i.postimg.cc/7YPWGnz5/kanal-d2.png" group-title="Generaliste",KANAL D2
