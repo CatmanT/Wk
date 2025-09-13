@@ -431,3 +431,279 @@ http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31583.ts
 http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31582.ts
 #EXTINF:-1 tvg-id="BallySportsSouthwest.us" tvg-name="US | BALLY SPORTS SOUTHWEST" tvg-logo="https://i.ibb.co/YhYYT6Q/ballyS.png" group-title="Bally Sports",US | BALLY SPORTS SOUTHWEST
 http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31581.ts
+
+
+#EXTINF:-1 tvg-id="1359" group-title="Romania2",Antena 1 HD
+https://rotv.vercel.app/api/1359.m3u8
+#EXTINF:-1 tvg-id="1357" group-title="Romania2",Pro TV HD
+https://rotv.vercel.app/api/1357.m3u8
+#EXTINF:-1 tvg-id="1376" group-title="Romania2",Kanal D HD
+https://rotv.vercel.app/api/1376.m3u8
+#EXTINF:-1 tvg-id="1361" group-title="Romania2",Prima TV HD
+https://rotv.vercel.app/api/1361.m3u8
+#EXTINF:-1 tvg-id="1409" group-title="Romania2",DigiSport 2 HD
+https://rotv.vercel.app/api/1409.m3u8
+#EXTINF:-1 tvg-id="1408" group-title="Romania2",DigiSport 3 HD
+https://rotv.vercel.app/api/1408.m3u8
+#EXTINF:-1 tvg-id="1407" group-title="Romania2",DigiSport 4 HD
+https://rotv.vercel.app/api/1407.m3u8
+#EXTINF:-1 tvg-id="1406" group-title="Romania2",PrimaSport 1 HD
+https://rotv.vercel.app/api/1406.m3u8
+#EXTINF:-1 tvg-id="1405" group-title="Romania2",PrimaSport 2 HD
+https://rotv.vercel.app/api/1405.m3u8
+#EXTINF:-1 tvg-id="1401" group-title="Romania2",PrimaSport 3 HD
+https://rotv.vercel.app/api/1401.m3u8
+#EXTINF:-1 tvg-id="1377" group-title="Romania2",TVR 1 HD
+https://rotv.vercel.app/api/1377.m3u8
+#EXTINF:-1 tvg-id="1379" group-title="Romania2",TVR 2 HD
+https://rotv.vercel.app/api/1379.m3u8
+#EXTINF:-1 tvg-id="1339" group-title="Romania2",TVR 3
+https://rotv.vercel.app/api/1339.m3u8
+#EXTINF:-1 tvg-id="1454" group-title="Romania2",HBO HD
+https://rotv.vercel.app/api/1454.m3u8
+#EXTINF:-1 tvg-id="1453" group-title="Romania2",HBO 2 HD
+https://rotv.vercel.app/api/1453.m3u8
+#EXTINF:-1 tvg-id="1452" group-title="Romania2",HBO 3 HD
+https://rotv.vercel.app/api/1452.m3u8
+#EXTINF:-1 tvg-id="1451" group-title="Romania2",Cinemax HD
+https://rotv.vercel.app/api/1451.m3u8
+#EXTINF:-1 tvg-id="1450" group-title="Romania2",Cinemax 2 HD
+https://rotv.vercel.app/api/1450.m3u8
+#EXTINF:-1 tvg-id="1332" group-title="Romania2",BollywooD TV
+https://rotv.vercel.app/api/1332.m3u8
+#EXTINF:-1 tvg-id="1333" group-title="Romania2",Cinemaraton HD
+https://rotv.vercel.app/api/1333.m3u8
+#EXTINF:-1 tvg-id="1334" group-title="Romania2",DIVA
+https://rotv.vercel.app/api/1334.m3u8
+#EXTINF:-1 tvg-id="1448" group-title="Romania2",EpicDrama
+https://rotv.vercel.app/api/1448.m3u8
+#EXTINF:-1 tvg-id="1306" group-title="Romania2",Film Cafe
+https://rotv.vercel.app/api/1306.m3u8
+#EXTINF:-1 tvg-id="1449" group-title="Romania2",Film Now HD
+https://rotv.vercel.app/api/1449.m3u8
+#EXTINF:-1 tvg-id="1314" group-title="Romania2",Prima Comedy
+https://rotv.vercel.app/api/1314.m3u8
+#EXTINF:-1 tvg-id="1335" group-title="Romania2",PRO Cinema
+https://rotv.vercel.app/api/1335.m3u8
+#EXTINF:-1 tvg-id="1320" group-title="Romania2",Warner TV
+https://rotv.vercel.app/api/1320.m3u8
+#EXTINF:-1 tvg-id="1301" group-title="Romania2",AMC HD
+https://rotv.vercel.app/api/1301.m3u8
+#EXTINF:-1 tvg-id="1447" group-title="Romania2",Comedy Central
+https://rotv.vercel.app/api/1447.m3u8
+#EXTINF:-1 tvg-id="1383" group-title="Romania2",Acasa Gold HD
+https://rotv.vercel.app/api/1383.m3u8
+#EXTINF:-1 tvg-id="1384" group-title="Romania2",Acasa TV HD
+https://rotv.vercel.app/api/1384.m3u8
+#EXTINF:-1 tvg-id="1321" group-title="Romania2",KANAL D2 HD
+https://rotv.vercel.app/api/1321.m3u8
+#EXTINF:-1 tvg-id="1381" group-title="Romania2",Happy Channel HD
+https://rotv.vercel.app/api/1381.m3u8
+#EXTINF:-1 tvg-id="1378" group-title="Romania2",Metropola TV
+https://rotv.vercel.app/api/1378.m3u8
+#EXTINF:-1 tvg-id="1382" group-title="Romania2",National TV
+https://rotv.vercel.app/api/1382.m3u8
+#EXTINF:-1 tvg-id="1336" group-title="Romania2",National Plus 24
+https://rotv.vercel.app/api/1336.m3u8
+#EXTINF:-1 tvg-id="1312" group-title="Romania2",NCN
+https://rotv.vercel.app/api/1312.m3u8
+#EXTINF:-1 tvg-id="1386" group-title="Romania2",Pro Arena HD
+https://rotv.vercel.app/api/1386.m3u8
+#EXTINF:-1 tvg-id="1559" group-title="Romania2",TV Moldova
+https://rotv.vercel.app/api/1559.m3u8
+#EXTINF:-1 tvg-id="1385" group-title="Romania2",Antena Stars HD
+https://rotv.vercel.app/api/1385.m3u8
+#EXTINF:-1 tvg-id="1425" group-title="Romania2",Antena 3 HD
+https://rotv.vercel.app/api/1425.m3u8
+#EXTINF:-1 tvg-id="1420" group-title="Romania2",B1TV HD
+https://rotv.vercel.app/api/1420.m3u8
+#EXTINF:-1 tvg-id="1337" group-title="Romania2",BBC World News
+https://rotv.vercel.app/api/1337.m3u8
+#EXTINF:-1 tvg-id="1410" group-title="Romania2",CNN
+https://rotv.vercel.app/api/1410.m3u8
+#EXTINF:-1 tvg-id="1422" group-title="Romania2",Digi24 HD
+https://rotv.vercel.app/api/1422.m3u8
+#EXTINF:-1 tvg-id="1421" group-title="Romania2",Euronews Romania
+https://rotv.vercel.app/api/1421.m3u8
+#EXTINF:-1 tvg-id="1315" group-title="Romania2",Prima News
+https://rotv.vercel.app/api/1315.m3u8
+#EXTINF:-1 tvg-id="1424" group-title="Romania2",Realitatea TV HD
+https://rotv.vercel.app/api/1424.m3u8
+#EXTINF:-1 tvg-id="1423" group-title="Romania2",Romania TV HD
+https://rotv.vercel.app/api/1423.m3u8
+#EXTINF:-1 tvg-id="1500" group-title="Romania2",ZU TV
+https://rotv.vercel.app/api/1500.m3u8
+#EXTINF:-1 tvg-id="1501" group-title="Romania2",U TV
+https://rotv.vercel.app/api/1501.m3u8
+#EXTINF:-1 tvg-id="1505" group-title="Romania2",TV Favorit
+https://rotv.vercel.app/api/1505.m3u8
+#EXTINF:-1 tvg-id="1318" group-title="Romania2",Traditional TV
+https://rotv.vercel.app/api/1318.m3u8
+#EXTINF:-1 tvg-id="1504" group-title="Romania2",Taraf TV HD
+https://rotv.vercel.app/api/1504.m3u8
+#EXTINF:-1 tvg-id="1313" group-title="Romania2",Party Mix
+https://rotv.vercel.app/api/1313.m3u8
+#EXTINF:-1 tvg-id="1563" group-title="Romania2",Music Channel
+https://rotv.vercel.app/api/1563.m3u8
+#EXTINF:-1 tvg-id="1322" group-title="Romania2",MTV 80`s
+https://rotv.vercel.app/api/1322.m3u8
+#EXTINF:-1 tvg-id="1323" group-title="Romania2",MTV
+https://rotv.vercel.app/api/1323.m3u8
+#EXTINF:-1 tvg-id="1517" group-title="Romania2",Magic TV
+https://rotv.vercel.app/api/1517.m3u8
+#EXTINF:-1 tvg-id="1481" group-title="Romania2",Kiss TV
+https://rotv.vercel.app/api/1481.m3u8
+#EXTINF:-1 tvg-id="1506" group-title="Romania2",Hit Music Channel
+https://rotv.vercel.app/api/1506.m3u8
+#EXTINF:-1 tvg-id="1503" group-title="Romania2",EtnoTv HD
+https://rotv.vercel.app/api/1503.m3u8
+#EXTINF:-1 tvg-id="1502" group-title="Romania2",Balcan Music TV
+https://rotv.vercel.app/api/1502.m3u8
+#EXTINF:-1 tvg-id="1499" group-title="Romania2",Atomic
+https://rotv.vercel.app/api/1499.m3u8
+#EXTINF:-1 tvg-id="1470" group-title="Romania2",Cartoonito
+https://rotv.vercel.app/api/1470.m3u8
+#EXTINF:-1 tvg-id="1476" group-title="Romania2",Cartoon Network
+https://rotv.vercel.app/api/1476.m3u8
+#EXTINF:-1 tvg-id="1469" group-title="Romania2",Disney Channel
+https://rotv.vercel.app/api/1469.m3u8
+#EXTINF:-1 tvg-id="1467" group-title="Romania2",Disney Junior
+https://rotv.vercel.app/api/1467.m3u8
+#EXTINF:-1 tvg-id="1477" group-title="Romania2",Duck TV
+https://rotv.vercel.app/api/1477.m3u8
+#EXTINF:-1 tvg-id="1475" group-title="Romania2",Jim Jam
+https://rotv.vercel.app/api/1475.m3u8
+#EXTINF:-1 tvg-id="1478" group-title="Romania2",Minimax
+https://rotv.vercel.app/api/1478.m3u8
+#EXTINF:-1 tvg-id="1474" group-title="Romania2",Nick Jr.
+https://rotv.vercel.app/api/1474.m3u8
+#EXTINF:-1 tvg-id="1473" group-title="Romania2",Nick Toons
+https://rotv.vercel.app/api/1473.m3u8
+#EXTINF:-1 tvg-id="1479" group-title="Romania2",Nickelodeon
+https://rotv.vercel.app/api/1479.m3u8
+#EXTINF:-1 tvg-id="1457" group-title="Romania2",Tralala
+https://rotv.vercel.app/api/1457.m3u8
+#EXTINF:-1 tvg-id="1480" group-title="Romania2",TeenNick
+https://rotv.vercel.app/api/1480.m3u8
+#EXTINF:-1 tvg-id="1560" group-title="Romania2",AXN HD
+https://rotv.vercel.app/api/1560.m3u8
+#EXTINF:-1 tvg-id="1558" group-title="Romania2",BBC Earth
+https://rotv.vercel.app/api/1558.m3u8
+#EXTINF:-1 tvg-id="1547" group-title="Romania2",Digi Animal World
+https://rotv.vercel.app/api/1547.m3u8
+#EXTINF:-1 tvg-id="1544" group-title="Romania2",Digi Life
+https://rotv.vercel.app/api/1544.m3u8
+#EXTINF:-1 tvg-id="1552" group-title="Romania2",Digi World
+https://rotv.vercel.app/api/1552.m3u8
+#EXTINF:-1 tvg-id="1553" group-title="Romania2",Discovery Channel HD
+https://rotv.vercel.app/api/1553.m3u8
+#EXTINF:-1 tvg-id="1551" group-title="Romania2",Fishing and Hunting
+https://rotv.vercel.app/api/1551.m3u8
+#EXTINF:-1 tvg-id="1557" group-title="Romania2",History Channel HD
+https://rotv.vercel.app/api/1557.m3u8
+#EXTINF:-1 tvg-id="1545" group-title="Romania2",National Geographic HD
+https://rotv.vercel.app/api/1545.m3u8
+#EXTINF:-1 tvg-id="1549" group-title="Romania2",National Geographic Wild HD
+https://rotv.vercel.app/api/1549.m3u8
+#EXTINF:-1 tvg-id="1317" group-title="Romania2",TLC
+https://rotv.vercel.app/api/1317.m3u8
+#EXTINF:-1 tvg-id="1555" group-title="Romania2",Travel Mix
+https://rotv.vercel.app/api/1555.m3u8
+#EXTINF:-1 tvg-id="1319" group-title="Romania2",Viasat Explore HD
+https://rotv.vercel.app/api/1319.m3u8
+#EXTINF:-1 tvg-id="1550" group-title="Romania2",Viasat History HD
+https://rotv.vercel.app/api/1550.m3u8
+#EXTINF:-1 tvg-id="1546" group-title="Romania2",Viasat Nature HD
+https://rotv.vercel.app/api/1546.m3u8
+#EXTINF:-1 tvg-id="1329" group-title="Romania2",Trinitas TV
+https://rotv.vercel.app/api/1329.m3u8
+#EXTINF:-1 tvg-id="1328" group-title="Romania2",Speranta TV
+https://rotv.vercel.app/api/1328.m3u8
+#EXTINF:-1 tvg-id="1304" group-title="Romania2",Credo TV
+https://rotv.vercel.app/api/1304.m3u8
+#EXTINF:-1 tvg-id="1327" group-title="Romania2",Alfa Omega
+https://rotv.vercel.app/api/1327.m3u8
+#EXTINF:-1 tvg-id="1399" group-title="Romania2",Eurosport 1 HD
+https://rotv.vercel.app/api/1399.m3u8
+#EXTINF:-1 tvg-id="1340" group-title="Romania2",Eurosport 2 HD
+https://rotv.vercel.app/api/1340.m3u8
+#EXTINF:-1 tvg-id="1400" group-title="Romania2",SportExtra HD
+https://rotv.vercel.app/api/1400.m3u8
+#EXTINF:-1 tvg-id="1561" group-title="Romania2",Agro TV
+https://rotv.vercel.app/api/1561.m3u8
+#EXTINF:-1 tvg-id="1554" group-title="Romania2",E Entertainment
+https://rotv.vercel.app/api/1554.m3u8
+#EXTINF:-1 tvg-id="1556" group-title="Romania2",Fashion TV
+https://rotv.vercel.app/api/1556.m3u8
+#EXTINF:-1 tvg-id="1824" group-title="Romania2",FilmBox Premium
+https://rotv.vercel.app/api/1824.m3u8
+#EXTINF:-1 tvg-id="1828" group-title="Romania2",FilmBox
+https://rotv.vercel.app/api/1828.m3u8
+#EXTINF:-1 tvg-id="1835" group-title="Romania2",BBC First HD
+https://rotv.vercel.app/api/1835.m3u8
+#EXTINF:-1 tvg-id="1838" group-title="Romania2",Bollywood Clasic HD
+https://rotv.vercel.app/api/1838.m3u8
+#EXTINF:-1 tvg-id="1839" group-title="Romania2",SkyShowTime 2 HD
+https://rotv.vercel.app/api/1839.m3u8
+#EXTINF:-1 tvg-id="1857" group-title="Romania2",TVR International
+https://rotv.vercel.app/api/1857.m3u8
+#EXTINF:-1 tvg-id="1871" group-title="Romania2",PrimaSport 4 HD
+https://rotv.vercel.app/api/1871.m3u8
+#EXTINF:-1 tvg-id="1873" group-title="Romania2",PrimaSport 5 HD
+https://rotv.vercel.app/api/1873.m3u8
+#EXTINF:-1 tvg-id="1894" group-title="Romania2",National Geographic People
+https://rotv.vercel.app/api/1894.m3u8
+#EXTINF:-1 tvg-id="1897" group-title="Romania2",ID Investigation
+https://rotv.vercel.app/api/1897.m3u8
+#EXTINF:-1 tvg-id="1899" group-title="Romania2",Crime & Investigation
+https://rotv.vercel.app/api/1899.m3u8
+#EXTINF:-1 tvg-id="1917" group-title="Romania2",PrimaSport PPV1
+https://rotv.vercel.app/api/1917.m3u8
+#EXTINF:-1 tvg-id="1921" group-title="Romania2",PrimaSport PPV2
+https://rotv.vercel.app/api/1921.m3u8
+#EXTINF:-1 tvg-id="1922" group-title="Romania2",PrimaSport PPV3
+https://rotv.vercel.app/api/1922.m3u8
+#EXTINF:-1 tvg-id="1925" group-title="Romania2",Food Network HD
+https://rotv.vercel.app/api/1925.m3u8
+#EXTINF:-1 tvg-id="1819" group-title="Romania2",Mezzo
+https://rotv.vercel.app/api/1819.m3u8
+#EXTINF:-1 tvg-id="1817" group-title="Romania2",TV 1000
+https://rotv.vercel.app/api/1817.m3u8
+#EXTINF:-1 tvg-id="1757" group-title="Romania2",RAI 1
+https://rotv.vercel.app/api/1757.m3u8
+#EXTINF:-1 tvg-id="1759" group-title="Romania2",HGTV
+https://rotv.vercel.app/api/1759.m3u8
+#EXTINF:-1 tvg-id="1761" group-title="Romania2",CBS Reality
+https://rotv.vercel.app/api/1761.m3u8
+#EXTINF:-1 tvg-id="1763" group-title="Romania2",DaVinci
+https://rotv.vercel.app/api/1763.m3u8
+#EXTINF:-1 tvg-id="1765" group-title="Romania2",TV Paprika
+https://rotv.vercel.app/api/1765.m3u8
+#EXTINF:-1 tvg-id="1778" group-title="Romania2",TVR Sport HD
+https://rotv.vercel.app/api/1778.m3u8
+#EXTINF:-1 tvg-id="1789" group-title="Romania2",TVR Folclor HD
+https://rotv.vercel.app/api/1789.m3u8
+#EXTINF:-1 tvg-id="1792" group-title="Romania2",SkyShowTime 1 HD
+https://rotv.vercel.app/api/1792.m3u8
+#EXTINF:-1 tvg-id="1795" group-title="Romania2",DigiSport 1 HD
+https://rotv.vercel.app/api/1795.m3u8
+#EXTINF:-1 tvg-id="1807" group-title="Romania2",AXN Black
+https://rotv.vercel.app/api/1807.m3u8
+#EXTINF:-1 tvg-id="1809" group-title="Romania2",AXN Spin
+https://rotv.vercel.app/api/1809.m3u8
+#EXTINF:-1 tvg-id="1811" group-title="Romania2",AXN White
+https://rotv.vercel.app/api/1811.m3u8
+#EXTINF:-1 tvg-id="1813" group-title="Romania2",Deutsche Welle
+https://rotv.vercel.app/api/1813.m3u8
+#EXTINF:-1 tvg-id="1815" group-title="Romania2",Nasul TV
+https://rotv.vercel.app/api/1815.m3u8
+#EXTINF:-1 tvg-id="1752" group-title="Romania2",RAI 3
+https://rotv.vercel.app/api/1752.m3u8
+#EXTINF:-1 tvg-id="1359" group-title="Romania2",Channel 1359
+https://rotv.vercel.app/api/1359.m3u8
+#EXTINF:-1 tvg-id="1357" group-title="Romania2",Channel 1357
+https://rotv.vercel.app/api/1357.m3u8
+#EXTINF:-1 tvg-id="1376" group-title="Romania2",Channel 1376
+https://rotv.vercel.app/api/1376.m3u8
+#EXTINF:-1 tvg-id="1361" group-title="Romania2",Channel 1361
+https://rotv.vercel.app/api/1361.m3u8
