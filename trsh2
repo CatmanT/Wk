@@ -1,217 +1,275 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV
-https://p9.magicplaces.eu/protvhd/video.m3u8?token=eaa366752e52cd97c642dad87dabf8013b8da032-9f42419ba4e57f996ab757e8b4932b34-1756749404-1756749104&remote=no_check_ip
-#EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV (SD)
-https://ivanturbinca.com/hls-proxy.php?src=https://p13.magicplaces.eu/38.backup.protv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
-https://ivanturbinca.com/hls-proxy.php?src=https://p11.magicplaces.eu/prima/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
-https://ivanturbinca.com/hls-proxy.php?src=https://p11.magicplaces.eu/kanald/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="KANAL D2" tvg-logo="https://i.postimg.cc/7YPWGnz5/kanal-d2.png" group-title="Generaliste",KANAL D2
-https://ivanturbinca.com/hls-proxy.php?src=https://p11.magicplaces.eu/kanald2hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24
-http://update.miicrosoft.es:80/40736507649AlexAB_spart/zSBp8Y074UdVOoFD8I5p4wODpe9bmN/10872
-#EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24 ()
-https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
-#EXTINF:-1 tvg-name="B1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Stiri",B1 TV
-http://update.miicrosoft.es:80/40736507649AlexAB_spart/zSBp8Y074UdVOoFD8I5p4wODpe9bmN/9066
-#EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1
-http://update.miicrosoft.es:80/ciopreaga_catalin/ciopreagasada_spart/8971
-#EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Generaliste",ANTENA STARS
-https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
-#EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN
-http://update.miicrosoft.es:80/40736507649AlexAB_spart/zSBp8Y074UdVOoFD8I5p4wODpe9bmN/8973
-#EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS
-plugin://plugin.video.rdslive/?action=play&post_id=1424&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS ()
-plugin://plugin.video.youtube/play/?video_id=Y4Q8-C4TnBc
-#EXTINF:-1 tvg-name="România TV" tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png"group-title="Stiri",Romania TV
-plugin://plugin.video.rdslive/?action=play&post_id=1423&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Euronews" tvg-id=""tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png"group-title="Stiri",Euronews RO
-plugin://plugin.video.rdslive/?action=play&post_id=1421&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="CNN" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png"group-title="Stiri",CNN
-plugin://plugin.video.rdslive/?action=play&post_id=1410&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="RT HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"group-title="Stiri",RT HD
-https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
-#EXTINF:-1 tvg-name="TVR 1" tvg-id=""tvg-logo="https://i.postimg.cc/wTwVJ6Hn/TVR_1.png"group-title="Generaliste",TVR 1
-plugin://plugin.video.rdslive/?action=play&post_id=1377&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="TVR 2" tvg-id=""tvg-logo="https://i.postimg.cc/fTzCJ34x/TVR_2.png"group-title="Generaliste",TVR 2
-plugin://plugin.video.rdslive/?action=play&post_id=1379&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="TVR 3" tvg-id=""tvg-logo="https://i.postimg.cc/QdVqJRdC/TVR_3.png"group-title="Generaliste",TVR 3
-plugin://plugin.video.rdslive/?action=play&post_id=1339&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Acasa HD" tvg-id=""tvg-logo="https://i.postimg.cc/YC2GtFpb/Acasa.png"group-title="Generaliste",Acasa
-plugin://plugin.video.rdslive/?action=play&post_id=1384&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="NATIONAL TV" tvg-id=""tvg-logo="https://i.postimg.cc/sxSkxvtF/National_TV.png"group-title="Generaliste",NATIONAL TV
-plugin://plugin.video.rdslive/?action=play&post_id=1382&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="NATIONAL 24 PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/sfhdwN1n/National_24_Plus.png"group-title="Generaliste",NATIONAL 24 PLUS
-plugin://plugin.video.rdslive/?action=play&post_id=1336&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Acasă Gold HD" tvg-id=""tvg-logo="https://i.postimg.cc/hjNsXMBv/Acas-A-Gold.png"group-title="Generaliste",ACASA GOLD
-plugin://plugin.video.rdslive/?action=play&post_id=1383&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Happy Channel" tvg-id=""tvg-logo="https://i.postimg.cc/xTBQ0VhV/Happy-Channel.png"group-title="Movies",Happy Channel
-plugin://plugin.video.rdslive/?action=play&post_id=1381&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="HBO" tvg-id=""tvg-logo="https://i.postimg.cc/hjZwp9qR/HBO_HD.png"group-title="Movies",HBO
-plugin://plugin.video.rdslive/?action=play&post_id=1454&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="HBO 2" tvg-id=""tvg-logo="https://i.postimg.cc/FzqMs0PV/HBO_2.png"group-title="Movies",HBO 2
-plugin://plugin.video.rdslive/?action=play&post_id=1453&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="HBO 3" tvg-id=""tvg-logo="https://i.postimg.cc/L8fp50FY/HBO_3.png"group-title="Movies",HBO 3
-plugin://plugin.video.rdslive/?action=play&post_id=1452&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="BBC First" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/BBC_First_2022.svg/1200px-BBC_First_2022.svg.png"group-title="Movies",BBC First
-plugin://plugin.video.rdslive/?action=play&post_id=1835&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Filmbox" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Filmbox_pl.png/1200px-Filmbox_pl.png"group-title="Movies",Filmbox
-plugin://plugin.video.rdslive/?action=play&post_id=1828&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Filmbox Premium" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/FilmBox_Premium_log.png"group-title="Movies",Filmbox Premium
-plugin://plugin.video.rdslive/?action=play&post_id=1824&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="SkyShowtime 1" tvg-id=""tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/182ec50c-9466-4ade-9671-b8385566d537/deznebk-a1a9710b-31a0-4363-9e72-69bade01b90b.png/v1/fill/w_1192,h_670/skyshowtime_2022_color_concept_by_waynemarcelo2009_deznebk-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMTgyZWM1MGMtOTQ2Ni00YWRlLTk2NzEtYjgzODU1NjZkNTM3XC9kZXpuZWJrLWExYTk3MTBiLTMxYTAtNDM2My05ZTcyLTY5YmFkZTAxYjkwYi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.RpkdH9c8Lf4tloXcWIqqa4xG34VkVKSRWk4hpcmGCaw"group-title="Movies",SkyShowtime 1
-plugin://plugin.video.rdslive/?action=play&post_id=1792&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="SkyShowtime 2" tvg-id=""tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/3V4783l8A38UGPGn8yqsJ3/dd900001efcfa5c5250667f13879428e/skyshowtime-2.png"group-title="Movies",SkyShowtime 2
-plugin://plugin.video.rdslive/?action=play&post_id=1839&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="AXN HD" tvg-id=""tvg-logo="https://i.postimg.cc/43qVPdFF/AXN-HD.png"group-title="Movies",AXN-HD
-plugin://plugin.video.rdslive/?action=play&post_id=1560&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="AXN Spin " tvg-id=""tvg-logo="https://i.postimg.cc/VNdXXM4C/AXN-Spin.png"group-title="Movies",AXN SPIN
-plugin://plugin.video.rdslive/?action=play&post_id=1809&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="AXN White" tvg-id=""tvg-logo="https://i.postimg.cc/d3KdMfF2/AXN-White.png"group-title="Movies",AXN WHITE
-plugin://plugin.video.rdslive/?action=play&post_id=1811&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="AXN Black" tvg-id=""tvg-logo="https://i.postimg.cc/vBn9NsJ8/AXN-Black.png"group-title="Movies",AXN BLACK
-plugin://plugin.video.rdslive/?action=play&post_id=1807&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Cinemax HD" tvg-id=""tvg-logo="https://i.postimg.cc/nhwDVrZc/CineMax.png"group-title="Movies",Cinemax 1
-plugin://plugin.video.rdslive/?action=play&post_id=1451&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Cinemax2 HD " tvg-id=""tvg-logo="https://i.postimg.cc/y8NRz9Mb/Cinemax-2-HD.png"group-title="Movies",CINEMAX 2
-plugin://plugin.video.rdslive/?action=play&post_id=1450&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Cinemaraton" tvg-logo="https://i.postimg.cc/Vvmy2fwK/Cinemaraton.png" group-title="Movies",Cinemaraton
-plugin://plugin.video.rdslive/?action=play&post_id=1333&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Diva" tvg-id=""tvg-logo="https://i.postimg.cc/T29hY1JM/Diva.png"group-title="Movies",Diva
-plugin://plugin.video.rdslive/?action=play&post_id=1334&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Epic Drama" tvg-id=""tvg-logo="https://i.postimg.cc/d1FtJc7V/Epic-Drama.png"group-title="Movies",Epic Drama
-plugin://plugin.video.rdslive/?action=play&post_id=1448&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="AMC HD " tvg-id=""tvg-logo="https://i.postimg.cc/8Cffg387/AMC.png"group-title="Movies",AMC HD
-plugin://plugin.video.rdslive/?action=play&post_id=1301&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Film Now" tvg-id=""tvg-logo="https://i.postimg.cc/5tBb7KPd/Film-Now.png"group-title="Movies",Film Now
-plugin://plugin.video.rdslive/?action=play&post_id=1449&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="FILMCAFE" tvg-id=""tvg-logo="https://i.postimg.cc/C1JYYBTc/Film-cafe.png"group-title="Movies",Film Cafe
-plugin://plugin.video.rdslive/?action=play&post_id=1306&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="PRO Cinema HD" tvg-id=""tvg-logo="https://i.postimg.cc/GpVgDbPb/Pro-Cinema.png"group-title="Movies",PRO CINEMA
-plugin://plugin.video.rdslive/?action=play&post_id=1335&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Warner TV" tvg-id=""tvg-logo="https://i.postimg.cc/L628LSc4/Warner.png"group-title="Movies",Warner TV
-plugin://plugin.video.rdslive/?action=play&post_id=1320&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="TV1000" tvg-id=""tvg-logo="https://i.postimg.cc/L5RTk5JF/TV1000.png"group-title="Movies",TV 1000
-plugin://plugin.video.rdslive/?action=play&post_id=1817&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Bollywood Clasic" tvg-id=""tvg-logo="https://i.postimg.cc/8khMdTdt/Bollywood-TV.png"group-title="Movies",Bollywood Clasic
-plugin://plugin.video.rdslive/?action=play&post_id=1332&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Comedy Central" tvg-id=""tvg-logo="https://i.postimg.cc/MGCfRLvC/Comedy-Central.png"group-title="Movies",Comedy Central
-plugin://plugin.video.rdslive/?action=play&post_id=1447&post_url=https%3A%2F%2Frds.live
-
-#EXTINF:-1 tvg-name="BBC Earth" tvg-id=""tvg-logo="https://i.postimg.cc/J4538RGG/BBC-Earth.png"group-title="Documentare",BBC Earth
-plugin://plugin.video.rdslive/?action=play&post_id=1558&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="CBS Reality" tvg-id=""tvg-logo="https://i.postimg.cc/vTqQ7104/CBS-Reality.png"group-title="Documentare",CBS Reality
-plugin://plugin.video.rdslive/?action=play&post_id=1761&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="DIGI Animal World" tvg-id=""tvg-logo="https://i.postimg.cc/rm2zztHc/Digi-animal-world.png"group-title="Documentare",DIGI ANIMAL WORLD
-plugin://plugin.video.rdslive/?action=play&post_id=1547&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="DIGI Life HD" tvg-id=""tvg-logo="https://i.postimg.cc/5N4YwL22/Digi-Life.png"group-title="Documentare",DIGI LIFE
-plugin://plugin.video.rdslive/?action=play&post_id=1544&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="DIGI World HD" tvg-id=""tvg-logo="https://i.postimg.cc/8kBfJtDY/Digi-World.png"group-title="Documentare",DIGI WORLD
-plugin://plugin.video.rdslive/?action=play&post_id=1552&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Discovery HD" tvg-id=""tvg-logo="https://i.postimg.cc/Bbq6BfsV/Discovery-Channel.png"group-title="Documentare",Discovery Channel
-plugin://plugin.video.rdslive/?action=play&post_id=1553&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="ID  Investigation Discovery  HD" tvg-id=""tvg-logo="https://i.postimg.cc/9M0gRrw8/Investigation_Discovery.png"group-title="Documentare",ID Investigation Discovery
-http://update.miicrosoft.es:80/TsMgKOrCtbL2ehXnI2l2TK5eKDtPkH/ogxBCmk5U72Brcbz2ldnVpvyPI32Ol/31861
-#EXTINF:-1 tvg-name="History Channel" tvg-id=""tvg-logo="https://i.postimg.cc/wBqLzQ2C/History.png"group-title="Documentare",History
-plugin://plugin.video.rdslive/?action=play&post_id=1557&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="National Geographic" tvg-id=""tvg-logo="https://i.postimg.cc/rsSHc7rM/National_Geografic.png"group-title="Documentare",National Geographic
-plugin://plugin.video.rdslive/?action=play&post_id=1545&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="National Geographic Wild" tvg-id=""tvg-logo="https://i.postimg.cc/28dpfLQh/Nat_Geo_Wild.png"group-title="Documentare",Nat Geo Wild
-plugin://plugin.video.rdslive/?action=play&post_id=1549&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="TLC HD" tvg-id=""tvg-logo="https://i.postimg.cc/7ZLKQ5mx/TLC.png"group-title="Documentare",TLC
-plugin://plugin.video.rdslive/?action=play&post_id=1317&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://i.postimg.cc/wMSrdgvW/HGTV.png" group-title="Documentare",HGTV
-plugin://plugin.video.rdslive/?action=play&post_id=1759&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="TV Paprika HD" tvg-logo="https://i.postimg.cc/Px1y8YrM/TV_Paprika.png" group-title="Documentare",TV PAPRIKA
-plugin://plugin.video.rdslive/?action=play&post_id=1765&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Travel Channel HD" tvg-id=""tvg-logo="https://i.postimg.cc/3xbtM3c2/Travel_Channel.png"group-title="Documentare",TRAVEL CHANNEL
-plugin://plugin.video.rdslive/?action=play&post_id=1548&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="" tvg-id=""tvg-logo="https://i.postimg.cc/Y03xd7FG/Travel-Mix.png"group-title="Documentare",TRAVEL MIX
-plugin://plugin.video.rdslive/?action=play&post_id=1555&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Viasat Explore HD" tvg-id=""tvg-logo="https://i.postimg.cc/PqwzBYZk/ViasatExplore.png"group-title="Documentare",VIASAT EXPLORE
-plugin://plugin.video.rdslive/?action=play&post_id=1319&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Viasat History HD" tvg-id=""tvg-logo="https://i.postimg.cc/j5YQK2Qn/ViasatHistory.png"group-title="Documentare",VIASAT HISTORY
-plugin://plugin.video.rdslive/?action=play&post_id=1550&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Viasat Nature HD" tvg-id=""tvg-logo="https://i.postimg.cc/d1RR0F4H/ViasatNature.png"group-title="Documentare",VIASAT NATURE
-plugin://plugin.video.rdslive/?action=play&post_id=1546&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Da Vinci" tvg-id=""tvg-logo="https://i.postimg.cc/B62LCCFX/Da-Vinci.png"group-title="Documentare",Da Vinci Learning
-plugin://plugin.video.rdslive/?action=play&post_id=1763&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="E! Entertainment HD" tvg-id=""tvg-logo="https://i.postimg.cc/LsL8d88W/E.png"group-title="Documentare",E! Entertainment
-plugin://plugin.video.rdslive/?action=play&post_id=1554&post_url=https%3A%2F%2Frds.live
-
-#EXTINF:-1 tvg-name="KISS TV" tvg-logo="https://i.postimg.cc/R0MDmPSz/Kiss-TV.png" group-title="Music",KISS TV
-plugin://plugin.video.rdslive/?action=play&post_id=1481&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="H!T Music Channel" tvg-logo="https://i.postimg.cc/bw0BKXjT/Hit-Music-Channel.png" group-title="Music",HIT MUSIC CHANNEL
-plugin://plugin.video.rdslive/?action=play&post_id=1506&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="MAGIC TV HD" tvg-logo="https://i.postimg.cc/D0bC6Hg1/Magic-TV.png" group-title="Music",MAGIC TV
-plugin://plugin.video.rdslive/?action=play&post_id=1517&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="MTV Europe" tvg-logo="https://i.postimg.cc/G3WrR1Zw/MTV-Europe.png" group-title="Music",MTV EUROPE
-plugin://plugin.video.rdslive/?action=play&post_id=1323&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="MTV 00s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Music",MTV 00s
-plugin://plugin.video.rdslive/?action=play&post_id=1322&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Music Channel" tvg-logo="https://i.postimg.cc/cHKyqDhL/Music-Channel.png" group-title="Music",MUSIC CHANNEL
-plugin://plugin.video.rdslive/?action=play&post_id=1563&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="UTV HD" tvg-logo="https://i.postimg.cc/VsRBQYS5/UTV.png" group-title="Music",UTV
-plugin://plugin.video.rdslive/?action=play&post_id=1501&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="ZU TV HD" tvg-logo="https://i.postimg.cc/zv0nnjmT/ZU-TV.png" group-title="Music",ZU TV
-plugin://plugin.video.rdslive/?action=play&post_id=1500&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Etno TV" tvg-logo="https://i.postimg.cc/cLVL5n0Y/Etno.png" group-title="Music",ETNO TV
-plugin://plugin.video.rdslive/?action=play&post_id=1503&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Taraf TV" tvg-logo="https://i.postimg.cc/pXRGzGj5/Taraf-TV.png" group-title="Music",TARAF TV
-plugin://plugin.video.rdslive/?action=play&post_id=1504&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Favorit" tvg-logo="https://i.postimg.cc/KvWGRMKV/Favorit-TV.png" group-title="Music",FAVORIT TV
-plugin://plugin.video.rdslive/?action=play&post_id=1505&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Mezzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="Music",Mezzo
-plugin://plugin.video.rdslive/?action=play&post_id=1819&post_url=https%3A%2F%2Frds.live
-
-#EXTINF:-1 tvg-name="DIGI Sport 1" tvg-logo="https://i.postimg.cc/PrSLKJCz/Digi-Sport1.png" group-title="Sport",DIGI Sport 1
-plugin://plugin.video.rdslive/?action=play&post_id=1795&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="DIGI Sport 2" tvg-logo="https://i.postimg.cc/P5NC7HZG/Digi-Sport2.png" group-title="Sport",DIGI Sport 2
-plugin://plugin.video.rdslive/?action=play&post_id=1409&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="DIGI Sport 3" tvg-logo="https://i.postimg.cc/wjP18rc1/Digi-Sport3.png" group-title="Sport",DIGI Sport 3
-plugin://plugin.video.rdslive/?action=play&post_id=1408&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="DIGI Sport 4" tvg-logo="https://i.postimg.cc/mrHtbS88/Digi-Sport4.png" group-title="Sport",DIGI Sport 4
-plugin://plugin.video.rdslive/?action=play&post_id=1407&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="EuroSport 1 " tvg-logo="https://i.postimg.cc/7hYHT1nv/Eurosport-1-HD.png" group-title="Sport",EuroSport 1
-plugin://plugin.video.rdslive/?action=play&post_id=1399&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="EuroSport 2" tvg-logo="https://i.postimg.cc/fLvWLqXj/Eurosport-2-HD.png" group-title="Sport",EuroSport 2
-plugin://plugin.video.rdslive/?action=play&post_id=1340&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="TVR Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/TVR_Sport.svg/revision/latest/smart/width/371/height/332?cb=20230421162631" group-title="Sport",TVR Sport
-plugin://plugin.video.rdslive/?action=play&post_id=1778&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Prima Sport 1" tvg-logo="https://i.postimg.cc/gj97CGrg/Prima-Sport-1.png" group-title="Sport",Prima Sport 1
-plugin://plugin.video.rdslive/?action=play&post_id=1406&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Prima Sport 2" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",Prima Sport 2
-plugin://plugin.video.rdslive/?action=play&post_id=1405&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Prima Sport 3" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",Prima Sport 3
-plugin://plugin.video.rdslive/?action=play&post_id=1401&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Sport Extra HD" tvg-id=""tvg-logo="https://i.postimg.cc/8zr1WzMC/Extreme-Sports-Channel.png"group-title="Sport",Sport Extra
-plugin://plugin.video.rdslive/?action=play&post_id=1400&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="PRO Arena" tvg-logo="https://i.postimg.cc/52f2xhMw/Pro-ARENA.png" group-title="Sport",PRO Arena
-plugin://plugin.video.rdslive/?action=play&post_id=1386&post_url=https%3A%2F%2Frds.live
-
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-id=""tvg-logo="https://i.postimg.cc/7Y9zcXWz/Cartoon-Network.png"group-title="Kids",CARTOON NETWORK
-plugin://plugin.video.rdslive/?action=play&post_id=1476&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Disney Channel" tvg-id=""tvg-logo="https://i.postimg.cc/c4C1xmJw/Disney-Channel.png"group-title="Kids",DISNEY CHANNEL
-plugin://plugin.video.rdslive/?action=play&post_id=1469&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Disney Junior" tvg-id=""tvg-logo="https://i.postimg.cc/R05vTxLL/Disney-Junior.png"group-title="Kids",DISNEY JUNIOR
-plugin://plugin.video.rdslive/?action=play&post_id=1467&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Duck TV HD" tvg-id=""tvg-logo="https://i.postimg.cc/RVpFKYYg/Duck-TV.png"group-title="Kids",DUCK TV
-plugin://plugin.video.rdslive/?action=play&post_id=1477&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="TeenNick" tvg-id=""tvg-logo="https://i.postimg.cc/9FhqDkyn/TeenNick.png"group-title="Kids",TEENNICK
-plugin://plugin.video.rdslive/?action=play&post_id=1480&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="JimJam" tvg-id=""tvg-logo="https://i.postimg.cc/4xR0Lfjy/JimJam.png"group-title="Kids",JIMJAM
-plugin://plugin.video.rdslive/?action=play&post_id=1475&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Minimax" tvg-id=""tvg-logo="https://i.postimg.cc/xd1V5jbH/Minimax.png"group-title="Kids",MINIMAX
-plugin://plugin.video.rdslive/?action=play&post_id=1478&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Nick Jr" tvg-id=""tvg-logo="https://i.postimg.cc/pTBJ6P2Y/Nick-Jr.png"group-title="Kids",NICK JR
-plugin://plugin.video.rdslive/?action=play&post_id=1474&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-id=""tvg-logo="https://i.postimg.cc/1tVT78Rg/Nickelodeon.png"group-title="Kids",NICKELODEON
-plugin://plugin.video.rdslive/?action=play&post_id=1479&post_url=https%3A%2F%2Frds.live
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="1359" group-title="Romania",Antena 1 HD
+https://rotv.vercel.app/api/1359.m3u8
+#EXTINF:-1 tvg-id="1357" group-title="Romania",Pro TV HD
+https://rotv.vercel.app/api/1357.m3u8
+#EXTINF:-1 tvg-id="1376" group-title="Romania",Kanal D HD
+https://rotv.vercel.app/api/1376.m3u8
+#EXTINF:-1 tvg-id="1361" group-title="Romania",Prima TV HD
+https://rotv.vercel.app/api/1361.m3u8
+#EXTINF:-1 tvg-id="1409" group-title="Romania",DigiSport 2 HD
+https://rotv.vercel.app/api/1409.m3u8
+#EXTINF:-1 tvg-id="1408" group-title="Romania",DigiSport 3 HD
+https://rotv.vercel.app/api/1408.m3u8
+#EXTINF:-1 tvg-id="1407" group-title="Romania",DigiSport 4 HD
+https://rotv.vercel.app/api/1407.m3u8
+#EXTINF:-1 tvg-id="1406" group-title="Romania",PrimaSport 1 HD
+https://rotv.vercel.app/api/1406.m3u8
+#EXTINF:-1 tvg-id="1405" group-title="Romania",PrimaSport 2 HD
+https://rotv.vercel.app/api/1405.m3u8
+#EXTINF:-1 tvg-id="1401" group-title="Romania",PrimaSport 3 HD
+https://rotv.vercel.app/api/1401.m3u8
+#EXTINF:-1 tvg-id="1377" group-title="Romania",TVR 1 HD
+https://rotv.vercel.app/api/1377.m3u8
+#EXTINF:-1 tvg-id="1379" group-title="Romania",TVR 2 HD
+https://rotv.vercel.app/api/1379.m3u8
+#EXTINF:-1 tvg-id="1339" group-title="Romania",TVR 3
+https://rotv.vercel.app/api/1339.m3u8
+#EXTINF:-1 tvg-id="1454" group-title="Romania",HBO HD
+https://rotv.vercel.app/api/1454.m3u8
+#EXTINF:-1 tvg-id="1453" group-title="Romania",HBO 2 HD
+https://rotv.vercel.app/api/1453.m3u8
+#EXTINF:-1 tvg-id="1452" group-title="Romania",HBO 3 HD
+https://rotv.vercel.app/api/1452.m3u8
+#EXTINF:-1 tvg-id="1451" group-title="Romania",Cinemax HD
+https://rotv.vercel.app/api/1451.m3u8
+#EXTINF:-1 tvg-id="1450" group-title="Romania",Cinemax 2 HD
+https://rotv.vercel.app/api/1450.m3u8
+#EXTINF:-1 tvg-id="1332" group-title="Romania",BollywooD TV
+https://rotv.vercel.app/api/1332.m3u8
+#EXTINF:-1 tvg-id="1333" group-title="Romania",Cinemaraton HD
+https://rotv.vercel.app/api/1333.m3u8
+#EXTINF:-1 tvg-id="1334" group-title="Romania",DIVA
+https://rotv.vercel.app/api/1334.m3u8
+#EXTINF:-1 tvg-id="1448" group-title="Romania",EpicDrama
+https://rotv.vercel.app/api/1448.m3u8
+#EXTINF:-1 tvg-id="1306" group-title="Romania",Film Cafe
+https://rotv.vercel.app/api/1306.m3u8
+#EXTINF:-1 tvg-id="1449" group-title="Romania",Film Now HD
+https://rotv.vercel.app/api/1449.m3u8
+#EXTINF:-1 tvg-id="1314" group-title="Romania",Prima Comedy
+https://rotv.vercel.app/api/1314.m3u8
+#EXTINF:-1 tvg-id="1335" group-title="Romania",PRO Cinema
+https://rotv.vercel.app/api/1335.m3u8
+#EXTINF:-1 tvg-id="1320" group-title="Romania",Warner TV
+https://rotv.vercel.app/api/1320.m3u8
+#EXTINF:-1 tvg-id="1301" group-title="Romania",AMC HD
+https://rotv.vercel.app/api/1301.m3u8
+#EXTINF:-1 tvg-id="1447" group-title="Romania",Comedy Central
+https://rotv.vercel.app/api/1447.m3u8
+#EXTINF:-1 tvg-id="1383" group-title="Romania",Acasa Gold HD
+https://rotv.vercel.app/api/1383.m3u8
+#EXTINF:-1 tvg-id="1384" group-title="Romania",Acasa TV HD
+https://rotv.vercel.app/api/1384.m3u8
+#EXTINF:-1 tvg-id="1321" group-title="Romania",KANAL D2 HD
+https://rotv.vercel.app/api/1321.m3u8
+#EXTINF:-1 tvg-id="1381" group-title="Romania",Happy Channel HD
+https://rotv.vercel.app/api/1381.m3u8
+#EXTINF:-1 tvg-id="1378" group-title="Romania",Metropola TV
+https://rotv.vercel.app/api/1378.m3u8
+#EXTINF:-1 tvg-id="1382" group-title="Romania",National TV
+https://rotv.vercel.app/api/1382.m3u8
+#EXTINF:-1 tvg-id="1336" group-title="Romania",National Plus 24
+https://rotv.vercel.app/api/1336.m3u8
+#EXTINF:-1 tvg-id="1312" group-title="Romania",NCN
+https://rotv.vercel.app/api/1312.m3u8
+#EXTINF:-1 tvg-id="1386" group-title="Romania",Pro Arena HD
+https://rotv.vercel.app/api/1386.m3u8
+#EXTINF:-1 tvg-id="1559" group-title="Romania",TV Moldova
+https://rotv.vercel.app/api/1559.m3u8
+#EXTINF:-1 tvg-id="1385" group-title="Romania",Antena Stars HD
+https://rotv.vercel.app/api/1385.m3u8
+#EXTINF:-1 tvg-id="1425" group-title="Romania",Antena 3 HD
+https://rotv.vercel.app/api/1425.m3u8
+#EXTINF:-1 tvg-id="1420" group-title="Romania",B1TV HD
+https://rotv.vercel.app/api/1420.m3u8
+#EXTINF:-1 tvg-id="1337" group-title="Romania",BBC World News
+https://rotv.vercel.app/api/1337.m3u8
+#EXTINF:-1 tvg-id="1410" group-title="Romania",CNN
+https://rotv.vercel.app/api/1410.m3u8
+#EXTINF:-1 tvg-id="1422" group-title="Romania",Digi24 HD
+https://rotv.vercel.app/api/1422.m3u8
+#EXTINF:-1 tvg-id="1421" group-title="Romania",Euronews Romania
+https://rotv.vercel.app/api/1421.m3u8
+#EXTINF:-1 tvg-id="1315" group-title="Romania",Prima News
+https://rotv.vercel.app/api/1315.m3u8
+#EXTINF:-1 tvg-id="1424" group-title="Romania",Realitatea TV HD
+https://rotv.vercel.app/api/1424.m3u8
+#EXTINF:-1 tvg-id="1423" group-title="Romania",Romania TV HD
+https://rotv.vercel.app/api/1423.m3u8
+#EXTINF:-1 tvg-id="1500" group-title="Romania",ZU TV
+https://rotv.vercel.app/api/1500.m3u8
+#EXTINF:-1 tvg-id="1501" group-title="Romania",U TV
+https://rotv.vercel.app/api/1501.m3u8
+#EXTINF:-1 tvg-id="1505" group-title="Romania",TV Favorit
+https://rotv.vercel.app/api/1505.m3u8
+#EXTINF:-1 tvg-id="1318" group-title="Romania",Traditional TV
+https://rotv.vercel.app/api/1318.m3u8
+#EXTINF:-1 tvg-id="1504" group-title="Romania",Taraf TV HD
+https://rotv.vercel.app/api/1504.m3u8
+#EXTINF:-1 tvg-id="1313" group-title="Romania",Party Mix
+https://rotv.vercel.app/api/1313.m3u8
+#EXTINF:-1 tvg-id="1563" group-title="Romania",Music Channel
+https://rotv.vercel.app/api/1563.m3u8
+#EXTINF:-1 tvg-id="1322" group-title="Romania",MTV 80`s
+https://rotv.vercel.app/api/1322.m3u8
+#EXTINF:-1 tvg-id="1323" group-title="Romania",MTV
+https://rotv.vercel.app/api/1323.m3u8
+#EXTINF:-1 tvg-id="1517" group-title="Romania",Magic TV
+https://rotv.vercel.app/api/1517.m3u8
+#EXTINF:-1 tvg-id="1481" group-title="Romania",Kiss TV
+https://rotv.vercel.app/api/1481.m3u8
+#EXTINF:-1 tvg-id="1506" group-title="Romania",Hit Music Channel
+https://rotv.vercel.app/api/1506.m3u8
+#EXTINF:-1 tvg-id="1503" group-title="Romania",EtnoTv HD
+https://rotv.vercel.app/api/1503.m3u8
+#EXTINF:-1 tvg-id="1502" group-title="Romania",Balcan Music TV
+https://rotv.vercel.app/api/1502.m3u8
+#EXTINF:-1 tvg-id="1499" group-title="Romania",Atomic
+https://rotv.vercel.app/api/1499.m3u8
+#EXTINF:-1 tvg-id="1470" group-title="Romania",Cartoonito
+https://rotv.vercel.app/api/1470.m3u8
+#EXTINF:-1 tvg-id="1476" group-title="Romania",Cartoon Network
+https://rotv.vercel.app/api/1476.m3u8
+#EXTINF:-1 tvg-id="1469" group-title="Romania",Disney Channel
+https://rotv.vercel.app/api/1469.m3u8
+#EXTINF:-1 tvg-id="1467" group-title="Romania",Disney Junior
+https://rotv.vercel.app/api/1467.m3u8
+#EXTINF:-1 tvg-id="1477" group-title="Romania",Duck TV
+https://rotv.vercel.app/api/1477.m3u8
+#EXTINF:-1 tvg-id="1475" group-title="Romania",Jim Jam
+https://rotv.vercel.app/api/1475.m3u8
+#EXTINF:-1 tvg-id="1478" group-title="Romania",Minimax
+https://rotv.vercel.app/api/1478.m3u8
+#EXTINF:-1 tvg-id="1474" group-title="Romania",Nick Jr.
+https://rotv.vercel.app/api/1474.m3u8
+#EXTINF:-1 tvg-id="1473" group-title="Romania",Nick Toons
+https://rotv.vercel.app/api/1473.m3u8
+#EXTINF:-1 tvg-id="1479" group-title="Romania",Nickelodeon
+https://rotv.vercel.app/api/1479.m3u8
+#EXTINF:-1 tvg-id="1457" group-title="Romania",Tralala
+https://rotv.vercel.app/api/1457.m3u8
+#EXTINF:-1 tvg-id="1480" group-title="Romania",TeenNick
+https://rotv.vercel.app/api/1480.m3u8
+#EXTINF:-1 tvg-id="1560" group-title="Romania",AXN HD
+https://rotv.vercel.app/api/1560.m3u8
+#EXTINF:-1 tvg-id="1558" group-title="Romania",BBC Earth
+https://rotv.vercel.app/api/1558.m3u8
+#EXTINF:-1 tvg-id="1547" group-title="Romania",Digi Animal World
+https://rotv.vercel.app/api/1547.m3u8
+#EXTINF:-1 tvg-id="1544" group-title="Romania",Digi Life
+https://rotv.vercel.app/api/1544.m3u8
+#EXTINF:-1 tvg-id="1552" group-title="Romania",Digi World
+https://rotv.vercel.app/api/1552.m3u8
+#EXTINF:-1 tvg-id="1553" group-title="Romania",Discovery Channel HD
+https://rotv.vercel.app/api/1553.m3u8
+#EXTINF:-1 tvg-id="1551" group-title="Romania",Fishing and Hunting
+https://rotv.vercel.app/api/1551.m3u8
+#EXTINF:-1 tvg-id="1557" group-title="Romania",History Channel HD
+https://rotv.vercel.app/api/1557.m3u8
+#EXTINF:-1 tvg-id="1545" group-title="Romania",National Geographic HD
+https://rotv.vercel.app/api/1545.m3u8
+#EXTINF:-1 tvg-id="1549" group-title="Romania",National Geographic Wild HD
+https://rotv.vercel.app/api/1549.m3u8
+#EXTINF:-1 tvg-id="1317" group-title="Romania",TLC
+https://rotv.vercel.app/api/1317.m3u8
+#EXTINF:-1 tvg-id="1555" group-title="Romania",Travel Mix
+https://rotv.vercel.app/api/1555.m3u8
+#EXTINF:-1 tvg-id="1319" group-title="Romania",Viasat Explore HD
+https://rotv.vercel.app/api/1319.m3u8
+#EXTINF:-1 tvg-id="1550" group-title="Romania",Viasat History HD
+https://rotv.vercel.app/api/1550.m3u8
+#EXTINF:-1 tvg-id="1546" group-title="Romania",Viasat Nature HD
+https://rotv.vercel.app/api/1546.m3u8
+#EXTINF:-1 tvg-id="1329" group-title="Romania",Trinitas TV
+https://rotv.vercel.app/api/1329.m3u8
+#EXTINF:-1 tvg-id="1328" group-title="Romania",Speranta TV
+https://rotv.vercel.app/api/1328.m3u8
+#EXTINF:-1 tvg-id="1304" group-title="Romania",Credo TV
+https://rotv.vercel.app/api/1304.m3u8
+#EXTINF:-1 tvg-id="1327" group-title="Romania",Alfa Omega
+https://rotv.vercel.app/api/1327.m3u8
+#EXTINF:-1 tvg-id="1399" group-title="Romania",Eurosport 1 HD
+https://rotv.vercel.app/api/1399.m3u8
+#EXTINF:-1 tvg-id="1340" group-title="Romania",Eurosport 2 HD
+https://rotv.vercel.app/api/1340.m3u8
+#EXTINF:-1 tvg-id="1400" group-title="Romania",SportExtra HD
+https://rotv.vercel.app/api/1400.m3u8
+#EXTINF:-1 tvg-id="1561" group-title="Romania",Agro TV
+https://rotv.vercel.app/api/1561.m3u8
+#EXTINF:-1 tvg-id="1554" group-title="Romania",E Entertainment
+https://rotv.vercel.app/api/1554.m3u8
+#EXTINF:-1 tvg-id="1556" group-title="Romania",Fashion TV
+https://rotv.vercel.app/api/1556.m3u8
+#EXTINF:-1 tvg-id="1824" group-title="Romania",FilmBox Premium
+https://rotv.vercel.app/api/1824.m3u8
+#EXTINF:-1 tvg-id="1828" group-title="Romania",FilmBox
+https://rotv.vercel.app/api/1828.m3u8
+#EXTINF:-1 tvg-id="1835" group-title="Romania",BBC First HD
+https://rotv.vercel.app/api/1835.m3u8
+#EXTINF:-1 tvg-id="1838" group-title="Romania",Bollywood Clasic HD
+https://rotv.vercel.app/api/1838.m3u8
+#EXTINF:-1 tvg-id="1839" group-title="Romania",SkyShowTime 2 HD
+https://rotv.vercel.app/api/1839.m3u8
+#EXTINF:-1 tvg-id="1857" group-title="Romania",TVR International
+https://rotv.vercel.app/api/1857.m3u8
+#EXTINF:-1 tvg-id="1871" group-title="Romania",PrimaSport 4 HD
+https://rotv.vercel.app/api/1871.m3u8
+#EXTINF:-1 tvg-id="1873" group-title="Romania",PrimaSport 5 HD
+https://rotv.vercel.app/api/1873.m3u8
+#EXTINF:-1 tvg-id="1894" group-title="Romania",National Geographic People
+https://rotv.vercel.app/api/1894.m3u8
+#EXTINF:-1 tvg-id="1897" group-title="Romania",ID Investigation
+https://rotv.vercel.app/api/1897.m3u8
+#EXTINF:-1 tvg-id="1899" group-title="Romania",Crime & Investigation
+https://rotv.vercel.app/api/1899.m3u8
+#EXTINF:-1 tvg-id="1917" group-title="Romania",PrimaSport PPV1
+https://rotv.vercel.app/api/1917.m3u8
+#EXTINF:-1 tvg-id="1921" group-title="Romania",PrimaSport PPV2
+https://rotv.vercel.app/api/1921.m3u8
+#EXTINF:-1 tvg-id="1922" group-title="Romania",PrimaSport PPV3
+https://rotv.vercel.app/api/1922.m3u8
+#EXTINF:-1 tvg-id="1925" group-title="Romania",Food Network HD
+https://rotv.vercel.app/api/1925.m3u8
+#EXTINF:-1 tvg-id="1819" group-title="Romania",Mezzo
+https://rotv.vercel.app/api/1819.m3u8
+#EXTINF:-1 tvg-id="1817" group-title="Romania",TV 1000
+https://rotv.vercel.app/api/1817.m3u8
+#EXTINF:-1 tvg-id="1757" group-title="Romania",RAI 1
+https://rotv.vercel.app/api/1757.m3u8
+#EXTINF:-1 tvg-id="1759" group-title="Romania",HGTV
+https://rotv.vercel.app/api/1759.m3u8
+#EXTINF:-1 tvg-id="1761" group-title="Romania",CBS Reality
+https://rotv.vercel.app/api/1761.m3u8
+#EXTINF:-1 tvg-id="1763" group-title="Romania",DaVinci
+https://rotv.vercel.app/api/1763.m3u8
+#EXTINF:-1 tvg-id="1765" group-title="Romania",TV Paprika
+https://rotv.vercel.app/api/1765.m3u8
+#EXTINF:-1 tvg-id="1778" group-title="Romania",TVR Sport HD
+https://rotv.vercel.app/api/1778.m3u8
+#EXTINF:-1 tvg-id="1789" group-title="Romania",TVR Folclor HD
+https://rotv.vercel.app/api/1789.m3u8
+#EXTINF:-1 tvg-id="1792" group-title="Romania",SkyShowTime 1 HD
+https://rotv.vercel.app/api/1792.m3u8
+#EXTINF:-1 tvg-id="1795" group-title="Romania",DigiSport 1 HD
+https://rotv.vercel.app/api/1795.m3u8
+#EXTINF:-1 tvg-id="1807" group-title="Romania",AXN Black
+https://rotv.vercel.app/api/1807.m3u8
+#EXTINF:-1 tvg-id="1809" group-title="Romania",AXN Spin
+https://rotv.vercel.app/api/1809.m3u8
+#EXTINF:-1 tvg-id="1811" group-title="Romania",AXN White
+https://rotv.vercel.app/api/1811.m3u8
+#EXTINF:-1 tvg-id="1813" group-title="Romania",Deutsche Welle
+https://rotv.vercel.app/api/1813.m3u8
+#EXTINF:-1 tvg-id="1815" group-title="Romania",Nasul TV
+https://rotv.vercel.app/api/1815.m3u8
+#EXTINF:-1 tvg-id="1752" group-title="Romania",RAI 3
+https://rotv.vercel.app/api/1752.m3u8
+#EXTINF:-1 tvg-id="1359" group-title="Romania",Channel 1359
+https://rotv.vercel.app/api/1359.m3u8
+#EXTINF:-1 tvg-id="1357" group-title="Romania",Channel 1357
+https://rotv.vercel.app/api/1357.m3u8
+#EXTINF:-1 tvg-id="1376" group-title="Romania",Channel 1376
+https://rotv.vercel.app/api/1376.m3u8
+#EXTINF:-1 tvg-id="1361" group-title="Romania",Channel 1361
+https://rotv.vercel.app/api/1361.m3u8
