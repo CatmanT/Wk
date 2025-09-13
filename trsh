@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV
 plugin://plugin.video.rdslive/?action=play&post_id=1357&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV
+plugin://plugin.video.rdslive/?action=play&post_id=1357&post_url=https%3A%2F%2Frds.live
+https://rotv.vercel.app/api/1357.m3u8
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
 plugin://plugin.video.rdslive/?action=play&post_id=1361&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
@@ -433,14 +436,17 @@ http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31582.ts
 http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31581.ts
 
 
+
+#EXTINF:-1 tvg-id="Pro TV" group-title="Romania2",Pro TV HD
+https://rotv.vercel.app/api/1357.m3u8
+#EXTINF:-1 tvg-id="Prima TV" group-title="Romania2",Prima TV HD
+https://rotv.vercel.app/api/1361.m3u8
+#EXTINF:-1 tvg-id="Kanal D" group-title="Romania2",Kanal D HD
+https://rotv.vercel.app/api/1376.m3u8
+#EXTINF:-1 tvg-id="KANAL D2" group-title="Romania2",KANAL D2 HD
+https://rotv.vercel.app/api/1321.m3u8
 #EXTINF:-1 tvg-id="1359" group-title="Romania2",Antena 1 HD
 https://rotv.vercel.app/api/1359.m3u8
-#EXTINF:-1 tvg-id="1357" group-title="Romania2",Pro TV HD
-https://rotv.vercel.app/api/1357.m3u8
-#EXTINF:-1 tvg-id="1376" group-title="Romania2",Kanal D HD
-https://rotv.vercel.app/api/1376.m3u8
-#EXTINF:-1 tvg-id="1361" group-title="Romania2",Prima TV HD
-https://rotv.vercel.app/api/1361.m3u8
 #EXTINF:-1 tvg-id="1409" group-title="Romania2",DigiSport 2 HD
 https://rotv.vercel.app/api/1409.m3u8
 #EXTINF:-1 tvg-id="1408" group-title="Romania2",DigiSport 3 HD
@@ -495,8 +501,7 @@ https://rotv.vercel.app/api/1447.m3u8
 https://rotv.vercel.app/api/1383.m3u8
 #EXTINF:-1 tvg-id="1384" group-title="Romania2",Acasa TV HD
 https://rotv.vercel.app/api/1384.m3u8
-#EXTINF:-1 tvg-id="1321" group-title="Romania2",KANAL D2 HD
-https://rotv.vercel.app/api/1321.m3u8
+
 #EXTINF:-1 tvg-id="1381" group-title="Romania2",Happy Channel HD
 https://rotv.vercel.app/api/1381.m3u8
 #EXTINF:-1 tvg-id="1378" group-title="Romania2",Metropola TV
@@ -699,11 +704,4 @@ https://rotv.vercel.app/api/1813.m3u8
 https://rotv.vercel.app/api/1815.m3u8
 #EXTINF:-1 tvg-id="1752" group-title="Romania2",RAI 3
 https://rotv.vercel.app/api/1752.m3u8
-#EXTINF:-1 tvg-id="1359" group-title="Romania2",Channel 1359
-https://rotv.vercel.app/api/1359.m3u8
-#EXTINF:-1 tvg-id="1357" group-title="Romania2",Channel 1357
-https://rotv.vercel.app/api/1357.m3u8
-#EXTINF:-1 tvg-id="1376" group-title="Romania2",Channel 1376
-https://rotv.vercel.app/api/1376.m3u8
-#EXTINF:-1 tvg-id="1361" group-title="Romania2",Channel 1361
-https://rotv.vercel.app/api/1361.m3u8
+
