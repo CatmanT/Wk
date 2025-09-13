@@ -3,8 +3,6 @@
 plugin://plugin.video.rdslive/?action=play&post_id=1357&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
 plugin://plugin.video.rdslive/?action=play&post_id=1361&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
-https://rotv.vercel.app/api/1361.m3u8
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
 plugin://plugin.video.rdslive/?action=play&post_id=1376&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="KANAL D2" tvg-logo="https://i.postimg.cc/7YPWGnz5/kanal-d2.png" group-title="Generaliste",KANAL D2
@@ -436,33 +434,40 @@ http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31581.ts
 
 
 
-#EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV
+#EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Romania2",PRO TV
 https://rotv.vercel.app/api/1357.m3u8
-#EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
+#EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Romania2",PRIMA TV
 https://rotv.vercel.app/api/1361.m3u8
-#EXTINF:-1 tvg-id="Kanal D" group-title="Romania2",Kanal D HD
+#EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Romania2",KANAL D
 https://rotv.vercel.app/api/1376.m3u8
-#EXTINF:-1 tvg-id="KANAL D2" group-title="Romania2",KANAL D2 HD
+#EXTINF:-1 tvg-name="KANAL D2" tvg-logo="https://i.postimg.cc/7YPWGnz5/kanal-d2.png" group-title="Romania2",KANAL D2
 https://rotv.vercel.app/api/1321.m3u8
-#EXTINF:-1 tvg-id="1359" group-title="Romania2",Antena 1 HD
+#EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Romania2",DIGI 24
+https://rotv.vercel.app/api/1422.m3u8
+#EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Romania2",REALITATEA PLUS
+https://rotv.vercel.app/api/1424.m3u8
+#EXTINF:-1 tvg-name="România TV" tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png"group-title="Romania2",Romania TV
+https://rotv.vercel.app/api/1423.m3u8
+#EXTINF:-1 tvg-name="B1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Romania2",B1 TV
+https://rotv.vercel.app/api/1420.m3u8
+#EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Romania2",ANTENA 1
 https://rotv.vercel.app/api/1359.m3u8
-#EXTINF:-1 tvg-id="1409" group-title="Romania2",DigiSport 2 HD
-https://rotv.vercel.app/api/1409.m3u8
-#EXTINF:-1 tvg-id="1408" group-title="Romania2",DigiSport 3 HD
-https://rotv.vercel.app/api/1408.m3u8
-#EXTINF:-1 tvg-id="1407" group-title="Romania2",DigiSport 4 HD
-https://rotv.vercel.app/api/1407.m3u8
-#EXTINF:-1 tvg-id="1406" group-title="Romania2",PrimaSport 1 HD
-https://rotv.vercel.app/api/1406.m3u8
-#EXTINF:-1 tvg-id="1405" group-title="Romania2",PrimaSport 2 HD
-https://rotv.vercel.app/api/1405.m3u8
-#EXTINF:-1 tvg-id="1401" group-title="Romania2",PrimaSport 3 HD
-https://rotv.vercel.app/api/1401.m3u8
-#EXTINF:-1 tvg-id="1377" group-title="Romania2",TVR 1 HD
+#EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Romania2",ANTENA STARS
+https://rotv.vercel.app/api/1385.m3u8
+#EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Romania2",Antena 3 CNN
+https://rotv.vercel.app/api/1425.m3u8
+#EXTINF:-1 tvg-name="TVR 1" tvg-id=""tvg-logo="https://i.postimg.cc/wTwVJ6Hn/TVR_1.png"group-title="Romania2",TVR 1
 https://rotv.vercel.app/api/1377.m3u8
-#EXTINF:-1 tvg-id="1379" group-title="Romania2",TVR 2 HD
+#EXTINF:-1 tvg-name="TVR 2" tvg-id=""tvg-logo="https://i.postimg.cc/fTzCJ34x/TVR_2.png"group-title="Romania2",TVR 2
 https://rotv.vercel.app/api/1379.m3u8
-#EXTINF:-1 tvg-id="1339" group-title="Romania2",TVR 3
+#EXTINF:-1 tvg-name="TVR 3" tvg-id=""tvg-logo="https://i.postimg.cc/QdVqJRdC/TVR_3.png"group-title="Romania2",TVR 3
+https://rotv.vercel.app/api/1339.m3u8
+#EXTINF:-1 tvg-name="Euronews" tvg-id=""tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png"group-title="Romania2",Euronews RO
+https://rotv.vercel.app/api/1421.m3u8
+#EXTINF:-1 tvg-name="BBC News" tvg-id=""tvg-logo="https://i.postimg.cc/mr34Nv1c/BBC-News-logo-PNG-1.png"group-title="Romania2",BBC News
+https://rotv.vercel.app/api/1337.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png"group-title="Romania2",CNN
+https://rotv.vercel.app/api/1410.m3u8
 https://rotv.vercel.app/api/1339.m3u8
 #EXTINF:-1 tvg-id="1454" group-title="Romania2",HBO HD
 https://rotv.vercel.app/api/1454.m3u8
@@ -500,7 +505,6 @@ https://rotv.vercel.app/api/1447.m3u8
 https://rotv.vercel.app/api/1383.m3u8
 #EXTINF:-1 tvg-id="1384" group-title="Romania2",Acasa TV HD
 https://rotv.vercel.app/api/1384.m3u8
-
 #EXTINF:-1 tvg-id="1381" group-title="Romania2",Happy Channel HD
 https://rotv.vercel.app/api/1381.m3u8
 #EXTINF:-1 tvg-id="1378" group-title="Romania2",Metropola TV
@@ -515,26 +519,8 @@ https://rotv.vercel.app/api/1312.m3u8
 https://rotv.vercel.app/api/1386.m3u8
 #EXTINF:-1 tvg-id="1559" group-title="Romania2",TV Moldova
 https://rotv.vercel.app/api/1559.m3u8
-#EXTINF:-1 tvg-id="1385" group-title="Romania2",Antena Stars HD
-https://rotv.vercel.app/api/1385.m3u8
-#EXTINF:-1 tvg-id="1425" group-title="Romania2",Antena 3 HD
-https://rotv.vercel.app/api/1425.m3u8
-#EXTINF:-1 tvg-id="1420" group-title="Romania2",B1TV HD
-https://rotv.vercel.app/api/1420.m3u8
-#EXTINF:-1 tvg-id="1337" group-title="Romania2",BBC World News
-https://rotv.vercel.app/api/1337.m3u8
-#EXTINF:-1 tvg-id="1410" group-title="Romania2",CNN
-https://rotv.vercel.app/api/1410.m3u8
-#EXTINF:-1 tvg-id="1422" group-title="Romania2",Digi24 HD
-https://rotv.vercel.app/api/1422.m3u8
-#EXTINF:-1 tvg-id="1421" group-title="Romania2",Euronews Romania
-https://rotv.vercel.app/api/1421.m3u8
 #EXTINF:-1 tvg-id="1315" group-title="Romania2",Prima News
 https://rotv.vercel.app/api/1315.m3u8
-#EXTINF:-1 tvg-id="1424" group-title="Romania2",Realitatea TV HD
-https://rotv.vercel.app/api/1424.m3u8
-#EXTINF:-1 tvg-id="1423" group-title="Romania2",Romania TV HD
-https://rotv.vercel.app/api/1423.m3u8
 #EXTINF:-1 tvg-id="1500" group-title="Romania2",ZU TV
 https://rotv.vercel.app/api/1500.m3u8
 #EXTINF:-1 tvg-id="1501" group-title="Romania2",U TV
