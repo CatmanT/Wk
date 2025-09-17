@@ -1,3 +1,5 @@
+
+
 #EXTM3U
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV
 plugin://plugin.video.thraxtv/?action=play&id=PROTV.ro
@@ -9,3 +11,32 @@ plugin://plugin.video.thraxtv/?action=play&id=KanalD.ro
 plugin://plugin.video.thraxtv/?action=play&id=KanalD2.ro
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24
 plugin://plugin.video.thraxtv/?action=play&id=Digi24.ro
+#EXTINF:-1 tvg-name="B1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Stiri",B1 TV
+plugin://plugin.video.thraxtv/?action=play&id=B1.ro
+#EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1
+plugin://plugin.video.thraxtv/?action=play&id=Antena1.ro
+#EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Generaliste",ANTENA STARS
+plugin://plugin.video.thraxtv/?action=play&id=AntenaStars.ro
+#EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN
+plugin://plugin.video.thraxtv/?action=play&id=Antena3CNN.ro
+#EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS
+plugin://plugin.video.thraxtv/?action=play&id=RealitateaTV.ro
+
+
+#EXTINF:-1 tvg-name="AXN HD" tvg-id=""tvg-logo="https://i.postimg.cc/43qVPdFF/AXN-HD.png"group-title="Movies",AXN-HD
+plugin://plugin.video.thraxtv/?action=play&id=AXN.ro
+#EXTINF:-1 tvg-name="AXN Spin " tvg-id=""tvg-logo="https://i.postimg.cc/VNdXXM4C/AXN-Spin.png"group-title="Movies",AXN SPIN
+plugin://plugin.video.thraxtv/?action=play&id=AXNSpin.ro
+#EXTINF:-1 tvg-name="AXN White" tvg-id=""tvg-logo="https://i.postimg.cc/d3KdMfF2/AXN-White.png"group-title="Movies",AXN WHITE
+plugin://plugin.video.thraxtv/?action=play&id=AXNWhite.ro
+#EXTINF:-1 tvg-name="AXN Black" tvg-id=""tvg-logo="https://i.postimg.cc/vBn9NsJ8/AXN-Black.png"group-title="Movies",AXN BLACK
+plugin://plugin.video.thraxtv/?action=play&id=AXNBlack.ro
+
+
+
+#EXTINF:-1 tvg-name="Prima Sport 1" tvg-logo="https://i.postimg.cc/gj97CGrg/Prima-Sport-1.png" group-title="Sport",Prima Sport 1
+plugin://plugin.video.thraxtv/?action=play&id=PrimaSport1.ro
+#EXTINF:-1 tvg-name="Prima Sport 2" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",Prima Sport 2
+plugin://plugin.video.thraxtv/?action=play&id=PrimaSport2.ro
+#EXTINF:-1 tvg-name="Prima Sport 3" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",Prima Sport 3
+plugin://plugin.video.thraxtv/?action=play&id=PrimaSport3.ro
