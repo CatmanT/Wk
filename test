@@ -91,7 +91,7 @@ plugin://plugin.video.thraxtv/?action=play&id=FilmCafe.ro
 plugin://plugin.video.thraxtv/?action=play&id=ProCinema.ro
 #EXTINF:-1 tvg-name="Warner TV" tvg-id=""tvg-logo="https://i.postimg.cc/L628LSc4/Warner.png"group-title="Movies",Warner TV
 plugin://plugin.video.thraxtv/?action=play&id=WarnerTV.ro
-#EXTINF:-1 tvg-name="Viasat Kino" tvg-id=""tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032251913609_23.png"group-title="Movies",Viasat Kino
+#EXTINF:-1 tvg-name="Viasat-Kino" tvg-id=""tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032251913609_23.png"group-title="Movies",Viasat-Kino
 plugin://plugin.video.thraxtv/?action=play&id=TV1000.ro
 #EXTINF:-1 tvg-name="Bollywood Clasic" tvg-id=""tvg-logo="https://i.postimg.cc/8khMdTdt/Bollywood-TV.png"group-title="Movies",Bollywood Clasic
 plugin://plugin.video.thraxtv/?action=play&id=BollywoodClassic.ro
@@ -192,6 +192,24 @@ plugin://plugin.video.thraxtv/?action=play&id=TVRSport.ro
 plugin://plugin.video.thraxtv/?action=play&id=SportExtra.ro
 #EXTINF:-1 tvg-name="PRO Arena" tvg-logo="https://i.postimg.cc/52f2xhMw/Pro-ARENA.png" group-title="Sport",PRO Arena
 plugin://plugin.video.thraxtv/?action=play&id=ProArena.ro
+
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-id=""tvg-logo="https://i.postimg.cc/7Y9zcXWz/Cartoon-Network.png"group-title="Kids",CARTOON NETWORK
+plugin://plugin.video.thraxtv/?action=play&id=CartoonNetwork.ro
+#EXTINF:-1 tvg-name="Disney Channel" tvg-id=""tvg-logo="https://i.postimg.cc/c4C1xmJw/Disney-Channel.png"group-title="Kids",DISNEY CHANNEL
+plugin://plugin.video.thraxtv/?action=play&id=DisneyChannel.ro"
+#EXTINF:-1 tvg-name="Disney Junior" tvg-id=""tvg-logo="https://i.postimg.cc/R05vTxLL/Disney-Junior.png"group-title="Kids",DISNEY JUNIOR
+plugin://plugin.video.thraxtv/?action=play&id=DisneyJunior.ro
+#EXTINF:-1 tvg-name="TeenNick" tvg-id=""tvg-logo="https://i.postimg.cc/9FhqDkyn/TeenNick.png"group-title="Kids",TEENNICK
+plugin://plugin.video.thraxtv/?action=play&id=TeenNick.ro
+#EXTINF:-1 tvg-name="JimJam" tvg-id=""tvg-logo="https://i.postimg.cc/4xR0Lfjy/JimJam.png"group-title="Kids",JIMJAM
+plugin://plugin.video.thraxtv/?action=play&id=JimJam.ro
+#EXTINF:-1 tvg-name="Minimax" tvg-id=""tvg-logo="https://i.postimg.cc/xd1V5jbH/Minimax.png"group-title="Kids",MINIMAX
+plugin://plugin.video.thraxtv/?action=play&id=Minimax.ro
+#EXTINF:-1 tvg-name="Nick Jr" tvg-id=""tvg-logo="https://i.postimg.cc/pTBJ6P2Y/Nick-Jr.png"group-title="Kids",NICK JR
+plugin://plugin.video.thraxtv/?action=play&id=NickJr.ro
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id=""tvg-logo="https://i.postimg.cc/1tVT78Rg/Nickelodeon.png"group-title="Kids",NICKELODEON
+plugin://plugin.video.thraxtv/?action=play&id=Nickelodeon.ro
 
 
 
