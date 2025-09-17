@@ -97,3 +97,58 @@ plugin://plugin.video.thraxtv/?action=play&id=TV1000.ro
 plugin://plugin.video.thraxtv/?action=play&id=BollywoodClassic.ro
 #EXTINF:-1 tvg-name="Comedy Central" tvg-id=""tvg-logo="https://i.postimg.cc/MGCfRLvC/Comedy-Central.png"group-title="Movies",Comedy Central
 plugin://plugin.video.thraxtv/?action=play&id=ComedyCentral.ro
+
+
+#EXTINF:-1 tvg-name="BBC Earth" tvg-id=""tvg-logo="https://i.postimg.cc/J4538RGG/BBC-Earth.png"group-title="Documentare",BBC Earth
+plugin://plugin.video.thraxtv/?action=play&id=BBCEarth.ro
+#EXTINF:-1 tvg-name="CBS Reality" tvg-id=""tvg-logo="https://i.postimg.cc/vTqQ7104/CBS-Reality.png"group-title="Documentare",CBS Reality
+plugin://plugin.video.thraxtv/?action=play&id=CBSReality.ro
+#EXTINF:-1 tvg-name="DIGI Animal World" tvg-id=""tvg-logo="https://i.postimg.cc/rm2zztHc/Digi-animal-world.png"group-title="Documentare",DIGI ANIMAL WORLD
+plugin://plugin.video.thraxtv/?action=play&id=DigiAnimalWorld.ro
+#EXTINF:-1 tvg-name="DIGI Life HD" tvg-id=""tvg-logo="https://i.postimg.cc/5N4YwL22/Digi-Life.png"group-title="Documentare",DIGI LIFE
+plugin://plugin.video.thraxtv/?action=play&id=DigiLife.ro
+#EXTINF:-1 tvg-name="DIGI World HD" tvg-id=""tvg-logo="https://i.postimg.cc/8kBfJtDY/Digi-World.png"group-title="Documentare",DIGI WORLD
+plugin://plugin.video.thraxtv/?action=play&id=DigiWorld.ro
+#EXTINF:-1 tvg-name="Discovery HD" tvg-id=""tvg-logo="https://i.postimg.cc/Bbq6BfsV/Discovery-Channel.png"group-title="Documentare",Discovery Channel
+plugin://plugin.video.thraxtv/?action=play&id=DiscoveryChannel.ro
+#EXTINF:-1 tvg-name="ID  Investigation Discovery  HD" tvg-id=""tvg-logo="https://i.postimg.cc/9M0gRrw8/Investigation_Discovery.png"group-title="Documentare",ID Investigation Discovery
+plugin://plugin.video.thraxtv/?action=play&id=InvestigationDiscovery.ro
+#EXTINF:-1 tvg-name="History Channel" tvg-id=""tvg-logo="https://i.postimg.cc/wBqLzQ2C/History.png"group-title="Documentare",History
+plugin://plugin.video.thraxtv/?action=play&id=History.ro
+#EXTINF:-1 tvg-name="National Geographic" tvg-id=""tvg-logo="https://i.postimg.cc/rsSHc7rM/National_Geografic.png"group-title="Documentare",National Geographic
+plugin://plugin.video.thraxtv/?action=play&id=NationalGeographic.ro
+#EXTINF:-1 tvg-name="National Geographic Wild" tvg-id=""tvg-logo="https://i.postimg.cc/28dpfLQh/Nat_Geo_Wild.png"group-title="Documentare",Nat Geo Wild
+plugin://plugin.video.thraxtv/?action=play&id=NationalGeographicWild.ro
+#EXTINF:-1 tvg-name="TLC HD" tvg-id=""tvg-logo="https://i.postimg.cc/7ZLKQ5mx/TLC.png"group-title="Documentare",TLC
+plugin://plugin.video.thraxtv/?action=play&id=TLC.ro
+#EXTINF:-1 tvg-name="HGTV HD" tvg-logo="https://i.postimg.cc/wMSrdgvW/HGTV.png" group-title="Documentare",HGTV HD
+plugin://plugin.video.thraxtv/?action=play&id=HGTV.ro
+#EXTINF:-1 tvg-name="TV Paprika HD" tvg-logo="https://i.postimg.cc/Px1y8YrM/TV_Paprika.png" group-title="Documentare",TV PAPRIKA
+plugin://plugin.video.thraxtv/?action=play&id=TVPaprika.ro
+#EXTINF:-1 tvg-name="Food NetworkD" tvg-id=""tvg-logo="https://i.postimg.cc/wBQYcyv9/Food-Network.png"group-title="Documentare",Food Network
+plugin://plugin.video.thraxtv/?action=play&id=FoodNetwork.ro
+#EXTINF:-1 tvg-name="" tvg-id=""tvg-logo="https://i.postimg.cc/Y03xd7FG/Travel-Mix.png"group-title="Documentare",TRAVEL MIX
+plugin://plugin.video.thraxtv/?action=play&id=TravelMix.ro
+#EXTINF:-1 tvg-name="Viasat Explore HD" tvg-id=""tvg-logo="https://i.postimg.cc/PqwzBYZk/ViasatExplore.png"group-title="Documentare",VIASAT EXPLORE
+plugin://plugin.video.thraxtv/?action=play&id=ViasatExplore.ro
+#EXTINF:-1 tvg-name="Viasat History HD" tvg-id=""tvg-logo="https://i.postimg.cc/j5YQK2Qn/ViasatHistory.png"group-title="Documentare",VIASAT HISTORY
+plugin://plugin.video.thraxtv/?action=play&id=ViasatHistory.ro
+#EXTINF:-1 tvg-name="Viasat Nature HD" tvg-id=""tvg-logo="https://i.postimg.cc/d1RR0F4H/ViasatNature.png"group-title="Documentare",VIASAT NATURE
+plugin://plugin.video.thraxtv/?action=play&id=ViasatNature.ro
+#EXTINF:-1 tvg-name="Da Vinci" tvg-id=""tvg-logo="https://i.postimg.cc/B62LCCFX/Da-Vinci.png"group-title="Documentare",Da Vinci Learning
+plugin://plugin.video.thraxtv/?action=play&id=
+#EXTINF:-1 tvg-name="E! Entertainment HD" tvg-id=""tvg-logo="https://i.postimg.cc/LsL8d88W/E.png"group-title="Documentare",E! Entertainment
+plugin://plugin.video.thraxtv/?action=play&id=E.ro
+
+
+
+#EXTINF:-1 tvg-name="Prima Sport 1" tvg-logo="https://i.postimg.cc/gj97CGrg/Prima-Sport-1.png" group-title="Sport",Prima Sport 1
+plugin://plugin.video.thraxtv/?action=play&id=PrimaSport1.ro
+#EXTINF:-1 tvg-name="Prima Sport 2" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",Prima Sport 2
+plugin://plugin.video.thraxtv/?action=play&id=PrimaSport2.ro
+#EXTINF:-1 tvg-name="Prima Sport 3" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",Prima Sport 3
+plugin://plugin.video.thraxtv/?action=play&id=PrimaSport3.ro
+
+
+
+
