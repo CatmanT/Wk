@@ -91,7 +91,7 @@ plugin://plugin.video.thraxtv/?action=play&id=FilmCafe.ro
 plugin://plugin.video.thraxtv/?action=play&id=ProCinema.ro
 #EXTINF:-1 tvg-name="Warner TV" tvg-id=""tvg-logo="https://i.postimg.cc/L628LSc4/Warner.png"group-title="Movies",Warner TV
 plugin://plugin.video.thraxtv/?action=play&id=WarnerTV.ro
-#EXTINF:-1 tvg-name="Viasat Kino" tvg-id=""tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032251913609_23.png"group-title="Movies",Viasat Kino
+#EXTINF:-1 tvg-name="Viasat-Kino" tvg-id=""tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032251913609_23.png"group-title="Movies",Viasat-Kino
 plugin://plugin.video.thraxtv/?action=play&id=TV1000.ro
 #EXTINF:-1 tvg-name="Bollywood Clasic" tvg-id=""tvg-logo="https://i.postimg.cc/8khMdTdt/Bollywood-TV.png"group-title="Movies",Bollywood Clasic
 plugin://plugin.video.thraxtv/?action=play&id=BollywoodClassic.ro
@@ -141,13 +141,58 @@ plugin://plugin.video.thraxtv/?action=play&id=
 plugin://plugin.video.thraxtv/?action=play&id=E.ro
 
 
+#EXTINF:-1 tvg-name="KISS TV" tvg-logo="https://i.postimg.cc/R0MDmPSz/Kiss-TV.png" group-title="Music",KISS TV
+plugin://plugin.video.thraxtv/?action=play&id=KissTV.ro
+#EXTINF:-1 tvg-name="H!T Music Channel" tvg-logo="https://i.postimg.cc/bw0BKXjT/Hit-Music-Channel.png" group-title="Music",HIT MUSIC CHANNEL
+plugin://plugin.video.thraxtv/?action=play&id=HitMusicChannel.ro
+#EXTINF:-1 tvg-name="MAGIC TV HD" tvg-logo="https://i.postimg.cc/D0bC6Hg1/Magic-TV.png" group-title="Music",MAGIC TV
+plugin://plugin.video.thraxtv/?action=play&id=MagicTV.ro
+#EXTINF:-1 tvg-name="MTV Europe" tvg-logo="https://i.postimg.cc/G3WrR1Zw/MTV-Europe.png" group-title="Music",MTV EUROPE
+plugin://plugin.video.thraxtv/?action=play&id=MTV.ro
+#EXTINF:-1 tvg-name="MTV 00s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Music",MTV 00s
+plugin://plugin.video.thraxtv/?action=play&id=MTV80s.ro
+#EXTINF:-1 tvg-name="Music Channel" tvg-logo="https://i.postimg.cc/cHKyqDhL/Music-Channel.png" group-title="Music",MUSIC CHANNEL
+plugin://plugin.video.thraxtv/?action=play&id=MusicChannel.ro
+#EXTINF:-1 tvg-name="UTV HD" tvg-logo="https://i.postimg.cc/VsRBQYS5/UTV.png" group-title="Music",UTV
+plugin://plugin.video.thraxtv/?action=play&id=UTV.ro
+#EXTINF:-1 tvg-name="ZU TV HD" tvg-logo="https://i.postimg.cc/zv0nnjmT/ZU-TV.png" group-title="Music",ZU TV
+plugin://plugin.video.thraxtv/?action=play&id=ZUTV.ro
+#EXTINF:-1 tvg-name="Etno TV" tvg-logo="https://i.postimg.cc/cLVL5n0Y/Etno.png" group-title="Music",ETNO TV
+plugin://plugin.video.thraxtv/?action=play&id=EtnoTV.ro
+#EXTINF:-1 tvg-name="Taraf TV" tvg-logo="https://i.postimg.cc/pXRGzGj5/Taraf-TV.png" group-title="Music",TARAF TV
+plugin://plugin.video.thraxtv/?action=play&id=TarafTV.ro
+#EXTINF:-1 tvg-name="Favorit" tvg-logo="https://i.postimg.cc/KvWGRMKV/Favorit-TV.png" group-title="Music",FAVORIT TV
+plugin://plugin.video.thraxtv/?action=play&id=FavoritTV.ro
+#EXTINF:-1 tvg-name="Mezzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="Music",Mezzo
+plugin://plugin.video.thraxtv/?action=play&id=Mezzo.ro
 
+
+
+#EXTINF:-1 tvg-name="DIGI Sport 1" tvg-logo="https://i.postimg.cc/PrSLKJCz/Digi-Sport1.png" group-title="Sport",DIGI Sport 1
+plugin://plugin.video.thraxtv/?action=play&id=DigiSport1.ro
+#EXTINF:-1 tvg-name="DIGI Sport 2" tvg-logo="https://i.postimg.cc/P5NC7HZG/Digi-Sport2.png" group-title="Sport",DIGI Sport 2
+plugin://plugin.video.thraxtv/?action=play&id=DigiSport2.ro
+#EXTINF:-1 tvg-name="DIGI Sport 3" tvg-logo="https://i.postimg.cc/wjP18rc1/Digi-Sport3.png" group-title="Sport",DIGI Sport 3
+plugin://plugin.video.thraxtv/?action=play&id=DigiSport3.ro
+#EXTINF:-1 tvg-name="DIGI Sport 4" tvg-logo="https://i.postimg.cc/mrHtbS88/Digi-Sport4.png" group-title="Sport",DIGI Sport 4
+plugin://plugin.video.thraxtv/?action=play&id=DigiSport4.ro
 #EXTINF:-1 tvg-name="Prima Sport 1" tvg-logo="https://i.postimg.cc/gj97CGrg/Prima-Sport-1.png" group-title="Sport",Prima Sport 1
 plugin://plugin.video.thraxtv/?action=play&id=PrimaSport1.ro
 #EXTINF:-1 tvg-name="Prima Sport 2" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",Prima Sport 2
 plugin://plugin.video.thraxtv/?action=play&id=PrimaSport2.ro
 #EXTINF:-1 tvg-name="Prima Sport 3" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",Prima Sport 3
 plugin://plugin.video.thraxtv/?action=play&id=PrimaSport3.ro
+#EXTINF:-1 tvg-name="EuroSport 1 " tvg-logo="https://i.postimg.cc/7hYHT1nv/Eurosport-1-HD.png" group-title="Sport",EuroSport 1
+plugin://plugin.video.thraxtv/?action=play&id=Eurosport1.ro
+#EXTINF:-1 tvg-name="EuroSport 2" tvg-logo="https://i.postimg.cc/fLvWLqXj/Eurosport-2-HD.png" group-title="Sport",EuroSport 2
+plugin://plugin.video.thraxtv/?action=play&id=Eurosport2.ro
+#EXTINF:-1 tvg-name="TVR Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TVR-Sport_landscape.png" group-title="Sport",TVR Sport HD
+plugin://plugin.video.thraxtv/?action=play&id=TVRSport.ro
+#EXTINF:-1 tvg-name="Sport Extra HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Logo-sportextra.png"group-title="Sport",Sport Extra
+plugin://plugin.video.thraxtv/?action=play&id=SportExtra.ro
+#EXTINF:-1 tvg-name="PRO Arena" tvg-logo="https://i.postimg.cc/52f2xhMw/Pro-ARENA.png" group-title="Sport",PRO Arena
+plugin://plugin.video.thraxtv/?action=play&id=ProArena.ro
+
 
 
 
