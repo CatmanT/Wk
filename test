@@ -1,1 +1,3 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV
+plugin://plugin.video.thraxtv/?action=play&id=PROTV.ro
