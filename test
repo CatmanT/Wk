@@ -29,6 +29,7 @@ plugin://plugin.video.thraxtv/?action=play&id=CNN.ro
 plugin://plugin.video.thraxtv/?action=play&id=BBCWorldNews.ro
 #EXTINF:-1 tvg-name="RT HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"group-title="Stiri",RT HD
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
+
 #EXTINF:-1 tvg-name="TVR 1" tvg-id=""tvg-logo="https://i.postimg.cc/wTwVJ6Hn/TVR_1.png"group-title="Generaliste",TVR 1
 plugin://plugin.video.thraxtv/?action=play&id=TVR1.ro
 #EXTINF:-1 tvg-name="TVR 2" tvg-id=""tvg-logo="https://i.postimg.cc/fTzCJ34x/TVR_2.png"group-title="Generaliste",TVR 2
@@ -44,12 +45,6 @@ plugin://plugin.video.thraxtv/?action=play&id=National24Plus.ro
 #EXTINF:-1 tvg-name="Acasă Gold HD" tvg-id=""tvg-logo="https://i.postimg.cc/hjNsXMBv/Acas-A-Gold.png"group-title="Generaliste",ACASA GOLD
 plugin://plugin.video.thraxtv/?action=play&id=AcasaGold.ro
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-name="HBO" tvg-id=""tvg-logo="https://i.postimg.cc/hjZwp9qR/HBO_HD.png"group-title="Movies",HBO
 plugin://plugin.video.thraxtv/?action=play&id=HBO.ro
 #EXTINF:-1 tvg-name="HBO 2" tvg-id=""tvg-logo="https://i.postimg.cc/FzqMs0PV/HBO_2.png"group-title="Movies",HBO 2
@@ -64,17 +59,14 @@ plugin://plugin.video.thraxtv/?action=play&id=AXNSpin.ro
 plugin://plugin.video.thraxtv/?action=play&id=AXNWhite.ro
 #EXTINF:-1 tvg-name="AXN Black" tvg-id=""tvg-logo="https://i.postimg.cc/vBn9NsJ8/AXN-Black.png"group-title="Movies",AXN BLACK
 plugin://plugin.video.thraxtv/?action=play&id=AXNBlack.ro
-
-
-
 #EXTINF:-1 tvg-name="Happy Channel" tvg-id=""tvg-logo="https://i.postimg.cc/xTBQ0VhV/Happy-Channel.png"group-title="Movies",Happy Channel
-plugin://plugin.video.thraxtv/?action=play&id=
+plugin://plugin.video.thraxtv/?action=play&id=HappyChannel.ro
 #EXTINF:-1 tvg-name="BBC First" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/BBC_First_2022.svg/1200px-BBC_First_2022.svg.png"group-title="Movies",BBC First
-plugin://plugin.video.thraxtv/?action=play&id=
+plugin://plugin.video.thraxtv/?action=play&id=BBCFirst.ro
 #EXTINF:-1 tvg-name="Filmbox" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Filmbox_pl.png/1200px-Filmbox_pl.png"group-title="Movies",Filmbox
-plugin://plugin.video.thraxtv/?action=play&id=
+plugin://plugin.video.thraxtv/?action=play&id=FilmBox.ro
 #EXTINF:-1 tvg-name="Filmbox Premium" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/FilmBox_Premium_log.png"group-title="Movies",Filmbox Premium
-plugin://plugin.video.thraxtv/?action=play&id=
+plugin://plugin.video.thraxtv/?action=play&id=FilmBoxPremium.ro
 #EXTINF:-1 tvg-name="SkyShowtime 1" tvg-id=""tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/182ec50c-9466-4ade-9671-b8385566d537/deznebk-a1a9710b-31a0-4363-9e72-69bade01b90b.png/v1/fill/w_1192,h_670/skyshowtime_2022_color_concept_by_waynemarcelo2009_deznebk-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMTgyZWM1MGMtOTQ2Ni00YWRlLTk2NzEtYjgzODU1NjZkNTM3XC9kZXpuZWJrLWExYTk3MTBiLTMxYTAtNDM2My05ZTcyLTY5YmFkZTAxYjkwYi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.RpkdH9c8Lf4tloXcWIqqa4xG34VkVKSRWk4hpcmGCaw"group-title="Movies",SkyShowtime 1
 plugin://plugin.video.thraxtv/?action=play&id=SkyShowtime1.ro
 #EXTINF:-1 tvg-name="SkyShowtime 2" tvg-id=""tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/3V4783l8A38UGPGn8yqsJ3/dd900001efcfa5c5250667f13879428e/skyshowtime-2.png"group-title="Movies",SkyShowtime 2
@@ -91,32 +83,17 @@ plugin://plugin.video.thraxtv/?action=play&id=Diva.ro
 plugin://plugin.video.thraxtv/?action=play&id=EpicDrama.ro
 #EXTINF:-1 tvg-name="AMC HD " tvg-id=""tvg-logo="https://i.postimg.cc/8Cffg387/AMC.png"group-title="Movies",AMC HD
 plugin://plugin.video.thraxtv/?action=play&id=AMC.ro
-
-
 #EXTINF:-1 tvg-name="Film Now" tvg-id=""tvg-logo="https://i.postimg.cc/5tBb7KPd/Film-Now.png"group-title="Movies",Film Now
-plugin://plugin.video.thraxtv/?action=play&id=
+plugin://plugin.video.thraxtv/?action=play&id=FilmNow.ro
 #EXTINF:-1 tvg-name="FILMCAFE" tvg-id=""tvg-logo="https://i.postimg.cc/C1JYYBTc/Film-cafe.png"group-title="Movies",Film Cafe
-plugin://plugin.video.thraxtv/?action=play&id=
+plugin://plugin.video.thraxtv/?action=play&id=FilmCafe.ro
 #EXTINF:-1 tvg-name="PRO Cinema HD" tvg-id=""tvg-logo="https://i.postimg.cc/GpVgDbPb/Pro-Cinema.png"group-title="Movies",PRO CINEMA
-plugin://plugin.video.thraxtv/?action=play&id=
+plugin://plugin.video.thraxtv/?action=play&id=ProCinema.ro
 #EXTINF:-1 tvg-name="Warner TV" tvg-id=""tvg-logo="https://i.postimg.cc/L628LSc4/Warner.png"group-title="Movies",Warner TV
-plugin://plugin.video.thraxtv/?action=play&id=
+plugin://plugin.video.thraxtv/?action=play&id=WarnerTV.ro
 #EXTINF:-1 tvg-name="Viasat-Kino" tvg-id=""tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032251913609_23.png"group-title="Movies",Viasat-Kino
-plugin://plugin.video.thraxtv/?action=play&id=
+plugin://plugin.video.thraxtv/?action=play&id=TV1000.ro
 #EXTINF:-1 tvg-name="Bollywood Clasic" tvg-id=""tvg-logo="https://i.postimg.cc/8khMdTdt/Bollywood-TV.png"group-title="Movies",Bollywood Clasic
-plugin://plugin.video.thraxtv/?action=play&id=
+plugin://plugin.video.thraxtv/?action=play&id=BollywoodClassic.ro
 #EXTINF:-1 tvg-name="Comedy Central" tvg-id=""tvg-logo="https://i.postimg.cc/MGCfRLvC/Comedy-Central.png"group-title="Movies",Comedy Central
-plugin://plugin.video.thraxtv/?action=play&id=
-
-
-
-#EXTINF:-1 tvg-name="Prima Sport 1" tvg-logo="https://i.postimg.cc/gj97CGrg/Prima-Sport-1.png" group-title="Sport",Prima Sport 1
-plugin://plugin.video.thraxtv/?action=play&id=PrimaSport1.ro
-#EXTINF:-1 tvg-name="Prima Sport 2" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",Prima Sport 2
-plugin://plugin.video.thraxtv/?action=play&id=PrimaSport2.ro
-#EXTINF:-1 tvg-name="Prima Sport 3" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",Prima Sport 3
-plugin://plugin.video.thraxtv/?action=play&id=PrimaSport3.ro
-
-
-
-
+plugin://plugin.video.thraxtv/?action=play&id=ComedyCentral.ro
