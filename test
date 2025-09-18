@@ -149,7 +149,7 @@ plugin://plugin.video.thraxtv/?action=play&id=HitMusicChannel.ro
 plugin://plugin.video.thraxtv/?action=play&id=MagicTV.ro
 #EXTINF:-1 tvg-name="MTV Europe" tvg-logo="https://i.postimg.cc/G3WrR1Zw/MTV-Europe.png" group-title="Music",MTV EUROPE
 plugin://plugin.video.thraxtv/?action=play&id=MTV.ro
-#EXTINF:-1 tvg-name="MTV 80s" tvg-logo="https://i.postimg.cc/LsvM8c2c/MTV00s.png" group-title="Music",MTV 80s
+#EXTINF:-1 tvg-name="MTV 00s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Music",MTV 00s
 plugin://plugin.video.thraxtv/?action=play&id=MTV80s.ro
 #EXTINF:-1 tvg-name="Music Channel" tvg-logo="https://i.postimg.cc/cHKyqDhL/Music-Channel.png" group-title="Music",MUSIC CHANNEL
 plugin://plugin.video.thraxtv/?action=play&id=MusicChannel.ro
