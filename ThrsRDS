@@ -1,0 +1,471 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV
+plugin://plugin.video.rdslive/?action=play&post_id=1357&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
+plugin://plugin.video.rdslive/?action=play&post_id=1361&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
+plugin://plugin.video.rdslive/?action=play&post_id=1376&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="KANAL D2" tvg-logo="https://i.postimg.cc/7YPWGnz5/kanal-d2.png" group-title="Generaliste",KANAL D2
+plugin://plugin.video.rdslive/?action=play&post_id=1321&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24
+plugin://plugin.video.rdslive/?action=play&post_id=1422&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24 ()
+https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
+#EXTINF:-1 tvg-name="B1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Stiri",B1 TV
+plugin://plugin.video.rdslive/?action=play&post_id=1420&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1
+plugin://plugin.video.rdslive/?action=play&post_id=1359&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Generaliste",ANTENA STARS
+plugin://plugin.video.rdslive/?action=play&post_id=1385&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN
+plugin://plugin.video.rdslive/?action=play&post_id=1425&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS
+plugin://plugin.video.rdslive/?action=play&post_id=1424&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS ()
+plugin://plugin.video.youtube/play/?video_id=s2LP1NO9atk
+#EXTINF:-1 tvg-name="România TV" tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png"group-title="Stiri",Romania TV
+plugin://plugin.video.rdslive/?action=play&post_id=1423&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Euronews" tvg-id=""tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png"group-title="Stiri",Euronews RO
+plugin://plugin.video.rdslive/?action=play&post_id=1421&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="CNN" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png"group-title="Stiri",CNN
+plugin://plugin.video.rdslive/?action=play&post_id=1410&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="BBC News" tvg-id=""tvg-logo="https://i.postimg.cc/mr34Nv1c/BBC-News-logo-PNG-1.png"group-title="Stiri",BBC News
+plugin://plugin.video.rdslive/?action=play&post_id=1337&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="RT HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"group-title="Stiri",RT HD
+https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-name="TVR 1" tvg-id=""tvg-logo="https://i.postimg.cc/wTwVJ6Hn/TVR_1.png"group-title="Generaliste",TVR 1
+plugin://plugin.video.rdslive/?action=play&post_id=1377&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="TVR 2" tvg-id=""tvg-logo="https://i.postimg.cc/fTzCJ34x/TVR_2.png"group-title="Generaliste",TVR 2
+plugin://plugin.video.rdslive/?action=play&post_id=1379&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="TVR 3" tvg-id=""tvg-logo="https://i.postimg.cc/QdVqJRdC/TVR_3.png"group-title="Generaliste",TVR 3
+plugin://plugin.video.rdslive/?action=play&post_id=1339&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Acasa HD" tvg-id=""tvg-logo="https://i.postimg.cc/YC2GtFpb/Acasa.png"group-title="Generaliste",Acasa
+plugin://plugin.video.rdslive/?action=play&post_id=1384&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="NATIONAL TV" tvg-id=""tvg-logo="https://i.postimg.cc/sxSkxvtF/National_TV.png"group-title="Generaliste",NATIONAL TV
+plugin://plugin.video.rdslive/?action=play&post_id=1382&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="NATIONAL 24 PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/sfhdwN1n/National_24_Plus.png"group-title="Generaliste",NATIONAL 24 PLUS
+plugin://plugin.video.rdslive/?action=play&post_id=1336&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Acasă Gold HD" tvg-id=""tvg-logo="https://i.postimg.cc/hjNsXMBv/Acas-A-Gold.png"group-title="Generaliste",ACASA GOLD
+plugin://plugin.video.rdslive/?action=play&post_id=1383&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Happy Channel" tvg-id=""tvg-logo="https://i.postimg.cc/xTBQ0VhV/Happy-Channel.png"group-title="Movies",Happy Channel
+plugin://plugin.video.rdslive/?action=play&post_id=1381&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="HBO" tvg-id=""tvg-logo="https://i.postimg.cc/hjZwp9qR/HBO_HD.png"group-title="Movies",HBO
+plugin://plugin.video.rdslive/?action=play&post_id=1454&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="HBO 2" tvg-id=""tvg-logo="https://i.postimg.cc/FzqMs0PV/HBO_2.png"group-title="Movies",HBO 2
+plugin://plugin.video.rdslive/?action=play&post_id=1453&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="HBO 3" tvg-id=""tvg-logo="https://i.postimg.cc/L8fp50FY/HBO_3.png"group-title="Movies",HBO 3
+plugin://plugin.video.rdslive/?action=play&post_id=1452&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="BBC First" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/BBC_First_2022.svg/1200px-BBC_First_2022.svg.png"group-title="Movies",BBC First
+plugin://plugin.video.rdslive/?action=play&post_id=1835&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Filmbox" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Filmbox_pl.png/1200px-Filmbox_pl.png"group-title="Movies",Filmbox
+plugin://plugin.video.rdslive/?action=play&post_id=1828&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Filmbox Premium" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/FilmBox_Premium_log.png"group-title="Movies",Filmbox Premium
+plugin://plugin.video.rdslive/?action=play&post_id=1824&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="SkyShowtime 1" tvg-id=""tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/182ec50c-9466-4ade-9671-b8385566d537/deznebk-a1a9710b-31a0-4363-9e72-69bade01b90b.png/v1/fill/w_1192,h_670/skyshowtime_2022_color_concept_by_waynemarcelo2009_deznebk-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMTgyZWM1MGMtOTQ2Ni00YWRlLTk2NzEtYjgzODU1NjZkNTM3XC9kZXpuZWJrLWExYTk3MTBiLTMxYTAtNDM2My05ZTcyLTY5YmFkZTAxYjkwYi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.RpkdH9c8Lf4tloXcWIqqa4xG34VkVKSRWk4hpcmGCaw"group-title="Movies",SkyShowtime 1
+plugin://plugin.video.rdslive/?action=play&post_id=1792&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="SkyShowtime 2" tvg-id=""tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/3V4783l8A38UGPGn8yqsJ3/dd900001efcfa5c5250667f13879428e/skyshowtime-2.png"group-title="Movies",SkyShowtime 2
+plugin://plugin.video.rdslive/?action=play&post_id=1839&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="AXN HD" tvg-id=""tvg-logo="https://i.postimg.cc/43qVPdFF/AXN-HD.png"group-title="Movies",AXN-HD
+plugin://plugin.video.rdslive/?action=play&post_id=1560&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="AXN Spin " tvg-id=""tvg-logo="https://i.postimg.cc/VNdXXM4C/AXN-Spin.png"group-title="Movies",AXN SPIN
+plugin://plugin.video.rdslive/?action=play&post_id=1809&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="AXN White" tvg-id=""tvg-logo="https://i.postimg.cc/d3KdMfF2/AXN-White.png"group-title="Movies",AXN WHITE
+plugin://plugin.video.rdslive/?action=play&post_id=1811&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="AXN Black" tvg-id=""tvg-logo="https://i.postimg.cc/vBn9NsJ8/AXN-Black.png"group-title="Movies",AXN BLACK
+plugin://plugin.video.rdslive/?action=play&post_id=1807&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Cinemax HD" tvg-id=""tvg-logo="https://i.postimg.cc/nhwDVrZc/CineMax.png"group-title="Movies",Cinemax 1
+plugin://plugin.video.rdslive/?action=play&post_id=1451&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Cinemax2 HD " tvg-id=""tvg-logo="https://i.postimg.cc/y8NRz9Mb/Cinemax-2-HD.png"group-title="Movies",CINEMAX 2
+plugin://plugin.video.rdslive/?action=play&post_id=1450&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Cinemaraton" tvg-logo="https://i.postimg.cc/Vvmy2fwK/Cinemaraton.png" group-title="Movies",Cinemaraton
+plugin://plugin.video.rdslive/?action=play&post_id=1333&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Diva" tvg-id=""tvg-logo="https://i.postimg.cc/T29hY1JM/Diva.png"group-title="Movies",Diva
+plugin://plugin.video.rdslive/?action=play&post_id=1334&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Epic Drama" tvg-id=""tvg-logo="https://i.postimg.cc/d1FtJc7V/Epic-Drama.png"group-title="Movies",Epic Drama
+plugin://plugin.video.rdslive/?action=play&post_id=1448&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="AMC HD " tvg-id=""tvg-logo="https://i.postimg.cc/8Cffg387/AMC.png"group-title="Movies",AMC HD
+plugin://plugin.video.rdslive/?action=play&post_id=1301&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Film Now" tvg-id=""tvg-logo="https://i.postimg.cc/5tBb7KPd/Film-Now.png"group-title="Movies",Film Now
+plugin://plugin.video.rdslive/?action=play&post_id=1449&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="FILMCAFE" tvg-id=""tvg-logo="https://i.postimg.cc/C1JYYBTc/Film-cafe.png"group-title="Movies",Film Cafe
+plugin://plugin.video.rdslive/?action=play&post_id=1306&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="PRO Cinema HD" tvg-id=""tvg-logo="https://i.postimg.cc/GpVgDbPb/Pro-Cinema.png"group-title="Movies",PRO CINEMA
+plugin://plugin.video.rdslive/?action=play&post_id=1335&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Warner TV" tvg-id=""tvg-logo="https://i.postimg.cc/L628LSc4/Warner.png"group-title="Movies",Warner TV
+plugin://plugin.video.rdslive/?action=play&post_id=1320&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Viasat Kino" tvg-id=""tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032251913609_23.png"group-title="Movies",Viasat Kino
+plugin://plugin.video.rdslive/?action=play&post_id=1817&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Bollywood Clasic" tvg-id=""tvg-logo="https://i.postimg.cc/8khMdTdt/Bollywood-TV.png"group-title="Movies",Bollywood Clasic
+plugin://plugin.video.rdslive/?action=play&post_id=1332&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Comedy Central" tvg-id=""tvg-logo="https://i.postimg.cc/MGCfRLvC/Comedy-Central.png"group-title="Movies",Comedy Central
+plugin://plugin.video.rdslive/?action=play&post_id=1447&post_url=https%3A%2F%2Frds.live
+
+#EXTINF:-1 tvg-name="BBC Earth" tvg-id=""tvg-logo="https://i.postimg.cc/J4538RGG/BBC-Earth.png"group-title="Documentare",BBC Earth
+plugin://plugin.video.rdslive/?action=play&post_id=1558&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="CBS Reality" tvg-id=""tvg-logo="https://i.postimg.cc/vTqQ7104/CBS-Reality.png"group-title="Documentare",CBS Reality
+plugin://plugin.video.rdslive/?action=play&post_id=1761&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="DIGI Animal World" tvg-id=""tvg-logo="https://i.postimg.cc/rm2zztHc/Digi-animal-world.png"group-title="Documentare",DIGI ANIMAL WORLD
+plugin://plugin.video.rdslive/?action=play&post_id=1547&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="DIGI Life HD" tvg-id=""tvg-logo="https://i.postimg.cc/5N4YwL22/Digi-Life.png"group-title="Documentare",DIGI LIFE
+plugin://plugin.video.rdslive/?action=play&post_id=1544&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="DIGI World HD" tvg-id=""tvg-logo="https://i.postimg.cc/8kBfJtDY/Digi-World.png"group-title="Documentare",DIGI WORLD
+plugin://plugin.video.rdslive/?action=play&post_id=1552&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Discovery HD" tvg-id=""tvg-logo="https://i.postimg.cc/Bbq6BfsV/Discovery-Channel.png"group-title="Documentare",Discovery Channel
+plugin://plugin.video.rdslive/?action=play&post_id=1553&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="ID  Investigation Discovery  HD" tvg-id=""tvg-logo="https://i.postimg.cc/9M0gRrw8/Investigation_Discovery.png"group-title="Documentare",ID Investigation Discovery
+http://vocotv.live:80/Straight11/7062948274/691148
+#EXTINF:-1 tvg-name="History Channel" tvg-id=""tvg-logo="https://i.postimg.cc/wBqLzQ2C/History.png"group-title="Documentare",History
+plugin://plugin.video.rdslive/?action=play&post_id=1557&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="National Geographic" tvg-id=""tvg-logo="https://i.postimg.cc/rsSHc7rM/National_Geografic.png"group-title="Documentare",National Geographic
+plugin://plugin.video.rdslive/?action=play&post_id=1545&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="National Geographic Wild" tvg-id=""tvg-logo="https://i.postimg.cc/28dpfLQh/Nat_Geo_Wild.png"group-title="Documentare",Nat Geo Wild
+plugin://plugin.video.rdslive/?action=play&post_id=1549&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="TLC HD" tvg-id=""tvg-logo="https://i.postimg.cc/7ZLKQ5mx/TLC.png"group-title="Documentare",TLC
+plugin://plugin.video.rdslive/?action=play&post_id=1317&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="HGTV HD" tvg-logo="https://i.postimg.cc/wMSrdgvW/HGTV.png" group-title="Documentare",HGTV HD
+plugin://plugin.video.rdslive/?action=play&post_id=1759&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="TV Paprika HD" tvg-logo="https://i.postimg.cc/Px1y8YrM/TV_Paprika.png" group-title="Documentare",TV PAPRIKA
+plugin://plugin.video.rdslive/?action=play&post_id=1765&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Food NetworkD" tvg-id=""tvg-logo="https://i.postimg.cc/wBQYcyv9/Food-Network.png"group-title="Documentare",Food Network
+plugin://plugin.video.rdslive/?action=play&post_id=1548&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="" tvg-id=""tvg-logo="https://i.postimg.cc/Y03xd7FG/Travel-Mix.png"group-title="Documentare",TRAVEL MIX
+plugin://plugin.video.rdslive/?action=play&post_id=1555&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Viasat Explore HD" tvg-id=""tvg-logo="https://i.postimg.cc/PqwzBYZk/ViasatExplore.png"group-title="Documentare",VIASAT EXPLORE
+plugin://plugin.video.rdslive/?action=play&post_id=1319&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Viasat History HD" tvg-id=""tvg-logo="https://i.postimg.cc/j5YQK2Qn/ViasatHistory.png"group-title="Documentare",VIASAT HISTORY
+plugin://plugin.video.rdslive/?action=play&post_id=1550&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Viasat Nature HD" tvg-id=""tvg-logo="https://i.postimg.cc/d1RR0F4H/ViasatNature.png"group-title="Documentare",VIASAT NATURE
+plugin://plugin.video.rdslive/?action=play&post_id=1546&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Da Vinci" tvg-id=""tvg-logo="https://i.postimg.cc/B62LCCFX/Da-Vinci.png"group-title="Documentare",Da Vinci Learning
+plugin://plugin.video.rdslive/?action=play&post_id=1763&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="E! Entertainment HD" tvg-id=""tvg-logo="https://i.postimg.cc/LsL8d88W/E.png"group-title="Documentare",E! Entertainment
+plugin://plugin.video.rdslive/?action=play&post_id=1554&post_url=https%3A%2F%2Frds.live
+
+#EXTINF:-1 tvg-name="KISS TV" tvg-logo="https://i.postimg.cc/R0MDmPSz/Kiss-TV.png" group-title="Music",KISS TV
+plugin://plugin.video.rdslive/?action=play&post_id=1481&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="KISS TV" tvg-logo="https://i.postimg.cc/R0MDmPSz/Kiss-TV.png" group-title="Music",KISS TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF:-1 tvg-name="H!T Music Channel" tvg-logo="https://i.postimg.cc/bw0BKXjT/Hit-Music-Channel.png" group-title="Music",HIT MUSIC CHANNEL
+plugin://plugin.video.rdslive/?action=play&post_id=1506&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="MAGIC TV HD" tvg-logo="https://i.postimg.cc/D0bC6Hg1/Magic-TV.png" group-title="Music",MAGIC TV
+plugin://plugin.video.rdslive/?action=play&post_id=1517&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="MAGIC TV HD" tvg-logo="https://i.postimg.cc/D0bC6Hg1/Magic-TV.png" group-title="Music",MAGIC TV
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+#EXTINF:-1 tvg-name="MTV Europe" tvg-logo="https://i.postimg.cc/G3WrR1Zw/MTV-Europe.png" group-title="Music",MTV EUROPE
+plugin://plugin.video.rdslive/?action=play&post_id=1323&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="MTV 00s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Music",MTV 00s
+plugin://plugin.video.rdslive/?action=play&post_id=1322&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Music Channel" tvg-logo="https://i.postimg.cc/cHKyqDhL/Music-Channel.png" group-title="Music",MUSIC CHANNEL
+plugin://plugin.video.rdslive/?action=play&post_id=1563&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="UTV HD" tvg-logo="https://i.postimg.cc/VsRBQYS5/UTV.png" group-title="Music",UTV
+plugin://plugin.video.rdslive/?action=play&post_id=1501&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="ZU TV HD" tvg-logo="https://i.postimg.cc/zv0nnjmT/ZU-TV.png" group-title="Music",ZU TV
+plugin://plugin.video.rdslive/?action=play&post_id=1500&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Etno TV" tvg-logo="https://i.postimg.cc/cLVL5n0Y/Etno.png" group-title="Music",ETNO TV
+plugin://plugin.video.rdslive/?action=play&post_id=1503&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Taraf TV" tvg-logo="https://i.postimg.cc/pXRGzGj5/Taraf-TV.png" group-title="Music",TARAF TV
+plugin://plugin.video.rdslive/?action=play&post_id=1504&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Favorit" tvg-logo="https://i.postimg.cc/KvWGRMKV/Favorit-TV.png" group-title="Music",FAVORIT TV
+plugin://plugin.video.rdslive/?action=play&post_id=1505&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Mezzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="Music",Mezzo
+plugin://plugin.video.rdslive/?action=play&post_id=1819&post_url=https%3A%2F%2Frds.live
+
+#EXTINF:-1 tvg-name="DIGI Sport 1" tvg-logo="https://i.postimg.cc/PrSLKJCz/Digi-Sport1.png" group-title="Sport",DIGI Sport 1
+plugin://plugin.video.rdslive/?action=play&post_id=1795&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="DIGI Sport 2" tvg-logo="https://i.postimg.cc/P5NC7HZG/Digi-Sport2.png" group-title="Sport",DIGI Sport 2
+plugin://plugin.video.rdslive/?action=play&post_id=1409&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="DIGI Sport 3" tvg-logo="https://i.postimg.cc/wjP18rc1/Digi-Sport3.png" group-title="Sport",DIGI Sport 3
+plugin://plugin.video.rdslive/?action=play&post_id=1408&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="DIGI Sport 4" tvg-logo="https://i.postimg.cc/mrHtbS88/Digi-Sport4.png" group-title="Sport",DIGI Sport 4
+plugin://plugin.video.rdslive/?action=play&post_id=1407&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="EuroSport 1 " tvg-logo="https://i.postimg.cc/7hYHT1nv/Eurosport-1-HD.png" group-title="Sport",EuroSport 1
+plugin://plugin.video.rdslive/?action=play&post_id=1399&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="EuroSport 2" tvg-logo="https://i.postimg.cc/fLvWLqXj/Eurosport-2-HD.png" group-title="Sport",EuroSport 2
+plugin://plugin.video.rdslive/?action=play&post_id=1340&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="TVR Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TVR-Sport_landscape.png" group-title="Sport",TVR Sport HD
+plugin://plugin.video.rdslive/?action=play&post_id=1778&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Prima Sport 1" tvg-logo="https://i.postimg.cc/gj97CGrg/Prima-Sport-1.png" group-title="Sport",Prima Sport 1
+plugin://plugin.video.rdslive/?action=play&post_id=1406&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Prima Sport 2" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",Prima Sport 2
+plugin://plugin.video.rdslive/?action=play&post_id=1405&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Prima Sport 3" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima-Sport-2.png" group-title="Sport",Prima Sport 3
+plugin://plugin.video.rdslive/?action=play&post_id=1401&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Sport Extra HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Logo-sportextra.png"group-title="Sport",Sport Extra
+plugin://plugin.video.rdslive/?action=play&post_id=1400&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="PRO Arena" tvg-logo="https://i.postimg.cc/52f2xhMw/Pro-ARENA.png" group-title="Sport",PRO Arena
+plugin://plugin.video.rdslive/?action=play&post_id=1386&post_url=https%3A%2F%2Frds.live
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-id=""tvg-logo="https://i.postimg.cc/7Y9zcXWz/Cartoon-Network.png"group-title="Kids",CARTOON NETWORK
+plugin://plugin.video.rdslive/?action=play&post_id=1476&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Disney Channel" tvg-id=""tvg-logo="https://i.postimg.cc/c4C1xmJw/Disney-Channel.png"group-title="Kids",DISNEY CHANNEL
+plugin://plugin.video.rdslive/?action=play&post_id=1469&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Disney Junior" tvg-id=""tvg-logo="https://i.postimg.cc/R05vTxLL/Disney-Junior.png"group-title="Kids",DISNEY JUNIOR
+plugin://plugin.video.rdslive/?action=play&post_id=1467&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Duck TV HD" tvg-id=""tvg-logo="https://i.postimg.cc/RVpFKYYg/Duck-TV.png"group-title="Kids",DUCK TV
+plugin://plugin.video.rdslive/?action=play&post_id=1477&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="TeenNick" tvg-id=""tvg-logo="https://i.postimg.cc/9FhqDkyn/TeenNick.png"group-title="Kids",TEENNICK
+plugin://plugin.video.rdslive/?action=play&post_id=1480&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="JimJam" tvg-id=""tvg-logo="https://i.postimg.cc/4xR0Lfjy/JimJam.png"group-title="Kids",JIMJAM
+plugin://plugin.video.rdslive/?action=play&post_id=1475&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Minimax" tvg-id=""tvg-logo="https://i.postimg.cc/xd1V5jbH/Minimax.png"group-title="Kids",MINIMAX
+plugin://plugin.video.rdslive/?action=play&post_id=1478&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Nick Jr" tvg-id=""tvg-logo="https://i.postimg.cc/pTBJ6P2Y/Nick-Jr.png"group-title="Kids",NICK JR
+plugin://plugin.video.rdslive/?action=play&post_id=1474&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id=""tvg-logo="https://i.postimg.cc/1tVT78Rg/Nickelodeon.png"group-title="Kids",NICKELODEON
+plugin://plugin.video.rdslive/?action=play&post_id=1479&post_url=https%3A%2F%2Frds.live
+
+
+
+
+
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="USA Fox News Channel" tvg-logo="http://181.233.124.64:80/images/06d4711bdf88b2a49098b97b1dbd6d85.png" group-title="USA News",USA Fox News Channel
+http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/1846754.ts
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="USA Fox News Channel" tvg-logo="http://181.233.124.64:80/images/06d4711bdf88b2a49098b97b1dbd6d85.png" group-title="USA News",Fox News
+http://195.66.210.10:80/Gilbertosantos/mDKFtjLYRM/56195
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="USA Fox News SD" tvg-logo="http://181.233.124.64:80/images/6238892403d97166fc48fd625aad5634.png" group-title="USA News",USA Fox News SD
+http://xxip25.top:8080/20DKn6/055490/1818
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News [Rumble]" tvg-logo="http://181.233.124.64:80/images/6238892403d97166fc48fd625aad5634.png" group-title="USA News",Fox News [Rumble]
+https://rumble.com/live-hls-dvr/6wi51a/playlist.m3u8
+#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="USA Fox Business UHD" tvg-logo="http://23.227.147.172:80/images/912a0234221989a96eb2691da73bdf88.png" group-title="USA News",USA Fox Business UHD
+http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/176949.ts
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="USA CNN UHD*" tvg-logo="http://181.233.124.64:80/images/ecc7e800f5e0aeb9d2c47e6bf4f123bc.png" group-title="USA News",USA CNN UHD*
+http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/208973.ts
+#EXTINF:-1 tvg-id="cnninternational.us" tvg-name="USA CNN INTERNATIONAL*" tvg-logo="http://181.233.124.64:80/images/0ea6add692992b8a5316407be14423f6.png" group-title="USA News",USA CNN INTERNATIONAL*
+http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/175988.ts
+#EXTINF:-1 tvg-id="newsmax.us" tvg-name="USA NewsMAXL*" tvg-logo="https://1a-1791.com/video/z8/1/u/n/b/1unba.baa.1-NewsmaxTV-qu1fdv.jpeg" group-title="USA News",USA NewsMAX [Rumble]
+https://rumble.com/live-hls-dvr/5xwnen/playlist.m3u8?
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="USA CNBC UHD" tvg-logo="http://23.227.147.172:80/images/c7808644eda4e181fbae1ba268d14bb3.png" group-title="USA News",USA CNBC UHD
+http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/943540.ts
+#EXTINF:-1 tvg-id="newsmax.us" tvg-name="USA NEWSMAX" tvg-logo="http://181.233.124.64:80/images/07309c932cd708f5edae8736b6b9e35d.png" group-title="USA News",USA NEWSMAX
+http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/391595.ts
+#EXTINF:-1 tvg-id="oneamericanews.us" tvg-name="USA OAN (One America News Network)" tvg-logo="http://181.233.124.64:80/images/e7ce7207e9824ac6b3003f5209c19e8b.png" group-title="USA News",USA OAN (One America News Network)
+http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/1846765.ts
+#EXTINF:-1 tvg-id="IWN" tvg-name="USA InfoWars" tvg-logo="http://181.233.124.64:80/images/b55c770831baa337cb888891177a6a97.png" group-title="USA News",USA InfoWars
+http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/175881.ts
+#EXTINF:-1 tvg-id="newsnation.us" tvg-name="USA NewsNation" tvg-logo="http://23.227.147.172:80/images/aecce659d0e59a6d08add0325953fc88.png" group-title="USA News",USA NewsNation
+http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/175977.ts
+#EXTINF:-1 tvg-id="CBSWBZ.us" tvg-name="USA CBSN Boston" tvg-logo="http://181.233.124.64:80/images/3488025223994df7f750e55c9d4915f5.png" group-title="USA News",USA CBSN Boston
+http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/399823.ts
+#EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="USA CBSN New York" tvg-logo="http://181.233.124.64:80/images/e0eaecfa6b218f6114d321925a79b383.png" group-title="USA News",USA CBSN New York
+http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/399829.ts
+#EXTINF:-1 tvg-id="aljazeera.uk" tvg-name="USA AL JAZEERA HD" tvg-logo="http://23.227.147.172:80/images/d347a076f1a0cbc675f80e86132ea835.png" group-title="USA News",USA AL JAZEERA HD
+http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/499315.ts
+#EXTINF:-1 tvg-id="PAC12LosAngeles.us" tvg-name="USA CBSN Los Angeles" tvg-logo="https://i.ibb.co/LRhjLqs/CBSN-logo-2021-svg.png" group-title="USA News",USA CBSN Los Angeles
+http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/399827.ts
+#EXTINF:-1 tvg-id="freespeechnetwork.us" tvg-name="USA FREE SPEECH TV" tvg-logo="http://181.233.124.64:80/images/0f9efa57685a7823219443f0fd066007.png" group-title="USA News",USA FREE SPEECH TV
+http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/787136.ts
+
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="Bein Sport 10 XTRA 2" tvg-logo="https://github.com/fraudiay79/logos/blob/master/bein/beinsports10.png?raw=true" group-title="Bein Sports",Bein Sport 10 XTRA 2
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/12545.ts
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="Bein Sport 01" tvg-logo="https://github.com/fraudiay79/logos/blob/master/bein/beinsports1.png?raw=true" group-title="Bein Sports",Bein Sport 01
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/12554.ts
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="Bein Sport 02" tvg-logo="https://github.com/fraudiay79/logos/blob/master/bein/beinsports2.png?raw=truebeinsports2.default.svg" group-title="Bein Sports",Bein Sport 02
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/12553.ts
+#EXTINF:-1 tvg-id="4Music.uk" tvg-name="Bein Sport 03" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports3.default.png?raw=true" group-title="Bein Sports",Bein Sport 03
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/12552.ts
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="Bein Sport 04" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports4.default.png?raw=true" group-title="Bein Sports",Bein Sport 04
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/12551.ts
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="Bein Sport 05" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports5.default.png?raw=true" group-title="Bein Sports",Bein Sport 05
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/12550.ts
+#EXTINF:-1 tvg-id="bein.sport.en.espanol.us" tvg-name="Bein Sport 06" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports6.default.png?raw=true" group-title="Bein Sports",Bein Sport 06
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/12549.ts
+#EXTINF:-1 tvg-id="bein.sport.en.espanol.us" tvg-name="Bein Sport 07" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports7.default.png?raw=true" group-title="Bein Sports",Bein Sport 07
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/12548.ts
+#EXTINF:-1 tvg-id="bein.sport.en.espanol.us" tvg-name="Bein Sport 08 News" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports8.default.png?raw=true" group-title="Bein Sports",Bein Sport 08 News
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/12547.ts
+#EXTINF:-1 tvg-id="beinsportsxtra.us" tvg-name="Bein Sport 09  XTRA 1" tvg-logo="https://github.com/Fourqui/tv/blob/master/misc/sports/ppv-live/BeIN_Xtra.png?raw=true" group-title="Bein Sports",Bein Sport 09  XTRA 1
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/12546.ts
+#EXTINF:-1 tvg-id="abcnewslive.us" tvg-name="US | ABC News" tvg-logo="https://tlgrm.re/images/abc-news-live-us.png" group-title="US - News",US | ABC News
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15967.ts
+
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="US | BIG TEN NETWORK" tvg-logo="https://www.lyngsat.com//logo/tv/bb/big-ten-network-us.png" group-title="US - Sports",US | BIG TEN NETWORK
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23355.ts
+
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="US | Bein Sports" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/beinsports.default.png" group-title="US - Sports",US | Bein Sports
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15922.ts
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="US | Bloomberg" tvg-logo="https://tlgrm.re/images/bloomberg-television-us.png" group-title="US - News",US | Bloomberg
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/12739.ts
+
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US | CBS Sports Network HD" tvg-logo="https://www.lyngsat.com//logo/tv/cc/cbs-sports-network-us.png" group-title="US - Sports",US | CBS Sports Network HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15944.ts
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US | CNN" tvg-logo="https://www.lyngsat.com//logo/tv/cc/cnn-international-us.png" group-title="US - News",US | CNN
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23340.ts
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US | CNN HD" tvg-logo="https://www.lyngsat.com//logo/tv/cc/cnn-international-us.png" group-title="US - News",US | CNN HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15934.ts
+#EXTINF:-1 tvg-id="wcbs.us" tvg-name="US | CBS News" tvg-logo="https://tlgrm.re/images/cbs-news-us.png" group-title="US - News",US | CBS News
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23336.ts
+
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="US | ESPN 2" tvg-logo="https://tlgrm.re/images/espn-2-us.png" group-title="US - Sports",US | ESPN 2
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15950.ts
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US | ESPN HD" tvg-logo="https://www.lyngsat.com//logo/tv/ee/espn_us.png" group-title="US - Sports",US | ESPN HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15951.ts
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="US | ESPN NEWS" tvg-logo="https://www.lyngsat.com//logo/tv/ee/espnews.png" group-title="US - Sports",US | ESPN NEWS
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23213.ts
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="US | ESPN News HD" tvg-logo="https://www.lyngsat.com//logo/tv/ee/espnews.png" group-title="US - Sports",US | ESPN News HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15952.ts
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="US | ESPN U" tvg-logo="https://www.lyngsat.com//logo/tv/ee/espn_u.png" group-title="US - Sports",US | ESPN U
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22536.ts
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="US | ESPN U HD" tvg-logo="https://www.lyngsat.com//logo/tv/ee/espn_u.png" group-title="US - Sports",US | ESPN U HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15949.ts
+
+#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="US | FOX BUSINESS HD" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox-business-us.png" group-title="US - News",US | FOX BUSINESS HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23320.ts
+
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="US | Fox News" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_news_channel.png" group-title="US - News",US | Fox News
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22530.ts
+#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="US | Fox Soccer Plus" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_soccer_plus.png" group-title="US - Sports",US | Fox Soccer Plus
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23315.ts
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US | Fox Sports 1" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_sports_us_1.png" group-title="US - Sports",US | Fox Sports 1
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22526.ts
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US | Fox Sports 1 HD" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_sports_us_1.png" group-title="US - Sports",US | Fox Sports 1 HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15948.ts
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="US | Fox Sports 2" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_sports_us_2.png" group-title="US - Sports",US | Fox Sports 2
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22525.ts
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US | Fox Sports 2 HD" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_sports_us_2.png" group-title="US - Sports",US | Fox Sports 2 HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15947.ts
+#EXTINF:-1 tvg-id="Galavision.us" tvg-name="US | GALAVISION" tvg-logo="https://tlgrm.re/images/galavision-us.png" group-title="US - Entertainment",US | GALAVISION
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23307.ts
+
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US | Golf HD" tvg-logo="https://www.lyngsat.com//logo/tv/gg/golf_channel_us.png" group-title="US - Sports",US | Golf HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15943.ts
+
+#EXTINF:-1 tvg-id="MAVTV.us" tvg-name="US | MAV TV" tvg-logo="https://www.lyngsat.com//logo/tv/mm/mav_tv_us.png" group-title="US - Sports",US | MAV TV
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/25946.ts
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="US | MLB Network" tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="US - Sports",US | MLB Network
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22507.ts
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="US | MLB Network HD" tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="US - Sports",US | MLB Network HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15904.ts
+#EXTINF:-1 tvg-id="MadisonSquareGarden.us" tvg-name="US | MSG" tvg-logo="https://www.lyngsat.com//logo/tv/mm/msg_network_us.png" group-title="US - Sports",US | MSG
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23290.ts
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="US | MSG +" tvg-logo="https://www.lyngsat.com//logo/tv/mm/msg_plus.png" group-title="US - Sports",US | MSG +
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23289.ts
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="US | MSNBC" tvg-logo="https://www.lyngsat.com//logo/tv/mm/msnbc_us.png" group-title="US - News",US | MSNBC
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22506.ts
+
+
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="US | NBA HD" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nba_tv_us.png" group-title="US - Sports",US | NBA HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15946.ts
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="US | NBA TV" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nba_tv_us.png" group-title="US - Sports",US | NBA TV
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22501.ts
+#EXTINF:-1 tvg-id="nbc10wcau.us" tvg-name="US | NBC 10 EAST" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/nbc10.png" group-title="US - Entertainment",US | NBC 10 EAST
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23283.ts
+#EXTINF:-1 tvg-id="WNBC.us" tvg-name="US | NBC 4 LA" tvg-logo="https://tlgrm.re/images/nbc-4-wnbc-us.png" group-title="US - Entertainment",US | NBC 4 LA
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23211.ts
+#EXTINF:-1 tvg-id="WNBC.us" tvg-name="US | NBC 4 NY" tvg-logo="https://tlgrm.re/images/nbc-4-wnbc-us.png" group-title="US - Entertainment",US | NBC 4 NY
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15931.ts
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="US | NBC Golf" tvg-logo="https://tlgrm.re/images/nbc-golf-us.png" group-title="US - Sports",US | NBC Golf
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22500.ts
+#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="US | NBC SPORTS (BAY AREA) HD" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nbc_sports_bay_area.png" group-title="NBC Sports",US | NBC SPORTS (BAY AREA) HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/28744.ts
+#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-name="US | NBC SPORTS (BOSTON) HD" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nbc-sports-boston-us.png" group-title="NBC Sports",US | NBC SPORTS (BOSTON) HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/28743.ts
+#EXTINF:-1 tvg-id="NBCSportsCalifornia.us" tvg-name="US | NBC Sports (California) HD" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nbc_sports_california.png" group-title="NBC Sports",US | NBC Sports (California) HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/28742.ts
+#EXTINF:-1 tvg-id="nbcsportschicago.us" tvg-name="US | Chicago Sports Network (CHSN)" tvg-logo="https://tlgrm.re/images/chsn-logo.png" group-title="US - Sports",US | Chicago Sports Network (CHSN)
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/28741.ts
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-name="US | NBC Sports (Philadelphia) HD" tvg-logo="https://tlgrm.re/images/nbcsn-philadelphia-us.png" group-title="NBC Sports",US | NBC Sports (Philadelphia) HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/28738.ts
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US | NFL Channel HD" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nfl_network_us.png" group-title="US - Sports",US | NFL Channel HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15945.ts
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US | NFL Network HD" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nfl_network_us.png" group-title="US - Sports",US | NFL Network HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22491.ts
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="US | NFL Network SD" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nfl_network_us.png" group-title="US - Sports",US | NFL Network SD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22490.ts
+#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="US | NFL RED ZONE" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nfl_red_zone.png" group-title="US - Sports",US | NFL RED ZONE
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23279.ts
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="US | NHL Network HD" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nhl-network-us.png" group-title="US - Sports",US | NHL Network HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15941.ts
+
+#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="US | Sports Net 360 HD" tvg-logo="https://tlgrm.re/images/sportsnet-360-ca.png" group-title="US - Sports",US | Sports Net 360 HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15938.ts
+#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="US | Sportsnet One" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sportsnetone.png" group-title="US - Sports",US | Sportsnet One
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15930.ts
+#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="US | SportsNet Ontario HD" tvg-logo="https://tlgrm.re/images/sportsnet-ontario-ca.png" group-title="US - Sports",US | SportsNet Ontario HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15937.ts
+#EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-name="US | Sportsnet West HD" tvg-logo="https://tlgrm.re/images/sportsnet-west-ca.png" group-title="US - Sports",US | Sportsnet West HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15903.ts
+#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="US | Sportsnet World" tvg-logo="https://tlgrm.re/images/sportsnet-world-ca.png" group-title="US - Sports",US | Sportsnet World
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15936.ts
+
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="US | TSN 1 HD" tvg-logo="https://tlgrm.re/images/tsn-1-ca.png" group-title="US - Sports",US | TSN 1 HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15929.ts
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="US | TSN 2 HD" tvg-logo="https://tlgrm.re/images/tsn-2-ca.png" group-title="US - Sports",US | TSN 2 HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15928.ts
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="US | TSN 3 HD" tvg-logo="https://tlgrm.re/images/tsn-3-ca.png" group-title="US - Sports",US | TSN 3 HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15927.ts
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="US | TSN 4 HD" tvg-logo="https://tlgrm.re/images/tsn-4-ca.png" group-title="US - Sports",US | TSN 4 HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15926.ts
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="US | TSN 5 HD" tvg-logo="https://tlgrm.re/images/tsn-5-ca.png" group-title="US - Sports",US | TSN 5 HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15925.ts
+
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="US | Tennis Channel" tvg-logo="https://www.lyngsat.com//logo/tv/tt/tennis_channel.png" group-title="US - Sports",US | Tennis Channel
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22467.ts
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="US | Tennis Channel HD" tvg-logo="https://www.lyngsat.com//logo/tv/tt/tennis_channel.png" group-title="US - Sports",US | Tennis Channel HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15940.ts
+
+#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-name="US | The Weather Channel" tvg-logo="https://tlgrm.re/images/weather-channel-us.png" group-title="US - News",US | The Weather Channel
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22464.ts
+
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="US | UNIVISION TUDN" tvg-logo="https://www.lyngsat.com//logo/tv/tt/tudn-mexico-mx.png" group-title="US - Sports",US | UNIVISION TUDN
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23235.ts
+
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US: NFL Network HD" tvg-logo="https://tlgrm.re/images/nfl-network-us.png" group-title="NFL",US: NFL Network HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31134.ts
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US: NFL Network SD" tvg-logo="https://tlgrm.re/images/nfl-network-us.png" group-title="NFL",US: NFL Network SD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31133.ts
+#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="US: NFL RED ZONE HD" tvg-logo="https://tlgrm.re/images/nfl-red-zone-us.png" group-title="NFL",US: NFL RED ZONE HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31132.ts
+#EXTINF:-1 tvg-id="ballysportsdetroit.us" tvg-name="US | BALLY SPORTS DETROIT" tvg-logo="https://i.ibb.co/YhYYT6Q/ballyS.png" group-title="Bally Sports",US | BALLY SPORTS DETROIT
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31589.ts
+#EXTINF:-1 tvg-id="ballysportsmidwest.us" tvg-name="US | BALLY SPORTS MIDWEST (Missouri)" tvg-logo="https://i.ibb.co/YhYYT6Q/ballyS.png" group-title="Bally Sports",US | BALLY SPORTS MIDWEST (Missouri)
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31588.ts
+#EXTINF:-1 tvg-id="BallySportsNorth.us" tvg-name="US | BALLY SPORTS NORTH" tvg-logo="https://i.ibb.co/YhYYT6Q/ballyS.png" group-title="Bally Sports",US | BALLY SPORTS NORTH
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31587.ts
+#EXTINF:-1 tvg-id="BallySPortsGreatLakes.us" tvg-name="US | BALLY SPORTS Grate Lakes" tvg-logo="https://i.ibb.co/YhYYT6Q/ballyS.png" group-title="Bally Sports",US | BALLY SPORTS Grate Lakes
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31586.ts
+#EXTINF:-1 tvg-id="A&E FHD US" tvg-name="US | BALLY SPORTS PRIME TICKET" tvg-logo="https://i.ibb.co/YhYYT6Q/ballyS.png" group-title="Bally Sports",US | BALLY SPORTS PRIME TICKET
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31585.ts
+#EXTINF:-1 tvg-id="BallySportsSouthNashville.us" tvg-name="US | BALLY SPORTS SOUTH" tvg-logo="https://i.ibb.co/YhYYT6Q/ballyS.png" group-title="Bally Sports",US | BALLY SPORTS SOUTH
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31583.ts
+#EXTINF:-1 tvg-id="BallySportsSoutheast.us" tvg-name="US | BALLY SPORTS SOUTHEAST" tvg-logo="https://i.ibb.co/YhYYT6Q/ballyS.png" group-title="Bally Sports",US | BALLY SPORTS SOUTHEAST
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31582.ts
+#EXTINF:-1 tvg-id="BallySportsSouthwest.us" tvg-name="US | BALLY SPORTS SOUTHWEST" tvg-logo="https://i.ibb.co/YhYYT6Q/ballyS.png" group-title="Bally Sports",US | BALLY SPORTS SOUTHWEST
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31581.ts
+
+
+
+#EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Romania2",PRO TV
+https://rotv.vercel.app/api/1357.m3u8
+#EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Romania2",PRIMA TV
+https://rotv.vercel.app/api/1361.m3u8
+#EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Romania2",KANAL D
+https://rotv.vercel.app/api/1376.m3u8
+#EXTINF:-1 tvg-name="KANAL D2" tvg-logo="https://i.postimg.cc/7YPWGnz5/kanal-d2.png" group-title="Romania2",KANAL D2
+https://rotv.vercel.app/api/1321.m3u8
+#EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Romania2",DIGI 24
+https://rotv.vercel.app/api/1422.m3u8
+#EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Romania2",REALITATEA PLUS
+https://rotv.vercel.app/api/1424.m3u8
+#EXTINF:-1 tvg-name="România TV" tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png"group-title="Romania2",Romania TV
+https://rotv.vercel.app/api/1423.m3u8
+#EXTINF:-1 tvg-name="B1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Romania2",B1 TV
+https://rotv.vercel.app/api/1420.m3u8
+#EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Romania2",ANTENA 1
+https://rotv.vercel.app/api/1359.m3u8
+#EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Romania2",ANTENA STARS
+https://rotv.vercel.app/api/1385.m3u8
+#EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Romania2",Antena 3 CNN
+https://rotv.vercel.app/api/1425.m3u8
+#EXTINF:-1 tvg-name="TVR 1" tvg-id=""tvg-logo="https://i.postimg.cc/wTwVJ6Hn/TVR_1.png"group-title="Romania2",TVR 1
+https://rotv.vercel.app/api/1377.m3u8
+#EXTINF:-1 tvg-name="TVR 2" tvg-id=""tvg-logo="https://i.postimg.cc/fTzCJ34x/TVR_2.png"group-title="Romania2",TVR 2
+https://rotv.vercel.app/api/1379.m3u8
+#EXTINF:-1 tvg-name="TVR 3" tvg-id=""tvg-logo="https://i.postimg.cc/QdVqJRdC/TVR_3.png"group-title="Romania2",TVR 3
+https://rotv.vercel.app/api/1339.m3u8
+#EXTINF:-1 tvg-name="Euronews" tvg-id=""tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png"group-title="Romania2",Euronews RO
+https://rotv.vercel.app/api/1421.m3u8
+#EXTINF:-1 tvg-name="BBC News" tvg-id=""tvg-logo="https://i.postimg.cc/mr34Nv1c/BBC-News-logo-PNG-1.png"group-title="Romania2",BBC News
+https://rotv.vercel.app/api/1337.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png"group-title="Romania2",CNN
+https://rotv.vercel.app/api/1410.m3u8
+
