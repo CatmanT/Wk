@@ -224,12 +224,14 @@ http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/1846754.ts
 http://195.66.210.10:80/Gilbertosantos/mDKFtjLYRM/56195
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="USA Fox News SD" tvg-logo="http://181.233.124.64:80/images/6238892403d97166fc48fd625aad5634.png" group-title="USA News",USA Fox News SD
 http://xxip25.top:8080/20DKn6/055490/1818
-#EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News [Rumble]" tvg-logo="http://181.233.124.64:80/images/6238892403d97166fc48fd625aad5634.png" group-title="USA News",Fox News [Rumble]
-https://rumble.com/live-hls-dvr/6wi51a/playlist.m3u8
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News [Rumble]" tvg-logo="http://181.233.124.64:80/images/6238892403d97166fc48fd625aad5634.png" group-title="USA News",USA Fox News SD
+http://canal-pro.xyz:8080/982004180tv/3mxs50/23441
 #EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="USA Fox Business UHD" tvg-logo="http://23.227.147.172:80/images/912a0234221989a96eb2691da73bdf88.png" group-title="USA News",USA Fox Business UHD
 http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/176949.ts
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="USA CNN UHD*" tvg-logo="http://181.233.124.64:80/images/ecc7e800f5e0aeb9d2c47e6bf4f123bc.png" group-title="USA News",USA CNN UHD*
 http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/208973.ts
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="USA CNN UHD*" tvg-logo="http://181.233.124.64:80/images/ecc7e800f5e0aeb9d2c47e6bf4f123bc.png" group-title="USA News",USA CNN
+http://canal-pro.xyz:8080/982004180tv/3mxs50/23591
 #EXTINF:-1 tvg-id="cnninternational.us" tvg-name="USA CNN INTERNATIONAL*" tvg-logo="http://181.233.124.64:80/images/0ea6add692992b8a5316407be14423f6.png" group-title="USA News",USA CNN INTERNATIONAL*
 http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/175988.ts
 #EXTINF:-1 tvg-id="newsmax.us" tvg-name="USA NewsMAXL*" tvg-logo="https://1a-1791.com/video/z8/1/u/n/b/1unba.baa.1-NewsmaxTV-qu1fdv.jpeg" group-title="USA News",USA NewsMAX [Rumble]
