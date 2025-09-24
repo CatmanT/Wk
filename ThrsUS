@@ -37,6 +37,12 @@ http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/1846765.ts
 http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/175881.ts
 #EXTINF:-1 tvg-id="newsnation.us" tvg-name="USA NewsNation" tvg-logo="http://23.227.147.172:80/images/aecce659d0e59a6d08add0325953fc88.png" group-title="USA News",USA NewsNation
 http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/175977.ts
+#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="US | FOX BUSINESS HD" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox-business-us.png" group-title="USA News",US | FOX BUSINESS HD
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23320.ts
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="US | Fox News" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_news_channel.png" group-title="USA News",US | Fox News
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22530.ts
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="US | MSNBC" tvg-logo="https://www.lyngsat.com//logo/tv/mm/msnbc_us.png" group-title="USA News",US | MSNBC
+http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22506.ts
 
 
 #EXTINF:-1 tvg-id="beINSports.us" tvg-name="US | Bein Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-us.png" group-title="US - Sports",US | Bein Sports
@@ -82,11 +88,7 @@ http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22536.ts
 #EXTINF:-1 tvg-id="espnu.us" tvg-name="US | ESPN U HD" tvg-logo="https://www.lyngsat.com//logo/tv/ee/espn_u.png" group-title="US - Sports",US | ESPN U HD
 http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15949.ts
 
-#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="US | FOX BUSINESS HD" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox-business-us.png" group-title="US - News",US | FOX BUSINESS HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23320.ts
 
-#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="US | Fox News" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_news_channel.png" group-title="US - News",US | Fox News
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22530.ts
 #EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="US | Fox Soccer Plus" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_soccer_plus.png" group-title="US - Sports",US | Fox Soccer Plus
 http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23315.ts
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US | Fox Sports 1" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_sports_us_1.png" group-title="US - Sports",US | Fox Sports 1
@@ -111,10 +113,6 @@ http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15904.ts
 http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23290.ts
 #EXTINF:-1 tvg-id="hallmark.us" tvg-name="US | MSG +" tvg-logo="https://www.lyngsat.com//logo/tv/mm/msg_plus.png" group-title="US - Sports",US | MSG +
 http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23289.ts
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="US | MSNBC" tvg-logo="https://www.lyngsat.com//logo/tv/mm/msnbc_us.png" group-title="US - News",US | MSNBC
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22506.ts
-
-
 #EXTINF:-1 tvg-id="nbatv.us" tvg-name="US | NBA HD" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nba_tv_us.png" group-title="US - Sports",US | NBA HD
 http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15946.ts
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="US | NBA TV" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nba_tv_us.png" group-title="US - Sports",US | NBA TV
