@@ -156,10 +156,6 @@ http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15925.ts
 http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22467.ts
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="US | Tennis Channel HD" tvg-logo="https://www.lyngsat.com//logo/tv/tt/tennis_channel.png" group-title="US - Sports",US | Tennis Channel HD
 http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15940.ts
-
-#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-name="US | The Weather Channel" tvg-logo="https://tlgrm.re/images/weather-channel-us.png" group-title="US - News",US | The Weather Channel
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22464.ts
-
 #EXTINF:-1 tvg-id="TUDN.us" tvg-name="US | UNIVISION TUDN" tvg-logo="https://www.lyngsat.com//logo/tv/tt/tudn-mexico-mx.png" group-title="US - Sports",US | UNIVISION TUDN
 http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23235.ts
 
