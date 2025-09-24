@@ -20,7 +20,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=Antena3CNN.ro
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS
 plugin://plugin.video.thraxtv/?action=choose_source&id=RealitateaTV.ro
 #EXTINF:-1 tvg-name="România TV" tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png"group-title="Stiri",Romania TV
-plugin://plugin.video.thraxtv/?action=choose_source&id=
+plugin://plugin.video.thraxtv/?action=choose_source&id=RomaniaTV.ro
 #EXTINF:-1 tvg-name="Euronews" tvg-id=""tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png"group-title="Stiri",Euronews RO
 plugin://plugin.video.thraxtv/?action=choose_source&id=EuronewsRomania.ro
 #EXTINF:-1 tvg-name="CNN" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png"group-title="Stiri",CNN
