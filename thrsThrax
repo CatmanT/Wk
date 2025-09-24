@@ -91,7 +91,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=FilmCafe.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=ProCinema.ro
 #EXTINF:-1 tvg-name="Warner TV" tvg-id=""tvg-logo="https://i.postimg.cc/L628LSc4/Warner.png"group-title="Movies",Warner TV
 plugin://plugin.video.thraxtv/?action=choose_source&id=WarnerTV.ro
-#EXTINF:-1 tvg-name="Viasat-Kino" tvg-id=""tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032251913609_23.png"group-title="Movies",Viasat-Kino
+#EXTINF:-1 tvg-name="Viasat Kino" tvg-id=""tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032251913609_23.png"group-title="Movies",Viasat Kino
 plugin://plugin.video.thraxtv/?action=choose_source&id=TV1000.ro
 #EXTINF:-1 tvg-name="Bollywood Clasic" tvg-id=""tvg-logo="https://i.postimg.cc/8khMdTdt/Bollywood-TV.png"group-title="Movies",Bollywood Clasic
 plugin://plugin.video.thraxtv/?action=choose_source&id=BollywoodClassic.ro
