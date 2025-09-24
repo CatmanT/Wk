@@ -218,38 +218,3 @@ http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31582.ts
 http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31581.ts
 
 
-
-#EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Romania2",PRO TV
-https://rotv.vercel.app/api/1357.m3u8
-#EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Romania2",PRIMA TV
-https://rotv.vercel.app/api/1361.m3u8
-#EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Romania2",KANAL D
-https://rotv.vercel.app/api/1376.m3u8
-#EXTINF:-1 tvg-name="KANAL D2" tvg-logo="https://i.postimg.cc/7YPWGnz5/kanal-d2.png" group-title="Romania2",KANAL D2
-https://rotv.vercel.app/api/1321.m3u8
-#EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Romania2",DIGI 24
-https://rotv.vercel.app/api/1422.m3u8
-#EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Romania2",REALITATEA PLUS
-https://rotv.vercel.app/api/1424.m3u8
-#EXTINF:-1 tvg-name="România TV" tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png"group-title="Romania2",Romania TV
-https://rotv.vercel.app/api/1423.m3u8
-#EXTINF:-1 tvg-name="B1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Romania2",B1 TV
-https://rotv.vercel.app/api/1420.m3u8
-#EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Romania2",ANTENA 1
-https://rotv.vercel.app/api/1359.m3u8
-#EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Romania2",ANTENA STARS
-https://rotv.vercel.app/api/1385.m3u8
-#EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Romania2",Antena 3 CNN
-https://rotv.vercel.app/api/1425.m3u8
-#EXTINF:-1 tvg-name="TVR 1" tvg-id=""tvg-logo="https://i.postimg.cc/wTwVJ6Hn/TVR_1.png"group-title="Romania2",TVR 1
-https://rotv.vercel.app/api/1377.m3u8
-#EXTINF:-1 tvg-name="TVR 2" tvg-id=""tvg-logo="https://i.postimg.cc/fTzCJ34x/TVR_2.png"group-title="Romania2",TVR 2
-https://rotv.vercel.app/api/1379.m3u8
-#EXTINF:-1 tvg-name="TVR 3" tvg-id=""tvg-logo="https://i.postimg.cc/QdVqJRdC/TVR_3.png"group-title="Romania2",TVR 3
-https://rotv.vercel.app/api/1339.m3u8
-#EXTINF:-1 tvg-name="Euronews" tvg-id=""tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png"group-title="Romania2",Euronews RO
-https://rotv.vercel.app/api/1421.m3u8
-#EXTINF:-1 tvg-name="BBC News" tvg-id=""tvg-logo="https://i.postimg.cc/mr34Nv1c/BBC-News-logo-PNG-1.png"group-title="Romania2",BBC News
-https://rotv.vercel.app/api/1337.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png"group-title="Romania2",CNN
-https://rotv.vercel.app/api/1410.m3u8
