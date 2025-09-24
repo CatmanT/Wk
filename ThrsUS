@@ -97,8 +97,6 @@ http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15948.ts
 http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22525.ts
 #EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US | Fox Sports 2 HD" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_sports_us_2.png" group-title="US - Sports",US | Fox Sports 2 HD
 http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15947.ts
-#EXTINF:-1 tvg-id="Galavision.us" tvg-name="US | GALAVISION" tvg-logo="https://tlgrm.re/images/galavision-us.png" group-title="US - Entertainment",US | GALAVISION
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23307.ts
 
 #EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US | Golf HD" tvg-logo="https://www.lyngsat.com//logo/tv/gg/golf_channel_us.png" group-title="US - Sports",US | Golf HD
 http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15943.ts
@@ -121,24 +119,8 @@ http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22506.ts
 http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15946.ts
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="US | NBA TV" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nba_tv_us.png" group-title="US - Sports",US | NBA TV
 http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22501.ts
-#EXTINF:-1 tvg-id="nbc10wcau.us" tvg-name="US | NBC 10 EAST" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/nbc10.png" group-title="US - Entertainment",US | NBC 10 EAST
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23283.ts
-#EXTINF:-1 tvg-id="WNBC.us" tvg-name="US | NBC 4 LA" tvg-logo="https://tlgrm.re/images/nbc-4-wnbc-us.png" group-title="US - Entertainment",US | NBC 4 LA
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23211.ts
-#EXTINF:-1 tvg-id="WNBC.us" tvg-name="US | NBC 4 NY" tvg-logo="https://tlgrm.re/images/nbc-4-wnbc-us.png" group-title="US - Entertainment",US | NBC 4 NY
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15931.ts
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="US | NBC Golf" tvg-logo="https://tlgrm.re/images/nbc-golf-us.png" group-title="US - Sports",US | NBC Golf
 http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22500.ts
-#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="US | NBC SPORTS (BAY AREA) HD" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nbc_sports_bay_area.png" group-title="NBC Sports",US | NBC SPORTS (BAY AREA) HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/28744.ts
-#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-name="US | NBC SPORTS (BOSTON) HD" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nbc-sports-boston-us.png" group-title="NBC Sports",US | NBC SPORTS (BOSTON) HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/28743.ts
-#EXTINF:-1 tvg-id="NBCSportsCalifornia.us" tvg-name="US | NBC Sports (California) HD" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nbc_sports_california.png" group-title="NBC Sports",US | NBC Sports (California) HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/28742.ts
-#EXTINF:-1 tvg-id="nbcsportschicago.us" tvg-name="US | Chicago Sports Network (CHSN)" tvg-logo="https://tlgrm.re/images/chsn-logo.png" group-title="US - Sports",US | Chicago Sports Network (CHSN)
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/28741.ts
-#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-name="US | NBC Sports (Philadelphia) HD" tvg-logo="https://tlgrm.re/images/nbcsn-philadelphia-us.png" group-title="NBC Sports",US | NBC Sports (Philadelphia) HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/28738.ts
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US | NFL Channel HD" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nfl_network_us.png" group-title="US - Sports",US | NFL Channel HD
 http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15945.ts
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US | NFL Network HD" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nfl_network_us.png" group-title="US - Sports",US | NFL Network HD
