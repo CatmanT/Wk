@@ -214,4 +214,6 @@ plugin://plugin.video.rdslive/?action=play&post_id=1474&post_url=https%3A%2F%2Fr
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id=""tvg-logo="https://i.postimg.cc/1tVT78Rg/Nickelodeon.png"group-title="Kids",NICKELODEON
 plugin://plugin.video.rdslive/?action=play&post_id=1479&post_url=https%3A%2F%2Frds.live
 
+#EXTINF:-1 tvg-name="Fox News" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="US",Fox News
+plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.top%2F%2Fstream%2Fstream-347.php
 
