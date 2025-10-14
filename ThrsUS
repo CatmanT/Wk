@@ -186,3 +186,7 @@ http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31581.ts
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.top%2F%2Fstream%2Fstream-347.php
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"group-title="RT Documentary",Operation 'Pipeline'
+https://rumble.com/hls-vod/6x9hgg/playlist.m3u8
+
+
