@@ -188,5 +188,9 @@ plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.top%2F%2Fs
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"group-title="RT Documentary",Operation 'Pipeline'
 https://rumble.com/hls-vod/6x9hgg/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"group-title="RT Documentary",Donbass: 'Nevsky' Brigade
+https://rumble.com/hls-vod/6wtz7m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"group-title="RT Documentary",21st Century Combat
+https://rumble.com/hls-vod/6vf1zo/playlist.m3u8
 
 
