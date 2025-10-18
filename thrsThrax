@@ -178,7 +178,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=DigiSport3.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=DigiSport4.ro
 #EXTINF:-1 tvg-name="Prima Sport 1" tvg-logo="https://tvhdonline.org/tv-hd/img/canale/ps1.png" group-title="Sport",Prima Sport 1
 plugin://plugin.video.thraxtv/?action=choose_source&id=PrimaSport1.ro
-#EXTINF:-1 tvg-name="Prima Sport 2" tvg-logo="https://tvhdonline.org/tv-hd/img/canale/ps2.pngg" group-title="Sport",Prima Sport 2
+#EXTINF:-1 tvg-name="Prima Sport 2" tvg-logo="https://tvhdonline.org/tv-hd/img/canale/ps2.png" group-title="Sport",Prima Sport 2
 plugin://plugin.video.thraxtv/?action=choose_source&id=PrimaSport2.ro
 #EXTINF:-1 tvg-name="Prima Sport 3" tvg-logo="https://tvhdonline.org/tv-hd/img/canale/ps3.png" group-title="Sport",Prima Sport 3
 plugin://plugin.video.thraxtv/?action=choose_source&id=PrimaSport3.ro
