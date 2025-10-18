@@ -61,9 +61,9 @@ plugin://plugin.video.rdslive/?action=play&post_id=1835&post_url=https%3A%2F%2Fr
 plugin://plugin.video.rdslive/?action=play&post_id=1828&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Filmbox Premium" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/FilmBox_Premium_log.png"group-title="Movies",Filmbox Premium
 plugin://plugin.video.rdslive/?action=play&post_id=1824&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="SkyShowtime 1" tvg-id=""tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/182ec50c-9466-4ade-9671-b8385566d537/deznebk-a1a9710b-31a0-4363-9e72-69bade01b90b.png/v1/fill/w_1192,h_670/skyshowtime_2022_color_concept_by_waynemarcelo2009_deznebk-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMTgyZWM1MGMtOTQ2Ni00YWRlLTk2NzEtYjgzODU1NjZkNTM3XC9kZXpuZWJrLWExYTk3MTBiLTMxYTAtNDM2My05ZTcyLTY5YmFkZTAxYjkwYi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.RpkdH9c8Lf4tloXcWIqqa4xG34VkVKSRWk4hpcmGCaw"group-title="Movies",SkyShowtime 1
+#EXTINF:-1 tvg-name="SkyShowtime 1" tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/SkyShowtime_2.png"group-title="Movies",SkyShowtime 1
 plugin://plugin.video.rdslive/?action=play&post_id=1792&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="SkyShowtime 2" tvg-id=""tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/3V4783l8A38UGPGn8yqsJ3/dd900001efcfa5c5250667f13879428e/skyshowtime-2.png"group-title="Movies",SkyShowtime 2
+#EXTINF:-1 tvg-name="SkyShowtime 2" tvg-id=""tvg-logo="https://www.allatvkanaler.se/assets/61/logo/skyshowtime-2-tabla.png"group-title="Movies",SkyShowtime 2
 plugin://plugin.video.rdslive/?action=play&post_id=1839&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="AXN HD" tvg-id=""tvg-logo="https://i.postimg.cc/43qVPdFF/AXN-HD.png"group-title="Movies",AXN-HD
 plugin://plugin.video.rdslive/?action=play&post_id=1560&post_url=https%3A%2F%2Frds.live
