@@ -1,186 +1,26 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" group-title="USA News",Fox News
-http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/1846754.ts
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" group-title="USA News",Fox News
+http://1tv41.icu:8080/Gx6Vdx/703084/1818
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" group-title="USA News",Fox News
 http://1tv41.icu:8080/3022207888/leonmatthews60@gmail.com/1818
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" group-title="USA News",Fox News
-http://xxip25.top:8080/20DKn6/055490/1818
-#EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" group-title="USA News",Fox News
 http://canal-pro.xyz:8080/982004180tv/3mxs50/23441
 #EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="Fox Business UHD" tvg-logo="http://23.227.147.172:80/images/912a0234221989a96eb2691da73bdf88.png" group-title="USA News",Fox Business UHD
-http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/176949.ts
+http://1tv41.icu:8080/Gx6Vdx/703084/17639
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" group-title="USA News",Fox News
+http://1tv41.icu:8080/Gx6Vdx/703084/135794
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN UHD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="USA News",CNN UHD*
-http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/208973.ts
+http://1tv41.icu:8080/Gx6Vdx/703084/1817
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN UHD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="USA News",CNN
 http://canal-pro.xyz:8080/982004180tv/3mxs50/23591
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="USA News",CNN
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23340.ts
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="USA News",CNN
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15934.ts
-#EXTINF:-1 tvg-id="cnninternational.us" tvg-name="CNN INTERNATIONAL*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="USA News",CNN INTERNATIONAL*
-http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/175988.ts
 #EXTINF:-1 tvg-id="wcbs.us" tvg-name="CBS News" tvg-logo="https://tlgrm.re/images/cbs-news-us.png" group-title="USA News",US | CBS News
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23336.ts
+http://1tv41.icu:8080/Gx6Vdx/703084/21259
 #EXTINF:-1 tvg-id="newsmax.us" tvg-name="NewsMAX*" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax-tv-us.png" group-title="USA News",NewsMAX [Rumble]
 https://rumble.com/live-hls-dvr/5xwnen/playlist.m3u8?
 #EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC UHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" group-title="USA News",CNBC UHD
-http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/943540.ts
-#EXTINF:-1 tvg-id="abcnewslive.us" tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-logo-2008-us.png" group-title="USA News",US | ABC News
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15967.ts
-#EXTINF:-1 tvg-id="newsmax.us" tvg-name="NEWSMAX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax-tv-us.png" group-title="USA News",NEWSMAX
-http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/391595.ts
-#EXTINF:-1 tvg-id="oneamericanews.us" tvg-name="OAN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/one-america-news-network-us.png" group-title="USA News",OAN
-http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/1846765.ts
-#EXTINF:-1 tvg-id="IWN" tvg-name="InfoWars" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/info-wars-us.png" group-title="USA News",InfoWars
-http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/175881.ts
-#EXTINF:-1 tvg-id="newsnation.us" tvg-name="NewsNation" tvg-logo="http://23.227.147.172:80/images/aecce659d0e59a6d08add0325953fc88.png" group-title="USA News",NewsNation
-http://line.lemotv.cc:80/Xhafer8765/jUDPsUgPek/175977.ts
-#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="FOX BUSINESS" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox-business-us.png" group-title="USA News",FOX BUSINESS HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23320.ts
-#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="Fox News" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_news_channel.png" group-title="USA News",US | Fox News
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22530.ts
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://www.lyngsat.com//logo/tv/mm/msnbc_us.png" group-title="USA News",US | MSNBC
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22506.ts
+http://1tv41.icu:8080/Gx6Vdx/703084/9815
 
-
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="US | Bein Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-us.png" group-title="US - Sports",US | Bein Sports
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15922.ts
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="Bein Sport 01" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-us.png" group-title="Bein Sports",Bein Sport 01
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/12554.ts
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="Bein Sport 02" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-2-us.png" group-title="Bein Sports",Bein Sport 02
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/12553.ts
-#EXTINF:-1 tvg-id="4Music.uk" tvg-name="Bein Sport 03" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-3-us.png" group-title="Bein Sports",Bein Sport 03
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/12552.ts
-#EXTINF:-1 tvg-id="hallmark.us" tvg-name="Bein Sport 04" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-4-us.png" group-title="Bein Sports",Bein Sport 04
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/12551.ts
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="Bein Sport 05" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-5-us.png" group-title="Bein Sports",Bein Sport 05
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/12550.ts
-#EXTINF:-1 tvg-id="bein.sport.en.espanol.us" tvg-name="Bein Sport 06" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-6-us.png" group-title="Bein Sports",Bein Sport 06
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/12549.ts
-#EXTINF:-1 tvg-id="bein.sport.en.espanol.us" tvg-name="Bein Sport 07" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-7-us.png" group-title="Bein Sports",Bein Sport 07
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/12548.ts
-#EXTINF:-1 tvg-id="bein.sport.en.espanol.us" tvg-name="Bein Sport 08 News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-8-us.png" group-title="Bein Sports",Bein Sport 08 News
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/12547.ts
-#EXTINF:-1 tvg-id="beinsportsxtra.us" tvg-name="Bein Sport 09  XTRA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-xtra-us.png" group-title="Bein Sports",Bein Sport 09  XTRA 1
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/12546.ts
-#EXTINF:-1 tvg-id="hallmark.us" tvg-name="Bein Sport 10 XTRA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-xtra-us.png" group-title="Bein Sports",Bein Sport 10 XTRA 2
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/12545.ts
-
-
-#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="US | BIG TEN NETWORK" tvg-logo="https://www.lyngsat.com//logo/tv/bb/big-ten-network-us.png" group-title="US - Sports",US | BIG TEN NETWORK
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23355.ts
-#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US | CBS Sports Network HD" tvg-logo="https://www.lyngsat.com//logo/tv/cc/cbs-sports-network-us.png" group-title="US - Sports",US | CBS Sports Network HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15944.ts
-
-
-#EXTINF:-1 tvg-id="hallmark.us" tvg-name="US | ESPN 2" tvg-logo="https://tlgrm.re/images/espn-2-us.png" group-title="US - Sports",US | ESPN 2
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15950.ts
-#EXTINF:-1 tvg-id="espn.us" tvg-name="US | ESPN HD" tvg-logo="https://www.lyngsat.com//logo/tv/ee/espn_us.png" group-title="US - Sports",US | ESPN HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15951.ts
-#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="US | ESPN NEWS" tvg-logo="https://www.lyngsat.com//logo/tv/ee/espnews.png" group-title="US - Sports",US | ESPN NEWS
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23213.ts
-#EXTINF:-1 tvg-id="espnnews.us" tvg-name="US | ESPN News HD" tvg-logo="https://www.lyngsat.com//logo/tv/ee/espnews.png" group-title="US - Sports",US | ESPN News HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15952.ts
-#EXTINF:-1 tvg-id="hallmark.us" tvg-name="US | ESPN U" tvg-logo="https://www.lyngsat.com//logo/tv/ee/espn_u.png" group-title="US - Sports",US | ESPN U
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22536.ts
-#EXTINF:-1 tvg-id="espnu.us" tvg-name="US | ESPN U HD" tvg-logo="https://www.lyngsat.com//logo/tv/ee/espn_u.png" group-title="US - Sports",US | ESPN U HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15949.ts
-
-
-#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="US | Fox Soccer Plus" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_soccer_plus.png" group-title="US - Sports",US | Fox Soccer Plus
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23315.ts
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US | Fox Sports 1" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_sports_us_1.png" group-title="US - Sports",US | Fox Sports 1
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22526.ts
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US | Fox Sports 1 HD" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_sports_us_1.png" group-title="US - Sports",US | Fox Sports 1 HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15948.ts
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="US | Fox Sports 2" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_sports_us_2.png" group-title="US - Sports",US | Fox Sports 2
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22525.ts
-#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US | Fox Sports 2 HD" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_sports_us_2.png" group-title="US - Sports",US | Fox Sports 2 HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15947.ts
-
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US | Golf HD" tvg-logo="https://www.lyngsat.com//logo/tv/gg/golf_channel_us.png" group-title="US - Sports",US | Golf HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15943.ts
-
-#EXTINF:-1 tvg-id="MAVTV.us" tvg-name="US | MAV TV" tvg-logo="https://www.lyngsat.com//logo/tv/mm/mav_tv_us.png" group-title="US - Sports",US | MAV TV
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/25946.ts
-#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="US | MLB Network" tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="US - Sports",US | MLB Network
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22507.ts
-#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="US | MLB Network HD" tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="US - Sports",US | MLB Network HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15904.ts
-#EXTINF:-1 tvg-id="MadisonSquareGarden.us" tvg-name="US | MSG" tvg-logo="https://www.lyngsat.com//logo/tv/mm/msg_network_us.png" group-title="US - Sports",US | MSG
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23290.ts
-#EXTINF:-1 tvg-id="hallmark.us" tvg-name="US | MSG +" tvg-logo="https://www.lyngsat.com//logo/tv/mm/msg_plus.png" group-title="US - Sports",US | MSG +
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23289.ts
-#EXTINF:-1 tvg-id="nbatv.us" tvg-name="US | NBA HD" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nba_tv_us.png" group-title="US - Sports",US | NBA HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15946.ts
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="US | NBA TV" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nba_tv_us.png" group-title="US - Sports",US | NBA TV
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22501.ts
-#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="US | NBC Golf" tvg-logo="https://tlgrm.re/images/nbc-golf-us.png" group-title="US - Sports",US | NBC Golf
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22500.ts
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US | NFL Channel HD" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nfl_network_us.png" group-title="US - Sports",US | NFL Channel HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15945.ts
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US | NFL Network HD" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nfl_network_us.png" group-title="US - Sports",US | NFL Network HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22491.ts
-#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="US | NFL Network SD" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nfl_network_us.png" group-title="US - Sports",US | NFL Network SD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22490.ts
-#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="US | NFL RED ZONE" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nfl_red_zone.png" group-title="US - Sports",US | NFL RED ZONE
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23279.ts
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="US | NHL Network HD" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nhl-network-us.png" group-title="US - Sports",US | NHL Network HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15941.ts
-
-#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="US | Sports Net 360 HD" tvg-logo="https://tlgrm.re/images/sportsnet-360-ca.png" group-title="US - Sports",US | Sports Net 360 HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15938.ts
-#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="US | Sportsnet One" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sportsnetone.png" group-title="US - Sports",US | Sportsnet One
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15930.ts
-#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="US | SportsNet Ontario HD" tvg-logo="https://tlgrm.re/images/sportsnet-ontario-ca.png" group-title="US - Sports",US | SportsNet Ontario HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15937.ts
-#EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-name="US | Sportsnet West HD" tvg-logo="https://tlgrm.re/images/sportsnet-west-ca.png" group-title="US - Sports",US | Sportsnet West HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15903.ts
-#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="US | Sportsnet World" tvg-logo="https://tlgrm.re/images/sportsnet-world-ca.png" group-title="US - Sports",US | Sportsnet World
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15936.ts
-
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="US | TSN 1 HD" tvg-logo="https://tlgrm.re/images/tsn-1-ca.png" group-title="US - Sports",US | TSN 1 HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15929.ts
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="US | TSN 2 HD" tvg-logo="https://tlgrm.re/images/tsn-2-ca.png" group-title="US - Sports",US | TSN 2 HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15928.ts
-#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="US | TSN 3 HD" tvg-logo="https://tlgrm.re/images/tsn-3-ca.png" group-title="US - Sports",US | TSN 3 HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15927.ts
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="US | TSN 4 HD" tvg-logo="https://tlgrm.re/images/tsn-4-ca.png" group-title="US - Sports",US | TSN 4 HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15926.ts
-#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="US | TSN 5 HD" tvg-logo="https://tlgrm.re/images/tsn-5-ca.png" group-title="US - Sports",US | TSN 5 HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15925.ts
-
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="US | Tennis Channel" tvg-logo="https://www.lyngsat.com//logo/tv/tt/tennis_channel.png" group-title="US - Sports",US | Tennis Channel
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/22467.ts
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="US | Tennis Channel HD" tvg-logo="https://www.lyngsat.com//logo/tv/tt/tennis_channel.png" group-title="US - Sports",US | Tennis Channel HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/15940.ts
-#EXTINF:-1 tvg-id="TUDN.us" tvg-name="US | UNIVISION TUDN" tvg-logo="https://www.lyngsat.com//logo/tv/tt/tudn-mexico-mx.png" group-title="US - Sports",US | UNIVISION TUDN
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/23235.ts
-
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US: NFL Network HD" tvg-logo="https://tlgrm.re/images/nfl-network-us.png" group-title="NFL",US: NFL Network HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31134.ts
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US: NFL Network SD" tvg-logo="https://tlgrm.re/images/nfl-network-us.png" group-title="NFL",US: NFL Network SD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31133.ts
-#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="US: NFL RED ZONE HD" tvg-logo="https://tlgrm.re/images/nfl-red-zone-us.png" group-title="NFL",US: NFL RED ZONE HD
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31132.ts
-#EXTINF:-1 tvg-id="ballysportsdetroit.us" tvg-name="US | BALLY SPORTS DETROIT" tvg-logo="https://i.ibb.co/YhYYT6Q/ballyS.png" group-title="Bally Sports",US | BALLY SPORTS DETROIT
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31589.ts
-#EXTINF:-1 tvg-id="ballysportsmidwest.us" tvg-name="US | BALLY SPORTS MIDWEST (Missouri)" tvg-logo="https://i.ibb.co/YhYYT6Q/ballyS.png" group-title="Bally Sports",US | BALLY SPORTS MIDWEST (Missouri)
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31588.ts
-#EXTINF:-1 tvg-id="BallySportsNorth.us" tvg-name="US | BALLY SPORTS NORTH" tvg-logo="https://i.ibb.co/YhYYT6Q/ballyS.png" group-title="Bally Sports",US | BALLY SPORTS NORTH
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31587.ts
-#EXTINF:-1 tvg-id="BallySPortsGreatLakes.us" tvg-name="US | BALLY SPORTS Grate Lakes" tvg-logo="https://i.ibb.co/YhYYT6Q/ballyS.png" group-title="Bally Sports",US | BALLY SPORTS Grate Lakes
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31586.ts
-#EXTINF:-1 tvg-id="A&E FHD US" tvg-name="US | BALLY SPORTS PRIME TICKET" tvg-logo="https://i.ibb.co/YhYYT6Q/ballyS.png" group-title="Bally Sports",US | BALLY SPORTS PRIME TICKET
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31585.ts
-#EXTINF:-1 tvg-id="BallySportsSouthNashville.us" tvg-name="US | BALLY SPORTS SOUTH" tvg-logo="https://i.ibb.co/YhYYT6Q/ballyS.png" group-title="Bally Sports",US | BALLY SPORTS SOUTH
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31583.ts
-#EXTINF:-1 tvg-id="BallySportsSoutheast.us" tvg-name="US | BALLY SPORTS SOUTHEAST" tvg-logo="https://i.ibb.co/YhYYT6Q/ballyS.png" group-title="Bally Sports",US | BALLY SPORTS SOUTHEAST
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31582.ts
-#EXTINF:-1 tvg-id="BallySportsSouthwest.us" tvg-name="US | BALLY SPORTS SOUTHWEST" tvg-logo="https://i.ibb.co/YhYYT6Q/ballyS.png" group-title="Bally Sports",US | BALLY SPORTS SOUTHWEST
-http://kstv.us:8080/live/p2NuH0rjWw/45035275294/31581.ts
 
 #EXTINF:-1 tvg-name="Fox News" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="US-TESTing",Fox News
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.top%2F%2Fstream%2Fstream-347.php
