@@ -26,9 +26,6 @@ https://rumble.com/live-hls-dvr/5xwnen/playlist.m3u8?
 http://1tv41.icu:8080/Gx6Vdx/703084/9815
 
 
-#EXTINF:-1 tvg-name="Fox News" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="US-TESTing",Fox News
-plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.top%2F%2Fstream%2Fstream-347.php
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"group-title="RT Documentary",Operation 'Pipeline'
 https://rumble.com/hls-vod/6x9hgg/playlist.m3u8
