@@ -26,6 +26,9 @@ https://rumble.com/live-hls-dvr/5xwnen/playlist.m3u8?
 http://1tv41.icu:8080/Gx6Vdx/703084/9815
 
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg"group-title="Filme",The Wrecking Crew
+plugin://plugin.video.neo_flix/?action=choose_stream&urls=KxdXCwgMSxpLXkVNdS0qIxA0HgwcLSQxR15cHi1GJyojYTw4TXNGThwKHE5PR0sGWgIZF19AAQMcGTYCHAUZCUIWCARBSlkdFRQVQBQKGzReWxFaDUBVHEsCTxQMCEdVDkw-LBAqIzsUGQEQOi8malZYVF1fdUEmIBMpPjRaXExXEhsCDExJRg0bWh4WVXBJHx0KFQ0YEwgeS1gKCwhAWEEHBGdfNi4cOg4EBDkXeRtGRhhDDhVHAz4ECQVaSkxXPCohYjk7CAwCSzMjJxtGXVlAQDdaJCYiYSQ0RklPDBsXA31cTEsQBBgFFFNBARocCBAZRwpLDDALQw1XRF1BDB0WQxMaDQgWDBM4
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"group-title="RT Documentary",Operation 'Pipeline'
 https://rumble.com/hls-vod/6x9hgg/playlist.m3u8
