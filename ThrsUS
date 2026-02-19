@@ -26,36 +26,61 @@ https://rumble.com/live-hls-dvr/5xwnen/playlist.m3u8?
 http://1tv41.icu:8080/Gx6Vdx/703084/9815
 
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg"group-title="Filme",The Wrecking Crew
-plugin://plugin.video.neo_flix/?action=choose_stream&urls=KxdXCwgMSxpLXkVNdS0qIxA0HgwcLSQxR15cHi1GJyojYTw4TXNGThwKHE5PR0sGWgIZF19AAQMcGTYCHAUZCUIWCARBSlkdFRQVQBQKGzReWxFaDUBVHEsCTxQMCEdVDkw-LBAqIzsUGQEQOi8malZYVF1fdUEmIBMpPjRaXExXEhsCDExJRg0bWh4WVXBJHx0KFQ0YEwgeS1gKCwhAWEEHBGdfNi4cOg4EBDkXeRtGRhhDDhVHAz4ECQVaSkxXPCohYjk7CAwCSzMjJxtGXVlAQDdaJCYiYSQ0RklPDBsXA31cTEsQBBgFFFNBARocCBAZRwpLDDALQw1XRF1BDB0WQxMaDQgWDBM4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg"group-title="Filme",Greenland 2: Migration
-plugin://plugin.video.neo_flix/?action=choose_stream&urls=KxdXCwgMSxpLXkVNdS0qIxA0HgwcLSQxR15cHi1GJyojYTw4TXNGThwKHE5PR0sGWgIZF19AAQMcGTYCHAUZCUIWCARBSllRBgZWSgFRCCkDCRBaDUBVHEsCTxQMCEdVDkw-LBAqIzsUGQEQOi8malZYVF1fdUEmIBMpPjRaXExXEhsCDExJRg0bWh4WVXBJHx0KFQ0YEwgeS1gKCwhAWEEXKw4_FAIgQQg3Dg5fYllLGUlPVUwJDj0DAEtCUE4uJCYiYSQFDQgKcygtK39XXFFIK0M2KCUhfCtLSEVNWxwJTWVGTgEMBBwGXUZBQgMFERMGSkAGADJJCEYOAx4RDBgFSAMEBlFNUzM%3D
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg"group-title="Filme",+The Rip
-plugin://plugin.video.neo_flix/?action=choose_stream&urls=KxdXCwgMSxpLXkVNdS0qIxA0HgwcLSQxR15cHi1GJyojYTw4TXNGThwKHE5PR0sGWgIZF19AAQMcGTYCHAUZCUIWCARBSlkOCQlcXRgfHDdQClhaDUBVHEsCTxQMCEdVDkw-LBAqIzsUGQEQOi8malZYVF1fdUEmIBMpPjRaXExXEhsCDExJRg0bWh4WVXBJHx0KFQ0YEwgeS1gKCwhAWEETFRU_VBMoFAZFIV1dHw5GRhhDDhVHAz4ECQVaSkxXPCohYjk7CAwCSzMjJxtGXVlAQDdaJCYiYSQ0RklPDBsXA31cTEsQBBgFFFNBARsQEgwLXgIEFnEFAwRXFEMNBRkNSgdbU11YXxZHEgI%3D
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/ArDLn658OjT3dMThIi4GDQJRuY3.jpg"group-title="Filme",Truth & Treason
-plugin://plugin.video.neo_flix/?action=choose_stream&urls=KxdXCwgMSxpLXkVNdS0qIxA0HgwcLSQxR15cHi1GJyojYTw4TXNGThwKHE5PR0sGWgIZF19AAQMcGTYCHAUZCUIWCARBSlkADghWSR1cX20HGAZaDUBVHEsCTxQMCEdVDkw-LBAqIzsUGQEQOi8malZYVF1fdUEmIBMpPjRaXExXEhsCDExJRg0bWh4WVXBJHx0KFQ0YEwgeS1gKCwhAWEEiChMqLVE_RloPITMiQVlLGTg%3D
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/78B66xBCgmnh88d10B85uFjC88V.jpg"group-title="Filme",+Thieves Highway
-plugin://plugin.video.neo_flix/?action=choose_stream&urls=KxdXCwgMSxpLXkVNdS0qIxA0HgwcLSQxR15cHi1GJyojYTw4TXNGThwKHE5PR0sGWgIZF19AAQMcGTYCHAUZCUIWCARBSllaCAAVRl5RBjRXXFtaDUBVHEsCTxQMCEdVDkw-LBAqIzsUGQEQOi8malZYVF1fdUEmIBMpPjRaXExXEhsCDExJRg0bWh4WVXBJHx0KFQ0YEwgeS1gKCwhAWEFUDRhWNgNJND4tMgwfYRdGRhgy
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/dXVGVz3sGLVnJf7tiJ9zDHqiqFX.jpg"group-title="Filme",+Song Sung Blue
-plugin://plugin.video.neo_flix/?action=choose_stream&urls=KxdXCwgMSxpLXkVNdS0qIxA0HgwcLSQxR15cHi1GJyojYTw4TXNGThwKHE5PR0sGWgIZF19AAQMcGTYCHAUZCUIWCARBSlkECABcTVoUGDxUVRBaDUBVHEsCTxQMCEdVDkw-LBAqIzsUGQEQOi8malZYVF1fdUEmIBMpPjRaXExXEhsCDExJRg0bWh4WVXBJARAOGQgFCwgXABUGCUoLAQxVBS1SXFsdHFlBF0sTAlYSRgkOTAsJTWVGTjI7PyA6NQUHQxM0Ii0rDl9VV289Qyo3PCMnOktCDlQcFglNFE5HBysSHBpCX0MDDg0ASwUdSgwAARYHHmsNHQYaARwGCEsTcw%3D%3D
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg"group-title="Filme",+Anaconda
-plugin://plugin.video.neo_flix/?action=choose_stream&urls=KxdXCwgMSxpLXkVNdS0qIxA0HgwcLSQxR15cHi1GJyojYTw4TXNGThwKHE5PR0sGWgIZF19AAQMcGTYCHAUZCUIWCARBSlkfFA0dSAFRCCsRWAFaDUBVHEsCTxQMCEdVDkw-LBAqIzsUGQEQOi8malZYVF1fdUEmIBMpPjRaXExXEhsCDExJRg0bWh4WVXBJHx0KFQ0YEwgeS1gKCwhAWEE_Xm9fC14dGzw4JBgfdyRGRhhDDhVHAz4ECQVaSkxXPCohYjk7CAwCSzMjJxtGXVlAQDdaJCYiYSQ0RklPDBsXA31cTEsQBBgFFFNBARocCBAZRwpLDDALQw1XGFsCUx4DWg8LCxMZDBM4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/h3zd2DFwrQWrE3zc7fTH0LrCFjs.jpg"group-title="Filme",+Rental Family
-plugin://plugin.video.neo_flix/?action=choose_stream&urls=KxdXCwgMSxpLXkVNdS0qIxA0HgwcLSQxR15cHi1GJyojYTw4TXNGThwKHE5PR0sGWgIZF19AAQMcGTYCHAUZCUIWCARBSllfEVZfRwcWA2wBWQpaDUBVHEsCTxQMCEdVDkw-LBAqIzsUGQEQOi8malZYVF1fdUEmIBMpPjRaXExXEhsCDExJRg0bWh4WVXBJABwUBRocA0cNQRtGAEoDTB0KFWseAQIcGwBXGkVOVVQFBQcKQkxfT309LyY0Pz4ZDgQLczAhIEVeHlZVNHAlIyU3IjFXS0lMWwQFRl9PDAYRGy8VVkZXBgURCQwdWlgAC0oeRx1cCzoTFAURBwVXGjQ%3D
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg"group-title="Filme",People We Meet On Vacation
-plugin://plugin.video.neo_flix/?action=choose_stream&urls=KxdXCwgMSxpLXkVNdS0qIxA0HgwcLSQxR15cHi1GJyojYTw4TXNGThwKHE5PR0sGWgIZF19AAQMcGTYCHAUZCUIWCARBSllZUhwdVwMSBTEcGB1aDUBVHEsCTxQMCEdVDkw-LBAqIzsUGQEQOi8malZYVF1fdUEmIBMpPjRaXExXEhsCDExJRg0bWh4WVXBJABwUBRocA0cNQRtGAEoEXAkBWzdRVAUZCg1XGkVOVVQFBQcKQkxfT309LyY0Pz4ZDgQLczAhIEVeHlZVNHAlIyU3IjFXS0lMWwQFRl9PDAYRGy8VVkZXBgURCQwdWlgAC0peRx4VGjxfXApKHRtXGjQ%3D
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/7lFG1WrCwAxBfyGK8ahlBVzXno7.jpg"group-title="Filme",David
-plugin://plugin.video.neo_flix/?action=choose_stream&urls=KxdXCwgMSxpLXkVNdS0qIxA0HgwcLSQxR15cHi1GJyojYTw4TXNGThwKHE5PR0sGWgIZF19AAQMcGTYCHAUZCUIWCARBSlleDAYLWQofAWgRVQRaDUBVHEsCTxQMCEdVDkw-LBAqIzsUGQEQOi8malZYVF1fdUEmIBMpPjRaXExXEhsCDExJRg0bWh4WVXBJHx0KFQ0YEwgeS1gKCwhAWEE_OWktXT9AAgYQFBgWZBlGRhhDDhVHAz4ECQVaSkxXPCohYjk7CAwCSzMjJxtGXVlAQDdaJCYiYSQ0RklPDBsXA31cTEsQBBgFFFNBAQAAAAsKXRpLBjBJWBlLEwcQFFgdHQcZRhgy
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"group-title="Filme",Zootopia 2
-plugin://plugin.video.neo_flix/?action=choose_stream&urls=KxdXCwgMSxpLXkVNdS0qIxA0HgwcLSQxR15cHi1GJyojYTw4TXNGThwKHE5PR0sGWgIZF19AAQMcGTYCHAUZCUIWCARBSlkMVQADRl8VHGoXXV5aDUBVHEsCTxQMCEdVDkw-LBAqIzsUGQEQOi8malZYVF1fdUEmIBMpPjRaXExXEhsCDExJRg0bWh4WVXBJHx0KFQ0YEwgeS1gKCwhAWEEyCGdXPRs5NwcHJDgMQVlLGUlPVUwJDj0DAEtCUE4uJCYiYSQFDQgKcygtK39XXFFIK0M2KCUhfCtLSEVNWxwJTWVGTgEMBBwGXUZBQgMFERMGSkAGADJJCEYPCBYEDgxeRwcCVFVNUzM%3D
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/7cDCGKBA6XANFDw4km9GvDnFBHw.jpg"group-title="Filme",Rebuilding
-plugin://plugin.video.neo_flix/?action=choose_stream&urls=KxdXCwgMSxpLXkVNdS0qIxA0HgwcLSQxR15cHi1GJyojYTw4TXNGThwKHE5PR0sGWgIZF19AAQMcGTYCHAUZCUIWCARBSllQDlNbTV9TA2YNBR5aDUBVHEsCTxQMCEdVDkw-LBAqIzsUGQEQOi8malZYVF1fdUEmIBMpPjRaXExXEhsCDExJRg0bWh4WVXBJARAOGQgFCwgXABUGCUoLAQQDH2YOXVgeHhkZCEsTAlYSRgkOTAsJTWVGTjI7PyA6NQUHQxM0Ii0rDl9VV289Qyo3PCMnOktCDlQcFglNFE5HBysSHBpCX0MGExsLTxsdBRUKAA0KAnAQQ18TNwMDBjsDHEUdXTxWY0FHEgI%3D
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/vobigFZFvbYPf6ElYJu07P9rH8C.jpg"group-title="Filme",Dust Bunny
-plugin://plugin.video.neo_flix/?action=choose_stream&urls=KxdXCwgMSxpLXkVNdS0qIxA0HgwcLSQxR15cHi1GJyojYTw4TXNGThwKHE5PR0sGWgIZF19AAQMcGTYCHAUZCUIWCARBSlkMVQADRl8VHGoXXV5aDUBVHEsCTxQMCEdVDkw-LBAqIzsUGQEQOi8malZYVF1fdUEmIBMpPjRaXExXEhsCDExJRg0bWh4WVXBJHx0KFQ0YEwgeS1gKCwhAWEEyCGdXPRs5NwcHJDgMQVlLGUlPVUwJDj0DAEtCUE4uJCYiYSQFDQgKcygtK39XXFFIK0M2KCUhfCtLSEVNWxwJTWVGTgEMBBwGXUZBQgMFERMGSkAGADJJCEYPCBYEDgxeRwcCVFVNUzM%3D
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/w5WJMJ6DWPFK0Gx0Ongh0FZBAlK.jpg"group-title="Filme",Not Without Hope
-plugin://plugin.video.neo_flix/?action=choose_stream&urls=KxdXCwgMSxpLXkVNdS0qIxA0HgwcLSQxR15cHi1GJyojYTw4TXNGThwKHE5PR0sGWgIZF19AAQMcGTYCHAUZCUIWCARBSlkeVAoHXAsTWScSHQdaDUBVHEsCTxQMCEdVDkw-LBAqIzsUGQEQOi8malZYVF1fdUEmIBMpPjRaXExXEhsCDExJRg0bWh4WVXBJGgAcHgkGE0cHQVkZHV0LWAkPHmsUGllaDUBVHEsCTxQMCEdVDkw-LBAqIzsUGQEQOi8malZYVF1fdUEmIBMpPjRaXExXEhsCDExJRg0bWh4WVXBJABwUBRocA0cNQRtGAEoKHhoNVzgKWltKH1VXGjQ%3D
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg"group-title="Filme",Nuremberg
-plugin://plugin.video.neo_flix/?action=choose_stream&urls=KxdXCwgMSxpLXkVNdS0qIxA0HgwcLSQxR15cHi1GJyojYTw4TXNGThwKHE5PR0sGWgIZF19AAQMcGTYCHAUZCUIWCARBSlkbCAwMHRsJDjgJXgxaDUBVHEsCTxQMCEdVDkw-LBAqIzsUGQEQOi8malZYVF1fdUEmIBMpPjRaXExXEhsCDExJRg0bWh4WVXBJABwUBRocA0cNQRtGAEofSh0QAGkEHgwRSR9XGjQ%3D
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2HoR2x23bqKpopluoBD1FH3tBi7.jpg"group-title="Filme",Crime 101 (2026)
+https://p.10020.workers.dev/s/afc7d47f/ma9yIsUHLd1oEUKmveBRD7YAa6TtBq8pQ3HlTrfwAmaCVWKODqhjdHV_akF-4XHWXH3BLEbYYYfFU_7DJpXlS1XmwVFkAge3m3LTBi96sJO5x_u5NAoaK2DTICe3xylfzATMM2MkPE3k89NLrVEKCpiL99jGI0bPhbq-JmbyBLOU6TjJWyGiNTMv9bBFxco19zMOnKje_ZE2Qeygftlv6M6AzfzsbtRi0I8ZES3995I4VGuVH00-zKvWQTdZrblfupEYlvP2IvXg5t3Y6e86nBU5aS4hsdeP3eDRuzJHStg.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg"group-title="Filme",Mercy (2026)
+https://p.10020.workers.dev/s/afc7d47f/ma9yIsUHLd1oEUKmveBRD2n71BlnonFYdmAX3C0mR01U13uMl9yMQ4BSRKto7YDR7K6V3-VRbTgsP9kHr5N_E7p9lKZD7JmzlbzvwEmFYNNtqw7Lz05EAfb0vOEn15px53UKa87WRK7xQZlYYxbgVupQA6DHSKzqyBm3yGWxPxf40PhzXRlq48PCpwC1slbZJmLT52OqQRWBp3sXmZcXivJx21qPCQOXcnlfAo18jNNd5fOWyRnHWkUUXqxu6bZ2EYFKrU22u1BsXUs7lAFxtE2N0Jcq3h3sUV5JSpZmOIyyQMXYLWxRVd_945T4AE-uj7cQyNAkNSRpb9bgPQLkZDPdhtKSyXPDghqMtVG9ERRtJKnKSeDCu0tvv5YFxEX0HUa5JV676URZPhl467bsACO4RW8hMcUoKadIiGHw3BLbUXxXq3zDtTbdj_UNZwK7aHh0fTlcIxFNaIXuQ0sHc8_M9zYX63wHnLF3y8hW7MPBRV0fDlSJdnLweV3yg2lQnmu8sRjNYLXGvGP9ed3ltSagOxAz1I0jokhRpBDVkUjXlnsyS7jTDNF97KDSnUw7PTeiSy351yxSQNhBmathik5RJMmdsLvu6Ko8JgJ_fr9MS2yLbB3WcbqPUJ58UUqw5RO2Ie_0VcR61_ARP4lyBW8RvINxh7jZ22u1MwgAUt0.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"group-title="Filme",Wuthering Heights (2026)
+https://p.10020.workers.dev/rainorbit33.xyz/file2/DGeHaShmzHuo0x+kqIJqmPaOMnoArE1975jevugfZzKEAQbD~YK34LzA5QTzvLySffc0Yaqun22sW8EGJV6AWf8bNq5I3fgRAK7VAWrmtWQBrIVK4kwMQXslZCao4z8YZ3O5eKCGHNqd4e8NfqL6esmMrTEn5e5Ug5XoX4gVbqc=/cGxheWxpc3QubTN1OA==.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg"group-title="Filme",28 Years Later: The Bone Temple (2026)
+https://p.10020.workers.dev/skyember44.online/file2/tZGbfug+FpKwhq3ccVjI2GZAD0oj1diKeFyBO0mLOc9y40V2Zush8M9oZVxFwrNXldgqLwDivdn5Kyq6BzQMMQDk4aLWd756WPFcvWMtGynGlKgQl2BzwBLryz8tZ0zPUDzyPAADis21htu9Ic5xSoCXfLtEyICGD3QFbTg6oew=/MTA4MA==/aW5kZXgubTN1OA==.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"group-title="Filme",Marty Supreme (2025)
+https://p.10020.workers.dev/rainorbit33.xyz/file2/t6KR5Omu6COlBu5czB17ey0qgiSlzvE+5M+Jbe0V7IeRNweglq+1kMpcqHDRMBQzoXx4mDmw5c6WGdePSolHEh6wFiweyR3+2sEyCujdW1HBT8yJg2zMu9vqDTEWavKc0I8zveSsLAT91W7zDZZcYCNIW418U56sue2dprJSYgI=/MTA4MA==/aW5kZXgubTN1OA==.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"group-title="Filme",The Housemaid (2025)
+https://p.10020.workers.dev/frostcomet5.pro/file2/GSY77jpcftrExmTqD9I6YXthvYLhyjVkQsYmsY1zIwdZ~h8PuV~TTP23qXFbgAVpr3BnYDT86Qm4bQ0vtgaPeyEC32zaCyrT6m9sTqYIdw~tWu7UE9shlHrskaZszWrpGDu4U0FPuEXusBycsjttyB~MtpxxKq2KesIUyK1dbB0=/MTA4MA==/aW5kZXgubTN1OA==.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"group-title="Filme",Hamnet (2025)
+https://p.10020.workers.dev/thunderleaf12.online/file2/wHNBrWPonpv0azZo0ryo4oUdv~ehC47HbrkGVPXI7JlHft7Mp5jYhr2ZPLjlTm4DcUGeqR819fpFyl7Vj~rCXxgZoHAmfqU62TrOmeOpEJ86f6aoOabl~5qlCaNweci9stpBk7g9RFw7d3Bs2M5IZ2VMbd+U5wiUQJfsTXN3zOo=/MTA4MA==/aW5kZXgubTN1OA==.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rKleYiEj4pFqxedTRWfujLooi84.jpg"group-title="Filme",Primate (2026)
+https://p.10020.workers.dev/thunderleaf12.online/file2/5Oq3q3u4Bvd8FVQ+OxOD3ZYuV~qHR6J22UQcoqsyvBqP46k8UhFJL3EYscm+sFiZ6H5TV4oS72767H5F0O6WxyskGmoUUKSOydoIHGQanMZr~tGG5Fib6~YNKFtM72NglIbkxzMmKPHppfIqr76lMCklBFgx5x+qf41Exb~svUc=/MTA4MA==/aW5kZXgubTN1OA==.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/erTRAi241eYF4K8KoGGOI8kFPox.jpg"group-title="Filme",Predator: Badlands (2025)
+https://p.10020.workers.dev/frostcomet5.pro/file2/QS4AvnRIH+pTYJ32YTwbrjbi8VFAi0vpFXWaxgzlUQ17kHFKOc~JcVGIOjnAygGqpGwMc2SHPdMdE9MxtlCC9yln58Tokx~qa0yoxjh0Zv1mrNUHtQLtRWmwWP6H~mqpi~PBd3+GQtU986KToCTB2mAOVDCKs6~JbkBVvWnguok=/MTA4MA==/aW5kZXgubTN1OA==.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"group-title="Filme",Now You See Me: Now You Don't (2025)
+https://p.10020.workers.dev/skyember44.online/file2/Iql7miadfYvs9+D0zWiq+5kP+CJptIvyXmGUoDwH~SsC+m4BgAaRAdQVzYj6vHXGdd7StiEZqek9X5U3cDm+AqquxW1inRjS9Iy9tzb0eYWrKss0xD8F2~li+3yX3~koevU94wFqIByd84bCMbu+iRv5o1GKoMzZSiq90N8F7Ng=/MTA4MA==/aW5kZXgubTN1OA==.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nRrwqApUDFL8gLGyJFIdDkmoule.jpg"group-title="Filme",Rental Family (2025)
+https://p.10020.workers.dev/frostcomet5.pro/file2/HrQcNSB4rYi7GkFQOUlA+7qVFKyjPu2LgKfisiBTZiy+oEpOkxWDmC5f0AfibvNowZw~3JxjkdcYFF1f7u7X8~O4WuS7CM7KSagOYkDFELeofd13JeZrI+Z1bgo4NyqOK2Vu+1nwNhJhzIHqQ07Ki0M4YfcpYjnLK6pU~nJEIak=/MzYw/aW5kZXgubTN1OA==.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y5EyBB1FIjDAtsIgwNuxEC9caVF.jpg"group-title="Filme",The Swedish Connection (2025)
+https://p.10020.workers.dev/rainorbit33.xyz/file2/F0AzA9w92ZAwbkScXGZsT~flmJeoPPfG+6~DNF4FiPp3jQ2ty5Y6jvcuYh17NXchoSenOgck3RwkC~Mny4LVPhUfUqstuv5emE+lfHbdCCZuQnZZe2EBNZ0uF8pxV~GJCt65WI678ZWwaF5IWkPgdOP~jn0xe9tSSnL3ackUT4I=/MzYw/aW5kZXgubTN1OA==.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"group-title="Filme",Avatar: Fire and Ash (CAM) (2025)
+https://p.10020.workers.dev/frostcomet5.pro/file2/SMzQt~XJbqvIP8GOMngeHc50TPOY+7gQtzVsUShkci~PfNvyg7cEFML63hlLuILQyYqoWIxJUC+fsnaSZE02ThL3eHBxbPPUWZSFGl2zmP05mem8ZfVcIRyj66dIi2SMXSj~SvfstKHSJwkrAFmaZRGc0bbEtOKs3VwF34Gad3M=/MzYw/aW5kZXgubTN1OA==.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7cWTGH2svfNHWVRjsfKIBob9pDj.jpg"group-title="Filme",Nuremberg (2025)
+https://p.10020.workers.dev/aurorabird6.live/file2/EOH~6rVMI5e8zLYARt9bad141mwYzcqRvVKt7xPBhMugaHKDyR8Yl+RiIBHsAYk+BOAspKyrPMvSQrSafx7H4ZGYz3FjJ0IOCJwVNuoCm4L6mMhkiYJDcFafd4A7AIdxMchcpyqj8AfODjyBh9VWVIod7MbZcVm86Y0~iMYh+H4=/MTA4MA==/aW5kZXgubTN1OA==.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sdJLbucggwGj8NdX0UN2zt1Vwmn.jpg"group-title="TV Series",Chapter 1 (2025)
+https://p.10020.workers.dev/thunderleaf12.online/file2/WvxH9SWlJWYZd+2jIChFiKXOFXCG4yfDkz1XM~9F7RuyZBeNXZX5ioNuRv~xei8qM16TfJMRmJfmY76mUXlWhF0sMlZ87sIiEfuE7X6qSDjg9+Edx2umnIGK61ZGOt0f9+tABZaRfxelCgLaPoMAqcrCkKgDH3FvG4T1S6zriwY=/cGxheWxpc3QubTN1OA==.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sdJLbucggwGj8NdX0UN2zt1Vwmn.jpg"group-title="TV Series",Chapter 2 (2025)
+https://p.10020.workers.dev/rainorbit33.xyz/file2/JHtAw6jbMc8utC72VB2lIGklQ5TTXw9JRa8tDh2lRYQ8A5GUxH9mrxUAi7mOabf5GNERRCSOPKxQOODvD+9Lw00K+E1VewJrFy+72MtlmoqJWRoMS16Qx5zH96pvl3EnMsezqkJf3xnLZgn5N+kNuJaFJ3idaGPX~1oKKh8sJ0M=/cGxheWxpc3QubTN1OA==.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sdJLbucggwGj8NdX0UN2zt1Vwmn.jpg"group-title="TV Series",Chapter 3 (2025)
+https://p.10020.workers.dev/frostcomet5.pro/file2/Z7nL0~F6yqMkg4eks5xzPQuWryMteuOPYvLkYKLvAzjggouwvE~m8pFwIeKcosV9tWLM86Mviu0NqUVms1ExpMG+057P9k8uQHfwYkTwdLU1VOhmNyu~H9g7Z7+~TwpKSiZtoV3LQO+wt4Yg~Y5EPzjrOY+AtcLm3TUikRDbp1A=/cGxheWxpc3QubTN1OA==.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sdJLbucggwGj8NdX0UN2zt1Vwmn.jpg"group-title="TV Series",Chapter 4 (2025)
+https://p.10020.workers.dev/skyember44.online/file2/Jn8ajaDVu4A2ElNperQkxxfKrzJ83xIvBaPcGHZMcW6PoN+lgySrB5C8svgYw+5UkbbaVreaeeskRHTEWuSBLayUDqInEFZakrYJdJ7uFxY+p+7sWvdAaEurQ1fSpHx8pH0qCXKQ699YpKRPUZQ+zQy2VezAgMUMx+tLFFowIKY=/cGxheWxpc3QubTN1OA==.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sdJLbucggwGj8NdX0UN2zt1Vwmn.jpg"group-title="TV Series",Chapter 5 (2025)
+https://p.10020.workers.dev/skyember44.online/file2/imGJDrMC8FWb8RkKkIOBa3WMvZjfDXNwJn9QTWIjNbbEKyh8XSDfALbaMO2XMaQMEb+5QiN6gGb~Mr~pZuyMZKmFcbQ44UbI2ZrAhYUICFdRKq2ttginuU63Cjn7JlvIYYzBdzvQEBECVNsIsmyEiMSa3fw3X9SyLknybI3~aYE=/cGxheWxpc3QubTN1OA==.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sdJLbucggwGj8NdX0UN2zt1Vwmn.jpg"group-title="TV Series",Chapter 6 (2025)
+https://p.10020.workers.dev/thunderleaf12.online/file2/MCbBt+nXOMW2isP~Mjlg8ACn5xUdGCFwZbFY938NCUmZsCl7Y48~hvebmkQKPO1OwWFhHRbsQq6cdMCaXN4V2zC~iAvFtQZBpWmf1EotcIo+rcnjLp1FmKDTNoC7OT6ulFR2uobTTmgf7rgxZbhPeQWFv6xRS8PWgsEz7fvzh~o=/cGxheWxpc3QubTN1OA==.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sdJLbucggwGj8NdX0UN2zt1Vwmn.jpg"group-title="TV Series",Chapter 7 (2025)
+https://p.10020.workers.dev/frostcomet5.pro/file2/OyclTes7B43BKyBGzK2ASfe0b6igvspUrFqUmCIP8JuTqn3ctqHdoupM3~4uU8k3vMiOn3pHmfzDMeyQTd7BltZ0BsbynT0XTcKSiTZeQVXAZkHZgxxTUOG55EQGLf04vk5me~THoGDph~yLGGuW9syPocuqz1sfuw+Q4RUodoQ=/cGxheWxpc3QubTN1OA==.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sdJLbucggwGj8NdX0UN2zt1Vwmn.jpg"group-title="TV Series",Chapter 8 (2025)
+https://p.10020.workers.dev/skyember44.online/file2/LcveRwQvYpI7zHglDK7npwPLxhb7vVLb4WcSuW8~C7ld4jHEfnAdJ2ycdsQr8l7fRDxtGJEwNOt9gdu7BjQrHx4u7ZAYa6SVfvG3usS31vsNrDUgF8dcC2cpl81EkDzfBzNjWw4y4AEkjKrRLKQRqeV1igSBABTsaW~iROqnWyU=/cGxheWxpc3QubTN1OA==.m3u8
+
+
+
+
 
 
 
