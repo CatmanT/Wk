@@ -294,6 +294,9 @@ plugin://plugin.video.rotv123/?mode=play&web_url=tlc.php
 plugin://plugin.video.rdslive/?action=play&post_id=1317&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="HGTV HD" tvg-logo="https://i.postimg.cc/wMSrdgvW/HGTV.png" group-title="Documentare",HGTV HD
 plugin://plugin.video.rotv123/?mode=play&web_url=hgtv.php
+#EXTINF:-1 tvg-name="HGTV HD" tvg-logo="https://i.postimg.cc/wMSrdgvW/HGTV.png" group-title="Documentare",HGTV HD
+plugin://plugin.video.rdslive/?action=play&post_id=1759&post_url=https%3A%2F%2Frds.live
+
 #EXTINF:-1 tvg-name="TV Paprika HD" tvg-logo="https://i.postimg.cc/Px1y8YrM/TV_Paprika.png" group-title="Documentare",TV PAPRIKA
 plugin://plugin.video.rdslive/?action=play&post_id=1765&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Food NetworkD" tvg-id=""tvg-logo="https://i.postimg.cc/wBQYcyv9/Food-Network.png"group-title="Documentare",Food Network
