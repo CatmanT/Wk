@@ -1,194 +1,192 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/protv.php
-#EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV 2
 plugin://plugin.video.rotv123/?mode=play&web_url=protv.php
 #EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/prima-tv.php
+plugin://plugin.video.rotv123/?mode=play&web_url=prima-tv.php
 #EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/kanal-d.php
+plugin://plugin.video.rotv123/?mode=play&web_url=kanal-d.php
 #EXTINF:-1 tvg-name="KANAL D2" tvg-logo="https://i.postimg.cc/7YPWGnz5/kanal-d2.png" group-title="Generaliste",KANAL D2
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/kanal-d2.php
+plugin://plugin.video.rotv123/?mode=play&web_url=kanal-d2.php
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/digi24.php
+plugin://plugin.video.rotv123/?mode=play&web_url=digi24.php
 #EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24 ()
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1 tvg-name="B1 TV" tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png"group-title="Stiri",B1 TV
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/b1.php
+plugin://plugin.video.rotv123/?mode=play&web_url=b1.php
 #EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/antena-1.php
+plugin://plugin.video.rotv123/?mode=play&web_url=antena-1.php
 #EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Generaliste",ANTENA STARS
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/antena-stars.php
+plugin://plugin.video.rotv123/?mode=play&web_url=antena-stars.php
 #EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/antena-3-cnn.php
+plugin://plugin.video.rotv123/?mode=play&web_url=antena-3-cnn.php
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/realitatea-plus.php
+plugin://plugin.video.rotv123/?mode=play&web_url=realitatea-plus.php
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS ()
 plugin://plugin.video.youtube/play/?video_id=EB3lFuVxSzw
 #EXTINF:-1 tvg-name="România TV" tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png"group-title="Stiri",Romania TV
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/romania-tv.php
+plugin://plugin.video.rotv123/?mode=play&web_url=romania-tv.php
 #EXTINF:-1 tvg-name="Euronews" tvg-id=""tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png"group-title="Stiri",Euronews RO
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/euro-news.php
+plugin://plugin.video.rotv123/?mode=play&web_url=euro-news.php
 #EXTINF:-1 tvg-name="TVR 1" tvg-id=""tvg-logo="https://i.postimg.cc/wTwVJ6Hn/TVR_1.png"group-title="Generaliste",TVR 1
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/tvr-1.php
+plugin://plugin.video.rotv123/?mode=play&web_url=tvr-1.php
 #EXTINF:-1 tvg-name="TVR 2" tvg-id=""tvg-logo="https://i.postimg.cc/fTzCJ34x/TVR_2.png"group-title="Generaliste",TVR 2
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/tvr-2.php
+plugin://plugin.video.rotv123/?mode=play&web_url=tvr-2.php
 #EXTINF:-1 tvg-name="TVR 3" tvg-id=""tvg-logo="https://i.postimg.cc/QdVqJRdC/TVR_3.png"group-title="Generaliste",TVR 3
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/tvr-3.php
+plugin://plugin.video.rotv123/?mode=play&web_url=tvr-3.php
 #EXTINF:-1 tvg-name="Acasa HD" tvg-id=""tvg-logo="https://i.postimg.cc/YC2GtFpb/Acasa.png"group-title="Generaliste",Acasa
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/acasa-tv.php
+plugin://plugin.video.rotv123/?mode=play&web_url=acasa-tv.php
 #EXTINF:-1 tvg-name="NATIONAL TV" tvg-id=""tvg-logo="https://i.postimg.cc/sxSkxvtF/National_TV.png"group-title="Generaliste",NATIONAL TV
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/national-tv.php
+plugin://plugin.video.rotv123/?mode=play&web_url=national-tv.php
 #EXTINF:-1 tvg-name="NATIONAL 24 PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/sfhdwN1n/National_24_Plus.png"group-title="Generaliste",NATIONAL 24 PLUS
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/national-24-plus.php
+plugin://plugin.video.rotv123/?mode=play&web_url=national-24-plus.php
 #EXTINF:-1 tvg-name="Acasă Gold HD" tvg-id=""tvg-logo="https://i.postimg.cc/hjNsXMBv/Acas-A-Gold.png"group-title="Generaliste",ACASA GOLD
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/acasa-gold.php
+plugin://plugin.video.rotv123/?mode=play&web_url=acasa-gold.php
 
 
 #EXTINF:-1 tvg-name="DIGI Sport 1" tvg-logo="https://i.postimg.cc/PrSLKJCz/Digi-Sport1.png" group-title="Sport",DIGI Sport 1
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/digi-sport-1.php
+plugin://plugin.video.rotv123/?mode=play&web_url=digi-sport-1.php
 #EXTINF:-1 tvg-name="DIGI Sport 2" tvg-logo="https://i.postimg.cc/P5NC7HZG/Digi-Sport2.png" group-title="Sport",DIGI Sport 2
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/digi-sport-2.php
+plugin://plugin.video.rotv123/?mode=play&web_url=digi-sport-2.php
 #EXTINF:-1 tvg-name="DIGI Sport 3" tvg-logo="https://i.postimg.cc/wjP18rc1/Digi-Sport3.png" group-title="Sport",DIGI Sport 3
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/digi-sport-3.php
+plugin://plugin.video.rotv123/?mode=play&web_url=digi-sport-3.php
 #EXTINF:-1 tvg-name="DIGI Sport 4" tvg-logo="https://i.postimg.cc/mrHtbS88/Digi-Sport4.png" group-title="Sport",DIGI Sport 4
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/digi-sport-4.php
+plugin://plugin.video.rotv123/?mode=play&web_url=digi-sport-4.php
 #EXTINF:-1 tvg-name="EuroSport 1 " tvg-logo="https://i.postimg.cc/7hYHT1nv/Eurosport-1-HD.png" group-title="Sport",EuroSport 1
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/eurosport-1.php
+plugin://plugin.video.rotv123/?mode=play&web_url=eurosport-1.php
 #EXTINF:-1 tvg-name="EuroSport 2" tvg-logo="https://i.postimg.cc/fLvWLqXj/Eurosport-2-HD.png" group-title="Sport",EuroSport 2
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/eurosport-2.php
+plugin://plugin.video.rotv123/?mode=play&web_url=eurosport-2.php
 #EXTINF:-1 tvg-name="TVR Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TVR-Sport_landscape.png" group-title="Sport",TVR Sport HD
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/tvr-sport.php
+plugin://plugin.video.rotv123/?mode=play&web_url=tvr-sport.php
 #EXTINF:-1 tvg-name="Prima Sport 1" tvg-logo="https://tvhdonline.org/tv-hd/img/canale/ps1.png" group-title="Sport",Prima Sport 1
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/prima-sport-1.php
+plugin://plugin.video.rotv123/?mode=play&web_url=prima-sport-1.php
 #EXTINF:-1 tvg-name="Prima Sport 2" tvg-logo="https://tvhdonline.org/tv-hd/img/canale/ps2.png" group-title="Sport",Prima Sport 2
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/prima-sport-2.php
+plugin://plugin.video.rotv123/?mode=play&web_url=prima-sport-2.php
 #EXTINF:-1 tvg-name="Prima Sport 3" tvg-logo="https://tvhdonline.org/tv-hd/img/canale/ps3.png" group-title="Sport",Prima Sport 3
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/prima-sport-3.php
+plugin://plugin.video.rotv123/?mode=play&web_url=prima-sport-3.php
 #EXTINF:-1 tvg-name="Sport Extra HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Logo-sportextra.png"group-title="Sport",Sport Extra
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/sport-extra.php
+plugin://plugin.video.rotv123/?mode=play&web_url=sport-extra.php
 #EXTINF:-1 tvg-name="PRO Arena" tvg-logo="https://i.postimg.cc/52f2xhMw/Pro-ARENA.png" group-title="Sport",PRO Arena
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/pro-arena.php
+plugin://plugin.video.rotv123/?mode=play&web_url=pro-arena.php
 
 
 
 #EXTINF:-1 tvg-name="Happy Channel" tvg-id=""tvg-logo="https://i.postimg.cc/xTBQ0VhV/Happy-Channel.png"group-title="Movies",Happy Channel
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/happy.php
+plugin://plugin.video.rotv123/?mode=play&web_url=happy.php
 #EXTINF:-1 tvg-name="HBO" tvg-id=""tvg-logo="https://i.postimg.cc/hjZwp9qR/HBO_HD.png"group-title="Movies",HBO
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/hbo.php
+plugin://plugin.video.rotv123/?mode=play&web_url=hbo.php
 #EXTINF:-1 tvg-name="HBO 2" tvg-id=""tvg-logo="https://i.postimg.cc/FzqMs0PV/HBO_2.png"group-title="Movies",HBO 2
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/hbo-2.php
+plugin://plugin.video.rotv123/?mode=play&web_url=hbo-2.php
 #EXTINF:-1 tvg-name="HBO 3" tvg-id=""tvg-logo="https://i.postimg.cc/L8fp50FY/HBO_3.png"group-title="Movies",HBO 3
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/hbo-3.php
+plugin://plugin.video.rotv123/?mode=play&web_url=hbo-3.php
 #EXTINF:-1 tvg-name="BBC First" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/BBC_First_2022.svg/1200px-BBC_First_2022.svg.png"group-title="Movies",BBC First
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/bbc-first.php
+plugin://plugin.video.rotv123/?mode=play&web_url=bbc-first.php
 #EXTINF:-1 tvg-name="Filmbox" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Filmbox_pl.png/1200px-Filmbox_pl.png"group-title="Movies",Filmbox
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/film-box.php
+plugin://plugin.video.rotv123/?mode=play&web_url=film-box.php
 #EXTINF:-1 tvg-name="Filmbox Premium" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/FilmBox_Premium_log.png"group-title="Movies",Filmbox Premium
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/film-box-premium.php
+plugin://plugin.video.rotv123/?mode=play&web_url=film-box-premium.php
 #EXTINF:-1 tvg-name="SkyShowtime 1" tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/SkyShowtime_2.png"group-title="Movies",SkyShowtime 1
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/skyshowtime-1.php
+plugin://plugin.video.rotv123/?mode=play&web_url=skyshowtime-1.php
 #EXTINF:-1 tvg-name="SkyShowtime 2" tvg-id=""tvg-logo="https://www.allatvkanaler.se/assets/61/logo/skyshowtime-2-tabla.png"group-title="Movies",SkyShowtime 2
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/skyshowtime-2.php
+plugin://plugin.video.rotv123/?mode=play&web_url=skyshowtime-2.php
 #EXTINF:-1 tvg-name="AXN HD" tvg-id=""tvg-logo="https://i.postimg.cc/43qVPdFF/AXN-HD.png"group-title="Movies",AXN-HD
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/axn-hd.php
+plugin://plugin.video.rotv123/?mode=play&web_url=axn-hd.php
 #EXTINF:-1 tvg-name="AXN Spin " tvg-id=""tvg-logo="https://i.postimg.cc/VNdXXM4C/AXN-Spin.png"group-title="Movies",AXN SPIN
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/axn-spin.php
+plugin://plugin.video.rotv123/?mode=play&web_url=axn-spin.php
 #EXTINF:-1 tvg-name="AXN White" tvg-id=""tvg-logo="https://i.postimg.cc/d3KdMfF2/AXN-White.png"group-title="Movies",AXN WHITE
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/axn-white.php
+plugin://plugin.video.rotv123/?mode=play&web_url=axn-white.php
 #EXTINF:-1 tvg-name="AXN Black" tvg-id=""tvg-logo="https://i.postimg.cc/vBn9NsJ8/AXN-Black.png"group-title="Movies",AXN BLACK
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/axn-black.php
+plugin://plugin.video.rotv123/?mode=play&web_url=axn-black.php
 #EXTINF:-1 tvg-name="Cinemax HD" tvg-id=""tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png"group-title="Movies",Cinemax 1
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/cinemax.php
+plugin://plugin.video.rotv123/?mode=play&web_url=cinemax.php
 #EXTINF:-1 tvg-name="Cinemax2 HD " tvg-id=""tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/7/71/Cinemax_2.png"group-title="Movies",CINEMAX 2
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/cinemax-2.php
+plugin://plugin.video.rotv123/?mode=play&web_url=cinemax-2.php
 #EXTINF:-1 tvg-name="Cinemaraton" tvg-logo="https://i.postimg.cc/Vvmy2fwK/Cinemaraton.png" group-title="Movies",Cinemaraton
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/cinemaraton.php
+plugin://plugin.video.rotv123/?mode=play&web_url=cinemaraton.php
 #EXTINF:-1 tvg-name="Diva" tvg-id=""tvg-logo="https://i.postimg.cc/T29hY1JM/Diva.png"group-title="Movies",Diva
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/diva.php
+plugin://plugin.video.rotv123/?mode=play&web_url=diva.php
 #EXTINF:-1 tvg-name="Epic Drama" tvg-id=""tvg-logo="https://i.postimg.cc/d1FtJc7V/Epic-Drama.png"group-title="Movies",Epic Drama
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/epic-drama.php
+plugin://plugin.video.rotv123/?mode=play&web_url=epic-drama.php
 #EXTINF:-1 tvg-name="AMC HD " tvg-id=""tvg-logo="https://i.postimg.cc/8Cffg387/AMC.png"group-title="Movies",AMC HD
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/amc.php
+plugin://plugin.video.rotv123/?mode=play&web_url=amc.php
 #EXTINF:-1 tvg-name="Film Now" tvg-id=""tvg-logo="https://i.postimg.cc/5tBb7KPd/Film-Now.png"group-title="Movies",Film Now
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/filmnow.php
+plugin://plugin.video.rotv123/?mode=play&web_url=filmnow.php
 #EXTINF:-1 tvg-name="FILMCAFE" tvg-id=""tvg-logo="https://i.postimg.cc/C1JYYBTc/Film-cafe.png"group-title="Movies",Film Cafe
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/film-cafe.php
+plugin://plugin.video.rotv123/?mode=play&web_url=film-cafe.php
 #EXTINF:-1 tvg-name="PRO Cinema HD" tvg-id=""tvg-logo="https://i.postimg.cc/GpVgDbPb/Pro-Cinema.png"group-title="Movies",PRO CINEMA
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/procinema.php
+plugin://plugin.video.rotv123/?mode=play&web_url=procinema.php
 #EXTINF:-1 tvg-name="Warner TV" tvg-id=""tvg-logo="https://i.postimg.cc/L628LSc4/Warner.png"group-title="Movies",Warner TV
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/warner-tv.php
+plugin://plugin.video.rotv123/?mode=play&web_url=warner-tv.php
 #EXTINF:-1 tvg-name="Viasat Kino" tvg-id=""tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032251913609_23.png"group-title="Movies",Viasat Kino
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/viasat-kino.php
+plugin://plugin.video.rotv123/?mode=play&web_url=viasat-kino.php
 #EXTINF:-1 tvg-name="Bollywood Clasic" tvg-id=""tvg-logo="https://i.postimg.cc/8khMdTdt/Bollywood-TV.png"group-title="Movies",Bollywood Clasic
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/bollywood-tv.php
+plugin://plugin.video.rotv123/?mode=play&web_url=bollywood-tv.php
 #EXTINF:-1 tvg-name="Comedy Central" tvg-id=""tvg-logo="https://i.postimg.cc/MGCfRLvC/Comedy-Central.png"group-title="Movies",Comedy Central
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/comedy-central.php
+plugin://plugin.video.rotv123/?mode=play&web_url=comedy-central.php
 
 #EXTINF:-1 tvg-name="BBC Earth" tvg-id=""tvg-logo="https://i.postimg.cc/J4538RGG/BBC-Earth.png"group-title="Documentare",BBC Earth
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/bbc-earth.php
+plugin://plugin.video.rotv123/?mode=play&web_url=bbc-earth.php
 #EXTINF:-1 tvg-name="CBS Reality" tvg-id=""tvg-logo="https://i.postimg.cc/vTqQ7104/CBS-Reality.png"group-title="Documentare",CBS Reality
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/cbs-reality.php
+plugin://plugin.video.rotv123/?mode=play&web_url=cbs-reality.php
 #EXTINF:-1 tvg-name="Discovery HD" tvg-id=""tvg-logo="https://i.postimg.cc/Bbq6BfsV/Discovery-Channel.png"group-title="Documentare",Discovery Channel
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/discovery-channel.php
+plugin://plugin.video.rotv123/?mode=play&web_url=discovery-channel.php
 #EXTINF:-1 tvg-name="ID  Investigation Discovery  HD" tvg-id=""tvg-logo="https://i.postimg.cc/9M0gRrw8/Investigation_Discovery.png"group-title="Documentare",ID Investigation Discovery
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/id-investigation.php
+plugin://plugin.video.rotv123/?mode=play&web_url=id-investigation.php
 #EXTINF:-1 tvg-name="History Channel" tvg-id=""tvg-logo="https://i.postimg.cc/wBqLzQ2C/History.png"group-title="Documentare",History
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/history-channel.php
+plugin://plugin.video.rotv123/?mode=play&web_url=history-channel.php
 #EXTINF:-1 tvg-name="National Geographic" tvg-id=""tvg-logo="https://i.postimg.cc/rsSHc7rM/National_Geografic.png"group-title="Documentare",National Geographic
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/national-geographic.php
+plugin://plugin.video.rotv123/?mode=play&web_url=national-geographic.php
 #EXTINF:-1 tvg-name="National Geographic Wild" tvg-id=""tvg-logo="https://i.postimg.cc/28dpfLQh/Nat_Geo_Wild.png"group-title="Documentare",Nat Geo Wild
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/national-geographic-wild.php
+plugin://plugin.video.rotv123/?mode=play&web_url=national-geographic-wild.php
 #EXTINF:-1 tvg-name="TLC HD" tvg-id=""tvg-logo="https://i.postimg.cc/7ZLKQ5mx/TLC.png"group-title="Documentare",TLC
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/tlc.php
+plugin://plugin.video.rotv123/?mode=play&web_url=tlc.php
 #EXTINF:-1 tvg-name="HGTV HD" tvg-logo="https://i.postimg.cc/wMSrdgvW/HGTV.png" group-title="Documentare",HGTV HD
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/hgtv.php
+plugin://plugin.video.rotv123/?mode=play&web_url=hgtv.php
 #EXTINF:-1 tvg-name="Viasat Explore HD" tvg-id=""tvg-logo="https://i.postimg.cc/PqwzBYZk/ViasatExplore.png"group-title="Documentare",VIASAT EXPLORE
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/viasat-explore.php
+plugin://plugin.video.rotv123/?mode=play&web_url=viasat-explore.php
 #EXTINF:-1 tvg-name="Viasat History HD" tvg-id=""tvg-logo="https://i.postimg.cc/j5YQK2Qn/ViasatHistory.png"group-title="Documentare",VIASAT HISTORY
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/viasat-history.php
+plugin://plugin.video.rotv123/?mode=play&web_url=viasat-history.php
 #EXTINF:-1 tvg-name="Viasat Nature HD" tvg-id=""tvg-logo="https://i.postimg.cc/d1RR0F4H/ViasatNature.png"group-title="Documentare",VIASAT NATURE
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/viasat-nature.php
+plugin://plugin.video.rotv123/?mode=play&web_url=viasat-nature.php
 #EXTINF:-1 tvg-name="Da Vinci" tvg-id=""tvg-logo="https://i.postimg.cc/B62LCCFX/Da-Vinci.png"group-title="Documentare",Da Vinci Learning
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/da-vinci.php
+plugin://plugin.video.rotv123/?mode=play&web_url=da-vinci.php
 
 
 #EXTINF:-1 tvg-name="KISS TV" tvg-logo="https://i.postimg.cc/R0MDmPSz/Kiss-TV.png" group-title="Music",KISS TV
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/kiss-tv.php
+plugin://plugin.video.rotv123/?mode=play&web_url=kiss-tv.php
 #EXTINF:-1 tvg-name="KISS TV" tvg-logo="https://i.postimg.cc/R0MDmPSz/Kiss-TV.png" group-title="Music",KISS TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-name="MAGIC TV HD" tvg-logo="https://i.postimg.cc/D0bC6Hg1/Magic-TV.png" group-title="Music",MAGIC TV
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/magic-tv.php
+plugin://plugin.video.rotv123/?mode=play&web_url=magic-tv.php
 #EXTINF:-1 tvg-name="MAGIC TV HD" tvg-logo="https://i.postimg.cc/D0bC6Hg1/Magic-TV.png" group-title="Music",MAGIC TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1 tvg-name="MTV 00s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Music",MTV 00s
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/mtv-80.php
+plugin://plugin.video.rotv123/?mode=play&web_url=mtv-80.php
 #EXTINF:-1 tvg-name="ZU TV HD" tvg-logo="https://i.postimg.cc/zv0nnjmT/ZU-TV.png" group-title="Music",ZU TV
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/zu-tv.php
+plugin://plugin.video.rotv123/?mode=play&web_url=zu-tv.php
 #EXTINF:-1 tvg-name="Etno TV" tvg-logo="https://i.postimg.cc/cLVL5n0Y/Etno.png" group-title="Music",ETNO TV
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/etno-tv.php
+plugin://plugin.video.rotv123/?mode=play&web_url=etno-tv.php
 #EXTINF:-1 tvg-name="Taraf TV" tvg-logo="https://i.postimg.cc/pXRGzGj5/Taraf-TV.png" group-title="Music",TARAF TV
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/taraf-tv.php
+plugin://plugin.video.rotv123/?mode=play&web_url=taraf-tv.php
 #EXTINF:-1 tvg-name="Favorit" tvg-logo="https://i.postimg.cc/KvWGRMKV/Favorit-TV.png" group-title="Music",FAVORIT TV
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/favorit-tv.php
+plugin://plugin.video.rotv123/?mode=play&web_url=favorit-tv.php
 #EXTINF:-1 tvg-name="Mezzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="Music",Mezzo
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/mezzo.php
+plugin://plugin.video.rotv123/?mode=play&web_url=mezzo.php
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-id=""tvg-logo="https://i.postimg.cc/7Y9zcXWz/Cartoon-Network.png"group-title="Kids",CARTOON NETWORK
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/cartoon-network.php
+plugin://plugin.video.rotv123/?mode=play&web_url=cartoon-network.php
 #EXTINF:-1 tvg-name="Disney Channel" tvg-id=""tvg-logo="https://i.postimg.cc/c4C1xmJw/Disney-Channel.png"group-title="Kids",DISNEY CHANNEL
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/disney-channel.php
+plugin://plugin.video.rotv123/?mode=play&web_url=disney-channel.php
 #EXTINF:-1 tvg-name="Disney Junior" tvg-id=""tvg-logo="https://i.postimg.cc/R05vTxLL/Disney-Junior.png"group-title="Kids",DISNEY JUNIOR
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/disney-junior.php
+plugin://plugin.video.rotv123/?mode=play&web_url=disney-junior.php
 #EXTINF:-1 tvg-name="Duck TV HD" tvg-id=""tvg-logo="https://i.postimg.cc/RVpFKYYg/Duck-TV.png"group-title="Kids",DUCK TV
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/duck-tv.php
+plugin://plugin.video.rotv123/?mode=play&web_url=duck-tv.php
 #EXTINF:-1 tvg-name="TeenNick" tvg-id=""tvg-logo="https://i.postimg.cc/9FhqDkyn/TeenNick.png"group-title="Kids",TEENNICK
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/teennik.php
+plugin://plugin.video.rotv123/?mode=play&web_url=teennik.php
 #EXTINF:-1 tvg-name="JimJam" tvg-id=""tvg-logo="https://i.postimg.cc/4xR0Lfjy/JimJam.png"group-title="Kids",JIMJAM
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/jimjam.php
+plugin://plugin.video.rotv123/?mode=play&web_url=jimjam.php
 #EXTINF:-1 tvg-name="Minimax" tvg-id=""tvg-logo="https://i.postimg.cc/xd1V5jbH/Minimax.png"group-title="Kids",MINIMAX
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/minimax.php
+plugin://plugin.video.rotv123/?mode=play&web_url=minimax.php
 #EXTINF:-1 tvg-name="Nick Jr" tvg-id=""tvg-logo="https://i.postimg.cc/pTBJ6P2Y/Nick-Jr.png"group-title="Kids",NICK JR
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/nick-jr.php
+plugin://plugin.video.rotv123/?mode=play&web_url=nick-jr.php
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id=""tvg-logo="https://i.postimg.cc/1tVT78Rg/Nickelodeon.png"group-title="Kids",NICKELODEON
-plugin://plugin.video.rotv123/?mode=play&url=https://rotv123.com/nickelodeon.php
+plugin://plugin.video.rotv123/?mode=play&web_url=nickelodeon.php
