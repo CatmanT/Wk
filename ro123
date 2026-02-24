@@ -1,6 +1,6 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-name="TEST" tvg-id="TEST"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",TEST
 https://abra--5e4bd525.api.cosmic-crab.buzz/11449f1d334edeeacd32cf4799048f18816a1683/www.UIndex.org%20%20%20%20-%20%20%20%20Primate%202026%201080p%20AMZN%20WEB-DL%20DDP5%201%20H%20264-KyoGo/Primate%202026%201080p%20AMZN%20WEB-DL%20DDP5%201%20H%20264-KyoGo.mkv~hls/index.m3u8?api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NzIwMjk1NjQsInJhdGUiOiI1TSIsInJvbGUiOiJmcmVlIiwic2Vzc2lvbklEIjoiTVRjM01UazBNekUyTkh4T2QzZEJUa1ZhVkZaRmN6Tk9SVEZHVkVWMFRsWkdTbEJVYWsweVZUQktRbFV3Y0ZSVU1IUkhVakJhU2xkR1NscFdNVTVFVmpGa1NsVldUazVWYTFFelUxVjBVMDR4Y0ZkT1ZrVTlmRVBjVGtuRkJEQlppc2dMTGRjUWp2LU1iSkEwWWdxZk9zc0ZKXzZmNEl1QyIsImRvbWFpbiI6IndlYnRvci5pbyIsImFnZW50IjoiTW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQ0LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJyZW1vdGVBZGRyZXNzIjoiMTg1LjEwNC4xODMuNTQifQ.C4Q9q5m3GmdeEHqww8Gi7gGaKweVf4P6Jx3JNIhEjYw
 #EXTINF:-1 tvg-name="PRO_TV" tvg-id="PRO TV"tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png"group-title="Generaliste",PRO TV
 plugin://plugin.video.rotv123/?mode=play&web_url=protv.php
