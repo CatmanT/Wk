@@ -84,6 +84,8 @@ plugin://plugin.video.rdslive/?action=play&post_id=1336&post_url=https%3A%2F%2Fr
 plugin://plugin.video.rotv123/?mode=play&web_url=acasa-gold.php
 #EXTINF:-1 tvg-name="Acasă Gold HD" tvg-id=""tvg-logo="https://i.postimg.cc/hjNsXMBv/Acas-A-Gold.png"group-title="Generaliste",ACASA GOLD
 plugin://plugin.video.rdslive/?action=play&post_id=1383&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="Dizi Channel" tvg-id=""tvg-logo="https://appsdb.io/apps/com.spi.tdc/images/icon.webp"group-title="Generaliste",Dizi Channel
+plugin://plugin.video.rotv123/?mode=play&web_url=dizi.php
 
 
 #EXTINF:-1 tvg-name="DIGI Sport 1" tvg-logo="https://i.postimg.cc/PrSLKJCz/Digi-Sport1.png" group-title="Sport",DIGI Sport 1
@@ -237,8 +239,6 @@ plugin://plugin.video.rdslive/?action=play&post_id=1817&post_url=https%3A%2F%2Fr
 plugin://plugin.video.rotv123/?mode=play&web_url=bollywood-tv.php
 #EXTINF:-1 tvg-name="Bollywood Clasic" tvg-id=""tvg-logo="https://i.postimg.cc/8khMdTdt/Bollywood-TV.png"group-title="Movies",Bollywood Clasic
 plugin://plugin.video.rdslive/?action=play&post_id=1332&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Dizi Channel" tvg-id=""tvg-logo="https://appsdb.io/apps/com.spi.tdc/images/icon.webp"group-title="Movies",Dizi Channel
-plugin://plugin.video.rotv123/?mode=play&web_url=dizi.php
 
 
 #EXTINF:-1 tvg-name="Comedy Central" tvg-id=""tvg-logo="https://i.postimg.cc/MGCfRLvC/Comedy-Central.png"group-title="Movies",Comedy Central
