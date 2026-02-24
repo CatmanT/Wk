@@ -379,10 +379,6 @@ plugin://plugin.video.rdslive/?action=play&post_id=1467&post_url=https%3A%2F%2Fr
 plugin://plugin.video.rotv123/?mode=play&web_url=duck-tv.php
 #EXTINF:-1 tvg-name="Duck TV HD" tvg-id=""tvg-logo="https://i.postimg.cc/RVpFKYYg/Duck-TV.png"group-title="Kids",DUCK TV
 plugin://plugin.video.rdslive/?action=play&post_id=1477&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="TeenNick" tvg-id=""tvg-logo="https://i.postimg.cc/9FhqDkyn/TeenNick.png"group-title="Kids",TEENNICK
-plugin://plugin.video.rotv123/?mode=play&web_url=teennik.php
-#EXTINF:-1 tvg-name="TeenNick" tvg-id=""tvg-logo="https://i.postimg.cc/9FhqDkyn/TeenNick.png"group-title="Kids",TEENNICK
-plugin://plugin.video.rdslive/?action=play&post_id=1480&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="JimJam" tvg-id=""tvg-logo="https://i.postimg.cc/4xR0Lfjy/JimJam.png"group-title="Kids",JIMJAM
 plugin://plugin.video.rotv123/?mode=play&web_url=jimjam.php
 #EXTINF:-1 tvg-name="JimJam" tvg-id=""tvg-logo="https://i.postimg.cc/4xR0Lfjy/JimJam.png"group-title="Kids",JIMJAM
