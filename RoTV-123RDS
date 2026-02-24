@@ -387,4 +387,5 @@ plugin://plugin.video.rotv123/?mode=play&web_url=nick-jr.php
 plugin://plugin.video.rdslive/?action=play&post_id=1474&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id=""tvg-logo="https://i.postimg.cc/1tVT78Rg/Nickelodeon.png"group-title="Kids",NICKELODEON
 plugin://plugin.video.rotv123/?mode=play&web_url=nickelodeon.php
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id=""tvg-logo="https://i.postimg.cc/1tVT78Rg/Nickelodeon.png"group-title="Kids",NICKELODEON
 plugin://plugin.video.rdslive/?action=play&post_id=1479&post_url=https%3A%2F%2Frds.live
