@@ -264,7 +264,7 @@ plugin://plugin.video.rdslive/?action=play&post_id=1553&post_url=https%3A%2F%2Fr
 plugin://plugin.video.rotv123/?mode=play&web_url=id-investigation.php
 #EXTINF:-1 tvg-name="ID  Investigation Discovery  HD" tvg-id=""tvg-logo="https://i.postimg.cc/9M0gRrw8/Investigation_Discovery.png"group-title="Documentare",ID Investigation Discovery
 http://vocotv.live:80/Straight11/7062948274/691148
-#EXTINF:-1 tvg-name="Crime + Investigation" tvg-id=""https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/crime-and-investigation-us.png"group-title="Documentare",Crime + Investigation
+#EXTINF:-1 tvg-name="Crime + Investigation" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/crime-and-investigation-us.png"group-title="Documentare",Crime + Investigation
 plugin://plugin.video.rotv123/?mode=play&web_url=crime-investigation.php
 
 
