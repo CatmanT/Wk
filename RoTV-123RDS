@@ -242,6 +242,8 @@ plugin://plugin.video.rdslive/?action=play&post_id=1332&post_url=https%3A%2F%2Fr
 plugin://plugin.video.rotv123/?mode=play&web_url=dizi.php
 #EXTINF:-1 tvg-name="Nostalgia TV" tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Nostalgia_TV.png"group-title="Movies",Nostalgia TV
 plugin://plugin.video.rotv123/?mode=play&web_url=nostalgia-tv.php
+#EXTINF:-1 tvg-name="RoFilme" tvg-id=""tvg-logo="https://images.weserv.nl/?url=rotv123.com/img/Rofilme.webp"group-title="Movies",RoFilme
+plugin://plugin.video.rotv123/?mode=play&web_url=rofilme.php
 
 #EXTINF:-1 tvg-name="Comedy Central" tvg-id=""tvg-logo="https://i.postimg.cc/MGCfRLvC/Comedy-Central.png"group-title="Movies",Comedy Central
 plugin://plugin.video.rotv123/?mode=play&web_url=comedy-central.php
