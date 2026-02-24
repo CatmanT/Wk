@@ -184,11 +184,11 @@ plugin://plugin.video.rdslive/?action=play&post_id=1399&post_url=https%3A%2F%2Fr
 plugin://plugin.video.rdslive/?action=play&post_id=1340&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="TVR Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TVR-Sport_landscape.png" group-title="Sport",TVR Sport HD
 plugin://plugin.video.rdslive/?action=play&post_id=1778&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Prima Sport 1" tvg-logo="https://tvhdonline.org/tv-hd/img/canale/ps1.png" group-title="Sport",Prima Sport 1
+#EXTINF:-1 tvg-name="Prima Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/prima-sport-1-ro.png" group-title="Sport",Prima Sport 1
 plugin://plugin.video.rdslive/?action=play&post_id=1406&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Prima Sport 2" tvg-logo="https://tvhdonline.org/tv-hd/img/canale/ps2.png" group-title="Sport",Prima Sport 2
+#EXTINF:-1 tvg-name="Prima Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/prima-sport-2-ro.png" group-title="Sport",Prima Sport 2
 plugin://plugin.video.rdslive/?action=play&post_id=1405&post_url=https%3A%2F%2Frds.live
-#EXTINF:-1 tvg-name="Prima Sport 3" tvg-logo="https://tvhdonline.org/tv-hd/img/canale/ps3.png" group-title="Sport",Prima Sport 3
+#EXTINF:-1 tvg-name="Prima Sport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/prima-sport-3-ro.png" group-title="Sport",Prima Sport 3
 plugin://plugin.video.rdslive/?action=play&post_id=1401&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="Sport Extra HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Logo-sportextra.png"group-title="Sport",Sport Extra
 plugin://plugin.video.rdslive/?action=play&post_id=1400&post_url=https%3A%2F%2Frds.live
