@@ -13,8 +13,8 @@ http://1tv41.icu:8080/Gx6Vdx/703084/17639
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" group-title="USA News",Fox News
 http://1tv41.icu:8080/Gx6Vdx/703084/135794
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN UHD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="USA News",CNN UHD*
-http://1tv41.icu:8080/Gx6Vdx/703084/1817
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN UHD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="USA News",CNN
+http://1tv41.icu:8080/5ZCJFs/416986/1817
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="USA News",CNN
 http://canal-pro.xyz:8080/982004180tv/3mxs50/23591
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="USA News",CNN
 http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/104884
@@ -25,7 +25,7 @@ http://1tv41.icu:8080/Gx6Vdx/703084/21259
 #EXTINF:-1 tvg-id="newsmax.us" tvg-name="NewsMAX*" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax-tv-us.png" group-title="USA News",NewsMAX [Rumble]
 https://rumble.com/live-hls-dvr/5xwnen/playlist.m3u8?
 #EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC UHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" group-title="USA News",CNBC UHD
-http://1tv41.icu:8080/Gx6Vdx/703084/9815
+http://1tv41.icu:8080/5ZCJFs/416986/9815
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="USA News",ESPN
 http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/14197
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="USA News",ESPN 2
