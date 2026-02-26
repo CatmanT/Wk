@@ -418,13 +418,10 @@ https://web.opendrive.com/api/v1/download/file.json/OF8xNDk2MTk3OTVf?inline=1
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTI1MDc1MTVf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Rabbit School: Guardians of the Golden Egg (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BQyI5qfDNcpuSFPmJEzOfSUFOw.jpg" group-title="== MOVIES - Kids ==",Rabbit School: Guardians of the Golden Egg (2017)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTI1MDc1MTdf?inline=1
-
 #EXTINF:-1 tvg-id="" tvg-name="Backdraft 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5QfKjWG5UcEbbo7btAmXnJpaOn.jpg" group-title="== MOVIES 2019 ==",Backdraft 2 (2019)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTIzNjQyMTBf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="The Least of These (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQiuhyCM8XY82oo7rKbenSxTgiz.jpg" group-title="== MOVIES 2019 ==",The Least of These (2019)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTIzNjc5NzRf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="A Doggone Hollywood (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AbgA96GJUZIn8tFj3fa6WDiycD.jpg" group-title="== MOVIES 2018 ==",A Doggone Hollywood (2017)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTE5ODMwMjNf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Batman vs. Teenage Mutant Ninja Turtles (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yP3h0Pu8htyb9450mWJ9Vu1rU.jpg" group-title="== MOVIES - Kids ==",Batman vs. Teenage Mutant Ninja Turtles (2019)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTIyNjg2OTBf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Wine Country (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mi5l29DQFdwrTXxbqM2OLbs830H.jpg" group-title="== MOVIES 2019 ==",Wine Country (2019)
@@ -455,66 +452,6 @@ https://web.opendrive.com/api/v1/download/file.json/OF8xNTA1Njc5NDNf?inline=1
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTE0MTgyMThf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="What Men Want (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30IiwvIRqPGjUV0bxJkZfnSiCL.jpg" group-title="== MOVIES 2019 ==",What Men Want (2019)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTA1Njc5NDdf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Anne" tvg-logo="http://cs22cs.hopto.org:8000/images/1nK9yBYMEkhCiMUioFRHRyP6KBL_small.jpg" group-title="== MOVIES 2018 ==",Anne
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTExOTg4NjRf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Bayou Caviar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/up28fmhXm5eZjasXEZ352NdxDLq.jpg" group-title="== MOVIES 2018 ==",Bayou Caviar (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTExOTkwNDBf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Benched (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw8p6onVjgDIAnLiutqNk8j37Iy.jpg" group-title="== MOVIES 2018 ==",Benched (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTEyNzA0MTZf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="BuyBust (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvArzms4uGDAlqo6JfeAe0b4ro4.jpg" group-title="== MOVIES 2018 ==",BuyBust (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTExMjY4ODZf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Concerto of the Bully (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHrkKzWuG0VhMzZazR4FwXv4D62.jpg" group-title="== MOVIES 2018 ==",Concerto of the Bully (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTExMjY4MjNf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Her Worst Nightmare (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TmuYrgCxFtvkqU61khpjUfSH9H.jpg" group-title="== MOVIES 2018 ==",Her Worst Nightmare (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTEwMDAxMjNf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Mia and the White Lion (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXfwBeYe0RnqsJ0dnBoFTB4SSrG.jpg" group-title="== MOVIES - Kids ==",Mia and the White Lion (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTExOTA0NjNf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Paint It Red (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLTKD8ynvWGd2qeVKEBIQ9tLg0j.jpg" group-title="== MOVIES 2018 ==",Paint It Red (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTEzMDM5MjBf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Slice (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bznkSqWqj43DhzHrbLehsr6ncb0.jpg" group-title="== MOVIES 2018 ==",Slice (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTEzMDUwODdf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Styx (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1I8xzhPPgoGAwDvGkjYNZqQgON.jpg" group-title="== MOVIES 2018 ==",Styx (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTA5ODE2NDFf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Taxing Love (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fq0Iaq7xrpPNwgfCT3PHvfmrOMu.jpg" group-title="== MOVIES 2018 ==",Taxing Love (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTEzMzc0NzFf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="The Barn (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7fAx8DMom3cNTHU9xh7Rz8M4qA.jpg" group-title="== MOVIES 2018 ==",The Barn (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTEzMjAyMTJf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="The Leakers (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UCdpI5wU2bMtcx5Z2c4HmQNiP.jpg" group-title="== MOVIES 2018 ==",The Leakers (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTEzMjM5OTdf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="West of Hell (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJcuslAltQP7bxAI4J7Jk7dxvbx.jpg" group-title="== MOVIES 2018 ==",West of Hell (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTEzMjY3NTFf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Arctic (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxRc0Y4IjSRLC2fYaguXQtJCI4e.jpg" group-title="== MOVIES 2018 ==",Arctic (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTA1Njc2MjNf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Buffalo Boys" tvg-logo="" group-title="== MOVIES 2018 ==",Buffalo Boys
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTA0MzMzMTFf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Capernaum (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFnfTVADj8yOxwzprYOmTPselk8.jpg" group-title="== MOVIES 2018 ==",Capernaum (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTA0MzMzMDlf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Daddy Issues (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ut4qnyMB2hJky07uIgfyVq9xVar.jpg" group-title="== MOVIES 2018 ==",Daddy Issues (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTA0MzMwNzVf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Grass" tvg-logo="" group-title="== MOVIES 2018 ==",Grass
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTA0MzMzMzBf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="High Life (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5wLz05SFSk8rv1NpgEc1wx4Cu2.jpg" group-title="== MOVIES 2018 ==",High Life (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTA0MzM3NDNf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Matriarch (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQWxzYlqywzxXZ0Njq6XVxnnsDN.jpg" group-title="== MOVIES 2018 ==",Matriarch (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTA0MzM3NDhf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Miss Baek (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6I6Z8cd5iWNl4uhj3ef8S7h1MfJ.jpg" group-title="== MOVIES 2018 ==",Miss Baek (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTA0MzM3NjBf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Remi Sans Famille" tvg-logo="" group-title="== MOVIES 2018 ==",Remi Sans Famille
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTA0MzMwODJf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Ren Mian Yu Hong Yu Xiao Nuhai Waizhuan" tvg-logo="" group-title="== MOVIES 2018 ==",Ren Mian Yu Hong Yu Xiao Nuhai Waizhuan
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTA1Njc5NDZf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Sharkwater Extinction (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovR3P319oFShWQ0G5ioOAeXWMda.jpg" group-title="== MOVIES 2018 ==",Sharkwater Extinction (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTA1Njc5Mzlf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="The Bouncer (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7rFgyr7rujNYRex9oxzG26Zq6z.jpg" group-title="== MOVIES 2018 ==",The Bouncer (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTA0MzMwODRf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="The Competition (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7DtOmvuptoZz4s0vdg7BcAWbDS.jpg" group-title="== MOVIES 2018 ==",The Competition (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTA0MzMxODdf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="The Snarling (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0sSKKjhDFW4JW5no3osa230w0k.jpg" group-title="== MOVIES 2018 ==",The Snarling (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNDk5OTQ0Mjhf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Warning Shot (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGeDlD8kH4eWxzIKdyiG8IPpnoE.jpg" group-title="== MOVIES 2018 ==",Warning Shot (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTA0MzMxODlf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="A Boy Called Sailboat (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31C9f9C2Xgil5ivD0FkONcalKT8.jpg" group-title="== MOVIES 2018 ==",A Boy Called Sailboat (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNDk4NzIwMzJf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Back Fork (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZRH9u5SozvOzwSNwBeV7LhW6zc.jpg" group-title="== MOVIES 2019 ==",Back Fork (2019)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDk4MjQzMDBf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="General Commander (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tarle8uNAqiQfCTY95U0Oj1DxIU.jpg" group-title="== MOVIES 2019 ==",General Commander (2019)
@@ -525,64 +462,54 @@ https://web.opendrive.com/api/v1/download/file.json/OF8xNDk2MjAwMjhf?inline=1
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDk2MjM0NjZf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Guava Island (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/noE2O4XaRSrNZ75MUShaQD0pFN0.jpg" group-title="== MOVIES 2019 ==",Guava Island (2019)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDk5ODM0MDNf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Hello Mr. Billionaire (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOPm7kNszatfiqjnNZR4joxTMel.jpg" group-title="== MOVIES 2018 ==",Hello Mr. Billionaire (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNDk5ODM0MTNf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Hidden Man (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTq6MDrP4ighdavPDw3xyp8UWw7.jpg" group-title="== MOVIES 2018 ==",Hidden Man (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNDk5ODM0MTVf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Justice League vs. the Fatal Five (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9F4yd1lnTKFHZkme1nuPWmH1hbl.jpg" group-title="== MOVIES - Kids ==",Justice League vs. the Fatal Five (2019)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDk2MjAwMjBf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Mega Time Squad (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thHCbZVdA4DL0R8f84aUz83FSgg.jpg" group-title="== MOVIES 2018 ==",Mega Time Squad (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNDk4OTU4MDdf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Miss Bala (2019)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Miss_Bala_poster.jpg" group-title="== MOVIES 2019 ==",Miss Bala (2019)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDk5ODM0MDhf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Office Uprising (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcRAOCmDcFYivMNM5ink3OMMe0V.jpg" group-title="== MOVIES 2018 ==",Office Uprising (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNDk5NTY0MDNf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Ploey: You Never Fly Alone (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQIKecVvsEEexALNuyPj9q4JmSN.jpg" group-title="== MOVIES - Kids ==",Ploey: You Never Fly Alone (2018)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDk5MTIxNjdf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Santa's Little Helpers (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/amZmPAzPh2WAeOC7E30CGn0UxME.jpg" group-title="== MOVIES - Kids ==",Santa's Little Helpers (2019)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDk3NTgzMzRf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Savage Youth (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6xavktLk9VSURAlSAn6yFEjsln.jpg" group-title="== MOVIES 2018 ==",Savage Youth (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNDk5MzY3OTFf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="The Divorce Party (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FbHUUyOagUQ3eDjLCXMzNW90R4.jpg" group-title="== MOVIES 2019 ==",The Divorce Party (2019)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDk5ODM0MzFf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="The Kid Who Would Be King (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBuvLX6zynQP0sjyqbXV4jNaZ4E.jpg" group-title="== MOVIES - Kids ==",The Kid Who Would Be King (2019)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDk2MjIwMjlf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Warfighter (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7h9pn5dDOYAkJ3DhttkcXIoWIux.jpg" group-title="== MOVIES 2018 ==",Warfighter (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNDk5Mjk2OTZf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Ruben Brandt Collector" tvg-logo="http://cs22cs.uk:8000/images/4WwBf5Lex1XUQfS1nREp2a2JZsc_small.jpg" group-title="== MOVIES - Kids ==",Ruben Brandt, Collector
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDk4MjUzNzRf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Asterix: The Secret of the Magic Potion (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmMq5ypRNJbWpdhC9aPjpdx1MMp.jpg" group-title="== MOVIES - Kids ==",Asterix: The Secret of the Magic Potion (2018)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDk3NTg0MDJf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Destination Dewsbury" tvg-logo="http://cs22cs.uk:8000/images/lHDsL2wq1tZUgHkRixvKAPY0yFN_small.jpg" group-title="== MOVIES 2018 ==",Destination Dewsbury
-https://web.opendrive.com/api/v1/download/file.json/OF8xNDk3NjAyMjFf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Gone Are the Days (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iFAX5VfLe22bhU4GsJSNiHhhoF.jpg" group-title="== MOVIES 2018 ==",Gone Are the Days (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNDk4MjQ0NDBf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Long Lost Daughter (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1OyivjaFMM0Y1yw1CUCyVFLhHj.jpg" group-title="== MOVIES 2018 ==",Long Lost Daughter (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNDk4MjQ0NTVf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="The Head Hunter" tvg-logo="http://cs22cs.uk:8000/images/ol0DSLOIN8Rq1BcWDTsk6NNwas6_small.jpg" group-title="== MOVIES 2018 ==",The Head Hunter
-https://web.opendrive.com/api/v1/download/file.json/OF8xNDk3ODU1NjRf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="The Other Side of the Wind (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFky1paYEfHxfCYByEc9g7gn6Zk.jpg" group-title="== MOVIES 2018 ==",The Other Side of the Wind (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNDk4MjUzODFf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="A Vigilante" tvg-logo="http://cs22cs.uk:8000/images/avoKZfgBzyBGJsrAr2WQOwZK978_small.jpg" group-title="== MOVIES 2018 ==",A Vigilante
-https://web.opendrive.com/api/v1/download/file.json/OF8xNDk3MzU2NTBf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Big Kill (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukGXa5zT3z1TNYgO25EUc9abegR.jpg" group-title="== MOVIES 2018 ==",Big Kill (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNDk2MjYyMDZf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Destroyer (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHw9gTdo43nJL82py0oaROkXXNr.jpg" group-title="== MOVIES 2018 ==",Destroyer (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNDk2MjYyMDhf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Dragged Across Concrete" tvg-logo="http://cs22cs.uk:8000/images/fVG4a27ImyPS4vvNMjCtan3QhDl_small.jpg" group-title="== MOVIES 2018 ==",Dragged Across Concrete
-https://web.opendrive.com/api/v1/download/file.json/OF8xNDk2MTk2NTVf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Ponoc Short Films Theatre  Volume 1 - Modest Heroes (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jURYLaG6BX0klRHsiHc3pzOlOm.jpg" group-title="== MOVIES 2018 ==",Ponoc Short Films Theatre, Volume 1 - Modest Heroes (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNDk2Mjc4Mzdf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="My Hero Academia: Two Heroes (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hC4nTxdhXqFWzgqynGvvXVMiMNp.jpg" group-title="== MOVIES - Kids ==",My Hero Academia: Two Heroes (2018)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDk2Mjc4NzFf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Our Time (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="== MOVIES 2018 ==",Our Time (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNDk3MzU3MThf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Out of Blue (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k74DaMtAhnjeOGX6LIXsvwMStfK.jpg" group-title="== MOVIES 2018 ==",Out of Blue (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNDk2MjAwMDZf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Patrick (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzo0rfLxgcbUPfjT3yjBYioFpv9.jpg" group-title="== MOVIES - Kids ==",Patrick (2018)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDk2MjM0Nzhf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="PawParazzi" tvg-logo="http://cs22cs.uk:8000/images/pQT4lhIRgJ6SFtQDjI6HQHcRqyV_small.jpg" group-title="== MOVIES - Kids ==",PawParazzi
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDk2MjAwMTRf?inline=1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="The Field Guide to Evil (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZYDWYiWkWThQXzK6pv0xWTST8v.jpg" group-title="== MOVIES 2018 ==",The Field Guide to Evil (2018)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDk2MzQ1Nzlf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="We Are Boats" tvg-logo="http://cs22cs.uk:8000/images/gHOGu3l515bqpi6YK5pxAIZ2stj_small.jpg" group-title="== MOVIES 2018 ==",We Are Boats
