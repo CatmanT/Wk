@@ -411,58 +411,22 @@ https://web.opendrive.com/api/v1/download/file.json/OF8xNDgxMDIxOTRf?inline=1
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTI1MDczOThf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Escape Room (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ls1tZ6qjGzfGHjBB7ihOnf7f0b.jpg" group-title="== MOVIES 2019 ==",Escape Room (2019)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDk2MTk3OTVf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Gloria Bell (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dNPpu6AKqciIrZoLnJAE12DW9L.jpg" group-title="== MOVIES 2018 ==",Gloria Bell (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTI0ODI5MzRf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Going for Gold (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktPmQGtyPKnKHlFSd1ppXTb8uTk.jpg" group-title="== MOVIES 2018 ==",Going for Gold (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNDc2NzgzMDlf?inline=1
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Peter Rabbit (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yjSvEDuM3rLDng40erLsWkQRfn.jpg" group-title="== MOVIES - Kids ==",Peter Rabbit (2018)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTI1MDc1MTVf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Rabbit School: Guardians of the Golden Egg (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BQyI5qfDNcpuSFPmJEzOfSUFOw.jpg" group-title="== MOVIES - Kids ==",Rabbit School: Guardians of the Golden Egg (2017)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTI1MDc1MTdf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Superlopez (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7doCBDNnEITiRg4LPI7wK1jdb4p.jpg" group-title="== MOVIES 2018 ==",Superlopez (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTI0NTMyNDFf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Violentia (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csO7vwilnOCSzUTUhincxfrnewX.jpg" group-title="== MOVIES 2018 ==",Violentia (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTI0ODUxMzdf?inline=1
+
 #EXTINF:-1 tvg-id="" tvg-name="Backdraft 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5QfKjWG5UcEbbo7btAmXnJpaOn.jpg" group-title="== MOVIES 2019 ==",Backdraft 2 (2019)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTIzNjQyMTBf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Damsel (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNZxjsJwmKorpPvd0kquJffYROr.jpg" group-title="== MOVIES 2018 ==",Damsel (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTI0MjI0MDdf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Egg (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vU9B58Kbk1VTFaMOqON8AvgJhDF.jpg" group-title="== MOVIES 2018 ==",Egg (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTIzNjYwMTNf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Burning Shadow (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFdP3TVJyFZ1EgGRjYffWHeApOk.jpg" group-title="== MOVIES 2018 ==",Burning Shadow (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTI0MjI2MzVf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="The Least of These (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQiuhyCM8XY82oo7rKbenSxTgiz.jpg" group-title="== MOVIES 2019 ==",The Least of These (2019)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTIzNjc5NzRf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="The Professor" tvg-logo="http://cs22cs.hopto.org:8000/images/cypBSinhGuQaZ7VuOmGtcKMp91G_small.jpg" group-title="== MOVIES 2018 ==",The Professor
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTIzNjg5MThf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="We Have Always Lived In The Castle" tvg-logo="http://cs22cs.hopto.org:8000/images/ejp1MQSlekBjH3bBJrBlWItpmQW_small.jpg" group-title="== MOVIES 2018 ==",We Have Always Lived In The Castle
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTI0MjI5MTJf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="A Doggone Hollywood (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AbgA96GJUZIn8tFj3fa6WDiycD.jpg" group-title="== MOVIES 2018 ==",A Doggone Hollywood (2017)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTE5ODMwMjNf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Batman vs. Teenage Mutant Ninja Turtles (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yP3h0Pu8htyb9450mWJ9Vu1rU.jpg" group-title="== MOVIES - Kids ==",Batman vs. Teenage Mutant Ninja Turtles (2019)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTIyNjg2OTBf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Greta" tvg-logo="http://cs22cs.hopto.org:8000/images/6Lgk1OGexD0fU8QqDBQHcvEwd1Z_small.jpg" group-title="== MOVIES 2018 ==",Greta
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTIyMzIyODhf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="I'll Take Your Dead (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhOtz1wKwXWzhx3Z3IxtvbZFf4o.jpg" group-title="== MOVIES 2018 ==",I'll Take Your Dead (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTIyNjg2OTVf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Intimate Strangers (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aumylqVxq30w7MlBOtzo7GfCRP3.jpg" group-title="== MOVIES 2018 ==",Intimate Strangers (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTIyNjg3OTFf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Johnny Gruesome (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbuyknUMnPh1jQZRdxfvTHofGTi.jpg" group-title="== MOVIES 2018 ==",Johnny Gruesome (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTE0MDYyOTRf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Old Boys (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CeLDFEGXfOQJeGyNafhC0jas5g.jpg" group-title="== MOVIES 2018 ==",Old Boys (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTE5Mzg5MTNf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Polaroid (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ExDhZAqaSQaUNka4CDkvEaI72L.jpg" group-title="== MOVIES 2019 ==",Polaroid (2019)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTIyNjg3ODNf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="303 Squadron (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3O1zY9INsubcJp1od8ccQULfhm.jpg" group-title="== MOVIES 2018 ==",303 Squadron (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTE5NjI2NThf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Tell It To The Bees" tvg-logo="http://cs22cs.hopto.org:8000/images/Rj6zpHhMU1zFW3v28U4PSRSRgP_small.jpg" group-title="== MOVIES 2018 ==",Tell It To The Bees
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTE5Nzg3MjFf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="The Aspern Papers" tvg-logo="http://cs22cs.hopto.org:8000/images/ij5Lqdo5ZlqVKqmt2sUeOLSaIGg_small.jpg" group-title="== MOVIES 2018 ==",The Aspern Papers
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTE4ODY3NjJf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="The Last Witness (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4d6UHuQ2gpsaN38pMSZ42Fj6hi.jpg" group-title="== MOVIES 2018 ==",The Last Witness (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTIyNjk2MDNf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="PROGRESS Chapter 62: Fear No More Come To Dust (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vWTch9bEHGlPvmSuAVs4e5HF0W.jpg" group-title="== MOVIES 2018 ==",PROGRESS Chapter 62: Fear No More, Come To Dust (2018)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTE5NjQ5MjVf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Wine Country (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mi5l29DQFdwrTXxbqM2OLbs830H.jpg" group-title="== MOVIES 2019 ==",Wine Country (2019)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTIyNjg5NDJf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Rupert Rupert & Rupert (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smNl7DWj9JcUabn4gdxPmZQkOzi.jpg" group-title="== MOVIES 2019 ==",Rupert, Rupert & Rupert (2019)
