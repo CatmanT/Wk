@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2JmOTM5ZWEtYTY3NS00YjQwLTgyMjgtZTk5ZTFmNjkyYjg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TEST Filme",One Royal Holiday (2020)
+https://a.111477.xyz/movies/One%20Royal%20Holiday%20%282020%29/One.Royal.Holiday.2020.PROPER.1080p.WEBRip.x264-LAMA.mp4
 #EXTINF:-1 tvg-id="" tvg-name="5th of July (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upQfnYK3c0x2AYNykOZ5qy0Ty2P.jpg" group-title="== MOVIES 2019 ==",5th of July (2019)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTY2ODgzOTNf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Artik (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzyP2topEnJeejfKdeG4JDFMJe.jpg" group-title="== MOVIES 2019 ==",Artik (2019)
@@ -2489,4 +2491,5 @@ https://web.opendrive.com/api/v1/download/file.json/OF8xNDc0MjM0MzFf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Warrior Women (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcyEN4gpbNO1YTRmPNcDQh8HZpZ.jpg" group-title="== MOVIES 2018 ==",Warrior Women (2018)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDc0MjM0MzJf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Beauty and the Beast (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWqifoYuwLETmmasnGHO7xBjEtt.jpg" group-title="== MOVIES 2018 ==",Beauty and the Beast (2017)
+
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDc0MjM5NTlf?inline=1
