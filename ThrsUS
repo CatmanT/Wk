@@ -35,6 +35,9 @@ http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/14197
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="USA News",ESPN 2
 http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/2210
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2JmOTM5ZWEtYTY3NS00YjQwLTgyMjgtZTk5ZTFmNjkyYjg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TEST Filme",One Royal Holiday (2020)
+https://a.111477.xyz/movies/One%20Royal%20Holiday%20%282020%29/One.Royal.Holiday.2020.PROPER.1080p.WEBRip.x264-LAMA.mp4
+
 
 
 
