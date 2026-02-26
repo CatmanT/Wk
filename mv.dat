@@ -937,7 +937,7 @@ https://web.opendrive.com/api/v1/download/file.json/OF8xNTMwOTM5Mjdf?inline=1
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTMwMTk1NDZf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Wonder Park (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KomINZhIuJeB4oB7k7tkq8tmE.jpg" group-title="== Kids - Animated ==",Wonder Park (2019)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTMwMTk0MDVf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Oh, Ramona! (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mscdZrk8k6VTVOgbVF5IpsaA8sK.jpg" group-title="== MOVIES 2019 ==",Oh, Ramona! (2019)
+#EXTINF:-1 tvg-id="" tvg-name="Oh Ramona! (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mscdZrk8k6VTVOgbVF5IpsaA8sK.jpg" group-title="== MOVIES 2019 ==",Oh, Ramona! (2019)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTI5MTQzNTlf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Adventures of Aladdin (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w900HA8MiAEDY3IQl6mz5JY916F.jpg" group-title="== Kids - Animated ==",Adventures of Aladdin (2019)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTI3MTQ4MzFf?inline=1
@@ -1019,7 +1019,7 @@ https://web.opendrive.com/api/v1/download/file.json/OF8xNTI5MDM0MzNf?inline=1
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTI5MDMxMzdf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Waiting For The Miracle To Come" tvg-logo="http://cs22cs.hopto.org:8000/images/fq9G0XI90zYnT6auoXCxeahiyrA_small.jpg" group-title="== MOVIES 2018 ==",Waiting For The Miracle To Come
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTI4Mzc0ODlf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Rich Boy, Rich Girl (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kT4wf7eCGLacTnapkvudXCTZuwx.jpg" group-title="== MOVIES 2018 ==",Rich Boy, Rich Girl (2018)
+#EXTINF:-1 tvg-id="" tvg-name="Rich Boy Rich Girl (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kT4wf7eCGLacTnapkvudXCTZuwx.jpg" group-title="== MOVIES 2018 ==",Rich Boy, Rich Girl (2018)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTI4MzQ0Mjhf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Dagenham (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcySbEi80KYnXu8G0MXikn051JV.jpg" group-title="== MOVIES 2018 ==",Dagenham (2018)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTI4OTQ1NzRf?inline=1
@@ -1179,13 +1179,11 @@ https://web.opendrive.com/api/v1/download/file.json/OF8xNTE5Nzg3MjFf?inline=1
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTE4ODY3NjJf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="The Last Witness (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4d6UHuQ2gpsaN38pMSZ42Fj6hi.jpg" group-title="== MOVIES 2018 ==",The Last Witness (2018)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTIyNjk2MDNf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="PROGRESS Chapter 62: Fear No More, Come To Dust (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vWTch9bEHGlPvmSuAVs4e5HF0W.jpg" group-title="== MOVIES 2018 ==",PROGRESS Chapter 62: Fear No More, Come To Dust (2018)
+#EXTINF:-1 tvg-id="" tvg-name="PROGRESS Chapter 62: Fear No More Come To Dust (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vWTch9bEHGlPvmSuAVs4e5HF0W.jpg" group-title="== MOVIES 2018 ==",PROGRESS Chapter 62: Fear No More, Come To Dust (2018)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTE5NjQ5MjVf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Wine Country (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mi5l29DQFdwrTXxbqM2OLbs830H.jpg" group-title="== MOVIES 2019 ==",Wine Country (2019)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTIyNjg5NDJf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Extremely Wicked, Shockingly Evil and Vile (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSuJ3r5zr5T26tTxyygHhgkUAIM.jpg" group-title="== MOVIES 2019 ==",Extremely Wicked, Shockingly Evil and Vile (2019)
-https://web.opendrive.com/api/v1/download/file.json/OF8xNTE0MTgyMTdf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Rupert, Rupert & Rupert (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smNl7DWj9JcUabn4gdxPmZQkOzi.jpg" group-title="== MOVIES 2019 ==",Rupert, Rupert & Rupert (2019)
+#EXTINF:-1 tvg-id="" tvg-name="Rupert Rupert & Rupert (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smNl7DWj9JcUabn4gdxPmZQkOzi.jpg" group-title="== MOVIES 2019 ==",Rupert, Rupert & Rupert (2019)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTE4NDMzOTZf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Cold Pursuit (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXgmWPd1SuujRZ4QnKLzrj79PAw.jpg" group-title="== MOVIES 2019 ==",Cold Pursuit (2019)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTE4MTY1NThf?inline=1
@@ -1305,9 +1303,7 @@ https://web.opendrive.com/api/v1/download/file.json/OF8xNDk5ODM0MzFf?inline=1
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDk2MjIwMjlf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Warfighter (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7h9pn5dDOYAkJ3DhttkcXIoWIux.jpg" group-title="== MOVIES 2018 ==",Warfighter (2018)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDk5Mjk2OTZf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Ruben Brandt, Collector" tvg-logo="http://cs22cs.uk:8000/images/4WwBf5Lex1XUQfS1nREp2a2JZsc_small.jpg" group-title="== Kids - Animated ==",Ruben Brandt, Collector
-https://web.opendrive.com/api/v1/download/file.json/OF8xNDk4MjUzNzRf?inline=1
-#EXTINF:-1 tvg-id="" tvg-name="Ruben Brandt, Collector (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WwBf5Lex1XUQfS1nREp2a2JZsc.jpg" group-title="== MOVIES 2018 ==",Ruben Brandt, Collector (2018)
+#EXTINF:-1 tvg-id="" tvg-name="Ruben Brandt Collector" tvg-logo="http://cs22cs.uk:8000/images/4WwBf5Lex1XUQfS1nREp2a2JZsc_small.jpg" group-title="== Kids - Animated ==",Ruben Brandt, Collector
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDk4MjUzNzRf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Asterix: The Secret of the Magic Potion (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmMq5ypRNJbWpdhC9aPjpdx1MMp.jpg" group-title="== Kids - Animated ==",Asterix: The Secret of the Magic Potion (2018)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDk3NTg0MDJf?inline=1
@@ -2675,7 +2671,6 @@ https://web.opendrive.com/api/v1/download/file.json/OF8xNDc0MjM0MzFf?inline=1
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDc0MjM0MzJf?inline=1
 #EXTINF:-1 tvg-id="" tvg-name="Beauty and the Beast (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWqifoYuwLETmmasnGHO7xBjEtt.jpg" group-title="== MOVIES 2018 ==",Beauty and the Beast (2017)
 https://web.opendrive.com/api/v1/download/file.json/OF8xNDc0MjM5NTlf?inline=1
-
 
 
 
