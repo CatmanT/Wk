@@ -24,8 +24,10 @@ http://canal-pro.xyz:8080/982004180tv/3mxs50/23591
 http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/104884
 #EXTINF:-1 tvg-name="RT HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"group-title="RU",RT HD
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
-#EXTINF:-1 tvg-id="wcbs.us" tvg-name="CBS News" tvg-logo="https://tlgrm.re/images/cbs-news-us.png" group-title="USA News",US | CBS News
+#EXTINF:-1 tvg-id="wcbs.us" tvg-name="CBS West" tvg-logo="https://tlgrm.re/images/cbs-news-us.png" group-title="USA News",US |CBS West
 http://1tv41.icu:8080/Gx6Vdx/703084/21259
+#EXTINF:-1 tvg-id="wcbs.us" tvg-name="CBS West" tvg-logo="https://tlgrm.re/images/cbs-news-us.png" group-title="USA News",US |CBS West
+http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/21259
 #EXTINF:-1 tvg-id="newsmax.us" tvg-name="NewsMAX*" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax-tv-us.png" group-title="USA News",Newsmax TV HD
 https://rumble.com/live-hls-dvr/5xwnen/playlist.m3u8?
 #EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" group-title="USA News",CNBC HD
