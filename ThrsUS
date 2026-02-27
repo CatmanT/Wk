@@ -32,8 +32,12 @@ https://rumble.com/live-hls-dvr/5xwnen/playlist.m3u8?
 http://1tv41.icu:8080/5ZCJFs/416986/9815
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="USA News",ESPN HD
 http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/14197
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="USA News",ESPN HD
+http://1tv41.icu:8080/Gx6Vdx/703084/14197
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="USA News",ESPN2 HD
 http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/2210
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="USA News",ESPN2 HD
+http://1tv41.icu:8080/Gx6Vdx/703084/2210
 
 
 
