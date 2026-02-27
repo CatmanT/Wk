@@ -30,9 +30,9 @@ http://1tv41.icu:8080/Gx6Vdx/703084/21259
 http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/21259
 #EXTINF:-1 tvg-id="newsmax.us" tvg-name="NewsMAX*" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax-tv-us.png" group-title="USA News",Newsmax TV HD
 https://rumble.com/live-hls-dvr/5xwnen/playlist.m3u8?
-#EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" group-title="USA News",MSNBC HD
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-hz-us.png" group-title="USA News",MSNBC HD
 http://1tv41.icu:8080/Gx6Vdx/703084/21376
-#EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" group-title="USA News",MSNBC HD
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-hz-us.png" group-title="USA News",MSNBC HD
 http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/9296
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="USA News",ESPN HD
 http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/14197
