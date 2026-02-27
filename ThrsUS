@@ -38,13 +38,13 @@ http://1tv41.icu:8080/Gx6Vdx/703084/14197
 http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/2210
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="USA News",ESPN2 HD
 http://1tv41.icu:8080/Gx6Vdx/703084/2210
-#EXTINF:-1 tvg-id="espn.us" tvg-name="Fox Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="USA News",FS1 Fox Sports 1
+#EXTINF:-1 tvg-id="espn.us" tvg-name="Fox Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="USA News",FS1
 http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/1846
-#EXTINF:-1 tvg-id="espn.us" tvg-name="Fox Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="USA News",FS1 Fox Sports 1
+#EXTINF:-1 tvg-id="espn.us" tvg-name="Fox Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="USA News",FS1
 http://1tv41.icu:8080/Gx6Vdx/703084/1846
-#EXTINF:-1 tvg-id="espn.us" tvg-name="Fox Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="USA News",FS2 Fox Sports 2
+#EXTINF:-1 tvg-id="espn.us" tvg-name="Fox Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="USA News",FS2
 http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/1847
-#EXTINF:-1 tvg-id="espn.us" tvg-name="Fox Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="USA News"FS2 Fox Sports 2
+#EXTINF:-1 tvg-id="espn.us" tvg-name="Fox Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="USA News"FS2
 http://1tv41.icu:8080/Gx6Vdx/703084/1847
 
 
