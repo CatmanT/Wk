@@ -26,12 +26,15 @@ http://1tv41.icu:8080/Gx6Vdx/703084/21259
 http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/21259
 #EXTINF:-1 tvg-chno="312" tvg-id="newsmax.us" tvg-name="NewsMAX*" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax-tv-us.png" group-title="USA News",Newsmax TV HD
 https://rumble.com/live-hls-dvr/5xwnen/playlist.m3u8?
-#EXTINF:-1 tvg-chno="313" tvg-id="msnbc.us" tvg-name="MSNBC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-hz-us.png" group-title="USA News",MSNBC HD
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-hz-us.png" group-title="USA News",MSNBC HD
 http://1tv41.icu:8080/Gx6Vdx/703084/21376
-#EXTINF:-1 tvg-chno="314" tvg-id="msnbc.us" tvg-name="MSNBC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-hz-us.png" group-title="USA News",MSNBC HD
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-hz-us.png" group-title="USA News",MSNBC HD
 http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/9296
-#EXTINF:-1 tvg-chno="315" tvg-id="foxbusiness.us" tvg-name="Fox Business UHD" tvg-logo="http://23.227.147.172:80/images/912a0234221989a96eb2691da73bdf88.png" group-title="USA News",Fox Business
+#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="Fox Business UHD" tvg-logo="http://23.227.147.172:80/images/912a0234221989a96eb2691da73bdf88.png" group-title="USA News",Fox Business
 http://1tv41.icu:8080/Gx6Vdx/703084/17639
+#EXTINF:-1 tvg-id="KMBC-DT.us_locals1" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="USA News",ABC
+http://stream.cammonitorplus.net/1790/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
+
 
 
 #EXTINF:-1 tvg-chno="330" tvg-id="espn.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="USA Sport",ESPN HD
