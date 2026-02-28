@@ -55,15 +55,15 @@ http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/10454
 #EXTINF:-1 tvg-id="espn.us" tvg-name="CBS Sports Network HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-sports-network-us.png" group-title="USA News",CBS Sports Network HD
 http://1tv41.icu:8080/Gx6Vdx/703084/10454
 
-#EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-name="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="FREE News",ABC News Live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="FREE News",ABC News Live
 https://jmp2.uk/stvp-USBC39000171G
-#EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" tvg-name="BBC News HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-hz-uk.png" group-title="FREE News",BBC News HD
-https://jmp2.uk/stvp-US4000033L
-#EXTINF:-1 tvg-id="NBC News Now" tvg-name="BBC News HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-news-flat-us.png" group-title="FREE News",NBC News Now
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-news-flat-us.png" group-title="FREE News",NBC News Now
 https://jmp2.uk/stvp-USBB2200014DK
-#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-news-nz.png" group-title="FREE News",Sky News HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-news-nz.png" group-title="FREE News",Sky News
 https://jmp2.uk/stvp-USBB52000022Q
-#EXTINF:-1 tvg-id="Sky News" tvg-name="LiveNOW from FOX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/live-now-fox-us.png" group-title="FREE News",LiveNOW from FOX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-hz-uk.png" group-title="FREE News",BBC News
+https://jmp2.uk/stvp-US4000033L
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/live-now-fox-us.png" group-title="FREE News",LiveNOW FOX
 https://jmp2.uk/stvp-USBA300024TN
 
 
