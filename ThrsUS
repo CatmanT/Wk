@@ -36,22 +36,39 @@ http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/9296
 http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/14197
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="USA News",ESPN HD
 http://1tv41.icu:8080/Gx6Vdx/703084/14197
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="USA News",ESPN HD
+http://snowbank.houseinventer.com/6500/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="USA News",ESPN2 HD
 http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/2210
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="USA News",ESPN2 HD
 http://1tv41.icu:8080/Gx6Vdx/703084/2210
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="USA News",ESPN2 HD
+http://snowbank.houseinventer.com/6501/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 #EXTINF:-1 tvg-id="espn.us" tvg-name="Fox Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="USA News",FS1 Fox Sports 1 HD
 http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/1846
 #EXTINF:-1 tvg-id="espn.us" tvg-name="Fox Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="USA News",FS1 Fox Sports 1 HD
 http://1tv41.icu:8080/Gx6Vdx/703084/1846
+#EXTINF:-1 tvg-id="espn.us" tvg-name="Fox Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="USA News",FS1 Fox Sports 1 HD
+https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3420.ts
 #EXTINF:-1 tvg-id="espn.us" tvg-name="Fox Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="USA News",FS2 Fox Sports 2 HD
 http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/1847
 #EXTINF:-1 tvg-id="espn.us" tvg-name="Fox Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="USA News",FS2 Fox Sports 2 HD
 http://1tv41.icu:8080/Gx6Vdx/703084/1847
+#EXTINF:-1 tvg-id="espn.us" tvg-name="Fox Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="USA News",FS2 Fox Sports 2 HD
+https://starshare.st/live/P4B9TB9xR8/humongous2tonight/55.ts
 #EXTINF:-1 tvg-id="espn.us" tvg-name="CBS Sports Network HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-sports-network-us.png" group-title="USA News",CBS Sports Network HD
 http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/10454
 #EXTINF:-1 tvg-id="espn.us" tvg-name="CBS Sports Network HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-sports-network-us.png" group-title="USA News",CBS Sports Network HD
 http://1tv41.icu:8080/Gx6Vdx/703084/10454
+#EXTINF:-1 tvg-id="espn.us" tvg-name="CBS Sports Network HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-sports-network-us.png" group-title="USA News",CBS Sports Network HD
+http://snowbank.houseinventer.com/7007/index.m3u8?token=c0lTeGc1M0gydFNjcloydGZhbTFsY1RYMkphdG5OcXdxNHpMeGFYWW5ZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
+
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79027_dark_360w_270h.png" group-title="TV",Premier Sports 1
+https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5029.ts
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-name="Premier Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109162_dark_360w_270h.png" group-title="TV",Premier Sports 2
+https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5030.ts
+#EXTINF:-1 tvg-chno="130" tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027JYG2.png_dark_360w_270h.png" group-title="TV",Sky Sports News
+https://starshare.st/live/P4B9TB9xR8/humongous2tonight/23.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="FREE News",ABC News
 https://jmp2.uk/stvp-USBC39000171G
