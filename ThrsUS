@@ -22,8 +22,6 @@ http://1tv41.icu:8080/5ZCJFs/416986/1817
 http://canal-pro.xyz:8080/982004180tv/3mxs50/23591
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="USA News",CNN HD
 http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/104884
-#EXTINF:-1 tvg-name="RT HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"group-title="RU",RT HD
-https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News" tvg-logo="https://tlgrm.re/images/cbs-news-us.png" group-title="USA News",CBS News
 http://1tv41.icu:8080/Gx6Vdx/703084/21259
 #EXTINF:-1 tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News" tvg-logo="https://tlgrm.re/images/cbs-news-us.png" group-title="USA News",CBS News
@@ -65,6 +63,8 @@ https://jmp2.uk/stvp-USBB52000022Q
 https://jmp2.uk/stvp-US4000033L
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/live-now-fox-us.png" group-title="FREE News",LiveNOW FOX
 https://jmp2.uk/stvp-USBA300024TN
+#EXTINF:-1 tvg-name="RT HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"group-title="FREE News",RT HD
+https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 
 
 
