@@ -79,6 +79,8 @@ https://jmp2.uk/stvp-USBB2200014DK
 https://jmp2.uk/stvp-USBB52000022Q
 #EXTINF:-1 tvg-chno="403" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-hz-uk.png" group-title="FREE News",BBC News
 https://jmp2.uk/stvp-US4000033L
+#EXTINF:-1 tvg-logo="https://www.cltel.com/wp-content/uploads/2024/04/bbc-america-logo-1344C402CD-seeklogo.com_.png" group-title="FREE News",BBC America
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-chno="404" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/live-now-fox-us.png" group-title="FREE News",LiveNOW FOX
 https://jmp2.uk/stvp-USBA300024TN
 #EXTINF:-1 tvg-chno="405" tvg-name="RT HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"group-title="FREE News",RT HD
