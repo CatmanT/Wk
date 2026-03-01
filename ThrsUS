@@ -86,6 +86,14 @@ https://jmp2.uk/stvp-US4000033L
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-chno="404" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/live-now-fox-us.png" group-title="FREE News",LiveNOW FOX
 https://jmp2.uk/stvp-USBA300024TN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png" group-title="FREE News",Aljazeera
+plugin://plugin.video.youtube/play/?video_id=gCNeDWCI0vo
+#EXTINF:-1 tvg-logo="https://storelectric.com/wp-content/uploads/2024/01/trt-world.png" group-title="FREE News",TRT World
+plugin://plugin.video.youtube/play/?video_id=ABfFhWzWs0s
+#EXTINF:-1 tvg-logo="https://cyprusinno.com/wp-content/uploads/2022/05/france24.png" group-title="FREE News",France24
+plugin://plugin.video.youtube/play/?video_id=Ap-UM1O9RBU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1280px-Deutsche_Welle_Logo.svg.png" group-title="FREE News",DW
+plugin://plugin.video.youtube/play/?video_id=LuKwFajn37U
 #EXTINF:-1 tvg-chno="405" tvg-name="RT HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"group-title="FREE News",RT HD
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 
