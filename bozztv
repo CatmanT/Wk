@@ -1,100 +1,102 @@
 #EXTM3U
 
-Acasa.ro
+#EXTINF:-1 tvg-name="Acasa HD" tvg-id=""tvg-logo="https://i.postimg.cc/YC2GtFpb/Acasa.png"group-title="Generaliste",Acasa
 https://fl1001.bozztv.com/gcntv-acasa1/index.m3u8
-Antena 1
+#EXTINF:-1 tvg-name="ANTENA 1" tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png"group-title="Generaliste",ANTENA 1
 https://fl1001.bozztv.com/gcntv-antena1hd/index.m3u8
-Antena 3
+#EXTINF:-1 tvg-name="Antena 3 CNN" tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3 CNN
 https://fl1001.bozztv.com/gcntv-antena3/index.m3u8
-Antena Stars
+#EXTINF:-1 tvg-name="ANTENA STARS" tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png"group-title="Generaliste",ANTENA STARS
 https://fl1001.bozztv.com/gcntv-antenastars/index.m3u8
-Cinemaratorn
+#EXTINF:-1 tvg-name="Cinemaraton" tvg-logo="https://i.postimg.cc/Vvmy2fwK/Cinemaraton.png" group-title="Movies",Cinemaraton
 https://fl1001.bozztv.com/gcntv-cinemaraton/index.m3u8
-DaVinci
+#EXTINF:-1 tvg-name="Da Vinci" tvg-id=""tvg-logo="https://i.postimg.cc/B62LCCFX/Da-Vinci.png"group-title="Documentare",Da Vinci Learning
 https://fl1001.bozztv.com/gcntv-davinci/index.m3u8
-Digi24
+#EXTINF:-1 tvg-name="DIGI 24" tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png"group-title="Stiri",DIGI 24
 https://fl1001.bozztv.com/gcntv-digi24hd/index.m3u8
-Digi Sport 1
+#EXTINF:-1 tvg-name="DIGI Sport 1" tvg-logo="https://i.postimg.cc/PrSLKJCz/Digi-Sport1.png" group-title="Sport",DIGI Sport 1
 https://fl1001.bozztv.com/gcntv-digisporthd/index.m3u8
-Digi Sport 2
+#EXTINF:-1 tvg-name="DIGI Sport 2" tvg-logo="https://i.postimg.cc/P5NC7HZG/Digi-Sport2.png" group-title="Sport",DIGI Sport 2
 https://fl1003.bozztv.com/gcntv-globalsports/index.m3u8
-Digi Sport 3
+#EXTINF:-1 tvg-name="DIGI Sport 3" tvg-logo="https://i.postimg.cc/wjP18rc1/Digi-Sport3.png" group-title="Sport",DIGI Sport 3
 https://fl1003.bozztv.com/gcntv-globalsports2/index.m3u8
-Digi Sport 4
+#EXTINF:-1 tvg-name="DIGI Sport 4" tvg-logo="https://i.postimg.cc/mrHtbS88/Digi-Sport4.png" group-title="Sport",DIGI Sport 4
 https://fl1001.bozztv.com/gcntv-digisport4hd/index.m3u8
-DigiAnimalWorld.ro
+#EXTINF:-1 tvg-name="DIGI Animal World" tvg-id=""tvg-logo="https://i.postimg.cc/rm2zztHc/Digi-animal-world.png"group-title="Documentare",DIGI ANIMAL WORLD
 https://fl1001.bozztv.com/gcntv-digianimalworldhd/index.m3u8
-DigiLife.ro
+#EXTINF:-1 tvg-name="DIGI Life HD" tvg-id=""tvg-logo="https://i.postimg.cc/5N4YwL22/Digi-Life.png"group-title="Documentare",DIGI LIFE
 https://fl1001.bozztv.com/gcntv-digilifehd/index.m3u8
-DigiWorld.ro
+#EXTINF:-1 tvg-name="DIGI World HD" tvg-id=""tvg-logo="https://i.postimg.cc/8kBfJtDY/Digi-World.png"group-title="Documentare",DIGI WORLD
 https://fl1001.bozztv.com/gcntv-digiworld/index.m3u8
-DiscoveryChannel.ro
+#EXTINF:-1 tvg-name="Discovery HD" tvg-id=""tvg-logo="https://i.postimg.cc/Bbq6BfsV/Discovery-Channel.png"group-title="Documentare",Discovery Channel
 https://fl1001.bozztv.com/gcntv-discoveryhd/index.m3u8
-Diva
+#EXTINF:-1 tvg-name="Diva" tvg-id=""tvg-logo="https://i.postimg.cc/T29hY1JM/Diva.png"group-title="Movies",Diva
 https://fl1001.bozztv.com/gcntv-diva/index.m3u8
-EpicDrama.ro
+
+#EXTINF:-1 tvg-name="Epic Drama" tvg-id=""tvg-logo="https://i.postimg.cc/d1FtJc7V/Epic-Drama.png"group-title="Movies",Epic Drama
 https://fl1001.bozztv.com/gcntv-epicdrama/index.m3u8
-Eurosport1.ro
+#EXTINF:-1 tvg-name="EuroSport 1 " tvg-logo="https://i.postimg.cc/7hYHT1nv/Eurosport-1-HD.png" group-title="Sport",EuroSport 1
 https://fl1001.bozztv.com/gcntv-eurosport1hd/index.m3u8
-Eurosport2.ro
+#EXTINF:-1 tvg-name="EuroSport 2" tvg-logo="https://i.postimg.cc/fLvWLqXj/Eurosport-2-HD.png" group-title="Sport",EuroSport 2
 https://fl1001.bozztv.com/gcntv-eurosport2hd/index.m3u8
-FavoritTV.ro
+#EXTINF:-1 tvg-name="Favorit" tvg-logo="https://i.postimg.cc/KvWGRMKV/Favorit-TV.png" group-title="Music",FAVORIT TV
 https://fl1001.bozztv.com/gcntv-favorittv/index.m3u8
-FilmCafe.ro
+#EXTINF:-1 tvg-name="FILMCAFE" tvg-id=""tvg-logo="https://i.postimg.cc/C1JYYBTc/Film-cafe.png"group-title="Movies",Film Cafe
 https://fl1001.bozztv.com/gcntv-filmcafe/index.m3u8
-HappyChannel.ro
+#EXTINF:-1 tvg-name="Happy Channel" tvg-id=""tvg-logo="https://i.postimg.cc/xTBQ0VhV/Happy-Channel.png"group-title="Movies",Happy Channel
 https://fl1001.bozztv.com/gcntv-happychannelhd/index.m3u8
-HoraTV.ro
+#EXTINF:-1 tvg-name="Hora TV" tvg-id=""tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/hora-tv-ro.png"group-title="Music",Hora TV
 https://fl1001.bozztv.com/gcntv-horatv/index.m3u8
-KanalD.ro
+#EXTINF:-1 tvg-name="KANAL D" tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png"group-title="Generaliste",KANAL D
 https://fl1001.bozztv.com/gcntv-kanaldhd/index.m3u8
-KissTV.ro
+#EXTINF:-1 tvg-name="KISS TV" tvg-logo="https://i.postimg.cc/R0MDmPSz/Kiss-TV.png" group-title="Music",KISS TV
 https://fl1001.bozztv.com/gcntv-kisstv/index.m3u8
-NasulTV.ro
+#EXTINF:-1 tvg-name="Nasul TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/nasul-tv-ro.png" group-title="Music",Nasul TV
 https://fl1001.bozztv.com/gcntv-nasultv/index.m3u8
-NationalGeographic.ro
+#EXTINF:-1 tvg-name="National Geographic" tvg-id=""tvg-logo="https://i.postimg.cc/rsSHc7rM/National_Geografic.png"group-title="Documentare",National Geographic
 https://fl1001.bozztv.com/gcntv-natgeohd/index.m3u8
-NationalGeographicWild.ro
+#EXTINF:-1 tvg-name="National Geographic Wild" tvg-id=""tvg-logo="https://i.postimg.cc/28dpfLQh/Nat_Geo_Wild.png"group-title="Documentare",Nat Geo Wild
 https://fl1001.bozztv.com/gcntv-natgeowildhd/index.m3u8
-NatonalTV.ro
+#EXTINF:-1 tvg-name="NATIONAL TV" tvg-id=""tvg-logo="https://i.postimg.cc/sxSkxvtF/National_TV.png"group-title="Generaliste",NATIONAL TV
 https://fl1001.bozztv.com/gcntv-nationaltv/index.m3u8
-Nickelodeon.ro
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id=""tvg-logo="https://i.postimg.cc/1tVT78Rg/Nickelodeon.png"group-title="Kids",NICKELODEON
 https://fl1001.bozztv.com/gcntv-nickelodeon/index.m3u8
-NickJr.ro
+#EXTINF:-1 tvg-name="Nick Jr" tvg-id=""tvg-logo="https://i.postimg.cc/pTBJ6P2Y/Nick-Jr.png"group-title="Kids",NICK JR
 https://fl1001.bozztv.com/gcntv-nickjr/index.m3u8
-PrimaComedy.ro
+#EXTINF:-1 tvg-name="Prima Comedy" tvg-id=""tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/prima-comedy-ro.png"group-title="Generaliste",Prima Comedy
 https://fl1001.bozztv.com/gcntv-comedyest/index.m3u8
-PrimaSport1.ro
+#EXTINF:-1 tvg-name="Prima Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/prima-sport-1-ro.png" group-title="Sport",Prima Sport 1
 https://fl1001.bozztv.com/gcntv-looksportplushd/index.m3u8
-PrimaSport2.ro
+#EXTINF:-1 tvg-name="Prima Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/prima-sport-2-ro.png" group-title="Sport",Prima Sport 2
 https://fl1001.bozztv.com/gcntv-looktvhd/index.m3u8
-PrimaSport3.ro
+#EXTINF:-1 tvg-name="Prima Sport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/prima-sport-3-ro.png" group-title="Sport",Prima Sport 3
 https://fl1001.bozztv.com/gcntv-looksport3hd/index.m3u8
-PrimaTV.ro
+#EXTINF:-1 tvg-name="PRIMA TV" tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png"group-title="Generaliste",PRIMA TV
 https://fl1001.bozztv.com/gcntv-primatv/index.m3u8
-ProArena.ro
+#EXTINF:-1 tvg-name="PRO Arena" tvg-logo="https://i.postimg.cc/52f2xhMw/Pro-ARENA.png" group-title="Sport",PRO Arena
 https://fl1001.bozztv.com/gcntv-proxhd/index.m3u8
-RomaniaTV.ro
+#EXTINF:-1 tvg-name="România TV" tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png"group-title="Stiri",Romania TV
 https://fl1001.bozztv.com/gcntv-romaniatv/index.m3u8
-TarafTV.ro
+#EXTINF:-1 tvg-name="Taraf TV" tvg-logo="https://i.postimg.cc/pXRGzGj5/Taraf-TV.png" group-title="Music",TARAF TV
 https://fl1001.bozztv.com/gcntv-taraftv/index.m3u8
-TravelChannel.ro
+#EXTINF:-1 tvg-name="TRAVEL Channel" tvg-id=""tvg-logo="https://i.postimg.cc/Y03xd7FG/Travel-Mix.png"group-title="Documentare",TRAVEL Channel
 https://fl1001.bozztv.com/gcntv-travelchannelhd/index.m3u8
-TravelMix.ro
+#EXTINF:-1 tvg-name="TRAVEL MIX" tvg-id=""tvg-logo="https://i.postimg.cc/Y03xd7FG/Travel-Mix.png"group-title="Documentare",TRAVEL MIX
 https://fl1001.bozztv.com/gcntv-travelmix/index.m3u8
-Viasat Kino
+#EXTINF:-1 tvg-name="Viasat Kino" tvg-id=""tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032251913609_23.png"group-title="Movies",Viasat Kino
 https://fl1001.bozztv.com/gcntv-tv1000/index.m3u8
-TVPaprika.ro
+#EXTINF:-1 tvg-name="TV Paprika HD" tvg-logo="https://i.postimg.cc/Px1y8YrM/TV_Paprika.png" group-title="Documentare",TV PAPRIKA
 https://fl1001.bozztv.com/gcntv-tvpaprika/index.m3u8
-TVR1.ro
+#EXTINF:-1 tvg-name="TVR 1" tvg-id=""tvg-logo="https://i.postimg.cc/wTwVJ6Hn/TVR_1.png"group-title="Generaliste",TVR 1
 https://fl1001.bozztv.com/gcntv-tvr1hd/index.m3u8
-TVR2.ro
+#EXTINF:-1 tvg-name="TVR 2" tvg-id=""tvg-logo="https://i.postimg.cc/fTzCJ34x/TVR_2.png"group-title="Generaliste",TVR 2
 https://fl1001.bozztv.com/gcntv-tvr2/index.m3u8
-TVR3.ro
+#EXTINF:-1 tvg-name="TVR 3" tvg-id=""tvg-logo="https://i.postimg.cc/QdVqJRdC/TVR_3.png"group-title="Generaliste",TVR 3
 https://fl1001.bozztv.com/gcntv-tvr3/index.m3u8
-UTV.ro
+#EXTINF:-1 tvg-name="UTV HD" tvg-logo="https://i.postimg.cc/VsRBQYS5/UTV.png" group-title="Music",UTV
 https://fl1001.bozztv.com/gcntv-utvhd/index.m3u8
-WarnerTV.ro
+#EXTINF:-1 tvg-name="Warner TV" tvg-id=""tvg-logo="https://i.postimg.cc/L628LSc4/Warner.png"group-title="Movies",Warner TV
 https://fl1001.bozztv.com/gcntv-warnertv/index.m3u8
-ZUTV.ro
+#EXTINF:-1 tvg-name="ZU TV HD" tvg-logo="https://i.postimg.cc/zv0nnjmT/ZU-TV.png" group-title="Music",ZU TV
 https://fl1001.bozztv.com/gcntv-zutvhd/index.m3u8
+
