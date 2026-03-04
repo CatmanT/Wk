@@ -303,6 +303,8 @@ plugin://plugin.video.rdslive/?action=play&post_id=1765&post_url=https%3A%2F%2Fr
 plugin://plugin.video.rdslive/?action=play&post_id=1548&post_url=https%3A%2F%2Frds.live
 #EXTINF:-1 tvg-name="" tvg-id=""tvg-logo="https://i.postimg.cc/Y03xd7FG/Travel-Mix.png"group-title="Documentare",TRAVEL MIX
 plugin://plugin.video.rdslive/?action=play&post_id=1555&post_url=https%3A%2F%2Frds.live
+#EXTINF:-1 tvg-name="" tvg-id=""tvg-logo="https://i.postimg.cc/Y03xd7FG/Travel-Mix.png"group-title="Documentare",TRAVEL MIX
+https://fl1001.bozztv.com/gcntv-travelmix/index.m3u8
 #EXTINF:-1 tvg-name="Viasat Explore HD" tvg-id=""tvg-logo="https://i.postimg.cc/PqwzBYZk/ViasatExplore.png"group-title="Documentare",VIASAT EXPLORE
 plugin://plugin.video.rotv123/?mode=play&web_url=viasat-explore.php
 #EXTINF:-1 tvg-name="Viasat Explore HD" tvg-id=""tvg-logo="https://i.postimg.cc/PqwzBYZk/ViasatExplore.png"group-title="Documentare",VIASAT EXPLORE
