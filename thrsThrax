@@ -26,7 +26,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=EuronewsRomania.ro
 #EXTINF:-1 tvg-name="CNN" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png"group-title="Stiri",CNN
 plugin://plugin.video.thraxtv/?action=choose_source&id=CNN.ro
 #EXTINF:-1 tvg-name="BBC News" tvg-id=""tvg-logo="https://i.postimg.cc/mr34Nv1c/BBC-News-logo-PNG-1.png"group-title="Stiri",BBC News
-plugin://plugin.video.thraxtv/?action=choose_source&id=BBCWorldNews.ro
+plugin://plugin.video.thraxtv/?action=choose_source&id=BBCNews.ro
 #EXTINF:-1 tvg-name="RT HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"group-title="Stiri",RT HD
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-name="TVR 1" tvg-id=""tvg-logo="https://i.postimg.cc/wTwVJ6Hn/TVR_1.png"group-title="Generaliste",TVR 1
