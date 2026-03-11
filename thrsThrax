@@ -23,7 +23,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=RealitateaPlus.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=RomaniaTV.ro
 #EXTINF:-1 tvg-name="Euronews" tvg-id=""tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png"group-title="Stiri",Euronews RO
 plugin://plugin.video.thraxtv/?action=choose_source&id=EuronewsRomania.ro
-#EXTINF:-1 tvg-name="CNN" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png"group-title="Stiri",CNN
+#EXTINF:-1 tvg-name="CNN" tvg-id=""tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/cnn-hd-us.png"group-title="Stiri",CNN
 plugin://plugin.video.thraxtv/?action=choose_source&id=CNN.ro
 #EXTINF:-1 tvg-name="BBC News" tvg-id=""tvg-logo="https://i.postimg.cc/mr34Nv1c/BBC-News-logo-PNG-1.png"group-title="Stiri",BBC News
 plugin://plugin.video.thraxtv/?action=choose_source&id=BBCNews.ro
