@@ -173,14 +173,12 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=KissTV.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=HtMusicChannel.ro
 #EXTINF:-1 tvg-name="MAGIC TV HD" tvg-logo="https://i.postimg.cc/D0bC6Hg1/Magic-TV.png" group-title="Music",MAGIC TV
 plugin://plugin.video.thraxtv/?action=choose_source&id=MagicTV.ro
-#EXTINF:-1 tvg-name="Music Channel" tvg-logo="https://i.postimg.cc/cHKyqDhL/Music-Channel.png" group-title="Music",MUSIC CHANNEL
-plugin://plugin.video.thraxtv/?action=choose_source&id=MusicChannel.ro
-#EXTINF:-1 tvg-name="UTV HD" tvg-logo="https://i.postimg.cc/VsRBQYS5/UTV.png" group-title="Music",UTV
-plugin://plugin.video.thraxtv/?action=choose_source&id=UTV.ro
 #EXTINF:-1 tvg-name="ZU TV HD" tvg-logo="https://i.postimg.cc/zv0nnjmT/ZU-TV.png" group-title="Music",ZU TV
 plugin://plugin.video.thraxtv/?action=choose_source&id=ZUTV.ro
 #EXTINF:-1 tvg-name="Etno TV" tvg-logo="https://i.postimg.cc/cLVL5n0Y/Etno.png" group-title="Music",ETNO TV
 plugin://plugin.video.thraxtv/?action=choose_source&id=EtnoTV.ro
+#EXTINF:-1 tvg-name="Rock TV" tvg-id=""tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/rock-tv-ro.png"group-title="Music",Rock TV
+plugin://plugin.video.thraxtv/?action=choose_source&id=RockTV.ro
 #EXTINF:-1 tvg-name="Taraf TV" tvg-logo="https://i.postimg.cc/pXRGzGj5/Taraf-TV.png" group-title="Music",TARAF TV
 plugin://plugin.video.thraxtv/?action=choose_source&id=TarafTV.ro
 #EXTINF:-1 tvg-name="Favorit" tvg-logo="https://i.postimg.cc/KvWGRMKV/Favorit-TV.png" group-title="Music",FAVORIT TV
