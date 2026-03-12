@@ -190,7 +190,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=TarafTV.ro
 #EXTINF:-1 tvg-name="Favorit" tvg-logo="https://i.postimg.cc/KvWGRMKV/Favorit-TV.png" group-title="Music",FAVORIT TV
 plugin://plugin.video.thraxtv/?action=choose_source&id=FavoritTV.ro
 #EXTINF:-1 tvg-name="Mezzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="Music",Mezzo
-plugin://plugin.video.thraxtv/?action=choose_source&id=Mezzo.ro
+plugin://plugin.video.thraxtv/?action=choose_source&id=MezzoTV.ro
 
 
 
