@@ -202,8 +202,8 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=DisneyChannel.ro"
 plugin://plugin.video.thraxtv/?action=choose_source&id=DisneyJunior.ro
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id=""tvg-logo="https://i.postimg.cc/1tVT78Rg/Nickelodeon.png"group-title="Kids",NICKELODEON
 plugin://plugin.video.thraxtv/?action=choose_source&id=Nickelodeon.ro
-#EXTINF:-1 tvg-name="TeenNick" tvg-id=""tvg-logo="https://i.postimg.cc/9FhqDkyn/TeenNick.png"group-title="Kids",TEENNICK
-plugin://plugin.video.thraxtv/?action=choose_source&id=TeenNick.ro
+#EXTINF:-1 tvg-name="NICKTOONS" tvg-id=""tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/nick-toons-rs.png"group-title="Kids",NICKTOONS
+plugin://plugin.video.thraxtv/?action=choose_source&id=nicktoons.ro
 #EXTINF:-1 tvg-name="Nick Jr" tvg-id=""tvg-logo="https://i.postimg.cc/pTBJ6P2Y/Nick-Jr.png"group-title="Kids",NICK JR
 plugin://plugin.video.thraxtv/?action=choose_source&id=NickJr.ro
 #EXTINF:-1 tvg-name="JimJam" tvg-id=""tvg-logo="https://i.postimg.cc/4xR0Lfjy/JimJam.png"group-title="Kids",JIMJAM
