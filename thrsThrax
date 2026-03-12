@@ -189,7 +189,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=Eurosport1.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=Eurosport2.ro
 #EXTINF:-1 tvg-name="Sport Extra HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Logo-sportextra.png"group-title="Sport",Sport Extra
 plugin://plugin.video.thraxtv/?action=choose_source&id=SportExtra.ro
-#EXTINF:-1 tvg-name="PRO Arena" tvg-logo="https://i.postimg.cc/52f2xhMw/Pro-ARENA.png" group-title="Sport",PRO Arena
+#EXTINF:-1 tvg-name="PRO Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/pro-arena-ro.png" group-title="Sport",PRO Arena
 plugin://plugin.video.thraxtv/?action=choose_source&id=ProArena.ro
 
 
