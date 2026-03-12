@@ -179,6 +179,8 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=ZUTV.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=EtnoTV.ro
 #EXTINF:-1 tvg-name="Rock TV" tvg-id=""tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/rock-tv-ro.png"group-title="Music",Rock TV
 plugin://plugin.video.thraxtv/?action=choose_source&id=RockTV.ro
+#EXTINF:-1 tvg-name="Party Mix" tvg-id=""tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/party-mix-ro.png"group-title="Music",Party Mix
+plugin://plugin.video.thraxtv/?action=choose_source&id=PartyMix.ro
 #EXTINF:-1 tvg-name="Taraf TV" tvg-logo="https://i.postimg.cc/pXRGzGj5/Taraf-TV.png" group-title="Music",TARAF TV
 plugin://plugin.video.thraxtv/?action=choose_source&id=TarafTV.ro
 #EXTINF:-1 tvg-name="Favorit" tvg-logo="https://i.postimg.cc/KvWGRMKV/Favorit-TV.png" group-title="Music",FAVORIT TV
