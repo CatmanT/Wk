@@ -44,6 +44,31 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=National24Plus.ro
 #EXTINF:-1 tvg-name="Acasă Gold HD" tvg-id=""tvg-logo="https://i.postimg.cc/hjNsXMBv/Acas-A-Gold.png"group-title="Generaliste",ACASA GOLD
 plugin://plugin.video.thraxtv/?action=choose_source&id=AcasaGold.ro
 
+
+#EXTINF:-1 tvg-name="DIGI Sport 1" tvg-logo="https://i.postimg.cc/PrSLKJCz/Digi-Sport1.png" group-title="Sport",DIGI Sport 1
+plugin://plugin.video.thraxtv/?action=choose_source&id=DigiSport1.ro
+#EXTINF:-1 tvg-name="DIGI Sport 2" tvg-logo="https://i.postimg.cc/P5NC7HZG/Digi-Sport2.png" group-title="Sport",DIGI Sport 2
+plugin://plugin.video.thraxtv/?action=choose_source&id=DigiSport2.ro
+#EXTINF:-1 tvg-name="DIGI Sport 3" tvg-logo="https://i.postimg.cc/wjP18rc1/Digi-Sport3.png" group-title="Sport",DIGI Sport 3
+plugin://plugin.video.thraxtv/?action=choose_source&id=DigiSport3.ro
+#EXTINF:-1 tvg-name="DIGI Sport 4" tvg-logo="https://i.postimg.cc/mrHtbS88/Digi-Sport4.png" group-title="Sport",DIGI Sport 4
+plugin://plugin.video.thraxtv/?action=choose_source&id=DigiSport4.ro
+#EXTINF:-1 tvg-name="Prima Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/prima-sport-1-ro.png" group-title="Sport",Prima Sport 1
+plugin://plugin.video.thraxtv/?action=choose_source&id=PrimaSport1.ro
+#EXTINF:-1 tvg-name="Prima Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/prima-sport-2-ro.png" group-title="Sport",Prima Sport 2
+plugin://plugin.video.thraxtv/?action=choose_source&id=PrimaSport2.ro
+#EXTINF:-1 tvg-name="Prima Sport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/prima-sport-3-ro.png" group-title="Sport",Prima Sport 3
+plugin://plugin.video.thraxtv/?action=choose_source&id=PrimaSport3.ro
+#EXTINF:-1 tvg-name="EuroSport 1 " tvg-logo="https://i.postimg.cc/7hYHT1nv/Eurosport-1-HD.png" group-title="Sport",EuroSport 1
+plugin://plugin.video.thraxtv/?action=choose_source&id=Eurosport1.ro
+#EXTINF:-1 tvg-name="EuroSport 2" tvg-logo="https://i.postimg.cc/fLvWLqXj/Eurosport-2-HD.png" group-title="Sport",EuroSport 2
+plugin://plugin.video.thraxtv/?action=choose_source&id=Eurosport2.ro
+#EXTINF:-1 tvg-name="Sport Extra HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Logo-sportextra.png"group-title="Sport",Sport Extra
+plugin://plugin.video.thraxtv/?action=choose_source&id=SportExtra.ro
+#EXTINF:-1 tvg-name="PRO Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/pro-arena-ro.png" group-title="Sport",PRO Arena
+plugin://plugin.video.thraxtv/?action=choose_source&id=ProArena.ro
+
+
 #EXTINF:-1 tvg-name="HBO" tvg-id=""tvg-logo="https://i.postimg.cc/hjZwp9qR/HBO_HD.png"group-title="Movies",HBO
 plugin://plugin.video.thraxtv/?action=choose_source&id=HBO.ro
 #EXTINF:-1 tvg-name="HBO 2" tvg-id=""tvg-logo="https://i.postimg.cc/FzqMs0PV/HBO_2.png"group-title="Movies",HBO 2
@@ -167,30 +192,6 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=FavoritTV.ro
 #EXTINF:-1 tvg-name="Mezzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="Music",Mezzo
 plugin://plugin.video.thraxtv/?action=choose_source&id=Mezzo.ro
 
-
-
-#EXTINF:-1 tvg-name="DIGI Sport 1" tvg-logo="https://i.postimg.cc/PrSLKJCz/Digi-Sport1.png" group-title="Sport",DIGI Sport 1
-plugin://plugin.video.thraxtv/?action=choose_source&id=DigiSport1.ro
-#EXTINF:-1 tvg-name="DIGI Sport 2" tvg-logo="https://i.postimg.cc/P5NC7HZG/Digi-Sport2.png" group-title="Sport",DIGI Sport 2
-plugin://plugin.video.thraxtv/?action=choose_source&id=DigiSport2.ro
-#EXTINF:-1 tvg-name="DIGI Sport 3" tvg-logo="https://i.postimg.cc/wjP18rc1/Digi-Sport3.png" group-title="Sport",DIGI Sport 3
-plugin://plugin.video.thraxtv/?action=choose_source&id=DigiSport3.ro
-#EXTINF:-1 tvg-name="DIGI Sport 4" tvg-logo="https://i.postimg.cc/mrHtbS88/Digi-Sport4.png" group-title="Sport",DIGI Sport 4
-plugin://plugin.video.thraxtv/?action=choose_source&id=DigiSport4.ro
-#EXTINF:-1 tvg-name="Prima Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/prima-sport-1-ro.png" group-title="Sport",Prima Sport 1
-plugin://plugin.video.thraxtv/?action=choose_source&id=PrimaSport1.ro
-#EXTINF:-1 tvg-name="Prima Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/prima-sport-2-ro.png" group-title="Sport",Prima Sport 2
-plugin://plugin.video.thraxtv/?action=choose_source&id=PrimaSport2.ro
-#EXTINF:-1 tvg-name="Prima Sport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/prima-sport-3-ro.png" group-title="Sport",Prima Sport 3
-plugin://plugin.video.thraxtv/?action=choose_source&id=PrimaSport3.ro
-#EXTINF:-1 tvg-name="EuroSport 1 " tvg-logo="https://i.postimg.cc/7hYHT1nv/Eurosport-1-HD.png" group-title="Sport",EuroSport 1
-plugin://plugin.video.thraxtv/?action=choose_source&id=Eurosport1.ro
-#EXTINF:-1 tvg-name="EuroSport 2" tvg-logo="https://i.postimg.cc/fLvWLqXj/Eurosport-2-HD.png" group-title="Sport",EuroSport 2
-plugin://plugin.video.thraxtv/?action=choose_source&id=Eurosport2.ro
-#EXTINF:-1 tvg-name="Sport Extra HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Logo-sportextra.png"group-title="Sport",Sport Extra
-plugin://plugin.video.thraxtv/?action=choose_source&id=SportExtra.ro
-#EXTINF:-1 tvg-name="PRO Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/pro-arena-ro.png" group-title="Sport",PRO Arena
-plugin://plugin.video.thraxtv/?action=choose_source&id=ProArena.ro
 
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-id=""tvg-logo="https://i.postimg.cc/7Y9zcXWz/Cartoon-Network.png"group-title="Kids",CARTOON NETWORK
