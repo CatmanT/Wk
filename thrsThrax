@@ -173,10 +173,6 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=KissTV.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=HtMusicChannel.ro
 #EXTINF:-1 tvg-name="MAGIC TV HD" tvg-logo="https://i.postimg.cc/D0bC6Hg1/Magic-TV.png" group-title="Music",MAGIC TV
 plugin://plugin.video.thraxtv/?action=choose_source&id=MagicTV.ro
-#EXTINF:-1 tvg-name="MTV Europe" tvg-logo="https://i.postimg.cc/G3WrR1Zw/MTV-Europe.png" group-title="Music",MTV EUROPE
-plugin://plugin.video.thraxtv/?action=choose_source&id=MTV.ro
-#EXTINF:-1 tvg-name="MTV 00s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Music",MTV 00s
-plugin://plugin.video.thraxtv/?action=choose_source&id=MTV80s.ro
 #EXTINF:-1 tvg-name="Music Channel" tvg-logo="https://i.postimg.cc/cHKyqDhL/Music-Channel.png" group-title="Music",MUSIC CHANNEL
 plugin://plugin.video.thraxtv/?action=choose_source&id=MusicChannel.ro
 #EXTINF:-1 tvg-name="UTV HD" tvg-logo="https://i.postimg.cc/VsRBQYS5/UTV.png" group-title="Music",UTV
