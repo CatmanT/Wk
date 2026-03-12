@@ -212,7 +212,8 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=JimJam.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=Minimax.ro
 #EXTINF:-1 tvg-name="CARTOONITO" tvg-id=""tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png"group-title="Kids",CARTOONITO
 plugin://plugin.video.thraxtv/?action=choose_source&id=Cartoonito.ro
-
+#EXTINF:-1 tvg-name="TraLaLa TV" tvg-id=""tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/tralala-ro.png"group-title="Kids",TraLaLa TV
+plugin://plugin.video.thraxtv/?action=choose_source&id=TraLaLaTV.ro
 
 
 
