@@ -210,7 +210,8 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=NickJr.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=JimJam.ro
 #EXTINF:-1 tvg-name="Minimax" tvg-id=""tvg-logo="https://i.postimg.cc/xd1V5jbH/Minimax.png"group-title="Kids",MINIMAX
 plugin://plugin.video.thraxtv/?action=choose_source&id=Minimax.ro
-
+#EXTINF:-1 tvg-name="CARTOONITO" tvg-id=""tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png"group-title="Kids",CARTOONITO
+plugin://plugin.video.thraxtv/?action=choose_source&id=Cartoonito.ro
 
 
 
