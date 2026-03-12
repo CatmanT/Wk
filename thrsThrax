@@ -113,7 +113,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=DigiWorld.ro
 #EXTINF:-1 tvg-name="Discovery HD" tvg-id=""tvg-logo="https://i.postimg.cc/Bbq6BfsV/Discovery-Channel.png"group-title="Documentare",Discovery Channel
 plugin://plugin.video.thraxtv/?action=choose_source&id=DiscoveryChannel.ro
 #EXTINF:-1 tvg-name="Crime + Investigation" tvg-id=""tvg-logo=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/crime-and-investigation-rs.png"group-title="Documentare",Crime + Investigation
-plugin://plugin.video.thraxtv/?action=choose_source&id=Crime.+.Investigation.ro
+plugin://plugin.video.thraxtv/?action=choose_source&id=CrimePlusInvestigation.ro
 #EXTINF:-1 tvg-name="History Channel" tvg-id=""tvg-logo="https://i.postimg.cc/wBqLzQ2C/History.png"group-title="Documentare",History
 plugin://plugin.video.thraxtv/?action=choose_source&id=History.ro
 #EXTINF:-1 tvg-name="National Geographic" tvg-id=""tvg-logo="https://i.postimg.cc/rsSHc7rM/National_Geografic.png"group-title="Documentare",National Geographic
