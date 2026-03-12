@@ -169,6 +169,8 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=E.ro
 
 #EXTINF:-1 tvg-name="KISS TV" tvg-logo="https://i.postimg.cc/R0MDmPSz/Kiss-TV.png" group-title="Music",KISS TV
 plugin://plugin.video.thraxtv/?action=choose_source&id=KissTV.ro
+#EXTINF:-1 tvg-name="UTV HD" tvg-logo="https://i.postimg.cc/VsRBQYS5/UTV.png" group-title="Music",UTV
+plugin://plugin.video.thraxtv/?action=choose_source&id=UTV.ro
 #EXTINF:-1 tvg-name="H!T Music Channel" tvg-logo="https://i.postimg.cc/bw0BKXjT/Hit-Music-Channel.png" group-title="Music",HIT MUSIC CHANNEL
 plugin://plugin.video.thraxtv/?action=choose_source&id=HtMusicChannel.ro
 #EXTINF:-1 tvg-name="MAGIC TV HD" tvg-logo="https://i.postimg.cc/D0bC6Hg1/Magic-TV.png" group-title="Music",MAGIC TV
