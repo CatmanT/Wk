@@ -101,7 +101,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=Cinemax.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=Cinemax2.ro
 #EXTINF:-1 tvg-name="Cinemaraton" tvg-logo="https://i.postimg.cc/Vvmy2fwK/Cinemaraton.png" group-title="Movies",Cinemaraton
 plugin://plugin.video.thraxtv/?action=choose_source&id=CineMaraton.ro
-#EXTINF:-1 tvg-name="Cinemax HD" tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/CineWow.png"group-title="Movies",CineWOW
+#EXTINF:-1 tvg-name="CineWOW" tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/CineWow.png"group-title="Movies",CineWOW
 plugin://plugin.video.thraxtv/?action=choose_source&id=cinewow.ro
 #EXTINF:-1 tvg-name="Diva" tvg-id=""tvg-logo="https://i.postimg.cc/T29hY1JM/Diva.png"group-title="Movies",Diva
 plugin://plugin.video.thraxtv/?action=choose_source&id=Diva.ro
