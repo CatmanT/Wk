@@ -197,7 +197,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=MezzoTV.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=CartoonNetwork.ro
 #EXTINF:-1 tvg-name="Disney Channel" tvg-id=""tvg-logo="https://i.postimg.cc/c4C1xmJw/Disney-Channel.png"group-title="Kids",Disney Channel
 plugin://plugin.video.thraxtv/?action=choose_source&id=DisneyChannel.ro"
-#EXTINF:-1 tvg-name="Disney Junior" tvg-id=""tvg-logo="https://i.postimg.cc/R05vTxLL/Disney-Junior.png"group-title="Kids"Disney Junior
+#EXTINF:-1 tvg-name="Disney Junior" tvg-id=""tvg-logo="https://i.postimg.cc/R05vTxLL/Disney-Junior.png"group-title="Kids",Disney Junior
 plugin://plugin.video.thraxtv/?action=choose_source&id=DisneyJunior.ro
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id=""tvg-logo="https://i.postimg.cc/1tVT78Rg/Nickelodeon.png"group-title="Kids",Nickelodeon
 plugin://plugin.video.thraxtv/?action=choose_source&id=Nickelodeon.ro
