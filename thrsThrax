@@ -127,7 +127,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=ComedyCentral.ro
 
 #EXTINF:-1 tvg-name="BBC Earth" tvg-id=""tvg-logo="https://i.postimg.cc/J4538RGG/BBC-Earth.png"group-title="Documentare",BBC Earth
 plugin://plugin.video.thraxtv/?action=choose_source&id=BBCEarth.ro
-#EXTINF:-1 tvg-name="Cbs Reality" tvg-id="CBS.Reality.ro"tvg-logo="https://i.postimg.cc/vTqQ7104/CBS-Reality.png"group-title="Documentare",CBS Reality
+#EXTINF:-1 tvg-name="CBS.Reality" tvg-id="CBS.Reality.ro"tvg-logo="https://i.postimg.cc/vTqQ7104/CBS-Reality.png"group-title="Documentare",CBS Reality
 plugin://plugin.video.thraxtv/?action=choose_source&id=CBSReality.ro
 #EXTINF:-1 tvg-name="DIGI Animal World" tvg-id=""tvg-logo="https://i.postimg.cc/rm2zztHc/Digi-animal-world.png"group-title="Documentare",DIGI Animal World
 #EXTINF:-1 tvg-name="DIGI Life HD" tvg-id=""tvg-logo="https://i.postimg.cc/5N4YwL22/Digi-Life.png"group-title="Documentare",DIGI Life
