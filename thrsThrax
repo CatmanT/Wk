@@ -77,11 +77,11 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=HBO2.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=HBO3.ro
 #EXTINF:-1 tvg-name="AXN HD" tvg-id=""tvg-logo="https://i.postimg.cc/43qVPdFF/AXN-HD.png"group-title="Movies",AXN-HD
 plugin://plugin.video.thraxtv/?action=choose_source&id=AXN.ro
-#EXTINF:-1 tvg-name="AXN Spin " tvg-id=""tvg-logo="https://i.postimg.cc/VNdXXM4C/AXN-Spin.png"group-title="Movies",AXN SPIN
+#EXTINF:-1 tvg-name="AXN Spin " tvg-id=""tvg-logo="https://i.postimg.cc/VNdXXM4C/AXN-Spin.png"group-title="Movies",AXN Spin
 plugin://plugin.video.thraxtv/?action=choose_source&id=AXNSpin.ro
-#EXTINF:-1 tvg-name="AXN White" tvg-id=""tvg-logo="https://i.postimg.cc/d3KdMfF2/AXN-White.png"group-title="Movies",AXN WHITE
+#EXTINF:-1 tvg-name="AXN White" tvg-id=""tvg-logo="https://i.postimg.cc/d3KdMfF2/AXN-White.png"group-title="Movies",AXN White
 plugin://plugin.video.thraxtv/?action=choose_source&id=AXNWhite.ro
-#EXTINF:-1 tvg-name="AXN Black" tvg-id=""tvg-logo="https://i.postimg.cc/vBn9NsJ8/AXN-Black.png"group-title="Movies",AXN BLACK
+#EXTINF:-1 tvg-name="AXN Black" tvg-id=""tvg-logo="https://i.postimg.cc/vBn9NsJ8/AXN-Black.png"group-title="Movies",AXN Black
 plugin://plugin.video.thraxtv/?action=choose_source&id=AXNBlack.ro
 #EXTINF:-1 tvg-name="Happy Channel" tvg-id=""tvg-logo="https://i.postimg.cc/xTBQ0VhV/Happy-Channel.png"group-title="Movies",Happy Channel
 plugin://plugin.video.thraxtv/?action=choose_source&id=HappyChannel.ro
@@ -97,11 +97,11 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=SkyShowtime1.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=SkyShowtime2.ro
 #EXTINF:-1 tvg-name="Cinemax HD" tvg-id=""tvg-logo="https://i.postimg.cc/nhwDVrZc/CineMax.png"group-title="Movies",Cinemax 1
 plugin://plugin.video.thraxtv/?action=choose_source&id=Cinemax.ro
-#EXTINF:-1 tvg-name="Cinemax2.ro" tvg-id=""tvg-logo="https://i.postimg.cc/y8NRz9Mb/Cinemax-2-HD.png"group-title="Movies",CINEMAX 2
+#EXTINF:-1 tvg-name="Cinemax2.ro" tvg-id=""tvg-logo="https://i.postimg.cc/y8NRz9Mb/Cinemax-2-HD.png"group-title="Movies",Cinemax 2
 plugin://plugin.video.thraxtv/?action=choose_source&id=Cinemax2.ro
 #EXTINF:-1 tvg-name="Cinemaraton" tvg-logo="https://i.postimg.cc/Vvmy2fwK/Cinemaraton.png" group-title="Movies",Cinemaraton
 plugin://plugin.video.thraxtv/?action=choose_source&id=CineMaraton.ro
-#EXTINF:-1 tvg-name="Cinewow.ro" tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/CineWow.png"group-title="Movies",CineWOW
+#EXTINF:-1 tvg-name="Cinewow.ro" tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/CineWow.png"group-title="Movies",CineWow
 plugin://plugin.video.thraxtv/?action=choose_source&id=Cinewow.ro
 #EXTINF:-1 tvg-name="Diva" tvg-id=""tvg-logo="https://i.postimg.cc/T29hY1JM/Diva.png"group-title="Movies",Diva
 plugin://plugin.video.thraxtv/?action=choose_source&id=Diva.ro
@@ -113,7 +113,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=AMC.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=FilmNow.ro
 #EXTINF:-1 tvg-name="FILMCAFE" tvg-id=""tvg-logo="https://i.postimg.cc/C1JYYBTc/Film-cafe.png"group-title="Movies",Film Cafe
 plugin://plugin.video.thraxtv/?action=choose_source&id=FilmCafe.ro
-#EXTINF:-1 tvg-name="PRO Cinema HD" tvg-id=""tvg-logo="https://i.postimg.cc/GpVgDbPb/Pro-Cinema.png"group-title="Movies",PRO CINEMA
+#EXTINF:-1 tvg-name="PRO Cinema HD" tvg-id=""tvg-logo="https://i.postimg.cc/GpVgDbPb/Pro-Cinema.png"group-title="Movies",PRO Cinema
 plugin://plugin.video.thraxtv/?action=choose_source&id=ProCinema.ro
 #EXTINF:-1 tvg-name="Warner TV" tvg-id=""tvg-logo="https://i.postimg.cc/L628LSc4/Warner.png"group-title="Movies",Warner TV
 plugin://plugin.video.thraxtv/?action=choose_source&id=WarnerTV.ro
@@ -129,11 +129,10 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=ComedyCentral.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=BBCEarth.ro
 #EXTINF:-1 tvg-name="CBSReality.ro" tvg-id="CBS.Reality.ro"tvg-logo="https://i.postimg.cc/vTqQ7104/CBS-Reality.png"group-title="Documentare",CBS Reality
 plugin://plugin.video.thraxtv/?action=choose_source&id=CBSReality.ro
-#EXTINF:-1 tvg-name="DIGI Animal World" tvg-id=""tvg-logo="https://i.postimg.cc/rm2zztHc/Digi-animal-world.png"group-title="Documentare",DIGI ANIMAL WORLD
-plugin://plugin.video.thraxtv/?action=choose_source&id=DigiAnimalWorld.ro
-#EXTINF:-1 tvg-name="DIGI Life HD" tvg-id=""tvg-logo="https://i.postimg.cc/5N4YwL22/Digi-Life.png"group-title="Documentare",DIGI LIFE
+#EXTINF:-1 tvg-name="DIGI Animal World" tvg-id=""tvg-logo="https://i.postimg.cc/rm2zztHc/Digi-animal-world.png"group-title="Documentare",DIGI Animal World
+#EXTINF:-1 tvg-name="DIGI Life HD" tvg-id=""tvg-logo="https://i.postimg.cc/5N4YwL22/Digi-Life.png"group-title="Documentare",DIGI Life
 plugin://plugin.video.thraxtv/?action=choose_source&id=DigiLife.ro
-#EXTINF:-1 tvg-name="DIGI World HD" tvg-id=""tvg-logo="https://i.postimg.cc/8kBfJtDY/Digi-World.png"group-title="Documentare",DIGI WORLD
+#EXTINF:-1 tvg-name="DIGI World HD" tvg-id=""tvg-logo="https://i.postimg.cc/8kBfJtDY/Digi-World.png"group-title="Documentare",DIGI World
 plugin://plugin.video.thraxtv/?action=choose_source&id=DigiWorld.ro
 #EXTINF:-1 tvg-name="Discovery HD" tvg-id=""tvg-logo="https://i.postimg.cc/Bbq6BfsV/Discovery-Channel.png"group-title="Documentare",Discovery Channel
 plugin://plugin.video.thraxtv/?action=choose_source&id=DiscoveryChannel.ro
@@ -147,9 +146,9 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=NationalGeographic.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=NationalGeographicWild.ro
 #EXTINF:-1 tvg-name="TLC HD" tvg-id=""tvg-logo="https://i.postimg.cc/7ZLKQ5mx/TLC.png"group-title="Documentare",TLC
 plugin://plugin.video.thraxtv/?action=choose_source&id=TLC.ro
-#EXTINF:-1 tvg-name="HGTV HD" tvg-logo="https://i.postimg.cc/wMSrdgvW/HGTV.png" group-title="Documentare",HGTV HD
+#EXTINF:-1 tvg-name="HGTV HD" tvg-logo="https://i.postimg.cc/wMSrdgvW/HGTV.png" group-title="Documentare",HGTV
 plugin://plugin.video.thraxtv/?action=choose_source&id=HGTV.ro
-#EXTINF:-1 tvg-name="TV Paprika HD" tvg-logo="https://i.postimg.cc/Px1y8YrM/TV_Paprika.png" group-title="Documentare",TV PAPRIKA
+#EXTINF:-1 tvg-name="TV Paprika HD" tvg-logo="https://i.postimg.cc/Px1y8YrM/TV_Paprika.png" group-title="Documentare",TV Paprika
 plugin://plugin.video.thraxtv/?action=choose_source&id=TVPaprika.ro
 #EXTINF:-1 tvg-name="Food NetworkD" tvg-id=""tvg-logo="https://i.postimg.cc/wBQYcyv9/Food-Network.png"group-title="Documentare",Food Network
 plugin://plugin.video.thraxtv/?action=choose_source&id=FoodNetwork.ro
