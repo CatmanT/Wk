@@ -35,13 +35,13 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=TVR1.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=TVR2.ro
 #EXTINF:-1 tvg-name="TVR 3" tvg-id=""tvg-logo="https://i.postimg.cc/QdVqJRdC/TVR_3.png"group-title="Generaliste",TVR 3
 plugin://plugin.video.thraxtv/?action=choose_source&id=TVR3.ro
-#EXTINF:-1 tvg-name="Acasă HD" tvg-id=""tvg-logo="https://i.postimg.cc/YC2GtFpb/Acasa.png"group-title="Generaliste",Acasă
+#EXTINF:-1 tvg-name="Acasa HD" tvg-id=""tvg-logo="https://i.postimg.cc/YC2GtFpb/Acasa.png"group-title="Generaliste",Acasă
 plugin://plugin.video.thraxtv/?action=choose_source&id=Acasa.ro
 #EXTINF:-1 tvg-name="National TV" tvg-id=""tvg-logo="https://i.postimg.cc/sxSkxvtF/National_TV.png"group-title="Generaliste",National TV
 plugin://plugin.video.thraxtv/?action=choose_source&id=NationalTV.ro
 #EXTINF:-1 tvg-name="National 24 Plus" tvg-id=""tvg-logo="https://i.postimg.cc/sfhdwN1n/National_24_Plus.png"group-title="Generaliste",National 24 Plus
 plugin://plugin.video.thraxtv/?action=choose_source&id=National24Plus.ro
-#EXTINF:-1 tvg-name="Acasă Gold HD" tvg-id=""tvg-logo="https://i.postimg.cc/hjNsXMBv/Acas-A-Gold.png"group-title="Generaliste",Acasă Gold
+#EXTINF:-1 tvg-name="Acasa Gold HD" tvg-id=""tvg-logo="https://i.postimg.cc/hjNsXMBv/Acas-A-Gold.png"group-title="Generaliste",Acasă Gold
 plugin://plugin.video.thraxtv/?action=choose_source&id=AcasaGold.ro
 
 
