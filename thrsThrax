@@ -19,7 +19,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=AntenaStars.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=Antena3CNN.ro
 #EXTINF:-1 tvg-name="Realitatea Plus" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",Realitatea Plus
 plugin://plugin.video.thraxtv/?action=choose_source&id=RealitateaPlus.ro
-#EXTINF:-1 tvg-name="România TV" tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png"group-title="Stiri",Romania TV
+#EXTINF:-1 tvg-name="România TV" tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png"group-title="Stiri",România TV
 plugin://plugin.video.thraxtv/?action=choose_source&id=RomaniaTV.ro
 #EXTINF:-1 tvg-name="Euronews" tvg-id=""tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png"group-title="Stiri",Euronews RO
 plugin://plugin.video.thraxtv/?action=choose_source&id=EuronewsRomania.ro
@@ -27,7 +27,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=EuronewsRomania.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=CNN.ro
 #EXTINF:-1 tvg-name="BBC News" tvg-id=""tvg-logo="https://i.postimg.cc/mr34Nv1c/BBC-News-logo-PNG-1.png"group-title="Stiri",BBC News
 plugin://plugin.video.thraxtv/?action=choose_source&id=BBCNews.ro
-#EXTINF:-1 tvg-name="RT HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"group-title="Stiri",RT HD
+#EXTINF:-1 tvg-name="RT HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"group-title="Stiri",RT
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-name="TVR 1" tvg-id=""tvg-logo="https://i.postimg.cc/wTwVJ6Hn/TVR_1.png"group-title="Generaliste",TVR 1
 plugin://plugin.video.thraxtv/?action=choose_source&id=TVR1.ro
@@ -37,9 +37,9 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=TVR2.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=TVR3.ro
 #EXTINF:-1 tvg-name="Acasa HD" tvg-id=""tvg-logo="https://i.postimg.cc/YC2GtFpb/Acasa.png"group-title="Generaliste",Acasă
 plugin://plugin.video.thraxtv/?action=choose_source&id=Acasa.ro
-#EXTINF:-1 tvg-name="National TV" tvg-id=""tvg-logo="https://i.postimg.cc/sxSkxvtF/National_TV.png"group-title="Generaliste",National TV
+#EXTINF:-1 tvg-name="National TV" tvg-id=""tvg-logo="https://i.postimg.cc/sxSkxvtF/National_TV.png"group-title="Generaliste",Național TV
 plugin://plugin.video.thraxtv/?action=choose_source&id=NationalTV.ro
-#EXTINF:-1 tvg-name="National 24 Plus" tvg-id=""tvg-logo="https://i.postimg.cc/sfhdwN1n/National_24_Plus.png"group-title="Generaliste",National 24 Plus
+#EXTINF:-1 tvg-name="National 24 Plus" tvg-id=""tvg-logo="https://i.postimg.cc/sfhdwN1n/National_24_Plus.png"group-title="Generaliste",Național 24 Plus
 plugin://plugin.video.thraxtv/?action=choose_source&id=National24Plus.ro
 #EXTINF:-1 tvg-name="Acasa Gold HD" tvg-id=""tvg-logo="https://i.postimg.cc/hjNsXMBv/Acas-A-Gold.png"group-title="Generaliste",Acasă Gold
 plugin://plugin.video.thraxtv/?action=choose_source&id=AcasaGold.ro
@@ -75,7 +75,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=HBO.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=HBO2.ro
 #EXTINF:-1 tvg-name="HBO 3" tvg-id=""tvg-logo="https://i.postimg.cc/L8fp50FY/HBO_3.png"group-title="Movies",HBO 3
 plugin://plugin.video.thraxtv/?action=choose_source&id=HBO3.ro
-#EXTINF:-1 tvg-name="AXN HD" tvg-id=""tvg-logo="https://i.postimg.cc/43qVPdFF/AXN-HD.png"group-title="Movies",AXN-HD
+#EXTINF:-1 tvg-name="AXN HD" tvg-id=""tvg-logo="https://i.postimg.cc/43qVPdFF/AXN-HD.png"group-title="Movies",AXN
 plugin://plugin.video.thraxtv/?action=choose_source&id=AXN.ro
 #EXTINF:-1 tvg-name="AXN Spin " tvg-id=""tvg-logo="https://i.postimg.cc/VNdXXM4C/AXN-Spin.png"group-title="Movies",AXN Spin
 plugin://plugin.video.thraxtv/?action=choose_source&id=AXNSpin.ro
@@ -127,7 +127,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=ComedyCentral.ro
 
 #EXTINF:-1 tvg-name="BBC Earth" tvg-id=""tvg-logo="https://i.postimg.cc/J4538RGG/BBC-Earth.png"group-title="Documentare",BBC Earth
 plugin://plugin.video.thraxtv/?action=choose_source&id=BBCEarth.ro
-#EXTINF:-1 tvg-name="CBSReality.ro" tvg-id="CBS.Reality.ro"tvg-logo="https://i.postimg.cc/vTqQ7104/CBS-Reality.png"group-title="Documentare",CBS Reality
+#EXTINF:-1 tvg-name="Cbs Reality" tvg-id="CBS.Reality.ro"tvg-logo="https://i.postimg.cc/vTqQ7104/CBS-Reality.png"group-title="Documentare",CBS Reality
 plugin://plugin.video.thraxtv/?action=choose_source&id=CBSReality.ro
 #EXTINF:-1 tvg-name="DIGI Animal World" tvg-id=""tvg-logo="https://i.postimg.cc/rm2zztHc/Digi-animal-world.png"group-title="Documentare",DIGI Animal World
 #EXTINF:-1 tvg-name="DIGI Life HD" tvg-id=""tvg-logo="https://i.postimg.cc/5N4YwL22/Digi-Life.png"group-title="Documentare",DIGI Life
@@ -148,17 +148,17 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=NationalGeographicWild.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=TLC.ro
 #EXTINF:-1 tvg-name="HGTV HD" tvg-logo="https://i.postimg.cc/wMSrdgvW/HGTV.png" group-title="Documentare",HGTV
 plugin://plugin.video.thraxtv/?action=choose_source&id=HGTV.ro
-#EXTINF:-1 tvg-name="TV Paprika HD" tvg-logo="https://i.postimg.cc/Px1y8YrM/TV_Paprika.png" group-title="Documentare",TV Paprika
+#EXTINF:-1 tvg-name="TV Paprika HD" tvg-logo="https://i.postimg.cc/Px1y8YrM/TV_Paprika.png" group-title="Documentare",Paprika
 plugin://plugin.video.thraxtv/?action=choose_source&id=TVPaprika.ro
 #EXTINF:-1 tvg-name="Food NetworkD" tvg-id=""tvg-logo="https://i.postimg.cc/wBQYcyv9/Food-Network.png"group-title="Documentare",Food Network
 plugin://plugin.video.thraxtv/?action=choose_source&id=FoodNetwork.ro
-#EXTINF:-1 tvg-name="" tvg-id=""tvg-logo="https://i.postimg.cc/Y03xd7FG/Travel-Mix.png"group-title="Documentare",TRAVEL MIX
+#EXTINF:-1 tvg-name="" tvg-id=""tvg-logo="https://i.postimg.cc/Y03xd7FG/Travel-Mix.png"group-title="Documentare",Travel MIX
 plugin://plugin.video.thraxtv/?action=choose_source&id=TravelMix.ro
-#EXTINF:-1 tvg-name="Viasat Explore HD" tvg-id=""tvg-logo="https://i.postimg.cc/PqwzBYZk/ViasatExplore.png"group-title="Documentare",VIASAT EXPLORE
+#EXTINF:-1 tvg-name="Viasat Explore HD" tvg-id=""tvg-logo="https://i.postimg.cc/PqwzBYZk/ViasatExplore.png"group-title="Documentare",Viasat Explorer
 plugin://plugin.video.thraxtv/?action=choose_source&id=ViasatExplore.ro
-#EXTINF:-1 tvg-name="Viasat History HD" tvg-id=""tvg-logo="https://i.postimg.cc/j5YQK2Qn/ViasatHistory.png"group-title="Documentare",VIASAT HISTORY
+#EXTINF:-1 tvg-name="Viasat History HD" tvg-id=""tvg-logo="https://i.postimg.cc/j5YQK2Qn/ViasatHistory.png"group-title="Documentare",Viasat History
 plugin://plugin.video.thraxtv/?action=choose_source&id=ViasatHistory.ro
-#EXTINF:-1 tvg-name="Viasat Nature HD" tvg-id=""tvg-logo="https://i.postimg.cc/d1RR0F4H/ViasatNature.png"group-title="Documentare",VIASAT NATURE
+#EXTINF:-1 tvg-name="Viasat Nature HD" tvg-id=""tvg-logo="https://i.postimg.cc/d1RR0F4H/ViasatNature.png"group-title="Documentare",Viasat Nature
 plugin://plugin.video.thraxtv/?action=choose_source&id=ViasatNature.ro
 #EXTINF:-1 tvg-name="Da Vinci" tvg-id=""tvg-logo="https://i.postimg.cc/B62LCCFX/Da-Vinci.png"group-title="Documentare",Da Vinci Learning
 plugin://plugin.video.thraxtv/?action=choose_source&id=
@@ -170,46 +170,46 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=E.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=KissTV.ro
 #EXTINF:-1 tvg-name="UTV HD" tvg-logo="https://i.postimg.cc/VsRBQYS5/UTV.png" group-title="Music",UTV
 plugin://plugin.video.thraxtv/?action=choose_source&id=UTV.ro
-#EXTINF:-1 tvg-name="H!T Music Channel" tvg-logo="https://i.postimg.cc/bw0BKXjT/Hit-Music-Channel.png" group-title="Music",HIT MUSIC CHANNEL
+#EXTINF:-1 tvg-name="H!T Music Channel" tvg-logo="https://i.postimg.cc/bw0BKXjT/Hit-Music-Channel.png" group-title="Music",H!T Music Channel
 plugin://plugin.video.thraxtv/?action=choose_source&id=HtMusicChannel.ro
-#EXTINF:-1 tvg-name="MAGIC TV HD" tvg-logo="https://i.postimg.cc/D0bC6Hg1/Magic-TV.png" group-title="Music",MAGIC TV
+#EXTINF:-1 tvg-name="MAGIC TV HD" tvg-logo="https://i.postimg.cc/D0bC6Hg1/Magic-TV.png" group-title="Music",Magic TV
 plugin://plugin.video.thraxtv/?action=choose_source&id=MagicTV.ro
 #EXTINF:-1 tvg-name="ZU TV HD" tvg-logo="https://i.postimg.cc/zv0nnjmT/ZU-TV.png" group-title="Music",ZU TV
 plugin://plugin.video.thraxtv/?action=choose_source&id=ZUTV.ro
 #EXTINF:-1 tvg-name="Rock TV" tvg-id=""tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/rock-tv-ro.png"group-title="Music",Rock TV
 plugin://plugin.video.thraxtv/?action=choose_source&id=RockTV.ro
-#EXTINF:-1 tvg-name="Atomic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Atomic_TV_2022.png/960px-Atomic_TV_2022.png" group-title="Music",Atomic TV
+#EXTINF:-1 tvg-name="Atomic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Atomic_TV_2022.png/960px-Atomic_TV_2022.png" group-title="Music",Atomic TV
 plugin://plugin.video.thraxtv/?action=choose_source&id=AtomicTV.ro
 #EXTINF:-1 tvg-name="Party Mix" tvg-id=""tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/party-mix-ro.png"group-title="Music",Party Mix
 plugin://plugin.video.thraxtv/?action=choose_source&id=PartyMix.ro
-#EXTINF:-1 tvg-name="Etno TV" tvg-logo="https://i.postimg.cc/cLVL5n0Y/Etno.png" group-title="Music",ETNO TV
+#EXTINF:-1 tvg-name="Etno TV" tvg-logo="https://i.postimg.cc/cLVL5n0Y/Etno.png" group-title="Music",Etno TV
 plugin://plugin.video.thraxtv/?action=choose_source&id=EtnoTV.ro
-#EXTINF:-1 tvg-name="Taraf TV" tvg-logo="https://i.postimg.cc/pXRGzGj5/Taraf-TV.png" group-title="Music",TARAF TV
+#EXTINF:-1 tvg-name="Taraf TV" tvg-logo="https://i.postimg.cc/pXRGzGj5/Taraf-TV.png" group-title="Music",Taraf TV
 plugin://plugin.video.thraxtv/?action=choose_source&id=TarafTV.ro
-#EXTINF:-1 tvg-name="Favorit" tvg-logo="https://i.postimg.cc/KvWGRMKV/Favorit-TV.png" group-title="Music",FAVORIT TV
+#EXTINF:-1 tvg-name="Favorit" tvg-logo="https://i.postimg.cc/KvWGRMKV/Favorit-TV.png" group-title="Music",Favorit TV
 plugin://plugin.video.thraxtv/?action=choose_source&id=FavoritTV.ro
 #EXTINF:-1 tvg-name="Mezzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="Music",Mezzo
 plugin://plugin.video.thraxtv/?action=choose_source&id=MezzoTV.ro
 
 
 
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-id=""tvg-logo="https://i.postimg.cc/7Y9zcXWz/Cartoon-Network.png"group-title="Kids",CARTOON NETWORK
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-id=""tvg-logo="https://i.postimg.cc/7Y9zcXWz/Cartoon-Network.png"group-title="Kids",Cartoon Network
 plugin://plugin.video.thraxtv/?action=choose_source&id=CartoonNetwork.ro
-#EXTINF:-1 tvg-name="Disney Channel" tvg-id=""tvg-logo="https://i.postimg.cc/c4C1xmJw/Disney-Channel.png"group-title="Kids",DISNEY CHANNEL
+#EXTINF:-1 tvg-name="Disney Channel" tvg-id=""tvg-logo="https://i.postimg.cc/c4C1xmJw/Disney-Channel.png"group-title="Kids",Disney Channel
 plugin://plugin.video.thraxtv/?action=choose_source&id=DisneyChannel.ro"
-#EXTINF:-1 tvg-name="Disney Junior" tvg-id=""tvg-logo="https://i.postimg.cc/R05vTxLL/Disney-Junior.png"group-title="Kids",DISNEY JUNIOR
+#EXTINF:-1 tvg-name="Disney Junior" tvg-id=""tvg-logo="https://i.postimg.cc/R05vTxLL/Disney-Junior.png"group-title="Kids"Disney Junior
 plugin://plugin.video.thraxtv/?action=choose_source&id=DisneyJunior.ro
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-id=""tvg-logo="https://i.postimg.cc/1tVT78Rg/Nickelodeon.png"group-title="Kids",NICKELODEON
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id=""tvg-logo="https://i.postimg.cc/1tVT78Rg/Nickelodeon.png"group-title="Kids",Nickelodeon
 plugin://plugin.video.thraxtv/?action=choose_source&id=Nickelodeon.ro
-#EXTINF:-1 tvg-name="NICKTOONS" tvg-id=""tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/nick-toons-rs.png"group-title="Kids",NICKTOONS
+#EXTINF:-1 tvg-name="NICKTOONS" tvg-id=""tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/nick-toons-rs.png"group-title="Kids",NickToons
 plugin://plugin.video.thraxtv/?action=choose_source&id=nicktoons.ro
-#EXTINF:-1 tvg-name="Nick Jr" tvg-id=""tvg-logo="https://i.postimg.cc/pTBJ6P2Y/Nick-Jr.png"group-title="Kids",NICK JR
+#EXTINF:-1 tvg-name="Nick Jr" tvg-id=""tvg-logo="https://i.postimg.cc/pTBJ6P2Y/Nick-Jr.png"group-title="Kids",Nick Jr
 plugin://plugin.video.thraxtv/?action=choose_source&id=NickJr.ro
-#EXTINF:-1 tvg-name="JimJam" tvg-id=""tvg-logo="https://i.postimg.cc/4xR0Lfjy/JimJam.png"group-title="Kids",JIMJAM
+#EXTINF:-1 tvg-name="JimJam" tvg-id=""tvg-logo="https://i.postimg.cc/4xR0Lfjy/JimJam.png"group-title="Kids",JimJam
 plugin://plugin.video.thraxtv/?action=choose_source&id=JimJam.ro
-#EXTINF:-1 tvg-name="Minimax" tvg-id=""tvg-logo="https://i.postimg.cc/xd1V5jbH/Minimax.png"group-title="Kids",MINIMAX
+#EXTINF:-1 tvg-name="Minimax" tvg-id=""tvg-logo="https://i.postimg.cc/xd1V5jbH/Minimax.png"group-title="Kids",MiniMax
 plugin://plugin.video.thraxtv/?action=choose_source&id=Minimax.ro
-#EXTINF:-1 tvg-name="CARTOONITO" tvg-id=""tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png"group-title="Kids",CARTOONITO
+#EXTINF:-1 tvg-name="CARTOONITO" tvg-id=""tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png"group-title="Kids",Cartoonito
 plugin://plugin.video.thraxtv/?action=choose_source&id=Cartoonito.ro
 #EXTINF:-1 tvg-name="TraLaLa HD" tvg-id="TraLaLa.HD.ro"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/tralala-ro.png"group-title="Kids",TraLaLa HD
 plugin://plugin.video.thraxtv/?action=choose_source&id=TraLaLaTV.ro
