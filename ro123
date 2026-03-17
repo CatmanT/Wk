@@ -25,7 +25,7 @@ plugin://plugin.video.rotv123/?mode=play&web_url=antena-3-cnn.php
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS
 plugin://plugin.video.rotv123/?mode=play&web_url=realitatea-plus.php
 #EXTINF:-1 tvg-name="REALITATEA PLUS" tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png"group-title="Stiri",REALITATEA PLUS ()
-plugin://plugin.video.youtube/play/?video_id=EB3lFuVxSzw
+plugin://plugin.video.youtube/play/?video_id=DWbGgdtZggs
 #EXTINF:-1 tvg-name="România TV" tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png"group-title="Stiri",Romania TV
 plugin://plugin.video.rotv123/?mode=play&web_url=romania-tv.php
 #EXTINF:-1 tvg-name="Euronews" tvg-id=""tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png"group-title="Stiri",Euronews RO
