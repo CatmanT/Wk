@@ -78,17 +78,17 @@ https://jmp2.uk/stvp-USBA370000104
 #EXTINF:-1 tvg-chno="401" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-news-flat-us.png" group-title="FREE News",NBC News Now
 https://jmp2.uk/stvp-USBB2200014DK
 #EXTINF:-1 tvg-chno="402" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-news-nz.png" group-title="FREE News",Sky News
-https://jmp2.uk/stvp-USBB52000022Q
+plugin://plugin.video.youtube/play/?video_id=YDvsBbKfLPA
 #EXTINF:-1 tvg-chno="403" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-hz-uk.png" group-title="FREE News",BBC News
 https://jmp2.uk/stvp-US4000033L
 #EXTINF:-1 tvg-logo="https://www.cltel.com/wp-content/uploads/2024/04/bbc-america-logo-1344C402CD-seeklogo.com_.png" group-title="FREE News",BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-chno="404" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/live-now-fox-us.png" group-title="FREE News",LiveNOW FOX
-https://jmp2.uk/stvp-USBA300024TN
+plugin://plugin.video.youtube/play/?video_id=C96oohpWBGw
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png" group-title="FREE News",Aljazeera
 plugin://plugin.video.youtube/play/?video_id=gCNeDWCI0vo
 #EXTINF:-1 tvg-logo="https://storelectric.com/wp-content/uploads/2024/01/trt-world.png" group-title="FREE News",TRT World
-plugin://plugin.video.youtube/play/?video_id=ABfFhWzWs0s
+plugin://plugin.video.youtube/play/?video_id=1VUhRQpz_9o
 #EXTINF:-1 tvg-logo="https://cyprusinno.com/wp-content/uploads/2022/05/france24.png" group-title="FREE News",France24
 plugin://plugin.video.youtube/play/?video_id=Ap-UM1O9RBU
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1280px-Deutsche_Welle_Logo.svg.png" group-title="FREE News",DW
