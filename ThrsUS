@@ -62,14 +62,8 @@ https://starshare.st/live/P4B9TB9xR8/humongous2tonight/55.ts
 http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/10454
 #EXTINF:-1 tvg-chno="343" tvg-id="espn.us" tvg-name="CBS Sports Network HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-sports-network-us.png" group-title="USA Sport",CBS Sports Network HD
 http://1tv41.icu:8080/Gx6Vdx/703084/10454
-#EXTINF:-1 tvg-chno="344" tvg-id="espn.us" tvg-name="CBS Sports Network HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-sports-network-us.png" group-title="USA Sport",CBS Sports Network HD
-http://snowbank.houseinventer.com/7007/index.m3u8?token=c0lTeGc1M0gydFNjcloydGZhbTFsY1RYMkphdG5OcXdxNHpMeGFYWW5ZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
-#EXTINF:-1 tvg-chno="345" tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79027_dark_360w_270h.png" group-title="USA Sport",Premier Sports 1
-https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5029.ts
-#EXTINF:-1 tvg-chno="346" tvg-id="Premier.Sports.2.HD.uk" tvg-name="Premier Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109162_dark_360w_270h.png" group-title="USA Sport",Premier Sports 2
-https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5030.ts
-#EXTINF:-1 tvg-chno="347" tvg-chno="130" tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027JYG2.png_dark_360w_270h.png" group-title="USA Sport",Sky Sports News
-https://starshare.st/live/P4B9TB9xR8/humongous2tonight/23.ts
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="FREE News",ABC News
 https://jmp2.uk/stvp-USBC39000171G
