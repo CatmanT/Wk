@@ -22,8 +22,6 @@ http://1tv41.icu:8080/Gx6Vdx/703084/17639
 plugin://plugin.video.thraxtv/?action=choose_source&id=ESPN.us
 #EXTINF:-1 tvg-chno="333" tvg-id="espn.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="USA Sport",ESPN2 HD
 plugin://plugin.video.thraxtv/?action=choose_source&id=ESPN2.us
-
-
 #EXTINF:-1 tvg-chno="337" tvg-id="espn.us" tvg-name="Fox Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="USA Sport",Fox Sports 1
 plugin://plugin.video.thraxtv/?action=choose_source&id=FoxSports1.us
 #EXTINF:-1 tvg-chno="339" tvg-id="espn.us" tvg-name="Fox Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="USA Sport",Fox Sports 2
