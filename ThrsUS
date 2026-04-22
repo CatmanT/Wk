@@ -3,11 +3,7 @@
 #EXTINF:-1 tvg-chno="300" tvg-id="foxnews.us" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="USA News",FOX News Channel HD
 plugin://plugin.video.thraxtv/?action=choose_source&id=FoxNewsChannel.us
 #EXTINF:-1 tvg-chno="307" tvg-id="cnn.us" tvg-name="CNN*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="USA News",CNN HD
-http://1tv41.icu:8080/Gx6Vdx/703084/1817
-#EXTINF:-1 tvg-chno="308" tvg-id="cnn.us" tvg-name="CNN*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="USA News",CNN HD
-http://1tv41.icu:8080/Gx6Vdx/703084/104884
-#EXTINF:-1 tvg-chno="309" tvg-id="cnn.us" tvg-name="CNN*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="USA News",CNN HD
-http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/104884
+plugin://plugin.video.thraxtv/?action=choose_source&id=CNN.us
 #EXTINF:-1 tvg-chno="310 " tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News" tvg-logo="https://tlgrm.re/images/cbs-news-us.png" group-title="USA News",CBS News
 http://1tv41.icu:8080/Gx6Vdx/703084/21259
 #EXTINF:-1 tvg-chno="311" tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News" tvg-logo="https://tlgrm.re/images/cbs-news-us.png" group-title="USA News",CBS News
