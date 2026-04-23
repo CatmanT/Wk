@@ -65,11 +65,16 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=Vevo90s.us
 plugin://plugin.video.thraxtv/?action=choose_source&id=Vevo2K.us
 #EXTINF:-1 tvg-id="Vevo.Pop.us2" tvg-name="Vevo Pop" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/vevo-pop-vod.png" group-title="USA Music",Vevo Pop
 plugin://plugin.video.thraxtv/?action=choose_source&id=VevoPop.us
+#EXTINF:-1 tvg-id="Vevo.Hip-Hop.us2" tvg-name="Vevo Hip-Hop" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/vevo-hip-hop-vod.png" group-title="USA Music",Vevo Hip-Hop
+plugin://plugin.video.thraxtv/?action=choose_source&id=VevoHipHop.us
+#EXTINF:-1 tvg-id="Vevo.Rock.us2" tvg-name="Vevo Rock" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/vevo-rock-vod.png" group-title="USA Music",Vevo Rock
+plugin://plugin.video.thraxtv/?action=choose_source&id=VevoRetroRock.us
 #EXTINF:-1 tvg-id="Vevo.Country.us2" tvg-name="Vevo Country" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/vevo-country-vod.png" group-title="USA Music",Vevo Country
 plugin://plugin.video.thraxtv/?action=choose_source&id=VevoCountry.us
-
 #EXTINF:-1 tvg-id="Vevo.Latino.us2" tvg-name="Vevo Latino" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/vevo-latino-vod.png" group-title="USA Music",Vevo Latino
 plugin://plugin.video.thraxtv/?action=choose_source&id=VevoLatino.us
+#EXTINF:-1 tvg-id="Vevo.R.andB.us2" tvg-name="Vevo R and B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/vevo-r-and-b-vod.png" group-title="USA Music",Vevo R and B
+plugin://plugin.video.thraxtv/?action=choose_source&id=VevoRB.us
 
 
 
