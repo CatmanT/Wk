@@ -11,11 +11,16 @@ http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/21259
 #EXTINF:-1 tvg-chno="312" tvg-id="newsmax.us" tvg-name="NewsMAX*" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax-tv-us.png" group-title="USA News",Newsmax TV HD
 https://rumble.com/live-hls-dvr/5xwnen/playlist.m3u8?
 #EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-hz-us.png" group-title="USA News",MSNBC HD
-http://1tv41.icu:8080/Gx6Vdx/703084/21376
-#EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-hz-us.png" group-title="USA News",MSNBC HD
-http://mytvstream.net:8080/BtUxvMu8n7/n8FqS6JF6N/9296
+plugin://plugin.video.thraxtv/?action=choose_source&id=MSNOW.us
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="USA News",ABC News
+plugin://plugin.video.thraxtv/?action=choose_source&id=ABCNewsLive.us
+#EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/06241fd4/ExpandLiveNewsCoveragePressRelease_html_e1742cd4cb63f94c.png" group-title="USA News",CBS News 24/7
+plugin://plugin.video.thraxtv/?action=choose_source&id=CBSNews247.us
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-news-flat-us.png" group-title="USA News",NBC News Now
+plugin://plugin.video.thraxtv/?action=choose_source&id=NBCNewsNOW.us
+
 #EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="Fox Business UHD" tvg-logo="http://23.227.147.172:80/images/912a0234221989a96eb2691da73bdf88.png" group-title="USA News",Fox Business
-http://1tv41.icu:8080/Gx6Vdx/703084/17639
+plugin://plugin.video.thraxtv/?action=choose_source&id=FoxBusinessNetwork.us
 
 
 #EXTINF:-1 tvg-chno="330" tvg-id="espn.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="USA Sport",ESPN HD
@@ -31,20 +36,16 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=CBSSportsNetwork.us
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="FREE News",ABC News
-https://jmp2.uk/stvp-USBC39000171G
-#EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/06241fd4/ExpandLiveNewsCoveragePressRelease_html_e1742cd4cb63f94c.png" group-title="FREE News",CBS News 24/7
-https://jmp2.uk/stvp-USBA370000104
-#EXTINF:-1 tvg-chno="401" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-news-flat-us.png" group-title="FREE News",NBC News Now
-https://jmp2.uk/stvp-USBB2200014DK
+
+
+
 #EXTINF:-1 tvg-chno="402" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-news-nz.png" group-title="FREE News",Sky News
 plugin://plugin.video.youtube/play/?video_id=YDvsBbKfLPA
 #EXTINF:-1 tvg-chno="403" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-hz-uk.png" group-title="FREE News",BBC News
 https://jmp2.uk/stvp-US4000033L
 #EXTINF:-1 tvg-logo="https://www.cltel.com/wp-content/uploads/2024/04/bbc-america-logo-1344C402CD-seeklogo.com_.png" group-title="FREE News",BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-chno="404" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/live-now-fox-us.png" group-title="FREE News",LiveNOW FOX
-plugin://plugin.video.youtube/play/?video_id=C96oohpWBGw
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png" group-title="FREE News",Aljazeera
 plugin://plugin.video.youtube/play/?video_id=gCNeDWCI0vo
 #EXTINF:-1 tvg-logo="https://storelectric.com/wp-content/uploads/2024/01/trt-world.png" group-title="FREE News",TRT World
