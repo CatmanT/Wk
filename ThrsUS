@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="300" tvg-id="foxnews.us" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="USA News",Fox News Channel HD
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="USA News",Fox News Channel HD
 plugin://plugin.video.thraxtv/?action=choose_source&id=FoxNewsChannel.us
-#EXTINF:-1 tvg-chno="307" tvg-id="cnn.us" tvg-name="CNN*" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="USA News",CNN HD
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN*" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="USA News",CNN HD
 plugin://plugin.video.thraxtv/?action=choose_source&id=CNN.us
-#EXTINF:-1 tvg-chno="310 " tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News" tvg-logo="https://tlgrm.re/images/cbs-news-us.png" group-title="USA News",CBS News
+#EXTINF:-1  tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News" tvg-logo="https://tlgrm.re/images/cbs-news-us.png" group-title="USA News",CBS News
 plugin://plugin.video.thraxtv/?action=choose_source&id=CBSNews247.us
-#EXTINF:-1 tvg-chno="312" tvg-id="newsmax.us" tvg-name="NewsMAX*" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax-tv-us.png" group-title="USA News",Newsmax TV HD
+#EXTINF:-1 tvg-id="newsmax.us" tvg-name="NewsMAX*" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax-tv-us.png" group-title="USA News",Newsmax TV HD
 plugin://plugin.video.thraxtv/?action=choose_source&id=NewsmaxTV.us
 #EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-hz-us.png" group-title="USA News",MSNBC HD
 plugin://plugin.video.thraxtv/?action=choose_source&id=MSNOW.us
@@ -33,7 +33,8 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=FoxSports1.us
 plugin://plugin.video.thraxtv/?action=choose_source&id=FoxSports2.us
 #EXTINF:-1 tvg-id="espn.us" tvg-name="CBS Sports Network HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-sports-network-us.png" group-title="USA Sport",CBS Sports Network HD
 plugin://plugin.video.thraxtv/?action=choose_source&id=CBSSportsNetwork.us
-
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel HD" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="USA Sport",Tennis Channel HD
+plugin://plugin.video.thraxtv/?action=choose_source&id=TennisChannel.us
 
 
 
