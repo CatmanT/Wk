@@ -19,6 +19,8 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=NBCNewsNOW.us
 plugin://plugin.video.thraxtv/?action=choose_source&id=FoxBusinessNetwork.us
 #EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg HD" tvg-logo="https://www.vhv.rs/dpng/d/103-1031276_bloomberg-tv-logo-png-transparent-png.png" group-title="USA News",Bloomberg HD
 plugin://plugin.video.thraxtv/?action=choose_source&id=BloombergTV.us
+#EXTINF:-1 tvg-id="" tvg-name="Yahoo Finance" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/yahoo-finance-vod.png" group-title="USA News",Yahoo Finance
+plugin://plugin.video.thraxtv/?action=choose_source&id=YahooFinance.us
 
 
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="USA Sport",ESPN HD
