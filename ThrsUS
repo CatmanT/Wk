@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="300" tvg-id="foxnews.us" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="USA News",Fox News Channel
+#EXTINF:-1 tvg-chno="300" tvg-id="foxnews.us" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="USA News",Fox News Channel HD
 plugin://plugin.video.thraxtv/?action=choose_source&id=FoxNewsChannel.us
 #EXTINF:-1 tvg-chno="307" tvg-id="cnn.us" tvg-name="CNN*" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="USA News",CNN HD
 plugin://plugin.video.thraxtv/?action=choose_source&id=CNN.us
