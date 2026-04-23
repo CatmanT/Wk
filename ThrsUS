@@ -56,6 +56,8 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=France24English.de
 plugin://plugin.video.thraxtv/?action=choose_source&id=DW.de
 #EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/euro-news-int.png" group-title="World EN",Euronews
 plugin://plugin.video.thraxtv/?action=choose_source&id=EuronewsEnglish.eu
+#EXTINF:-1 tvg-id="" tvg-name="Reuters TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/reuters-vod.png" group-title="World EN",Reuters TV
+plugin://plugin.video.thraxtv/?action=choose_source&id=ReutersTV.us
 #EXTINF:-1 tvg-name="RT HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1280px-Russia-today-logo.svg.png"group-title="World EN",RT HD
 plugin://plugin.video.thraxtv/?action=choose_source&id=RT.us
 #EXTINF:-1 tvg-name="CTGN" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png"group-title="World EN",CTGN
