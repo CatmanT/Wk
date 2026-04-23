@@ -7,7 +7,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=CNN.us
 #EXTINF:-1 tvg-chno="310 " tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News" tvg-logo="https://tlgrm.re/images/cbs-news-us.png" group-title="USA News",CBS News
 plugin://plugin.video.thraxtv/?action=choose_source&id=CBSNews247.us
 #EXTINF:-1 tvg-chno="312" tvg-id="newsmax.us" tvg-name="NewsMAX*" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax-tv-us.png" group-title="USA News",Newsmax TV HD
-https://rumble.com/live-hls-dvr/5xwnen/playlist.m3u8?
+plugin://plugin.video.thraxtv/?action=choose_source&id=NewsmaxTV.us
 #EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-hz-us.png" group-title="USA News",MSNBC HD
 plugin://plugin.video.thraxtv/?action=choose_source&id=MSNOW.us
 #EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="USA News",ABC News Live
