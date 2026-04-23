@@ -54,6 +54,9 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=RT.us
 #EXTINF:-1 tvg-name="CTGN" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png"group-title="World EN",CTGN
 plugin://plugin.video.youtube/play/?video_id=BOy2xDU1LC8
 
+#EXTINF:-1 tvg-id="espn.us" tvg-name="Vevo 2k" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/misc/vod/vevo-2k-vod.pn" group-title="USA Music",Vevo 2K
+plugin://plugin.video.thraxtv/?action=choose_source&id=Vevo2K.us
+
 
 
 
