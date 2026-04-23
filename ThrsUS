@@ -54,8 +54,23 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=RT.us
 #EXTINF:-1 tvg-name="CTGN" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png"group-title="World EN",CTGN
 plugin://plugin.video.youtube/play/?video_id=BOy2xDU1LC8
 
-#EXTINF:-1 tvg-id="espn.us" tvg-name="Vevo 2k" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/misc/vod/vevo-2k-vod.pn" group-title="USA Music",Vevo 2K
+
+#EXTINF:-1 tvg-id="Vevo.70s.us2" tvg-name="Vevo 70s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/misc/vod/vevo-70s-vod.png" group-title="USA Music",Vevo 70s
+plugin://plugin.video.thraxtv/?action=choose_source&id=Vevo70s.us
+#EXTINF:-1 tvg-id="Vevo.80s.us2" tvg-name="Vevo 80s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/misc/vod/vevo-80s-vod.png" group-title="USA Music",Vevo 80s
+plugin://plugin.video.thraxtv/?action=choose_source&id=Vevo80s.us
+#EXTINF:-1 tvg-id="Vevo.90s.us2" tvg-name="Vevo 90s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/misc/vod/vevo-90s-vod.png" group-title="USA Music",Vevo 90s
+plugin://plugin.video.thraxtv/?action=choose_source&id=Vevo90s.us
+#EXTINF:-1 tvg-id="Vevo.2K.us2" tvg-name="Vevo 2k" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/misc/vod/vevo-2k-vod.png" group-title="USA Music",Vevo 2K
 plugin://plugin.video.thraxtv/?action=choose_source&id=Vevo2K.us
+#EXTINF:-1 tvg-id="Vevo.Pop.us2" tvg-name="Vevo Pop" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/misc/vod/vevo-pop-vod.png" group-title="USA Music",Vevo Pop
+plugin://plugin.video.thraxtv/?action=choose_source&id=VevoPop.us
+#EXTINF:-1 tvg-id="Vevo.Country.us2" tvg-name="Vevo Country" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/misc/vod/vevo-country-vod.png" group-title="USA Music",Vevo Country
+plugin://plugin.video.thraxtv/?action=choose_source&id=VevoCountry.us
+
+#EXTINF:-1 tvg-id="Vevo.Latino.us2" tvg-name="Vevo Latino" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/misc/vod/vevo-latino-vod.png" group-title="USA Music",Vevo Latino
+plugin://plugin.video.thraxtv/?action=choose_source&id=VevoLatino.us
+
 
 
 
