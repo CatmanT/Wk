@@ -17,7 +17,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=NBCNewsNOW.us
 
 #EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business HD" tvg-logo="http://23.227.147.172:80/images/912a0234221989a96eb2691da73bdf88.png" group-title="USA News",Fox Business HD
 plugin://plugin.video.thraxtv/?action=choose_source&id=FoxBusinessNetwork.us
-#EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg HD" tvg-logo="https://pluspng.com/img-png/bloomberg-logo-png-bloomberg-logo-conviva-1000x500.png" group-title="USA News",Bloomberg HD
+#EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg HD" tvg-logo="https://www.vhv.rs/dpng/d/103-1031276_bloomberg-tv-logo-png-transparent-png.png" group-title="USA News",Bloomberg HD
 plugin://plugin.video.thraxtv/?action=choose_source&id=BloombergTV.us
 
 
