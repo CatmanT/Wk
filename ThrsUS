@@ -42,26 +42,25 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=TennisChannel.us
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-news-nz.png" group-title="World EN",Sky News
-plugin://plugin.video.youtube/play/?video_id=YDvsBbKfLPA
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-hz-uk.png" group-title="World EN",BBC News (North America) HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-news-nz.png" group-title="World News",Sky News
+plugin://plugin.video.thraxtv/?action=choose_source&id=SkyNews.uk
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-hz-uk.png" group-title="World News",BBC News (North America) HD
 plugin://plugin.video.thraxtv/?action=choose_source&id=BBCNews.uk
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png" group-title="World EN",Aljazeera
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png" group-title="World News",Aljazeera
 plugin://plugin.video.thraxtv/?action=choose_source&id=AlJazeeraEnglish.de
-#EXTINF:-1 tvg-logo="https://storelectric.com/wp-content/uploads/2024/01/trt-world.png" group-title="World EN",TRT World
+#EXTINF:-1 tvg-logo="https://storelectric.com/wp-content/uploads/2024/01/trt-world.png" group-title="World News",TRT World
 plugin://plugin.video.thraxtv/?action=choose_source&id=TRTWorld.tr
-#EXTINF:-1 tvg-logo="https://cyprusinno.com/wp-content/uploads/2022/05/france24.png" group-title="World EN",France24
+#EXTINF:-1 tvg-logo="https://cyprusinno.com/wp-content/uploads/2022/05/france24.png" group-title="World News",France24
 plugin://plugin.video.thraxtv/?action=choose_source&id=France24English.de
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1280px-Deutsche_Welle_Logo.svg.png" group-title="World EN",DW
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1280px-Deutsche_Welle_Logo.svg.png" group-title="World News",DW
 plugin://plugin.video.thraxtv/?action=choose_source&id=DW.de
-#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/euro-news-int.png" group-title="World EN",Euronews
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/euro-news-int.png" group-title="World News",Euronews
 plugin://plugin.video.thraxtv/?action=choose_source&id=EuronewsEnglish.eu
-#EXTINF:-1 tvg-id="" tvg-name="Reuters TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/reuters-vod.png" group-title="World EN",Reuters TV
+#EXTINF:-1 tvg-id="" tvg-name="Reuters TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/reuters-vod.png" group-title="World News",Reuters TV
 plugin://plugin.video.thraxtv/?action=choose_source&id=ReutersTV.us
-#EXTINF:-1 tvg-name="RT HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1280px-Russia-today-logo.svg.png"group-title="World EN",RT HD
+#EXTINF:-1 tvg-name="RT HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1280px-Russia-today-logo.svg.png"group-title="World News",RT HD
 plugin://plugin.video.thraxtv/?action=choose_source&id=RT.us
-#EXTINF:-1 tvg-name="CTGN" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png"group-title="World EN",CTGN
+#EXTINF:-1 tvg-name="CTGN" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png"group-title="World News",CTGN
 plugin://plugin.video.youtube/play/?video_id=BOy2xDU1LC8
 
 
