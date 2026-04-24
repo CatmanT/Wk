@@ -84,7 +84,8 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=VevoCountry.us
 plugin://plugin.video.thraxtv/?action=choose_source&id=VevoLatino.us
 #EXTINF:-1 tvg-id="Vevo.R.andB.us2" tvg-name="Vevo R and B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/vevo-r-and-b-vod.png" group-title="USA Music",Vevo R and B
 plugin://plugin.video.thraxtv/?action=choose_source&id=VevoRB.us
-
+#EXTINF:-1 tvg-id="Vevo.Reggaeton.and.Trap.us2" tvg-name="Vevo Reggaeton & Trap" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/vevo-reggaeton-and-trap-vod.png" group-title="USA Music",Vevo Reggaeton & Trap
+plugin://plugin.video.thraxtv/?action=choose_source&id=VevoReggaeton&Trap.us
 
 
 
