@@ -37,6 +37,8 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=FoxSports2.us
 plugin://plugin.video.thraxtv/?action=choose_source&id=CBSSportsNetwork.us
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel HD" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="USA Sport",Tennis Channel HD
 plugin://plugin.video.thraxtv/?action=choose_source&id=TennisChannel.us
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png" group-title="USA Sport",USA Network HD
+plugin://plugin.video.thraxtv/?action=choose_source&id=usanetwork.us
 
 
 
