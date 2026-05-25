@@ -79,7 +79,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=AXNWhite.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=AXNBlack.ro
 #EXTINF:-1 tvg-name="Happy Channel" tvg-id=""tvg-logo="https://i.postimg.cc/xTBQ0VhV/Happy-Channel.png"group-title="Movies",Happy Channel
 plugin://plugin.video.thraxtv/?action=choose_source&id=HappyChannel.ro
-#EXTINF:-1 tvg-name="BBC First" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/BBC_First_2022.svg/1200px-BBC_First_2022.svg.png"group-title="Movies",BBC First
+#EXTINF:-1 tvg-name="BBC First" tvg-id=""tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/countries/australia/bbc-first-au.png"group-title="Movies",BBC First
 plugin://plugin.video.thraxtv/?action=choose_source&id=BBCFirst.ro
 #EXTINF:-1 tvg-name="Filmbox" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Filmbox_pl.png/1200px-Filmbox_pl.png"group-title="Movies",Filmbox
 plugin://plugin.video.thraxtv/?action=choose_source&id=FilmBox.ro
