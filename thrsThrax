@@ -79,11 +79,11 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=AXNWhite.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=AXNBlack.ro
 #EXTINF:-1 tvg-name="Happy Channel" tvg-id=""tvg-logo="https://i.postimg.cc/xTBQ0VhV/Happy-Channel.png"group-title="Movies",Happy Channel
 plugin://plugin.video.thraxtv/?action=choose_source&id=HappyChannel.ro
-#EXTINF:-1 tvg-name="BBC First" tvg-id=""tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/countries/australia/bbc-first-au.png"group-title="Movies",BBC First
+#EXTINF:-1 tvg-name="BBC First" tvg-id=""tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/bbc-first-ro.png"group-title="Movies",BBC First
 plugin://plugin.video.thraxtv/?action=choose_source&id=BBCFirst.ro
-#EXTINF:-1 tvg-name="Filmbox" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Filmbox_pl.png/1200px-Filmbox_pl.png"group-title="Movies",Filmbox
+#EXTINF:-1 tvg-name="Filmbox" tvg-id=""tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/filmbox-hu.png"group-title="Movies",Filmbox
 plugin://plugin.video.thraxtv/?action=choose_source&id=FilmBox.ro
-#EXTINF:-1 tvg-name="Filmbox Premium" tvg-id=""tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/countries/international/filmbox-int.png"group-title="Movies",Filmbox Premium
+#EXTINF:-1 tvg-name="Filmbox Premium" tvg-id=""tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/filmbox-premium-pl.png"group-title="Movies",Filmbox Premium
 plugin://plugin.video.thraxtv/?action=choose_source&id=FilmBoxPremium.ro
 #EXTINF:-1 tvg-name="SkyShowtime 1" tvg-id=""tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/182ec50c-9466-4ade-9671-b8385566d537/deznebk-a1a9710b-31a0-4363-9e72-69bade01b90b.png/v1/fill/w_1192,h_670/skyshowtime_2022_color_concept_by_waynemarcelo2009_deznebk-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMTgyZWM1MGMtOTQ2Ni00YWRlLTk2NzEtYjgzODU1NjZkNTM3XC9kZXpuZWJrLWExYTk3MTBiLTMxYTAtNDM2My05ZTcyLTY5YmFkZTAxYjkwYi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.RpkdH9c8Lf4tloXcWIqqa4xG34VkVKSRWk4hpcmGCaw"group-title="Movies",SkyShowtime 1
 plugin://plugin.video.thraxtv/?action=choose_source&id=SkyShowtime1.ro
