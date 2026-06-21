@@ -1,106 +1,90 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="USA News",Fox News Channel HD
-plugin://plugin.video.thraxtv/?action=choose_source&id=FoxNewsChannel.us
+plugin://plugin.video.thraxtv/?action=play&id=FoxNewsChannel.us
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN*" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="USA News",CNN HD
-plugin://plugin.video.thraxtv/?action=choose_source&id=CNN.us
+plugin://plugin.video.thraxtv/?action=play&id=CNN.us
 #EXTINF:-1  tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News" tvg-logo="https://tlgrm.re/images/cbs-news-us.png" group-title="USA News",CBS News
-plugin://plugin.video.thraxtv/?action=choose_source&id=CBSNews247.us
+plugin://plugin.video.thraxtv/?action=play&id=CBSNews247.us
 #EXTINF:-1 tvg-id="newsmax.us" tvg-name="NewsMAX*" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax-tv-us.png" group-title="USA News",Newsmax TV HD
-plugin://plugin.video.thraxtv/?action=choose_source&id=NewsmaxTV.us
+plugin://plugin.video.thraxtv/?action=play&id=NewsmaxTV.us
 #EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-hz-us.png" group-title="USA News",MSNBC HD
-plugin://plugin.video.thraxtv/?action=choose_source&id=MSNOW.us
+plugin://plugin.video.thraxtv/?action=play&id=MSNOW.us
 #EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="USA News",ABC News Live
-plugin://plugin.video.thraxtv/?action=choose_source&id=ABCNewsLive.us
+plugin://plugin.video.thraxtv/?action=play&id=ABCNewsLive.us
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-news-flat-us.png" group-title="USA News",NBC News Now
-plugin://plugin.video.thraxtv/?action=choose_source&id=NBCNewsNOW.us
+plugin://plugin.video.thraxtv/?action=play&id=NBCNewsNOW.us
 
 #EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business HD" tvg-logo="http://23.227.147.172:80/images/912a0234221989a96eb2691da73bdf88.png" group-title="USA News",Fox Business HD
-plugin://plugin.video.thraxtv/?action=choose_source&id=FoxBusinessNetwork.us
+plugin://plugin.video.thraxtv/?action=play&id=FoxBusinessNetwork.us
 #EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg HD" tvg-logo="https://www.vhv.rs/dpng/d/103-1031276_bloomberg-tv-logo-png-transparent-png.png" group-title="USA News",Bloomberg HD
-plugin://plugin.video.thraxtv/?action=choose_source&id=BloombergTV.us
+plugin://plugin.video.thraxtv/?action=play&id=BloombergTV.us
 #EXTINF:-1 tvg-id="" tvg-name="Yahoo Finance" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/yahoo-finance-vod.png" group-title="USA News",Yahoo Finance
-plugin://plugin.video.thraxtv/?action=choose_source&id=YahooFinance.us
+plugin://plugin.video.thraxtv/?action=play&id=YahooFinance.us
 
 
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="USA Sport",ESPN HD
-plugin://plugin.video.thraxtv/?action=choose_source&id=ESPN.us
+plugin://plugin.video.thraxtv/?action=play&id=ESPN.us
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="USA Sport",ESPN2 HD
-plugin://plugin.video.thraxtv/?action=choose_source&id=ESPN2.us
+plugin://plugin.video.thraxtv/?action=play&id=ESPN2.us
 #EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-name="ESPNEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espnews-us.png" group-title="USA Sport",ESPNEWS HD
-plugin://plugin.video.thraxtv/?action=choose_source&id=ESPNews.us
+plugin://plugin.video.thraxtv/?action=play&id=ESPNews.us
 #EXTINF:-1 tvg-id="espn.us" tvg-name="Fox Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="USA Sport",FS1 Fox Sports 1 HD
-plugin://plugin.video.thraxtv/?action=choose_source&id=FoxSports1.us
+plugin://plugin.video.thraxtv/?action=play&id=FoxSports1.us
 #EXTINF:-1 tvg-id="espn.us" tvg-name="Fox Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="USA Sport",FS2 Fox Sports 2 HD
-plugin://plugin.video.thraxtv/?action=choose_source&id=FoxSports2.us
+plugin://plugin.video.thraxtv/?action=play&id=FoxSports2.us
 #EXTINF:-1 tvg-id="espn.us" tvg-name="CBS Sports Network HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-sports-network-us.png" group-title="USA Sport",CBS Sports Network HD
-plugin://plugin.video.thraxtv/?action=choose_source&id=CBSSportsNetwork.us
+plugin://plugin.video.thraxtv/?action=play&id=CBSSportsNetwork.us
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel HD" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="USA Sport",Tennis Channel HD
-plugin://plugin.video.thraxtv/?action=choose_source&id=TennisChannel.us
+plugin://plugin.video.thraxtv/?action=play&id=TennisChannel.us
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png" group-title="USA Sport",USA Network HD
-plugin://plugin.video.thraxtv/?action=choose_source&id=usanetwork.us
+plugin://plugin.video.thraxtv/?action=play&id=usanetwork.us
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-news-nz.png" group-title="World News",Sky News
-plugin://plugin.video.thraxtv/?action=choose_source&id=SkyNews.uk
+plugin://plugin.video.thraxtv/?action=play&id=SkyNews.uk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-hz-uk.png" group-title="World News",BBC News (North America) HD
-plugin://plugin.video.thraxtv/?action=choose_source&id=BBCNews.uk
+plugin://plugin.video.thraxtv/?action=play&id=BBCNews.uk
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png" group-title="World News",Aljazeera
-plugin://plugin.video.thraxtv/?action=choose_source&id=AlJazeeraEnglish.de
+plugin://plugin.video.thraxtv/?action=play&id=AlJazeeraEnglish.de
 #EXTINF:-1 tvg-logo="https://storelectric.com/wp-content/uploads/2024/01/trt-world.png" group-title="World News",TRT World
-plugin://plugin.video.thraxtv/?action=choose_source&id=TRTWorld.tr
+plugin://plugin.video.thraxtv/?action=play&id=TRTWorld.tr
 #EXTINF:-1 tvg-logo="https://cyprusinno.com/wp-content/uploads/2022/05/france24.png" group-title="World News",France24
-plugin://plugin.video.thraxtv/?action=choose_source&id=France24English.de
+plugin://plugin.video.thraxtv/?action=play&id=France24English.de
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1280px-Deutsche_Welle_Logo.svg.png" group-title="World News",DW
-plugin://plugin.video.thraxtv/?action=choose_source&id=DW.de
+plugin://plugin.video.thraxtv/?action=play&id=DW.de
 #EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/euro-news-int.png" group-title="World News",Euronews
-plugin://plugin.video.thraxtv/?action=choose_source&id=EuronewsEnglish.eu
+plugin://plugin.video.thraxtv/?action=play&id=EuronewsEnglish.eu
 #EXTINF:-1 tvg-id="" tvg-name="Reuters TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/reuters-vod.png" group-title="World News",Reuters TV
-plugin://plugin.video.thraxtv/?action=choose_source&id=ReutersTV.us
+plugin://plugin.video.thraxtv/?action=play&id=ReutersTV.us
 #EXTINF:-1 tvg-name="RT HD" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1280px-Russia-today-logo.svg.png"group-title="World News",RT HD
-plugin://plugin.video.thraxtv/?action=choose_source&id=RT.us
+plugin://plugin.video.thraxtv/?action=play&id=RT.us
 #EXTINF:-1 tvg-name="CTGN" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png"group-title="World News",CTGN
 plugin://plugin.video.youtube/play/?video_id=BOy2xDU1LC8
 
 
 #EXTINF:-1 tvg-id="Vevo.70s.us2" tvg-name="Vevo 70s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/vevo-70s-vod.png" group-title="USA Music",Vevo 70s
-plugin://plugin.video.thraxtv/?action=choose_source&id=Vevo70s.us
+plugin://plugin.video.thraxtv/?action=play&id=Vevo70s.us
 #EXTINF:-1 tvg-id="Vevo.80s.us2" tvg-name="Vevo 80s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/vevo-80s-vod.png" group-title="USA Music",Vevo 80s
-plugin://plugin.video.thraxtv/?action=choose_source&id=Vevo80s.us
+plugin://plugin.video.thraxtv/?action=play&id=Vevo80s.us
 #EXTINF:-1 tvg-id="Vevo.90s.us2" tvg-name="Vevo 90s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/vevo-90s-vod.png" group-title="USA Music",Vevo 90s
-plugin://plugin.video.thraxtv/?action=choose_source&id=Vevo90s.us
+plugin://plugin.video.thraxtv/?action=play&id=Vevo90s.us
 #EXTINF:-1 tvg-id="Vevo.2K.us2" tvg-name="Vevo 2k" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/vevo-2k-vod.png" group-title="USA Music",Vevo 2K
-plugin://plugin.video.thraxtv/?action=choose_source&id=Vevo2K.us
+plugin://plugin.video.thraxtv/?action=play&id=Vevo2K.us
 #EXTINF:-1 tvg-id="Vevo.Pop.us2" tvg-name="Vevo Pop" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/vevo-pop-vod.png" group-title="USA Music",Vevo Pop
-plugin://plugin.video.thraxtv/?action=choose_source&id=VevoPop.us
+plugin://plugin.video.thraxtv/?action=play&id=VevoPop.us
 #EXTINF:-1 tvg-id="Vevo.Hip-Hop.us2" tvg-name="Vevo Hip-Hop" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/vevo-hip-hop-vod.png" group-title="USA Music",Vevo Hip-Hop
-plugin://plugin.video.thraxtv/?action=choose_source&id=VevoHipHop.us
+plugin://plugin.video.thraxtv/?action=play&id=VevoHipHop.us
 #EXTINF:-1 tvg-id="Vevo.Rock.us2" tvg-name="Vevo Rock" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/vevo-rock-vod.png" group-title="USA Music",Vevo Rock
-plugin://plugin.video.thraxtv/?action=choose_source&id=VevoRetroRock.us
+plugin://plugin.video.thraxtv/?action=play&id=VevoRetroRock.us
 #EXTINF:-1 tvg-id="Vevo.Country.us2" tvg-name="Vevo Country" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/vevo-country-vod.png" group-title="USA Music",Vevo Country
-plugin://plugin.video.thraxtv/?action=choose_source&id=VevoCountry.us
+plugin://plugin.video.thraxtv/?action=play&id=VevoCountry.us
 #EXTINF:-1 tvg-id="Vevo.Latino.us2" tvg-name="Vevo Latino" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/vevo-latino-vod.png" group-title="USA Music",Vevo Latino
-plugin://plugin.video.thraxtv/?action=choose_source&id=VevoLatino.us
+plugin://plugin.video.thraxtv/?action=play&id=VevoLatino.us
 #EXTINF:-1 tvg-id="Vevo.R.andB.us2" tvg-name="Vevo R and B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/vevo-r-and-b-vod.png" group-title="USA Music",Vevo R and B
-plugin://plugin.video.thraxtv/?action=choose_source&id=VevoRB.us
+plugin://plugin.video.thraxtv/?action=play&id=VevoRB.us
 #EXTINF:-1 tvg-id="Vevo.Reggaeton.and.Trap.us2" tvg-name="Vevo Reggaeton & Trap" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/vevo-reggaeton-and-trap-vod.png" group-title="USA Music",Vevo Reggaeton & Trap
-plugin://plugin.video.thraxtv/?action=choose_source&id=VevoReggaeton&Trap.us
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+plugin://plugin.video.thraxtv/?action=play&id=VevoReggaeton&Trap.us
