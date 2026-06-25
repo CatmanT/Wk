@@ -99,7 +99,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=CineMaraton.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=Cinewow.ro
 #EXTINF:-1 tvg-name="Diva" tvg-id=""tvg-logo="https://i.postimg.cc/T29hY1JM/Diva.png"group-title="Movies",Diva
 plugin://plugin.video.thraxtv/?action=choose_source&id=Diva.ro
-#EXTINF:-1 tvg-name="Epic Drama" tvg-id=""tvg-logo="https://i.postimg.cc/d1FtJc7V/Epic-Drama.png"group-title="Movies",Epic Drama
+#EXTINF:-1 tvg-name="Epic.Drama.ro" tvg-id=""tvg-logo="https://i.postimg.cc/d1FtJc7V/Epic-Drama.png"group-title="Movies",Epic Drama
 plugin://plugin.video.thraxtv/?action=choose_source&id=EpicDrama.ro
 #EXTINF:-1 tvg-name="AMC HD " tvg-id=""tvg-logo="https://i.postimg.cc/8Cffg387/AMC.png"group-title="Movies",AMC HD
 plugin://plugin.video.thraxtv/?action=choose_source&id=AMC.ro
