@@ -47,7 +47,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=Antena1.ro
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:mimetype=application/x-mpegURL
 plugin://plugin.video.thraxtv/?action=choose_source&id=AntenaStars.ro
-#EXTINF:-1 tvg-name="Antena 3" tvg-id="Antena3CNN.ro" tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png"group-title="Stiri",Antena 3
+#EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-name="Antena 3" tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png" group-title="Stiri",Antena 3
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
