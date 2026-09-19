@@ -203,7 +203,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=HBO2.ro
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:mimetype=application/x-mpegURL
 plugin://plugin.video.thraxtv/?action=choose_source&id=HBO3.ro
-#EXTINF:-1 tvg-name="AXN HD" tvg-id=""tvg-logo="https://i.postimg.cc/43qVPdFF/AXN-HD.png"group-title="Movies",AXN
+#EXTINF:-1 tvg-id="AXN.ro" tvg-name="AXN" tvg-logo="https://i.postimg.cc/43qVPdFF/AXN-HD.png" group-title="Movies",AXN
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -221,7 +221,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=AXNSpin.ro
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:mimetype=application/x-mpegURL
 plugin://plugin.video.thraxtv/?action=choose_source&id=AXNWhite.ro
-#EXTINF:-1 tvg-name="AXN Black" tvg-id=""tvg-logo="https://i.postimg.cc/vBn9NsJ8/AXN-Black.png"group-title="Movies",AXN Black
+#EXTINF:-1 tvg-id="AXNBlack.ro" tvg-name="AXN Black" tvg-logo="https://i.postimg.cc/vBn9NsJ8/AXN-Black.png" group-title="Movies",AXN Black
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -263,7 +263,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=SkyShowtime1.ro
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:mimetype=application/x-mpegURL
 plugin://plugin.video.thraxtv/?action=choose_source&id=SkyShowtime2.ro
-#EXTINF:-1 tvg-name="Cinemax HD" tvg-id=""tvg-logo="https://i.postimg.cc/nhwDVrZc/CineMax.png"group-title="Movies",Cinemax 1
+#EXTINF:-1 tvg-id="Cinemax.ro" tvg-name="Cinemax" tvg-logo="https://i.postimg.cc/nhwDVrZc/CineMax.png" group-title="Movies",Cinemax
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -281,7 +281,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=Cinemax2.ro
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:mimetype=application/x-mpegURL
 plugin://plugin.video.thraxtv/?action=choose_source&id=CineMaraton.ro
-#EXTINF:-1 tvg-name="Cinewow.ro" tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/CineWow.png"group-title="Movies",CineWow
+#EXTINF:-1 tvg-id="CineWow.ro" tvg-name="CineWow" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/CineWow.png" group-title="Movies",CineWow
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
