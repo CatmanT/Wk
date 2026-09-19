@@ -293,13 +293,13 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=Cinewow.ro
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:mimetype=application/x-mpegURL
 plugin://plugin.video.thraxtv/?action=choose_source&id=Diva.ro
-#EXTINF:-1 tvg-name="Epic.Drama.ro" tvg-id=""tvg-logo="https://i.postimg.cc/d1FtJc7V/Epic-Drama.png"group-title="Movies",Epic Drama
+#EXTINF:-1 tvg-id="Epic.Drama.(HD).ro" tvg-name="Epic Drama" tvg-logo="https://i.postimg.cc/d1FtJc7V/Epic-Drama.png group-title="Movies",Epic Drama
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:mimetype=application/x-mpegURL
 plugin://plugin.video.thraxtv/?action=choose_source&id=EpicDrama.ro
-#EXTINF:-1 tvg-name="AMC HD " tvg-id=""tvg-logo="https://i.postimg.cc/8Cffg387/AMC.png"group-title="Movies",AMC HD
+#EXTINF:-1 tvg-id="AMC.ro" tvg-name="AMC" tvg-logo="https://i.postimg.cc/8Cffg387/AMC.png" group-title="Movies",AMC
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
