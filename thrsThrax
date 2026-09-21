@@ -47,7 +47,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=Antena1.ro
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:mimetype=application/x-mpegURL
 plugin://plugin.video.thraxtv/?action=choose_source&id=AntenaStars.ro
-#EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-name="Antena 3" tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png" group-title="Stiri",Antena 3
+#EXTINF:-1 tvg-id="Antena.3.CNN.HD.ro" tvg-name="Antena 3 CNN HD" tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png" group-title="Stiri",Antena 3 CNN
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -65,7 +65,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=RealitateaPlus.ro
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:mimetype=application/x-mpegURL
 plugin://plugin.video.thraxtv/?action=choose_source&id=RomaniaTV.ro
-#EXTINF:-1 tvg-id="EuronewsRomania.ro" tvg-name="Euronews România" tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png" group-title="Stiri",Euronews România
+#EXTINF:-1 tvg-id="Euronews.Romania.HD.ro" tvg-name="Euronews.Romania.HD.ro" tvg-logo="https://i.postimg.cc/SshbVY5w/euronews.png" group-title="Stiri",Euronews Romania
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
