@@ -281,7 +281,7 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=Cinemax2.ro
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:mimetype=application/x-mpegURL
 plugin://plugin.video.thraxtv/?action=choose_source&id=CineMaraton.ro
-#EXTINF:-1 tvg-id="Cinewow.ro" tvg-name="CineWow" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/CineWow.png" group-title="Movies",CineWow
+#EXTINF:-1 tvg-id="Cinewow.ro" tvg-name="Cinewow.ro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/CineWow.png" group-title="Movies",CineWow
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
