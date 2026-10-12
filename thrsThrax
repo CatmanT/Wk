@@ -603,4 +603,4 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=Cartoonito.ro
 plugin://plugin.video.thraxtv/?action=choose_source&id=TraLaLaTV.ro
 
 #EXTINF:-1 tvg-name="Kiss FM" tvg-id="KissFM"tvg-logo="https://www.kissfm.ro/apple-touch-icon.png"group-title="Radio",Kiss FM
-plugin://plugin.video.thraxtv/?action=play&id=kissfm.ro
+plugin://plugin.video.thraxtv/?action=radio_play&id=kissfm.ro
