@@ -608,6 +608,14 @@ plugin://plugin.video.thraxtv/?action=radio_play&id=kissfm.ro
 plugin://plugin.video.thraxtv/?action=radio_play&id=radiozu.ro
 #EXTINF:-1 tvg-name="Europa FM" tvg-id="EuropaFM"tvg-logo="https://www.pngfind.com/pngs/m/421-4211167_logo-europa-fm-2018-europa-fm-romania-logo.png"group-title="Radio",Europa FM
 plugin://plugin.video.thraxtv/?action=radio_play&id=europafm.ro
+#EXTINF:-1 tvg-name="Digi FM" tvg-id="DigiFM"tvg-logo="https://www.digifm.ro/static/theme-repo/apple-touch-icon.png"group-title="Radio",Digi FM
+plugin://plugin.video.thraxtv/?action=radio_play&id=digifm.ro
+#EXTINF:-1 tvg-name="Magic FM" tvg-id="MagicFM"tvg-logo="https://www.rostclub.ro/images/publicitate-radio/magic-fm.png"group-title="Radio",Magic FM
+plugin://plugin.video.thraxtv/?action=radio_play&id=magicfm-162edc.ro
+#EXTINF:-1 tvg-name="Pro FM" tvg-id="ProFM"tvg-logo="https://www.profm.ro/static/theme-repo/apple-touch-icon.png?v=2.0&cache=rel-20240507-11-22"group-title="Radio",Pro FM
+plugin://plugin.video.thraxtv/?action=radio_play&id=profm.ro
+#EXTINF:-1 tvg-name="Rock FM" tvg-id="RockFM"tvg-logo="https://www.rockfm.ro/apple-touch-icon.png"group-title="Radio",Rock FM
+plugin://plugin.video.thraxtv/?action=radio_play&id=rockfm.ro
 
 
 
