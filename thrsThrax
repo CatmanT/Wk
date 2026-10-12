@@ -604,3 +604,5 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=TraLaLaTV.ro
 
 #EXTINF:-1 tvg-name="Kiss FM" tvg-id="KissFM"tvg-logo="https://www.kissfm.ro/apple-touch-icon.png"group-title="Radio",Kiss FM
 plugin://plugin.video.thraxtv/?action=radio_play&id=kissfm.ro
+#EXTINF:-1 tvg-name="Radio ZU" tvg-id="RadioZU"tvg-logo="https://radiozu.ro/favicon-96x96.png"group-title="Radio",Radio ZU
+plugin://plugin.video.thraxtv/?action=radio_play&id=radiozu.ro
