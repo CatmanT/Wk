@@ -606,3 +606,8 @@ plugin://plugin.video.thraxtv/?action=choose_source&id=TraLaLaTV.ro
 plugin://plugin.video.thraxtv/?action=radio_play&id=kissfm.ro
 #EXTINF:-1 tvg-name="Radio ZU" tvg-id="RadioZU"tvg-logo="https://radiozu.ro/favicon-96x96.png"group-title="Radio",Radio ZU
 plugin://plugin.video.thraxtv/?action=radio_play&id=radiozu.ro
+#EXTINF:-1 tvg-name="Europa FM" tvg-id="EuropaFM"tvg-logo="https://www.pngfind.com/pngs/m/421-4211167_logo-europa-fm-2018-europa-fm-romania-logo.png"group-title="Radio",Europa FM
+plugin://plugin.video.thraxtv/?action=radio_play&id=europafm.ro
+
+
+
